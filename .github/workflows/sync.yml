@@ -1,0 +1,36 @@
+name: Sync OpenNana ChatGPT prompts
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 00:00 Asia/Shanghai = 16:00 UTC previous day
+    - cron: '0 16 * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync prompts
+        run: node scripts/sync_prompts.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/ docs/ scripts/ package.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: sync OpenNana ChatGPT prompts"
+          git push

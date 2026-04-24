@@ -1,0 +1,9 @@
+{
+  "name": "opennana-chatgpt-prompt-archive",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Archive OpenNana ChatGPT prompts with daily sync",
+  "scripts": {
+    "sync": "node scripts/sync_prompts.js"
+  }
+}
