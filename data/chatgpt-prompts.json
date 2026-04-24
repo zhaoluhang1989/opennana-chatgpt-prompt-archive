@@ -2,13 +2,588 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-04-24T03:40:21.262Z",
-  "total_reported": 284,
-  "total_pages": 15,
-  "total_archived": 284,
+  "fetched_at": "2026-04-24T16:53:05.715Z",
+  "total_reported": 304,
+  "total_pages": 16,
+  "total_archived": 304,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 13740,
+      "slug": "nose-touching-between-demon-and-monk",
+      "title": "鼻尖相触的白骨精与唐僧",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047487600899014981",
+      "tags": [
+        "白骨精",
+        "唐僧",
+        "桃花树",
+        "暧昧感",
+        "落花瓣"
+      ],
+      "prompts": [
+        {
+          "text": "White Bone Demon girl cupping Tang Sanzang's face, gazing into his eyes, noses lightly touching, hesitating to speak, under the peach blossom tree, petals falling",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "白骨精少女捧唐僧脸凝望双眼，鼻尖轻触欲言又止，桃花树下花瓣纷落",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777047133693-ev91wzj8-1777047149838-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/nose-touching-between-demon-and-monk",
+      "reviewed_at": "2026-04-24T16:13:37.838Z",
+      "created_at": "2026-04-24T16:13:24.855Z",
+      "updated_at": "2026-04-24T16:14:26.393Z"
+    },
+    {
+      "id": 13737,
+      "slug": "liu-yifei-white-veil-perfume",
+      "title": "刘亦菲白纱香水大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047495547800654223",
+      "tags": [
+        "刘亦菲",
+        "东方香水",
+        "白纱飘逸",
+        "花瓣飘落",
+        "水光肌"
+      ],
+      "prompts": [
+        {
+          "text": "Liu Yifei endorsing Oriental perfume, white veil flowing petals falling, side profile watery glowing skin",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "刘亦菲代言东方香水，白纱飘逸花瓣飘落，侧脸水光肌肤",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777047061186-dbzjdg4f-1777047067522-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/liu-yifei-white-veil-perfume",
+      "reviewed_at": "2026-04-24T16:13:59.562Z",
+      "created_at": "2026-04-24T16:11:13.822Z",
+      "updated_at": "2026-04-24T16:13:59.562Z"
+    },
+    {
+      "id": 13736,
+      "slug": "four-beauties-classical-postcards",
+      "title": "四大美女古典明信片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047505038617280963",
+      "tags": [
+        "四大美女",
+        "古风插画",
+        "明信片",
+        "历史人物",
+        "绝美画卷"
+      ],
+      "prompts": [
+        {
+          "text": "Four beauties postcards, Xi Shi washing silk, Wang Zhaojun departing for the frontier, Diaochan worshiping the moon, Yang Guifei getting drunk",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "四大美女明信片，西施浣纱昭君出塞貂蝉拜月贵妃醉酒",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777046982893-2nno67c4-1777047005785-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777046982893-2nno67c4-1777047005785-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/four-beauties-classical-postcards",
+      "reviewed_at": "2026-04-24T16:13:58.091Z",
+      "created_at": "2026-04-24T16:10:21.425Z",
+      "updated_at": "2026-04-24T16:13:58.091Z"
+    },
+    {
+      "id": 13730,
+      "slug": "dreamy-luxury-skincare",
+      "title": "梦幻柔光奢美护肤广告",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2047645038147166555",
+      "tags": [
+        "护肤品",
+        "奢美风",
+        "梦幻感",
+        "美妆",
+        "涂鸦风"
+      ],
+      "prompts": [
+        {
+          "text": "Luxury aesthetic skincare advertisement,soft pastel background, warm golden sunlight, dreamy soft focus, feminine vanity setup with mirror, pearls, candle and baby breath flowers.Cozy purple fluffy surface, high-end beauty branding style, ultra realistic, 4k, studio lighting, glossy reflection, soft shadows, bokeh background.\nAdd cute doodle elements (white and purple hand-drawn arrows, sparkles, hearts), handwritten notes and stickers.\n\nText overlay: \"Glowy Skin In A Bottle\" (big hand writing font)\"Nourish • Hydrate • Glow\"\n\"For Soft, Smooth & Glowing Skin\",\"Self care Everyday\"\nclean composition, aesthetic, viral beauty ad style, Instagram / TikTok/ X friendly (but no UI), premium soft feminine branding",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "奢美风护肤广告，柔和粉彩背景，温暖的金色阳光，梦幻柔焦，带有镜子、珍珠、蜡烛和满天星的女性梳妆台布置。舒适的紫色毛绒表面，高端美妆品牌风格，超写实，4k，影棚灯光，光泽反射，柔和阴影，散景背景。\n添加可爱的涂鸦元素（白色和紫色手绘箭头、闪光、爱心），手写笔记和贴纸。\n\n文字叠加：“Glowy Skin In A Bottle”（大手写字体）“Nourish • Hydrate • Glow”\n“For Soft, Smooth & Glowing Skin”，“Self care Everyday”\n干净的构图，具有美感，爆款美妆广告风格，适合 Instagram / TikTok/ X（但无 UI），高级柔和的女性品牌",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777041058547-f2dhnjg4-1777041062079-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777041058547-f2dhnjg4-1777041062079-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/dreamy-luxury-skincare",
+      "reviewed_at": "2026-04-24T15:51:47.584Z",
+      "created_at": "2026-04-24T14:32:35.462Z",
+      "updated_at": "2026-04-24T15:59:14.092Z"
+    },
+    {
+      "id": 13729,
+      "slug": "the-final-ai-battle-poster",
+      "title": "终结AI之战电影海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@azed_ai",
+      "source_url": "https://x.com/azed_ai/status/2047676720707482049",
+      "tags": [
+        "科幻片",
+        "AI战争",
+        "电影海报",
+        "未来机甲",
+        "史诗巨作"
+      ],
+      "prompts": [
+        {
+          "text": "A cinematic epic sci-fi fantasy movie poster featuring three powerful tech leaders standing together as rival kings of artificial intelligence, dramatic futuristic battlefield, dark stormy sky, glowing AI energy, towering digital fortress in the background, armies of advanced robots below, intense blue and golden lighting contrast, ultra-detailed armor-inspired futuristic outfits, heroic serious expressions, high-budget streaming series poster style, dramatic composition, sharp facial details, atmospheric smoke, lightning, sparks, cinematic depth, professional poster typography with the title “THE FINAL AI BATTLE”, subtitle “The future is intelligent. The battle is real.”, 4:3 aspect ratio",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张电影般的史诗科幻奇幻电影海报，以三位强大的科技领袖站在一起作为人工智能的敌对王者为特色，戏剧性的未来战场，黑暗的风暴天空，发光的AI能量，背景中高耸的数字堡垒，下方是先进机器人的军队，强烈的蓝色与金色光线对比，超细节的受盔甲启发的未来服装，英雄般严肃的表情，高预算流媒体剧集海报风格，戏剧性的构图，清晰的面部细节，氛围烟雾，闪电，火花，电影般的深度，带有标题“THE FINAL AI BATTLE”的专业海报排版，副标题“The future is intelligent. The battle is real.”，4:3宽高比",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777041018810-8cmfd2qk-1777041022928-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777041018810-8cmfd2qk-1777041022935-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777041018810-8cmfd2qk-1777041022928-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/the-final-ai-battle-poster",
+      "reviewed_at": "2026-04-24T15:51:49.087Z",
+      "created_at": "2026-04-24T14:31:08.434Z",
+      "updated_at": "2026-04-24T15:51:49.087Z"
+    },
+    {
+      "id": 13727,
+      "slug": "vintage-newspaper-front-page-1777040908307",
+      "title": "复古报纸头版头条摄影",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@stark_nico99",
+      "source_url": "https://x.com/stark_nico99/status/2047675003823616001",
+      "tags": [
+        "复古风",
+        "老报纸",
+        "真实感",
+        "头条版",
+        "老照片"
+      ],
+      "prompts": [
+        {
+          "text": "Generate an XX newspaper, you can make up a front-page headline based on this photo, like real photography, vintage texture",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "生成一张xx报纸，根据这张照片可以编一个头版头条标题，像真实的摄影，复古质感",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777040876412-v05bfxb4-1777040880144-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777040876412-v05bfxb4-1777040880839-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777040876412-v05bfxb4-1777040880144-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vintage-newspaper-front-page-1777040908307",
+      "reviewed_at": "2026-04-24T15:51:54.676Z",
+      "created_at": "2026-04-24T14:28:28.435Z",
+      "updated_at": "2026-04-24T15:58:16.773Z"
+    },
+    {
+      "id": 13718,
+      "slug": "light-purple-song-hanfu-beauty",
+      "title": "淡紫宋风汉服绝美网红",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@fdtreesky",
+      "source_url": "https://x.com/fdtreesky/status/2047589594594787428",
+      "tags": [
+        "汉服",
+        "网红",
+        "古风",
+        "模特",
+        "美女"
+      ],
+      "prompts": [
+        {
+          "text": "An 18-year-old beautiful internet celebrity from China, model figure, large breasts, wearing a flowing light purple Song Dynasty Hanfu, matching the outfit's hairstyle and headwear, shoes, photo pose, background, lens shooting front full body, 9:16",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一位來自中國的18歲網紅美女，模特兒身材，大胸部，身穿飄逸淡紫色系宋朝漢服，搭配服裝的髮型跟頭飾、鞋子、拍照姿勢、背景，鏡頭拍攝正面全身，9:16",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777040056441-k4myvqj1-1777040097368-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777040056441-k4myvqj1-1777040098162-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777040056441-k4myvqj1-1777040097368-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/light-purple-song-hanfu-beauty",
+      "reviewed_at": "2026-04-24T15:52:03.491Z",
+      "created_at": "2026-04-24T14:15:40.042Z",
+      "updated_at": "2026-04-24T15:52:03.491Z"
+    },
+    {
+      "id": 13714,
+      "slug": "surreal-giant-crocs-fashion",
+      "title": "超现实巨型洞洞鞋时尚大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@rovvmut_",
+      "source_url": "https://x.com/rovvmut_/status/2047629543608025121",
+      "tags": [
+        "洞洞鞋",
+        "超现实",
+        "极简风",
+        "时尚感",
+        "巨物感"
+      ],
+      "prompts": [
+        {
+          "text": "A high-fashion surrealist advertising poster for Crocs. The scene is set in a minimalist, monochrome light blue studio with a semi-reflective floor. \nThe central focus is an oversized, giant white Croc clog positioned on its heel at a diagonal angle, serving as a backrest. A fashion model with long dark hair, dressed in a clean, all-white coordinated sweatshirt and wide-leg trousers, leans her entire back against the giant shoe in a relaxed, leaning posture. She is facing right in profile, looking ahead with a serene expression, and wearing standard-sized white Crocs.\nIn the background, the word \"CROCS\" is written in massive, bold, white condensed sans-serif typography, partially occluded by the giant shoe and the model to create a sense of depth. At the  top right, \"Designed with ChatGPT\" \nAt the bottom center, a white sans-serif tagline reads: \"Made for comfort, worn for confidence. Because life feels better when your feet stop complaining.\" The lighting is soft, cool, and even, casting gentle shadows and a soft reflection of the subjects on the glossy blue floor. The overall aesthetic is clean, modern, and high-concept.\n\nMake the aspect ratio 3:4",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张为洞洞鞋制作的高级时尚超现实主义广告海报。场景设定在一个极简的、单色浅蓝色工作室中，带有半反射地板。\n中心焦点是一只超大号的白色洞洞鞋，以其鞋跟为支撑点呈对角线角度放置，作为靠背。一位留着深色长发的时尚模特，穿着干净的全白色配套连帽衫和阔腿裤，以放松的倾斜姿势将整个背部靠在巨大的鞋子上。她面朝右侧呈侧面轮廓，带着宁静的表情向前看，穿着标准尺寸的白色洞洞鞋。\n在背景中，以巨大、粗体、白色的 condensed 无衬线字体写着“CROCS”一词，部分被巨大的鞋子和模特遮挡以创造深度感。在右上角，“Designed with ChatGPT”\n在底部中心，一条白色无衬线标语写道：“Made for comfort, worn for confidence. Because life feels better when your feet stop complaining.” 灯光柔和、清冷且均匀，在光滑的蓝色地板上投射出柔和的阴影和主体的柔和倒影。整体美学是干净、现代和高概念的。\n将宽高比设为 3:4",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777039727216-7vbtkmj3-1777039738980-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777039727216-7vbtkmj3-1777039738980-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/surreal-giant-crocs-fashion",
+      "reviewed_at": "2026-04-24T15:52:07.684Z",
+      "created_at": "2026-04-24T14:10:04.336Z",
+      "updated_at": "2026-04-24T15:52:07.684Z"
+    },
+    {
+      "id": 13713,
+      "slug": "strawberry-milkshake-twins",
+      "title": "草莓奶昔双生少女拼接照",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ChillaiKalan__",
+      "source_url": "https://x.com/ChillaiKalan__/status/2047515258206683245",
+      "tags": [
+        "双生女",
+        "拼接画",
+        "错觉感",
+        "奶昔杯",
+        "写实风"
+      ],
+      "prompts": [
+        {
+          "text": "It creates two girls, without altering their faces, making them exact replicas of the reference image. A photorealistic diptych of two horizontal shots, with great skin detail, natural facial texture, bright sunlight, and a lifestyle editorial aesthetic. The central focus of the composition is a single glass, which connects both frames and creates a visual illusion. A clear plastic cup with a strawberry milkshake sits on the edge between the upper and lower frames. The girl below, in the first photo, extends her arm upward from the lower frame and holds the cup at waist level. She wears a thin bracelet on her wrist. Her hand passes through the space between the frames, as if she is pouring the drink upward. A light-colored straw emerges from the cup, pointing toward the upper frame directly at the lips of the girl above. The girl above, in the second uploaded photo, drinks through the straw, her lips slightly pursed, creating the impression that two versions of the same girl are interacting. The glass is filled with a strawberry milkshake, with condensation and light reflections visible on the transparent walls. This element is positioned right in the center of the composition, uniting both images into a single creative shot.\nImage: Top shot: A girl with her hair pulled back in a high, voluminous, and casual bun, with soft waves and loose strands framing her face. She wears narrow, transparent, rimless glasses. Clothing: An oversized yellow crew-neck T-shirt with short, elbow-length sleeves. On the chest, a minimalist cat print.\nBottom shot: Very long, straight, and sleek hair, parted in the middle. Large, glossy black sunglasses. Lips pursed in a kissing pose. She wears a bracelet on her wrist. She wears an oversized green urban-style T-shirt with a large black and white print on the chest: the word \"CATS\" underneath. It is loose-fitting and has short sleeves.\nbackground: An elegant, tall, black brick building, slightly out of focus. RA. 9:16.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "它创作了两个女孩，没有改变她们的脸部，使她们成为参考图像的精确复制品。两张水平照片的写实拼接画，具有极佳的皮肤细节、自然的面部纹理、明亮的阳光和生活方式编辑美学。构图的中心焦点是一个单独的玻璃杯，它连接了两个画框并创造了视觉错觉。一个装有草莓奶昔的透明塑料杯位于上下画框之间的边缘。下面第一张照片中的女孩从下画框向上伸出她的手臂，并在腰部水平握住杯子。她的手腕上戴着一条细手链。她的手穿过画框之间的空间，仿佛她正在向上倾倒饮料。一根浅色的吸管从杯子中伸出，指向上画框中上方女孩的嘴唇。上面第二张上传照片中的女孩通过吸管喝饮料，她的嘴唇微微噘起，营造出同一女孩的两个版本正在互动的印象。玻璃杯里装满了草莓奶昔，透明杯壁上可见冷凝水和光线反射。这个元素正好位于构图的中心，将两张图像结合成一个富有创意的镜头。\n图像：上方镜头：一个女孩将头发向后梳成一个高耸、蓬松且随意的发髻，柔和的波浪和散落的发丝环绕着她的脸。她戴着窄边透明无框眼镜。服装：一件宽松的黄色圆领T恤，带有及肘的短袖。胸前有一个极简的猫图案。\n下方镜头：非常长、直且光滑的头发，中分。大号光滑的黑色太阳镜。嘴唇呈亲吻姿势噘起。她的手腕上戴着一条手链。她穿着一件宽松的绿色城市风格T恤，胸前有一个黑白相间的大图案：下面是单词“CATS”。它宽松合身，带有短袖。\n背景：一栋优雅高耸的黑色砖块建筑，略微失焦。RA. 9:16。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777039692433-r9dsnef3-1777039702346-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777039692433-r9dsnef3-1777039702346-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/strawberry-milkshake-twins",
+      "reviewed_at": "2026-04-24T15:52:09.701Z",
+      "created_at": "2026-04-24T14:09:49.976Z",
+      "updated_at": "2026-04-24T15:52:09.701Z"
+    },
+    {
+      "id": 13703,
+      "slug": "backlight-veil-japanese-romance",
+      "title": "逆光白纱的日系浪漫",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@chatgptpaglu",
+      "source_url": "https://x.com/chatgptpaglu/status/2047534872084750545",
+      "tags": [
+        "日系风",
+        "婚纱照",
+        "黄金光",
+        "女偶像",
+        "野草地"
+      ],
+      "prompts": [
+        {
+          "text": "9:16, Japanese-style film photograph, Fujifilm aesthetic, shot on pushed Fuji Pro 400H at ISO 800 prominent visible film grain throughout, warm and intimate. A stunning Korean female idol wearing a sexy modern ivory wedding dress, photographed outdoors in an open wildflower meadow during golden hour, strong backlight from the setting sun behind her.   She stands in a confident body-twist pose — upper body facing the camera, weight shifted to her right hip, left knee slightly bent. Her dress is a form-fitting mermaid silhouette with a deep V-neckline revealing her collarbones, ultra-thin   spaghetti straps, a dramatic open back exposing her entire back, and a thigh-high slit on the right side revealing her long leg as the skirt fabric parts. The dress is made of ivory silk satin with a sheer tulle overlay that catches the   backlight, creating a luminous glow. A delicate pearl waist chain sits at her narrow waist. A single-layer cathedral-length veil of translucent tulle extends behind her head, caught by the wind and billowing upward like a white sail — sunlight    streaming through the veil creates a massive, dreamy halo of diffused light around her head and shoulders.   She looks directly at the camera with a radiant, genuine Duchenne smile — her eyes crinkle warmly at the corners, teeth showing, eyes bright and happy, as if someone she loves just called her name. Her gaze is warm and inviting with a subtle   playful spark. Her left hand is raised, fingers gently touching the floating veil near her face, an effortless gesture that's both elegant and natural. Her right hand rests at her side near the slit of the dress.   The backlight is powerful and golden — the low-angle sun at about 10-15 degrees directly behind her creates:   1. A bright golden halo through her veil that wraps around her head and upper body   2. Strong rim light outlining her hair, bare shoulders, and back in warm gold   3. An angelic ring of light in her wind-blown hair   4. Subtle subsurface scattering on her ear edges and fingers   5. The tulle overlay of her dress glowing translucent gold where sunlight passes through   6. Natural warm lens flare with soft golden light streaks entering the frame   Her face is lit by soft natural fill light from environmental reflection — cool pink-toned Fujifilm skin that glows with health and warmth, no harsh shadows. Her hair is wind-swept, dark brown strands flying freely, each one outlined in gold   by the backlight.   Background: completely dissolved into creamy bokeh at f/1.4 — soft washes of golden-green meadow, blurred wildflowers, distant tree silhouettes, and a warm overexposed sky. Everything behind her melts into impressionistic color fields.   Fuji Pro 400H pushed to ISO 800 color science — prominent visible film grain (0.4-0.5) coating the entire image, especially noticeable in shadow areas. Cool pink skin tones (Fujifilm signature), greens rendered in fresh teal-cyan, highlights   in warm peach-gold (from backlight), shadows leaning violet-blue. Low contrast (0.8), slightly lifted black point for a gentle foggy film feel. The grain adds texture and warmth — it feels like a real photograph you'd find in a Japanese   fashion magazine.   Strong natural vignette (0.35) drawing the eye toward her luminous face and the halo around her. 35mm lens at f/1.4, shallow depth of field with characteristically rounded Fujinon bokeh, slight warm barrel distortion at edges.A breeze lifts her veil and dress. She is laughing at someone behind the camera. The whole frame radiates joy, warmth, and confident beauty a sundrenched, grainy, imperfectly perfect moment.   Masterpiece, best quality, editorial bridal photography, Japanese film aesthetic, Fujifilm pushed grain look, 8K UHD, photorealistic, accurate golden backlight rendering, translucent veil light transmission, individual hair strands in   backlight, natural Duchenne smile with eye crinkles, visible film grain throughout.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "9:16，日系胶片摄影，富士美学，在ISO 800下迫冲富士Pro 400H拍摄，全画面具有明显的可见胶片颗粒，温暖而亲密。一位迷人的韩国女偶像穿着性感的现代象牙白婚纱，在黄金时刻于户外开阔的野花草地中被拍摄，身后落日形成强烈的逆光。   她以自信的身体扭转姿势站立——上半身面向镜头，重心移至右臀，左膝微曲。她的连衣裙是贴合身材的鱼尾轮廓，深V领露出锁骨，极细的   细吊带，戏剧性的露背设计露出整个背部，右侧有开到大腿根部的开叉，随着裙摆分开露出她修长的腿。这件连衣裙由象牙色丝绸缎面制成，带有捕捉   逆光的透明薄纱覆盖层，创造出明亮的光辉。一条精致的珍珠腰链位于她纤细的腰部。一层教堂长度的半透明薄纱头纱从她脑后延伸，被风吹起像白帆一样向上鼓起——阳光    穿透头纱，在她头部和肩部周围形成一个巨大的、梦幻的漫射光晕。   她直视镜头，露出灿烂、真诚的杜兴微笑——她的眼角温暖地弯曲，露出牙齿，眼神明亮而快乐，仿佛她爱的人刚刚呼唤了她的名字。她的目光温暖而诱人，带着一丝微妙   俏皮的光芒。她的左手抬起，手指轻轻触碰脸旁漂浮的头纱，这是一个毫不费力、既优雅又自然的姿态。她的右手放在身侧靠近裙子开叉的地方。   逆光强烈而金黄——位于她正后方约10-15度低角度的太阳产生了：   1. 透过她头纱的明亮金色光晕，环绕着她的头部和上半身   2. 强烈的轮廓光，用温暖的金色勾勒出她的头发、裸露的肩膀和背部   3. 在她被风吹动的头发中形成天使般的光环   4. 耳朵边缘和手指上微妙的次表面散射   5. 阳光穿过的地方，她裙子的薄纱覆盖层发出半透明的金色光芒   6. 自然的温暖镜头眩光，带有进入画面的柔和金色光线   她的脸部由来自环境反射的柔和自然补光照亮——冷粉调的富士肤色散发出健康和温暖的光泽，没有生硬的阴影。她的头发随风飘动，深棕色的发丝自由飞舞，每一根都被逆光   勾勒出金色的边缘。   背景：在f/1.4光圈下完全融化为奶油般的散景——金黄色草地的柔和渲染、模糊的野花、远处的树木剪影，以及温暖过曝的天空。她身后的一切都融化成印象派的色块。   富士Pro 400H迫冲至ISO 800的色彩科学——明显的可见胶片颗粒（0.4-0.5）覆盖整个图像，在阴影区域尤为明显。冷粉肤色（富士标志性特征），绿色呈现为清新的青蓝色，高光   为温暖的蜜桃金（来自逆光），阴影偏向紫蓝色。低对比度（0.8），稍微提升黑位以营造柔和的雾面胶片感。颗粒增加了质感和温度——感觉就像你在日本   时尚杂志上能看到的一张真实照片。   强烈的自然暗角（0.35）将视线吸引到她明亮的脸庞和周围的光晕上。35mm镜头在f/1.4光圈下，浅景深具有典型的圆形富士龙散景，边缘有轻微温暖的桶形畸变。一阵微风吹起她的头纱和裙子。她正在对着相机后面的某个人大笑。整个画面散发着欢乐、温暖和自信的美——一个阳光沐浴、充满颗粒感、不完美的完美瞬间。   杰作，最佳质量，杂志大片级新娘摄影，日系胶片美学，富士迫冲颗粒感外观，8K超高清，照片级真实，准确的黄金逆光渲染，半透明头纱的光线透射，逆光下的独立发丝，带有眼角弯曲的自然杜兴微笑，全画面可见胶片颗粒。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777036599593-qhyc1d5q-1777036625130-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777036599593-qhyc1d5q-1777036625130-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/backlight-veil-japanese-romance",
+      "reviewed_at": "2026-04-24T15:52:21.213Z",
+      "created_at": "2026-04-24T13:31:46.051Z",
+      "updated_at": "2026-04-24T15:52:21.213Z"
+    },
+    {
+      "id": 13697,
+      "slug": "dark-fantasy-ensemble-cover",
+      "title": "暗黑奇幻阵营群像封面",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2047504255943094635",
+      "tags": [
+        "暗黑风",
+        "群像图",
+        "战斗感",
+        "厚涂风",
+        "光效感"
+      ],
+      "prompts": [
+        {
+          "text": "Please create a high-completion, high-narrative-tension, series-suitable \"Shadow Ensemble Cover\" based on [Theme: Write Character Name].\n\nThis is not an ordinary character illustration, nor a simple battle poster, but a \"ensemble action cover\" with a sense of novel cover, comic main visual, game promotional, and dark fantasy illustration. The image needs to combine a giant spiritual core character, multiple mid-ground action characters, background threat elements, local energy light effects, and a blank title area to form a complete character faction and worldview cover.\n\n【Basic Settings】\nTheme: [Theme, e.g., Jujutsu Battle / Dark Journey to the West / Cyber Hunter / Shanhai Jing Monster Hunting Squad / Doomsday Survivors / Magic Academy Combat Team]\nWork Name: [Work Name]\nSeries Name / Brand Name: [Brand Name or Series Name]\nSubtitle: [Subtitle]\nStyle Direction: [Style Direction, e.g., Dark Fantasy, Retro Comic Cover, Hand-painted Impasto, Fantasy Novel Cover, Game Main Visual]\nMain Color Tone: [Main Color Tone, e.g., Ink Green Black Gray / Deep Blue Neon / Dark Brown Gold Red / Sand Yellow Rust / Deep Purple Gold]\nAccent Color: [Accent Color, e.g., Blood Red Energy, Cyan-Green Magic Light, Golden Divine Light, Blue Lightning]\nAspect Ratio: [Aspect Ratio, e.g., 2:3 Vertical / 3:4 Vertical / 4:5 Vertical / 9:16 Vertical]\n\n【Image Structure】\nAdopt a vertical cover composition. There must be a massive main visual character in the image, serving as the spiritual core and atmospheric dominant element of the entire image. This character can be a side face, half-body portrait, back view, front gaze, or giant silhouette, occupying the right side, upper side, or main background area of the image, with a calm, mysterious, and oppressive expression, not necessarily participating in combat, but must dominate the atmosphere of the entire image.\n\nArrange 3 to 6 action characters in the mid-ground to form a combat faction ensemble. There needs to be a clear division of labor and posture differences among the characters, such as charging, holding a knife, casting spells, defending, summoning, jumping, standing guard, ranged attacking, etc. Avoid all characters standing still; a strong action rhythm and visual dynamic line must be formed.\n\nAdd enemy threats or worldview elements to the background, such as monsters, giant beasts, villain shadows, mechanical legions, demons, ruins, forests, alien spaces, battlefield smoke, or city disasters. The background threat should not overshadow the main subjects, but should wrap around the characters like shadows, enhancing the sense of crisis and narrative depth.\n\nThe image needs to set 1 to 2 high-saturation energy burst points, such as red flame fists, blue lightning, green curse aura, purple magic, golden divine light, or white blade light. Energy light effects should be concentrated on key characters or key weapons to form visual focal points, do not make the entire image glow evenly.\n\n【Composition Method】\nThe overall structure adopts \"Large Spiritual Core Character + Mid-ground Action Ensemble + Background Threat Shadow + Bottom or Side Blank Title Area\". The image can use diagonal dynamic lines to organize characters, allowing the character ensemble to move from upper left to lower right, or rush from the bottom to the center, forming a strong sense of propulsion.\n\nRetain an obvious blank title area, recommended to be located at the lower left, bottom, or side of the image. The blank area uses off-white, gray-white, light paper color, or low-saturation background color for placing [Brand Name / Work Name / Subtitle]. The title typography should have a sense of publication cover, using elegant serif fonts, retro title fonts, comic cover titles, or high-end magazine-style layouts. The text area must be clear and not completely obscured by characters and the background.\n\nThe edges of the illustration should not be a completely filled rectangle; irregular brush edges, ink diffusion, torn paper blank areas, or natural dissipation can be used, making the characters and background seem to grow out of the paper, enhancing the hand-drawn cover feel and artistic texture.\n\n【Visual Style】\nThe overall style should be a combination of hand-painted impasto and comic covers, with paper texture, brushstroke feel, dark layer depth, and retro publication temperament. Light and shadow should be mainly low-key dark light, with the background darkened, character outlines clear, and local energy light providing high-contrast focal points. The image should not be overly clean, nor like ordinary smooth AI illustrations; it should retain hand-drawn textures, paper grains, edge brushstrokes, and dark fog.\n\nColor-wise, adopt mainly low-saturation dark tones, supplemented by a small amount of high-saturation energy colors. The overall atmosphere should have a sense of oppression, mystery, combat, and worldview thickness.\n\n【Image Goal】\nThe final image should look like a mature fantasy novel cover, comic special edition cover, game character faction main visual, or IP promotional poster. It needs to simultaneously possess:\n1. A clear main visual character;\n2. A character ensemble with action rhythm;\n3. Clear enemy threats or worldview background;\n4. Strong but restrained energy light effects;\n5. A readable title text area;\n6. The overall texture of a retro hand-drawn cover.\n\nPlease ensure the image information is rich but not chaotic, character hierarchy is clear, visual center of gravity is clear, reading path is natural, and it is suitable for subsequently replacing themes to continue generating works of the same series.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "请根据【主题：写人物名字】创作一张高完成度、高叙事张力、适合系列化发布的「暗潮群像封面 / Shadow Ensemble Cover」。\n\n这不是普通角色插画，也不是简单的战斗海报，而是一张具有小说封面感、漫画主视觉感、游戏宣传感和暗黑奇幻插画感的“群像式动作封面”。画面需要通过一个巨大的精神核心人物、多个中景动作角色、背景威胁元素、局部能量光效和留白标题区，共同构成一个完整的角色阵营与世界观封面。\n\n【基础设定】\n主题：【主题，例如咒术战斗 / 暗黑西游 / 赛博猎人 / 山海经猎妖队 / 末日幸存者 / 魔法学院战斗团】\n作品名：【作品名】\n系列名 / 品牌名：【品牌名或系列名】\n副标题：【副标题】\n风格方向：【风格方向，例如暗黑奇幻、复古漫画封面、手绘厚涂、奇幻小说封面、游戏主视觉】\n主色调：【主色调，例如墨绿黑灰 / 深蓝霓虹 / 暗棕金红 / 沙黄铁锈 / 深紫金色】\n点缀色：【点缀色，例如血红能量、青绿色法术光、金色神光、蓝色雷电】\n画幅比例：【画幅比例，例如2:3竖版 / 3:4竖版 / 4:5竖版 / 9:16竖版】\n\n【画面结构】\n采用竖版封面构图。画面中必须有一个体量巨大的主视觉人物，作为整张图的精神核心和气质压场元素。这个人物可以是侧脸、半身像、背影、正面凝视或巨大轮廓，占据画面右侧、上方或背景主区域，表情冷静、神秘、有压迫感，不一定参与战斗，但必须统领整张图的气质。\n\n在中景安排3到6个动作角色，形成一个战斗阵营群像。角色之间需要有明确分工和姿态差异，例如冲锋、持刀、施法、防御、召唤、跳跃、警戒、远程攻击等。避免所有人物站桩，必须形成强烈的动作节奏和视觉动线。\n\n背景中加入敌方威胁或世界观元素，例如怪物、巨兽、反派阴影、机械军团、妖魔、废墟、森林、异空间、战场烟雾或城市灾难。背景威胁不应喧宾夺主，而应像阴影一样包裹角色，增强危机感和叙事深度。\n\n画面需要设置1到2个高饱和能量爆点，例如红色火焰拳、蓝色雷电、绿色诅咒气息、紫色魔法、金色神光或白色刀光。能量光效应集中在关键角色或关键武器上，形成视觉焦点，不要全画面平均发光。\n\n【构图方式】\n整体采用“大型精神核心人物 + 中景动作群像 + 背景威胁阴影 + 底部或侧边留白标题区”的结构。画面可以使用斜向动线组织角色，让角色群像从左上到右下、或从下方冲向中央，形成强烈推进感。\n\n保留一块明显的留白标题区，建议位于左下、底部或画面侧边。留白区域使用米白、灰白、浅纸色或低饱和背景色，用于放置【品牌名 / 作品名 / 副标题】。标题排版应具有出版物封面感，可以使用优雅衬线字体、复古标题字、漫画封面标题或高级杂志式排版。文字区要清晰，不要被角色和背景完全遮挡。\n\n插画边缘不要做成完整矩形铺满，可以使用不规则笔刷边缘、墨迹扩散、撕纸式留白或自然消散的方式，让角色和背景像从纸面中生长出来，增强手绘封面感和艺术质感。\n\n【视觉风格】\n整体风格应为手绘厚涂与漫画封面结合，具有纸张质感、笔触感、暗部层次和复古出版物气质。光影以低调暗光为主，背景压暗，人物轮廓清晰，局部能量光提供高对比焦点。画面不要过度干净，不要像普通AI光滑插画，应保留手绘纹理、纸张颗粒、边缘笔触和暗色雾气。\n\n色彩上采用低饱和暗调为主，辅以少量高饱和能量色。整体氛围应具有压迫感、神秘感、战斗感和世界观厚度。\n\n【画面目标】\n最终画面应像一张成熟的奇幻小说封面、漫画特别篇封面、游戏角色阵营主视觉或IP宣传海报。它需要同时具备：\n1. 清晰的主视觉人物；\n2. 有动作节奏的角色群像；\n3. 明确的敌方威胁或世界观背景；\n4. 强烈但克制的能量光效；\n5. 可阅读的标题文字区；\n6. 复古手绘封面的整体质感。\n\n请确保画面信息丰富但不混乱，角色层级清晰，视觉重心明确，阅读路径自然，适合后续替换主题继续生成同系列作品。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777003799421-jj237hw9-1777003816277-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777003799421-jj237hw9-1777003820305-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777003799421-jj237hw9-1777003816277-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/dark-fantasy-ensemble-cover",
+      "reviewed_at": "2026-04-24T10:09:51.499Z",
+      "created_at": "2026-04-24T04:13:50.201Z",
+      "updated_at": "2026-04-24T10:09:51.499Z"
+    },
+    {
+      "id": 13693,
+      "slug": "vintage-newspaper-front-page",
+      "title": "复古报纸主角头版设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2047207812800147647",
+      "tags": [
+        "旧报纸",
+        "黑白风",
+        "超写实",
+        "复古感",
+        "排版术"
+      ],
+      "prompts": [
+        {
+          "text": "Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic.\nThe main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style.\nCreate a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption.\nAdd realistic newspaper elements:\nColumns of small text (in the style of lorem ipsum, but framed like real news)\nAt the top is the fictitious name of the publication (for example, “The Daily Prompts”, “AI Times” or similar - think creatively, according to the picture)\nDate, issue number and location\nDecorative lines, dividers, and vintage typography\nSmall additional articles or captions to the main image\nOptional stamps, doodles, or editorial notes to add personality.\nStyle:\nBlack and white or slightly faded monochrome paper\nFine paper texture, grain, and ink defects\nSmall shadows and creases that mimic real printed paper\nThe aesthetics of a clean but slightly worn vintage newspaper\nMood: Give the design personality, expressiveness and plot, as if the plot is part of the main article.\nAspect ratio: 4:5 or 1:1\nHigh-detail, ultra-realistic hybrid of editorial photography and print design.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创作一张以主角为特色的复古报纸最逼真的头版设计。布局应采用真实印刷报纸的风格，并具有电影般的黑白美学。\n主照片应显眼地放置在中心，带有画框，就像文章标题中的图片一样。照片中的主体应保持不变，在自然光和略微增加的对比度下清晰可辨，以匹配引人注目的编辑风格。\n在顶部创建一个醒目的、吸引眼球的标题（创建一个符合照片精神的独特标题——它可以是浪漫的、神秘的、有趣的或戏剧性的）。在其下方添加一个较小的副标题，看起来就像真实的报纸图片说明。\n添加逼真的报纸元素：\n小字文本栏（采用无意义占位符文本的风格，但排版像真实新闻一样）\n顶部是虚构的出版物名称（例如，“The Daily Prompts”、“AI Times”或类似的——根据图片发挥创意）\n日期、期号和地点\n装饰线条、分隔线和复古排版\n针对主图片的小型附加文章或说明\n可选的印章、涂鸦或编辑注释以增加个性。\n风格：\n黑白或略微褪色的单色纸张\n细腻的纸张纹理、颗粒感和墨水瑕疵\n模仿真实印刷纸张的小阴影和折痕\n整洁但略有磨损的复古报纸美学\n情绪：赋予设计个性、表现力和情节，仿佛情节是主要文章的一部分。\n宽高比：4:5 或 1:1\n高细节、超逼真的编辑摄影与印刷设计的混合体。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777000358060-t68vxfds-1777000360789-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777000358060-t68vxfds-1777000361174-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777000358060-t68vxfds-1777000360789-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vintage-newspaper-front-page",
+      "reviewed_at": "2026-04-24T10:09:59.873Z",
+      "created_at": "2026-04-24T03:14:26.509Z",
+      "updated_at": "2026-04-24T10:09:59.873Z"
+    },
+    {
+      "id": 13692,
+      "slug": "high-detail-character-sheet",
+      "title": "高细节角色设定图与表情拆解",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Studio_Tora_lab",
+      "source_url": "https://x.com/Studio_Tora_lab/status/2047465802064875688",
+      "tags": [
+        "角色设定",
+        "四视图",
+        "赛璐璐",
+        "概念艺术",
+        "表情拆解"
+      ],
+      "prompts": [
+        {
+          "text": "Based on this character [[ character name  ]]  create a high detailed character sheet ・Include 4-view diagrams: full body front, side, half body shot, and back ・Add variations of the character's facial expressions ( 4 variations ) ・Break down and display detailed parts of the costume ・Add a color palette Add a large close up shot of the face Add a description of his personality  , All the descriptions write it in Japanese ・Overall, use an organized layout (white background, illustrative style) High resolution, professional concept art style 4k quality , cel shading",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "基于这个角色 [[ 角色名称 ]] 创建一个高细节的角色设定图 ・包含四视图：全身正面、侧面、半身镜头，以及背面 ・添加角色的面部表情变体 ( 4 种变体 ) ・拆解并展示服装的详细部分 ・添加一个调色板 添加一张面部的超大特写镜头 添加对他的性格的描述，所有的描述用日语书写 ・总体而言，使用有组织的布局 (白色背景，插画风格) 高分辨率，专业概念艺术风格 4k质量，赛璐璐阴影",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777000153696-2nz04mbk-1777000155626-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777000153696-2nz04mbk-1777000155626-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-detail-character-sheet",
+      "reviewed_at": "2026-04-24T10:10:01.490Z",
+      "created_at": "2026-04-24T03:10:08.794Z",
+      "updated_at": "2026-04-24T10:10:01.490Z"
+    },
+    {
+      "id": 13691,
+      "slug": "ultra-cinema-quality-enhance",
+      "title": "超清电影级图片画质高清修复",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@lisaknowsai",
+      "source_url": "https://x.com/lisaknowsai/status/2047268604249342281",
+      "tags": [
+        "电影质感",
+        "照片写实",
+        "细节修复",
+        "影棚级",
+        "超高清"
+      ],
+      "prompts": [
+        {
+          "text": "Ultra-premium 8K: Eleva imagen a calidad cine. Conserva 100% identidad, rasgos y composición. Recupera microdetalles: ojos nítidos, poros y cabello real. Fotorrealista, sin pixelado, alto contraste, calidad estudio.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "超高级 8K：将图像提升至电影级画质。保持 100% 的身份、特征和构图。恢复微细节：清晰的眼睛、毛孔和真实的头发。照片写实，无像素化，高对比度，影棚级质量。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777000101790-xraz6wdh-1777000113003-1.png"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777000101790-xraz6wdh-1777000113003-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ultra-cinema-quality-enhance",
+      "reviewed_at": "2026-04-24T10:10:03.856Z",
+      "created_at": "2026-04-24T03:09:47.450Z",
+      "updated_at": "2026-04-24T10:10:03.856Z"
+    },
+    {
+      "id": 13690,
+      "slug": "journey-to-the-west-monsters-infographic",
+      "title": "西游八十一难妖怪图鉴",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@yhslgg",
+      "source_url": "https://x.com/yhslgg/status/2047362925648818353",
+      "tags": [
+        "西游记",
+        "信息图",
+        "时间轴",
+        "妖怪志",
+        "竖版图"
+      ],
+      "prompts": [
+        {
+          "text": "Infographic of monsters encountered in the 81 tribulations of Journey to the West, flowing timeline with icons, vertical design",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "西游记81难所遇妖怪的信息图，流水型时间轴配图标，竖版设计",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776993717703-ds7ysb8w-1776993718304-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776993717703-ds7ysb8w-1776993718304-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/journey-to-the-west-monsters-infographic",
+      "reviewed_at": "2026-04-24T10:10:06.305Z",
+      "created_at": "2026-04-24T01:22:18.209Z",
+      "updated_at": "2026-04-24T10:10:06.305Z"
+    },
     {
       "id": 13689,
       "slug": "summer-beach-sparkling-water",
@@ -46,6 +621,44 @@
       "reviewed_at": "2026-04-24T01:17:22.418Z",
       "created_at": "2026-04-23T17:20:13.555Z",
       "updated_at": "2026-04-24T01:17:22.418Z"
+    },
+    {
+      "id": 13688,
+      "slug": "subway-candid-girl-on-phone",
+      "title": "地铁车厢抓拍低头看手机女孩",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ohmuyi",
+      "source_url": "https://x.com/ohmuyi/status/2047292468664926478",
+      "tags": [
+        "地铁",
+        "抓拍",
+        "少女",
+        "手机",
+        "胶片感"
+      ],
+      "prompts": [
+        {
+          "text": "Inside the subway carriage, a young woman sits on a seat near the door, looking down and focused on her phone, showing a natural state, not looking at the camera. She is wearing a gray tight top, a black short skirt, and white sneakers, with long hair falling naturally. The character is located in the right third of the frame, with a blurred foreground obstruction on the left, creating a candid shooting perspective. The door and handrails form clear vertical lines, guiding the line of sight. The overall tone is the cold-toned subway lighting, soft top light, without obvious strong shadows, shallow depth of field makes the subject clear, and the background is slightly blurred. The image has a real camera graininess and a slightly imperfect composition, showing a real moment of a casual snapshot, rather than a posed shot.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "在地铁车厢内，一位年轻女性坐在靠近车门的座位上，低头专注于手机，展现出自然的状态，没有看向镜头。她穿着灰色紧身上衣、黑色短裙和白色运动鞋，长发自然垂落。人物位于画面右侧三分之一的位置，左侧有模糊的前景遮挡，营造偷拍视角。车门与扶手形成清晰的垂直线条，引导视线。整体为冷色调的地铁灯光，柔和的顶光，没有明显的强烈阴影，浅景深使主体清晰，背景略微虚化。画面具有真实相机的颗粒感和轻微不完美的构图，展现随手抓拍的真实瞬间，而非摆拍。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776964667004-kwqmhd5f-1776964667357-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776964667004-kwqmhd5f-1776964667357-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/subway-candid-girl-on-phone",
+      "reviewed_at": "2026-04-24T10:10:26.587Z",
+      "created_at": "2026-04-23T17:18:15.601Z",
+      "updated_at": "2026-04-24T10:10:26.587Z"
     },
     {
       "id": 13687,
@@ -276,6 +889,82 @@
       "updated_at": "2026-04-23T17:21:00.422Z"
     },
     {
+      "id": 13681,
+      "slug": "dark-lu-bu-dual-form-boss",
+      "title": "暗黑吕布双形态Boss设定",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047198090009190441",
+      "tags": [
+        "吕布",
+        "反派",
+        "暗黑风",
+        "双形态",
+        "赤兔马"
+      ],
+      "prompts": [
+        {
+          "text": "Lu Bu game boss design, Red Hare and Sky Piercer, dark evolution form dual form comparison",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "吕布游戏Boss设定，赤兔马方天画戟，暗黑进化形态双形态对比",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776964199985-e9o6x94e-1776964200897-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776964199985-e9o6x94e-1776964200897-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/dark-lu-bu-dual-form-boss",
+      "reviewed_at": "2026-04-24T10:10:11.087Z",
+      "created_at": "2026-04-23T17:10:34.753Z",
+      "updated_at": "2026-04-24T10:10:11.087Z"
+    },
+    {
+      "id": 13680,
+      "slug": "heimu-ya-red-flying-needle-cliff",
+      "title": "黑木崖红衣飞针傲立悬崖",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047204566559756707",
+      "tags": [
+        "武侠",
+        "红衣",
+        "飞针",
+        "黑木崖",
+        "悬崖"
+      ],
+      "prompts": [
+        {
+          "text": "Dongfang Bubai's embroidery needles flying swiftly, dressed in red with long hair standing on a cliff, the sunset at Heimuya as red as blood",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776964144695-g48pjbji-1776964145250-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776964144695-g48pjbji-1776964145250-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/heimu-ya-red-flying-needle-cliff",
+      "reviewed_at": "2026-04-24T10:10:12.975Z",
+      "created_at": "2026-04-23T17:09:31.579Z",
+      "updated_at": "2026-04-24T10:10:12.975Z"
+    },
+    {
       "id": 13679,
       "slug": "red-cloaked-dongfang-bubai-drinking",
       "title": "红衣东方不败悬崖饮酒图",
@@ -388,6 +1077,44 @@
       "reviewed_at": "2026-04-23T17:22:50.022Z",
       "created_at": "2026-04-23T17:07:09.310Z",
       "updated_at": "2026-04-23T17:22:50.022Z"
+    },
+    {
+      "id": 13676,
+      "slug": "wu-zetian-empress-underwear",
+      "title": "武则天同款皇后内衣广告大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047215501798244570",
+      "tags": [
+        "武则天",
+        "皇后",
+        "龙纹",
+        "丝绸",
+        "刺绣"
+      ],
+      "prompts": [
+        {
+          "text": "Empress underwear advertising blockbuster in the same style as Wu Zetian, bright yellow background with dragon embroidery, set off by bright red silk ribbons",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "武则天同款皇后内衣广告大片，明黄底色龙纹刺绣，大红丝绸飘带衬托",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776964002818-p1whj0qy-1776964003329-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776964002818-p1whj0qy-1776964003329-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/wu-zetian-empress-underwear",
+      "reviewed_at": "2026-04-24T10:10:32.698Z",
+      "created_at": "2026-04-23T17:07:04.237Z",
+      "updated_at": "2026-04-24T10:10:32.698Z"
     },
     {
       "id": 13674,
@@ -808,6 +1535,44 @@
       "reviewed_at": "2026-04-24T01:18:02.776Z",
       "created_at": "2026-04-23T16:46:52.615Z",
       "updated_at": "2026-04-24T01:18:02.776Z"
+    },
+    {
+      "id": 13660,
+      "slug": "luxury-wine-gown-magazine-cover",
+      "title": "奢华酒红高定礼服杂志封面",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Ozayrr_irl",
+      "source_url": "https://x.com/Ozayrr_irl/status/2047178898375426212",
+      "tags": [
+        "杂志封面",
+        "高级时尚",
+        "奢华礼服",
+        "铂金美人",
+        "超写实"
+      ],
+      "prompts": [
+        {
+          "text": "A luxury high-fashion magazine cover. Magazine name at the very top in massive elegant serif font reads \"LUMIÈRE\" — the letters are large, slightly transparent/ghost-style overlapping the model's head just like ELLE magazine, in soft platinum silver color blending into the background.\nCharacter: A young beautiful white woman, early 20s, soft feminine features, big blue eyes, naturally full lips, flawless porcelain skin, subtle makeup — rosy cheeks, nude lips, defined brows. Her hair is platinum blonde, long and wavy, loosely flowing over one shoulder. She looks directly into the camera with a soft yet powerful gaze. Slight tilt of the head, naturally elegant posture.\nOutfit: She is wearing a dramatic deep burgundy wine-red ballgown — structured corset top with off-shoulder neckline, voluminous layered satin skirt billowing around her dramatically. Behind her shoulders, large sculptural fabric rises like rose petals — same architectural drama as reference. She leans slightly forward, both hands resting gently on her knees.\nBackground: Pure soft warm white/ivory background — completely clean, minimal, high-end studio editorial. Soft diffused light, no harsh shadows.\nTypography — placed EXACTLY like ELLE magazine reference:\nTop: \"LUMIÈRE\" massive serif, platinum/silver, overlapping model's head slightly\nLeft mid: \"GRACE & POWER\" bold serif, then smaller below \"THE NEW VISION OF LUXURY\"\nRight mid: \"TIMELESS & FEARLESS\" bold, then \"PURE OPULENCE\" smaller below\nBottom right large: \"ICONIC & UNSTOPPABLE\" elegant large serif\nAll text in deep charcoal/dark navy. Font style: classic high fashion serif — same weight, spacing, and elegance as ELLE. Text naturally integrated into the composition, NOT floating randomly.\nUltra photorealistic, 8K, real magazine cover quality, perfect typography placement, vertical 9:13 format.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个奢华的高级时尚杂志封面。杂志名称在最顶部以巨大的优雅衬线字体显示为\"LUMIÈRE\"——字母很大，略微透明/幽灵风格地与模特的头部重叠，就像《ELLE》杂志一样，采用柔和的铂金银色融入背景。\n角色：一位年轻美丽的白人女性，20岁出头，柔和的女性特征，蓝色大眼睛，自然丰满的嘴唇，无瑕的瓷白肌肤，淡妆——玫瑰色脸颊，裸色嘴唇，立体的眉毛。她的头发是铂金色的，长而卷曲，松散地垂在一侧肩上。她直视镜头，目光柔和而有力。头部轻微倾斜，姿态自然而优雅。\n服装：她穿着一件引人注目的深勃艮第酒红色舞会礼服——带有露肩领口的塑形紧身胸衣上衣，巨大的分层缎面裙摆在她周围戏剧性地飘扬。在她的肩膀后方，巨大的雕塑感面料像玫瑰花瓣一样升起——与参考图具有相同的建筑戏剧性。她微微前倾，双手轻轻放在膝盖上。\n背景：纯净柔和的暖白色/象牙色背景——完全干净、极简、高端影棚大片。柔和的漫射光，没有刺眼的阴影。\n排版——完全像《ELLE》杂志参考图一样放置：\n顶部：\"LUMIÈRE\"巨大衬线体，铂金/银色，略微重叠模特的头部\n左中：\"GRACE & POWER\"粗体衬线体，然后下方较小的\"THE NEW VISION OF LUXURY\"\n右中：\"TIMELESS & FEARLESS\"粗体，然后下方较小的\"PURE OPULENCE\"\n右下大字：\"ICONIC & UNSTOPPABLE\"优雅的大号衬线体\n所有文字均为深炭色/深海军蓝。字体风格：经典的高级时尚衬线体——与《ELLE》具有相同的粗细、间距和优雅感。文字自然地融入构图中，而不是随机漂浮。\n超写实，8K，真实杂志封面质量，完美的排版放置，竖版 9:13 格式。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1776962668205-vu26jp6p-1776962669945-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1776962668205-vu26jp6p-1776962669945-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/luxury-wine-gown-magazine-cover",
+      "reviewed_at": "2026-04-24T10:10:41.442Z",
+      "created_at": "2026-04-23T16:45:16.279Z",
+      "updated_at": "2026-04-24T10:10:41.442Z"
     },
     {
       "id": 13654,
@@ -9951,7 +10716,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/douyin-livestream-screenshot",
       "reviewed_at": "2026-04-17T07:33:37.383Z",
       "created_at": "2026-04-17T06:44:23.932Z",
-      "updated_at": "2026-04-17T07:33:37.383Z"
+      "updated_at": "2026-04-24T05:27:59.997Z"
     },
     {
       "id": 7205,
@@ -10027,7 +10792,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/creative-leaf-collage-portrait",
       "reviewed_at": "2026-03-12T16:40:14.745Z",
       "created_at": "2026-03-12T16:16:36.796Z",
-      "updated_at": "2026-04-16T18:08:26.433Z"
+      "updated_at": "2026-04-24T04:48:48.544Z"
     },
     {
       "id": 2892,
@@ -10369,7 +11134,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bird-woven-dream-couture",
       "reviewed_at": "2026-02-25T04:15:16.330Z",
       "created_at": "2026-02-25T04:15:16.330Z",
-      "updated_at": "2026-04-16T18:29:49.996Z"
+      "updated_at": "2026-04-23T17:21:26.405Z"
     },
     {
       "id": 2617,
@@ -10521,7 +11286,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hyper-realistic-3d-instagram-ad",
       "reviewed_at": "2026-01-26T15:49:59.684Z",
       "created_at": "2026-01-26T15:49:59.684Z",
-      "updated_at": "2026-04-17T10:34:36.239Z"
+      "updated_at": "2026-04-24T12:43:14.693Z"
     },
     {
       "id": 2213,
@@ -10597,7 +11362,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pixar-style-sunny-youth",
       "reviewed_at": "2026-01-20T14:33:26.278Z",
       "created_at": "2026-01-20T14:33:26.278Z",
-      "updated_at": "2026-04-17T10:24:42.240Z"
+      "updated_at": "2026-04-24T13:13:03.731Z"
     },
     {
       "id": 2073,
