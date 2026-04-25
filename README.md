@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **304**
-- Archived in this snapshot: **304**
+- Reported by source: **323**
+- Archived in this snapshot: **323**
 - Failed this run: **0**
-- Fetched at: **2026-04-24T16:53:05.715Z**
+- Fetched at: **2026-04-25T16:37:57.875Z**
 
 ## Files
 
@@ -22,9 +22,28 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 沙漠时尚贵妇与猎鹰 | 沙漠风, 高级感, 猎鹰, 异域风 | @miratechtool | [detail](https://opennana.com/awesome-prompt-gallery/desert-fashion-falcon) |
+| 劳力士超现实奢华海报 | 劳力士, 超现实, 极简风, 奢华感 | @Sheldon056 | [detail](https://opennana.com/awesome-prompt-gallery/rolex-surrealist-luxury-poster) |
+| 云海坠落的巨神与巫女 | 剧场版, 吉卜力, 新海诚, 巫女服 | @oggii_0 | [detail](https://opennana.com/awesome-prompt-gallery/falling-colossus-shrine-maiden) |
+| 超现实耐克帽商业信息图 | 信息图, 耐克帽, 商业风, 超现实 | @john_my07 | [detail](https://opennana.com/awesome-prompt-gallery/surreal-nike-cap-infographic) |
+| 史诗电影连贯动作定格画册 | 剧照, 动作, 网格图, 故事 | @GeorgeWuAI | [detail](https://opennana.com/awesome-prompt-gallery/epic-movie-action-stills) |
+| 奢华卧房里的印度尤物 | 异域女, 红心裙, 豪华床, 古典风 | @jarvis_og_AI | [detail](https://opennana.com/awesome-prompt-gallery/luxurious-bedroom-indian-beauty) |
+| 东方玄学命理深度解析图 | 玄学, 手相, 面相, 命理 | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/oriental-metaphysics-report) |
+| 高冲击力耳机产品广告图 | 耳机, 商业摄影, 广告图, 美少女 | @rovvmut_ | [detail](https://opennana.com/awesome-prompt-gallery/high-impact-earbud-ad) |
+| 前卫运动时尚巨物广告大片 | 前卫, 巨物, 运动, 极简 | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/avant-garde-sports-fashion) |
+| 工笔重彩牡丹鸳鸯图 | 工笔画, 牡丹花, 鸳鸯, 国风 | @dotey | [detail](https://opennana.com/awesome-prompt-gallery/gongbi-peonies-mandarin-ducks) |
+| 皮克斯3D群星闪耀电影海报 | 皮克斯, 群像, 海报, 英雄 | @TechieBySA | [detail](https://opennana.com/awesome-prompt-gallery/pixar-3d-star-movie-poster) |
+| 濒危动物逼真视觉图鉴 | 信息图, 濒危, 写实, 图形风 | @harboriis | [detail](https://opennana.com/awesome-prompt-gallery/endangered-animal-visual-guide) |
+| 伦敦二十四小时漫步旅行图 | 伦敦游, 信息图, 等距风, 泰晤士 | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/london-24h-walking-tour-map) |
 | 鼻尖相触的白骨精与唐僧 | 白骨精, 唐僧, 桃花树, 暧昧感 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/nose-touching-between-demon-and-monk) |
+| 白骨精朱砂点额动人瞬间 | 白骨精, 古风插画, 眉心朱砂, 摇曳烛光 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/baigujing-vermilion-forehead) |
+| 雷军神曲联名潮鞋 | 联名鞋, 雷军, 小米橙, 电路板 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/lei-jun-meme-co-branded-shoes) |
 | 刘亦菲白纱香水大片 | 刘亦菲, 东方香水, 白纱飘逸, 花瓣飘落 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/liu-yifei-white-veil-perfume) |
 | 四大美女古典明信片 | 四大美女, 古风插画, 明信片, 历史人物 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/four-beauties-classical-postcards) |
+| 潘金莲阳台开窗直播 | 潘金莲, 直播间, 弹幕, 王婆 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/pan-jinlian-balcony-live) |
+| 劳拉克劳馥的演变之旅海报 | 劳拉, 进化, 海报, 游戏史 | @CharaspowerAI | [detail](https://opennana.com/awesome-prompt-gallery/lara-croft-evolution-poster) |
+| 英伦牛排店的手绘笔记美食照 | 牛排店, 手绘风, 杂志感, 美食照 | @axichuhai | [detail](https://opennana.com/awesome-prompt-gallery/british-steakhouse-doodle-notes) |
+| 极简东方风高端精华海报 | 极简风, 护肤品, 高级感, 东方美 | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-oriental-essence-poster) |
 | 梦幻柔光奢美护肤广告 | 护肤品, 奢美风, 梦幻感, 美妆 | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/dreamy-luxury-skincare) |
 | 终结AI之战电影海报 | 科幻片, AI战争, 电影海报, 未来机甲 | @azed_ai | [detail](https://opennana.com/awesome-prompt-gallery/the-final-ai-battle-poster) |
 | 复古报纸头版头条摄影 | 复古风, 老报纸, 真实感, 头条版 | @stark_nico99 | [detail](https://opennana.com/awesome-prompt-gallery/vintage-newspaper-front-page-1777040908307) |
@@ -53,24 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 武则天同款皇后内衣广告大片 | 武则天, 皇后, 龙纹, 丝绸 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/wu-zetian-empress-underwear) |
 | 盛世长安万国来朝图 | 大唐, 长安城, 盛世, 古风 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/prosperous-tang-chang-an) |
 | 中国朝代时间长河信息图设计 | 信息图, 时间轴, 中国风, 竖版图 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/chinese-dynasty-timeline-infographic) |
-| 社交软件匹配成功爱心特效UI界面 | 社交, 匹配, 爱心, 界面 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/social-app-match-success) |
-| 取经路上要安全杜蕾斯八戒 | 杜蕾斯, 猪八戒, 梗图, 脸红 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/durex-zhu-bajie-safe-journey) |
-| 至尊宝紫霞城墙拥吻 | 港风, 拥吻, 胶片感, 海报 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/zhi-zun-bao-zixia-wall-kiss) |
-| 优雅金发女郎时尚影棚写真 | 影棚写真, 金发美女, 时尚大片, 极简暖调 | @Document195 | [detail](https://opennana.com/awesome-prompt-gallery/elegant-blonde-fashion-portrait) |
-| 重生空间智女的电影海报 | 电影海报, 轻小说, 胶片质感, 高级时尚 | @IamEmily2050 | [detail](https://opennana.com/awesome-prompt-gallery/reborn-space-woman-poster) |
-| 鲨鱼百科图鉴：深海霸主的全解密 | 鲨鱼, 科普, 百科, 自然史 | @LudovicCreator | [detail](https://opennana.com/awesome-prompt-gallery/shark-encyclopedia-secrets) |
-| AI艺术展视觉海报设计 | 艺术展, 视觉系, 互动展, 未来感 | @Ankit_patel211 | [detail](https://opennana.com/awesome-prompt-gallery/ai-art-exhibition-poster) |
-| 梦回江户浮世绘古典人物像 | 浮世绘, 江户风, 人物像, 和风 | @shushant_l | [detail](https://opennana.com/awesome-prompt-gallery/dreamy-edo-ukiyoe-portrait) |
-| 四轴无人机全尺寸工程图纸 | 工程图, 无人机, 爆炸图, 三视图 | @cellinlab | [detail](https://opennana.com/awesome-prompt-gallery/quadcopter-full-dimension-drawings) |
-| 奢华酒红高定礼服杂志封面 | 杂志封面, 高级时尚, 奢华礼服, 铂金美人 | @Ozayrr_irl | [detail](https://opennana.com/awesome-prompt-gallery/luxury-wine-gown-magazine-cover) |
-| 极简东方美学护肤广告大片 | 东方美学, 护肤广告, 极简高级, 科技修护 | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-oriental-skincare-ad) |
-| 法式风情地标美食海报 | 法式, 海报, 美食, 地标 | @CharaspowerAI | [detail](https://opennana.com/awesome-prompt-gallery/french-landmark-food-poster) |
-| 末日废土蓝胖子激战胖虎 | 大雄, 胖虎, 废土, 动作 | @TechieBySA | [detail](https://opennana.com/awesome-prompt-gallery/doomsday-doraemon-battle) |
-| 电视剧高质感角色关系图 | 角色图, 关系图, 电视剧, 高质感 | @TechieBySA | [detail](https://opennana.com/awesome-prompt-gallery/tv-show-character-relationship) |
-| 红楼林黛玉史诗叙事海报 | 红楼梦, 林黛玉, 电影海报, 剪影艺术 | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/dream-of-red-mansion-epic-poster) |
-| 滴落墨水的复古绅士 | 超现实, 复古风, 极简风, 黑色片 | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/dripping-ink-gentleman) |
-| 东方幻想空灵女神回眸 | 国风女, 空灵美, 花发丝, 梦幻光 | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/oriental-fantasy-ethereal-goddess) |
-| 艺术大师高端个人网站设计 | 信息图, 网页设计, 高端风, 作品集 | @Preda2005 | [detail](https://opennana.com/awesome-prompt-gallery/art-master-website-design) |
-| 西门庆的一天百宫格分镜 | 西门庆, 百宫格, 明代风, 分镜图 | @ianneo_ai | [detail](https://opennana.com/awesome-prompt-gallery/ximen-qing-daily-100-grids) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.

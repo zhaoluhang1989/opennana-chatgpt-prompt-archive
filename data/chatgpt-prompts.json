@@ -2,13 +2,508 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-04-24T16:53:05.715Z",
-  "total_reported": 304,
-  "total_pages": 16,
-  "total_archived": 304,
+  "fetched_at": "2026-04-25T16:37:57.875Z",
+  "total_reported": 323,
+  "total_pages": 17,
+  "total_archived": 323,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 13788,
+      "slug": "desert-fashion-falcon",
+      "title": "沙漠时尚贵妇与猎鹰",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@miratechtool",
+      "source_url": "https://x.com/miratechtool/status/2047684854536450258",
+      "tags": [
+        "沙漠风",
+        "高级感",
+        "猎鹰",
+        "异域风",
+        "大片感"
+      ],
+      "prompts": [
+        {
+          "text": "Core Description: > A high-fashion editorial portrait of a woman in a vast, golden sand dune desert. She is wearing a luxurious, flowing black bisht-style abaya featuring intricate gold beadwork and embroidery along the lapels. On her head, a stylishly wrapped red and white patterned shemagh (keffiyeh), paired with oversized designer sunglasses. Her expression is serene and confident.\n​Environment & Composition:\n​Background: Rolling, soft-focus sand dunes under a clear, bright afternoon sky.\n​Subject: A majestic falcon perched calmly on her gloved arm.\n​Lighting: Warm, golden hour sunlight creating soft rim lighting on her hair and the falcon’s feathers, with high-contrast shadows to define the desert topography.\n​Technical Specifications:\n​Camera & Lens: Shot on 35mm film, 85mm prime lens, f/1.8 aperture for a creamy bokeh background.\n​Quality: 8K resolution, cinematic color grading, sharp focus on the subject's face and the falcon, highly detailed fabric textures.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "Core Description: > 一张高级时尚杂志风格的女人肖像，背景是广阔的金色沙丘沙漠。她身穿一件奢华飘逸的黑色比什特式阿巴亚长袍，翻领处饰有复杂的金色珠饰和刺绣。头上戴着时尚包裹的红白相间图案的阿拉伯头巾（科菲耶），搭配超大号设计师太阳镜。她的表情宁静而自信。\nEnvironment & Composition:\nBackground: 连绵起伏的柔焦沙丘，上方是晴朗明亮的午后天空。\nSubject: 一只威严的猎鹰平静地栖息在她戴着手套的手臂上。\nLighting: 温暖的黄金时刻阳光在她的头发和猎鹰的羽毛上形成柔和的边缘光，同时用高对比度的阴影勾勒出沙漠的地形。\nTechnical Specifications:\nCamera & Lens: 使用35毫米胶片拍摄，85毫米定焦镜头，f/1.8光圈，以呈现奶油般柔滑的散景背景。\nQuality: 8K分辨率，电影级调色，对主体面部和猎鹰保持锐利对焦，高度详细的织物纹理。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777106870820-3437apoq-1777106871982-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777106870820-3437apoq-1777106871982-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/desert-fashion-falcon",
+      "reviewed_at": "2026-04-25T15:17:28.263Z",
+      "created_at": "2026-04-25T08:49:18.933Z",
+      "updated_at": "2026-04-25T15:17:28.263Z"
+    },
+    {
+      "id": 13782,
+      "slug": "rolex-surrealist-luxury-poster",
+      "title": "劳力士超现实奢华海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Sheldon056",
+      "source_url": "https://x.com/Sheldon056/status/2047873913049538927",
+      "tags": [
+        "劳力士",
+        "超现实",
+        "极简风",
+        "奢华感",
+        "时尚片"
+      ],
+      "prompts": [
+        {
+          "text": "A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.\n\nIn the background, bold “ROLEX” typography appears in large elegant serif type, partially occluded.\n\nTop right: “Designed with ChatGPT”.\nBottom center tagline: “Time, perfected. Presence, defined.”\n\nMoody luxury lighting, rich tones, cinematic reflections.\nAspect ratio: 3:4",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张劳力士的高级时尚超现实主义海报。一个深祖母绿色的极简主义工作室，配有光滑的反射地板。一块巨大的劳力士手表像纪念碑一样直立着。一位穿着剪裁考究的深绿色西装的男模特随意地靠在表盘上，佩戴着一块同款劳力士。\n\n在背景中，粗体的“ROLEX”排版以大型优雅的衬线字体出现，部分被遮挡。\n\n右上角：“由ChatGPT设计”。\n底部中心标语：“时间，臻于完美。气场，浑然天成。”\n\n情绪化的奢华灯光，丰富的色调，电影般的倒影。\n宽高比：3:4",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777106404407-yotzkipa-1777106407707-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777106404407-yotzkipa-1777106407707-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/rolex-surrealist-luxury-poster",
+      "reviewed_at": "2026-04-25T15:17:35.130Z",
+      "created_at": "2026-04-25T08:43:28.363Z",
+      "updated_at": "2026-04-25T15:17:35.130Z"
+    },
+    {
+      "id": 13775,
+      "slug": "falling-colossus-shrine-maiden",
+      "title": "云海坠落的巨神与巫女",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@oggii_0",
+      "source_url": "https://x.com/oggii_0/status/2047890555250610457",
+      "tags": [
+        "剧场版",
+        "吉卜力",
+        "新海诚",
+        "巫女服",
+        "云海"
+      ],
+      "prompts": [
+        {
+          "text": "A stunning anime theatrical movie poster in portrait format. Studio Ghibli meets Makoto Shinkai visual language. A teenage girl in a tattered white shrine maiden robe stands on the wing of a crumbling giant stone deity — an ancient colossus covered in moss and glowing golden kanji script, slowly falling through a sea of clouds. Her long black hair streams upward against gravity. She reaches one hand toward the sky where a vast celestial rift tears open the heavens — beyond it, an inverted ocean floats above the clouds, ancient wooden cities hanging upside down from its surface, lanterns drifting like stars. The sky transitions from deep twilight blue at the bottom to a luminous peach and rose gold at the top. Volumetric god rays pierce through cloud layers. Cherry blossom petals and torn paper talismans spiral everywhere. Her expression is calm determination. Art style: hand-drawn 2D animation, ultra-detailed background painting, expressive linework, rich cel shading. Palette: deep indigo, peach, rose gold, warm amber, soft white. Title in large elegant Japanese kanji at the bottom with English subtitle beneath in a clean modern font. Tagline in small white italic text above the title. Mood: mythological, spiritual, bittersweet wonder. Theatrical release quality, Toho Films.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张令人惊叹的动画剧场版电影海报，采用纵向格式。吉卜力工作室与新海诚视觉语言的碰撞。一位身穿破烂白色巫女服的少女站在一尊崩塌的巨大石头神明的翅膀上——这是一座覆盖着青苔和发光金色汉字文字的古老巨像，正缓缓坠入云海之中。她的长黑发逆着重力向上飘动。她伸出一只手朝向天空，那里有一道巨大的天界裂缝撕裂了苍穹——在裂缝之外，一片倒置的海洋漂浮在云层之上，古老的木制城市倒挂在其表面下，灯笼如星星般飘荡。天空从底部的深暮光蓝色过渡到顶部的发光蜜桃色和玫瑰金色。体积光丁达尔效应穿透云层。樱花花瓣和破碎的纸符咒到处盘旋飞舞。她的表情是平静的坚定。艺术风格：手绘2D动画，超详细的背景绘画，富有表现力的线条，丰富的赛璐璐阴影。调色板：深靛蓝，蜜桃色，玫瑰金，暖琥珀色，柔和的白色。底部有大型优雅的日文汉字标题，其下方是使用简洁现代字体的英文副标题。标题上方有使用小号白色斜体文本的宣传语。氛围：神话色彩，精神层面，苦甜参半的奇妙感。剧场版发行画质，东宝电影。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777105754519-v5lcmcin-1777105761674-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777105754519-v5lcmcin-1777105761674-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/falling-colossus-shrine-maiden",
+      "reviewed_at": "2026-04-25T15:17:42.700Z",
+      "created_at": "2026-04-25T08:30:53.047Z",
+      "updated_at": "2026-04-25T15:17:42.700Z"
+    },
+    {
+      "id": 13773,
+      "slug": "surreal-nike-cap-infographic",
+      "title": "超现实耐克帽商业信息图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@john_my07",
+      "source_url": "https://x.com/john_my07/status/2047877997458534708",
+      "tags": [
+        "信息图",
+        "耐克帽",
+        "商业风",
+        "超现实",
+        "极简风"
+      ],
+      "prompts": [
+        {
+          "text": "A premium infographic-style visual featuring a young man standing confidently beside an oversized Nike cap. The cap is scaled dramatically large, almost equal to the height of the man, creating a bold, surreal product emphasis. The man stands naturally next to it, lightly holding or adjusting the cap, interacting with it in a relaxed, stylish way.\nHis face must closely match the provided reference image, accurate facial structure, skin tone, hairstyle, and expression, sharp, realistic, and visually appealing.\nThe Nike cap is ultra-detailed with crisp stitching, visible fabric texture, clean seams, and a sharp, properly proportioned Nike swoosh logo. Subtle wear realism and premium material finish.\nComposition is modern and minimal, set in a clean studio or soft gradient background. Include subtle infographic-style elements like thin annotation lines or minimal callouts highlighting features such as “breathable fabric,” “structured fit,” or “premium stitching,” keeping everything elegant and uncluttered.\nLighting is soft studio lighting with controlled highlights and shadows, giving a polished commercial look. The model wears minimal, contemporary streetwear that complements the cap’s color palette.\nColor grading is crisp and slightly vibrant, with a professional advertising aesthetic. Balanced composition, sharp focus, slight depth of field for realism.\nStyle: high-end product infographic, fashion advertisement, clean UI-inspired annotations\nResolution: ultra high resolution, 4K, highly detailed, photorealistic\nOptional boosters:\n85mm lens, f/2.8\ncommercial fashion shoot\nno distortion, accurate proportions\nclean typography, modern layout",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个高级的信息图表风格视觉作品，展示了一个年轻男子自信地站在一个超大号的耐克帽子旁边。帽子被戏剧性地放大，几乎与男人等高，创造出一种大胆的、超现实的产品强调效果。男人自然地站在它旁边，轻轻握住或调整帽子，以放松、时尚的方式与它互动。\n他的脸必须紧密匹配提供的参考图像，准确的面部结构、肤色、发型和表情，清晰、逼真且视觉上具有吸引力。\n耐克帽子具有超精细的细节，带有清晰的车缝线、可见的织物纹理、干净的接缝，以及一个锐利、比例恰当的耐克对勾标志。微妙的磨损真实感和高级材料表面处理。\n构图现代且极简，设置在干净的影棚或柔和渐变背景中。包含微妙的信息图表风格元素，如细长的标注线或极简的引出线，突出“透气面料”、“结构化版型”或“高级车缝线”等特征，保持一切优雅且不杂乱。\n灯光是柔和的影棚灯光，带有可控的高光和阴影，呈现出经过润色的商业外观。模特穿着极简的现代街头服饰，与帽子的调色板相辅相成。\n调色清晰且略带活力，具有专业的广告美学。平衡的构图，锐利的焦点，轻微的景深以增加真实感。\nStyle: 高端产品信息图表，时尚广告，干净的受UI启发的标注\nResolution: 超高分辨率，4K，高度详细，照片级逼真\nOptional boosters:\n85mm镜头，f/2.8\n商业时尚拍摄\n无畸变，准确的比例\n干净的排版，现代的布局",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777105609231-q9a930ob-1777105611711-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777105609231-q9a930ob-1777105611711-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/surreal-nike-cap-infographic",
+      "reviewed_at": "2026-04-25T15:17:44.913Z",
+      "created_at": "2026-04-25T08:27:57.579Z",
+      "updated_at": "2026-04-25T15:17:44.913Z"
+    },
+    {
+      "id": 13772,
+      "slug": "epic-movie-action-stills",
+      "title": "史诗电影连贯动作定格画册",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@GeorgeWuAI",
+      "source_url": "https://x.com/GeorgeWuAI/status/2047873232519176230",
+      "tags": [
+        "剧照",
+        "动作",
+        "网格图",
+        "故事",
+        "分镜"
+      ],
+      "prompts": [
+        {
+          "text": "Create a 63 image grid of cinematic movie stills from the same movie.  randomize the images more so its a cohesive story, add more action scenes in there too. dont have any of the panels matching in similarity to the other",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一个包含63张图像网格的电影剧照，这些剧照来自同一部电影。更多地随机化图像，使其成为一个连贯的故事，在里面也添加更多的动作场景。不要让任何面板在相似度上与其他面板匹配。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777105645852-n9pv3h17-1777105649639-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777105645852-n9pv3h17-1777105649639-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/epic-movie-action-stills",
+      "reviewed_at": "2026-04-25T15:17:47.687Z",
+      "created_at": "2026-04-25T08:27:48.497Z",
+      "updated_at": "2026-04-25T15:17:47.687Z"
+    },
+    {
+      "id": 13769,
+      "slug": "luxurious-bedroom-indian-beauty",
+      "title": "奢华卧房里的印度尤物",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@jarvis_og_AI",
+      "source_url": "https://x.com/jarvis_og_AI/status/2047850163977502760",
+      "tags": [
+        "异域女",
+        "红心裙",
+        "豪华床",
+        "古典风",
+        "写真感"
+      ],
+      "prompts": [
+        {
+          "text": "A stunningly beautiful young Indian woman with long, silky dark brown hair, perfect symmetrical face, subtle makeup, seductive smile, sitting elegantly on the edge of a luxurious ornate bed in an opulent bedroom. She is wearing a tight, short red dress with white heart patterns all over, white lace trim on the hem, sleeves, and neckline, criss-cross red straps across the deep cleavage, puffy short sleeves, and a tied waist bow. She is barefoot, red nail polish on fingers and toes, gold bracelets on both wrists. \n\nHer pose is relaxed and seductive: sitting sideways on the bed with legs elegantly crossed, one hand resting on her thigh, the other hand on the satin bedsheet, looking directly at the viewer with a soft seductive smile. \n\nBedroom details: grand Victorian-style bedroom with a large ornate dark wood bed featuring a tufted deep red velvet headboard, cream satin sheets and pillows mixed with rich red velvet cushions, heavy burgundy velvet curtains with gold trim, crystal chandelier glowing warmly, elegant bedside lamps, rich carpet, soft cinematic lighting with warm golden tones, highly detailed, photorealistic, 8k, masterpiece, sharp focus, realistic skin texture",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一位极其美丽的年轻印度女性，留着长长的柔滑深棕色头发，完美对称的面容，淡妆，诱人的微笑，优雅地坐在华丽卧室里一张豪华雕花床的边缘。她穿着一件紧身短款红色连衣裙，上面布满白色心形图案，裙摆、袖子和领口带有白色蕾丝边，深乳沟处交叉着红色绑带，蓬松的短袖，腰部系着一个蝴蝶结。她赤着脚，手指和脚趾涂着红色指甲油，两只手腕上戴着金色手镯。 \n\n她的姿势放松而诱人：侧坐在床上，双腿优雅地交叉，一只手放在大腿上，另一只手放在缎面床单上，带着柔和诱人的微笑直视观众。 \n\n卧室细节：宏伟的维多利亚风格卧室，有一张带深红色天鹅绒簇绒床头板的大型雕花深色木床，奶油色缎面床单和枕头与浓郁的红天鹅绒抱枕混合搭配，带有金色镶边的厚重酒红色天鹅绒窗帘，散发着温暖光芒的水晶吊灯，优雅的床头灯，华丽的地毯，带有暖金色调的柔和电影级光照，高度详细，照片写实，8k，杰作，锐利对焦，逼真的皮肤纹理",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777105020661-8eez4cvr-1777105021952-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777105020661-8eez4cvr-1777105021952-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/luxurious-bedroom-indian-beauty",
+      "reviewed_at": "2026-04-25T15:17:52.880Z",
+      "created_at": "2026-04-25T08:20:42.282Z",
+      "updated_at": "2026-04-25T15:17:52.880Z"
+    },
+    {
+      "id": 13760,
+      "slug": "oriental-metaphysics-report",
+      "title": "东方玄学命理深度解析图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2047930679552307370",
+      "tags": [
+        "玄学",
+        "手相",
+        "面相",
+        "命理",
+        "解析图"
+      ],
+      "prompts": [
+        {
+          "text": "Please based on the [hand photo / face photo / hand and face combination photo] I uploaded, create a high-completion, well-designed, shareable \"Oriental Metaphysics Analysis Report Image\".\n\nThis is not an ordinary photo description, nor is it simple entertainment fortune-telling, but a visual analysis image combining [traditional Chinese palmistry, physiognomy, I Ching Five Elements, and Traditional Chinese Medicine observation of Qi and complexion theories]. The overall image should present a feeling of \"fortune teller analysis report + ancient metaphysics annotations + high-end visual poster\", allowing users to intuitively see key features, corresponding explanations, and trend warnings.\n\n[Recognition and Analysis Requirements]\n\nPlease first determine what is contained in the image:\n1. Hand: Focus on analyzing palm prints, palm mounts, hand shape, finger shape, finger joints, fingerprint trends, life line, wisdom line, emotion line, career line, wealth line, and other visible features.\n2. Face: Focus on analyzing forehead, eyebrows and eyes, bridge of the nose, cheekbones, nasolabial folds, mouth shape, chin, facial contours, Qi and complexion, facial feature proportions, and overall demeanor.\n3. If both hand and face are included, please analyze comprehensively, do not pile up repetitively, and form a unified judgment.\n\nPlease extract at least [10 key analysis points], each analysis point must include:\n- Visible features: Point out the specific location or shape that can be seen in the photo.\n- Metaphysical explanation: Analyze combining palmistry, physiognomy, I Ching Five Elements, or traditional fate language.\n- Trend prompt: Express using \"tends to, easily, needs attention, suitable for, may in the near future\" and other ways.\n- Action suggestion: Give a practically executable reminder, such as emotion management, work and rest, career rhythm, interpersonal relationships, financial planning, etc.\n\n[Annotation Requirements]\n\nPlease use clear lines, arrows, circles, or numbered labels in the image to indicate each key position:\n- Palmistry charts can annotate: life line, wisdom line, emotion line, career line, palm mounts, finger joints, base of the thumb, index finger length, ring finger proportion, palm line intersection points, etc.\n- Physiognomy charts can annotate: forehead, eyebrows and eyes, bridge of the nose, cheekbones, nasolabial folds, corners of the mouth, chin, ear shape, facial middle third, Qi and complexion areas, etc.\n- Each annotation point is numbered with 01, 02, 03..., corresponding to the analysis explanation on the right or below.\n- Lines should be delicate, elegant, not messy, and not block the main subject.\n\n[Visual Style]\n\nThe overall style should conform to the tone of Oriental metaphysics, fate reading, palmistry, and physiognomy:\n- Main color tone: off-white, Xuan paper color, with accents: deep ink black, mystic cyan, antique bronze gold, dark red.\n- Style temperament: mysterious, restrained, high-end, ancient book feel, fate report feel.\n- Light elements can be added: Bagua patterns, compass scales, Five Elements symbols, ancient book borders, astrological chart thin lines, cinnabar seals, Xuan paper textures.\n- Do not make it horror style, vulgar fortune-telling stall style, and do not make it overly cyberpunk.\n- The layout should be like a high-end magazine infographic, not a messy screenshot.\n\n[Layout Design]\nMake the aspect ratio 3:4\n\nLayout structure suggestions:\n1. Top: Title area\n   The title can be \"Palmistry and Physiognomy Metaphysics Analysis Report\", \"Oriental Fate Feature Interpretation\", \"Palm Print and Physiognomy Trend Observation\", etc., which should match the content of the photo uploaded by the user.\n2. Middle: Main photo analysis area\n   Keep the hand or face as the main subject, adding numbers, arrows, and key line annotations.\n3. Side or bottom: Ten-point analysis area\n   Each point uses a short title + 2-3 lines of explanation, do not make the text too small.\n4. Bottom: Comprehensive conclusion area\n   Summarize this person's personality tendencies, career and wealth, interpersonal emotions, health and work-rest, and recent reminders.\n\n[Content Tone]\n\nThe analysis language should have a traditional metaphysical flavor, but not be absolute, do not say \"definitely\", \"will definitely get rich\", \"will definitely have a disaster\".\nCan use:\n- \"This line pattern shows that the person mostly...\"\n- \"From the perspective of the Five Elements weather, it leans towards...\"\n- \"If the lines here are obvious, it usually represents...\"\n- \"Recently need to pay attention to...\"\n- \"Suitable to go in the... direction\"\n- \"Suggest making adjustments in... aspects\"\n\n[Output Goal]\n\nPlease finally generate a complete visual analysis image, containing at least 10 numbered analysis points.\nThe overall image should let people see at a glance \"where has been analyzed, what meaning it corresponds to, what reminders there are\", having both a metaphysical atmosphere and professional layout and high-end design sense.\n\nNote:\n- Only analyze based on visible features in the image, do not fabricate invisible information.\n- Do not make medical diagnoses, do not give disease conclusions; Traditional Chinese Medicine Qi and complexion content is only used as a life reminder from the perspective of traditional culture.\n- Do not appear too many small characters, ensure it can be read clearly on a mobile phone.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "请根据我上传的【手部照片 / 面部照片 / 手脸组合照片】，创作一张高完成度、有设计感、适合分享的「东方玄学分析报告图」。\n\n这不是普通的照片说明，也不是简单的娱乐占卜，而是一张结合【中国传统手相、面相、易经五行、中医望诊气色理论】的视觉化分析图。整体应呈现出“命理师分析报告 + 古籍玄学注解 + 高级视觉海报”的感觉，让用户能直观看到关键特征、对应解释和趋势预警。\n\n【识别与分析要求】\n\n请先判断图片中包含的是：\n1. 手部：重点分析掌纹、掌丘、手型、指形、指节、指纹走势、生命线、智慧线、感情线、事业线、财运线等可见特征。\n2. 面部：重点分析额头、眉眼、鼻梁、颧骨、法令、嘴型、下巴、面部轮廓、气色、五官比例与整体神态。\n3. 如果同时包含手和脸，请综合分析，不要重复堆砌，要形成统一判断。\n\n请至少提炼【10个关键分析点】，每个分析点都要包括：\n- 可见特征：指出照片中能看到的具体位置或形态。\n- 玄学解释：结合手相、面相、易经五行或传统命理语言进行分析。\n- 趋势提示：用“倾向于、容易、需要注意、适合、未来一段时间可能”等方式表达。\n- 行动建议：给出一句现实可执行的提醒，例如情绪管理、作息、事业节奏、人际关系、财务规划等。\n\n【标注要求】\n\n请在图片中使用清晰的线条、箭头、圆圈或编号标签，标明每个关键位置：\n- 手相图可标注：生命线、智慧线、感情线、事业线、掌丘、指节、拇指根部、食指长度、无名指比例、掌心纹路交汇点等。\n- 面相图可标注：额头、眉眼、鼻梁、颧骨、法令纹、嘴角、下巴、耳形、面部中庭、气色区域等。\n- 每个标注点用 01、02、03……编号，对应右侧或下方的分析说明。\n- 线条要细致、优雅，不要杂乱，不要遮挡主体。\n\n【视觉风格】\n\n整体风格要符合东方玄学、命理、手相、面相的调性：\n- 主色调：米白、宣纸色，点缀：深墨黑、玄青、古铜金、暗红\n- 风格气质：神秘、克制、高级、古籍感、命理报告感。\n- 可加入轻微元素：八卦纹、罗盘刻度、五行符号、古籍边框、星盘细线、朱砂印章、宣纸纹理。\n- 不要做成恐怖风、低俗算命摊风，也不要过度赛博朋克。\n- 排版要像高级杂志信息图，而不是杂乱截图。\n\n【版式设计】\nMake the aspect ratio 3:4\n\n版面结构建议：\n1. 顶部：标题区  \n   标题可为「手相面相玄学分析报告」「东方命理特征解读」「掌纹与面相趋势观察」等，要符合用户上传的图片内容。\n2. 中间：主体照片分析区  \n   保留手部或脸部主体，加入编号、箭头和关键线条标注。\n3. 侧边或下方：十点分析区  \n   每一点用简短标题 + 2-3行说明，不要文字太小。\n4. 底部：综合结论区  \n   总结此人的性格倾向、事业财运、人际情感、健康作息和近期提醒。\n\n【内容语气】\n\n分析语言要有传统玄学味道，但不要绝对化，不要说“必定”“一定会发财”“一定有灾”。  \n可以使用：\n- “此纹路显示其人多半……”\n- “从五行气象看，偏向……”\n- “此处若纹路明显，通常代表……”\n- “近期需要留意……”\n- “适合走……方向”\n- “建议在……方面做调整”\n\n【输出目标】\n\n请最终生成一张完整的视觉分析图，至少包含10个编号分析点。  \n整体要让人一眼看出“哪里被分析了、对应什么含义、有什么提醒”，既有玄学氛围，又有专业排版和高级设计感。\n\n注意：\n- 只基于图片中可见特征分析，不要编造看不见的信息。\n- 不做医学诊断，不给出疾病结论；中医气色内容只作为传统文化角度的生活提醒。\n- 不要出现过多小字，确保手机上也能清楚阅读。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777104266537-tf736a0d-1777104281900-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777104266537-tf736a0d-1777104281713-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777104266537-tf736a0d-1777104281900-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/oriental-metaphysics-report",
+      "reviewed_at": "2026-04-25T15:18:01.760Z",
+      "created_at": "2026-04-25T08:06:32.662Z",
+      "updated_at": "2026-04-25T15:18:01.760Z"
+    },
+    {
+      "id": 13759,
+      "slug": "high-impact-earbud-ad",
+      "title": "高冲击力耳机产品广告图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@rovvmut_",
+      "source_url": "https://x.com/rovvmut_/status/2047912710365761828",
+      "tags": [
+        "耳机",
+        "商业摄影",
+        "广告图",
+        "美少女",
+        "高质感"
+      ],
+      "prompts": [
+        {
+          "text": "High-impact e-commerce infographic for \"Apple Pods Pro 3\" wireless earbuds.\nForeground: An extreme close-up of a hand holding an open, glossy white wireless earbud charging case toward the camera. Inside the case are two sleek white earbuds with black speaker accents. A tiny, glowing green LED status light is visible on the front of the case. The hand and case have a slight macro-lens blur to create a sense of depth.\nCentral Subject: In the mid-ground, a smiling young woman with freckles and wavy pastel-pink hair. She is wearing a vibrant lime-green knit beanie and a psychedelic, black and white-striped long-sleeve shirt. One white earbud is tucked into her ear.\nBackground & Lighting: A clean, soft-focus studio backdrop with a light-gray gradient. The scene is accented by diagonal rainbow prism lens flares and soft light leaks. Several blurred white earbuds float artistically in the background. The lighting is soft and professional, highlighting the glossy plastic of the product.\nTypography & Layout (Sans-Serif, White):\nTop Center (Background): Massive, bold text reading \"AIRPODS\" (positioned behind the model).\nTop Right: Bold text reading \"Apple Pods Pro 3\".\nMid-Left: \"Premium sound and noise cancellation\"\nMid-Right: Large, bold \"30\" with the text \"hours of battery life.\"\nBottom-Right: Large, bold \"1\" with the text \"year warranty.\"\nStyle: 8k resolution, commercial product photography, vibrant color palette, sharp focus on the product case, shallow depth of field, clean advertising aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "“Apple Pods Pro 3”无线耳机的高冲击力电商信息图。\n前景：一只手拿着一个打开的光滑白色无线耳机充电盒朝向相机的极度特写。充电盒内部是两副流畅的白色耳机，带有黑色扬声器点缀。充电盒正面可见一个微小的发光绿色LED状态灯。手和充电盒有轻微的微距镜头模糊，以创造深度感。\n中心主体：在中景中，一位面带微笑的年轻女性，长着雀斑和波浪形的柔和粉色头发。她戴着一顶鲜艳的酸橙绿针织毛线帽，穿着一件迷幻的黑白条纹长袖衬衫。一只白色耳机塞在她的耳朵里。\n背景与光照：干净的柔焦工作室背景，带有浅灰色渐变。场景以对角线彩虹棱镜镜头光晕和柔和漏光为点缀。几副模糊的白色耳机在背景中艺术地漂浮着。灯光柔和且专业，突出了产品光泽的塑料材质。\n排版与布局（无衬线，白色）：\n顶部居中（背景）：巨大的粗体文字写着“AIRPODS”（位于模特后方）。\n右上角：粗体文字写着“Apple Pods Pro 3”。\n中左位置：“优质音效与降噪”\n中右位置：大号粗体“30”以及文字“小时的电池续航。”\n右下角：大号粗体“1”以及文字“年保修。”\n风格：8k分辨率，商业产品摄影，鲜艳的色彩调色板，对产品充电盒的锐利对焦，浅景深，干净的广告美学。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777104181047-lji0ifaq-1777104186458-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777104181047-lji0ifaq-1777104186458-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-impact-earbud-ad",
+      "reviewed_at": "2026-04-25T15:18:04.792Z",
+      "created_at": "2026-04-25T08:04:42.410Z",
+      "updated_at": "2026-04-25T15:18:04.792Z"
+    },
+    {
+      "id": 13758,
+      "slug": "avant-garde-sports-fashion",
+      "title": "前卫运动时尚巨物广告大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSynthia",
+      "source_url": "https://x.com/AIwithSynthia/status/2047884609321619831",
+      "tags": [
+        "前卫",
+        "巨物",
+        "运动",
+        "极简",
+        "电影感"
+      ],
+      "prompts": [
+        {
+          "text": "Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "前卫运动时尚广告，超大号网球拍像纪念碑雕塑一样放置，女运动员随意坐在球拍线上仿佛是一个悬挂的休息区，背后巨大的“PRECISION”单词使用粗体排版，清脆的白色工作室背景，反光的球场般地板，奢华运动装编辑美学，电影感光效，极度干净的构图，1:1",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777104138361-nb410ub3-1777104145106-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777104138361-nb410ub3-1777104145106-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/avant-garde-sports-fashion",
+      "reviewed_at": "2026-04-25T15:18:07.252Z",
+      "created_at": "2026-04-25T08:03:07.878Z",
+      "updated_at": "2026-04-25T15:19:08.908Z"
+    },
+    {
+      "id": 13747,
+      "slug": "gongbi-peonies-mandarin-ducks",
+      "title": "工笔重彩牡丹鸳鸯图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@dotey",
+      "source_url": "https://x.com/dotey/status/2047807925519814947",
+      "tags": [
+        "工笔画",
+        "牡丹花",
+        "鸳鸯",
+        "国风",
+        "古典"
+      ],
+      "prompts": [
+        {
+          "text": "Traditional Gongbi heavy color style, lakeside garden pavilions. Peonies blooming on the branches, a pair of mandarin ducks perching on the horizontally extending peony branches in the picture, intimate posture, delicate feather layers, elegant colors, presenting exquisite Gongbi line drawing and light color shading effects. Xuan paper texture background, the composition presents elegant flower-and-bird charm. --ar 3:2",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "传统工笔重彩风格，湖畔园林亭台。枝头牡丹盛开，画面中一对鸳鸯栖息在横向伸展的牡丹枝干上，姿态亲昵，羽毛层次细腻、色彩典雅，呈现精致的工笔勾线与淡彩晕染效果。宣纸质感背景，构图呈现典雅的花鸟情趣。--ar 3:2",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777102807777-thf219dt-1777102813428-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777102807777-thf219dt-1777102813428-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/gongbi-peonies-mandarin-ducks",
+      "reviewed_at": "2026-04-25T07:45:50.788Z",
+      "created_at": "2026-04-25T07:40:54.106Z",
+      "updated_at": "2026-04-25T07:45:50.788Z"
+    },
+    {
+      "id": 13745,
+      "slug": "pixar-3d-star-movie-poster",
+      "title": "皮克斯3D群星闪耀电影海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@TechieBySA",
+      "source_url": "https://x.com/TechieBySA/status/2047758299102142847",
+      "tags": [
+        "皮克斯",
+        "群像",
+        "海报",
+        "英雄",
+        "动画"
+      ],
+      "prompts": [
+        {
+          "text": "Pixar 3D CGI animated movie poster style, ensemble cast featuring the most iconic and recognizable characters from [SHOW], all rendered as Pixar-style 3D animated characters with exaggerated expressive faces, smooth stylized skin, big eyes, chunky proportions. Characters automatically selected as the most famous heroes and villains from [SHOW]. Dramatic layered composition: central hero front and center, others fanned behind in dynamic action poses. Background color automatically chosen to match the iconic tone and palette of [SHOW]. Bold title text at bottom: \"SHOW\" in the original film's iconic font style. Cinematic lighting, rim light on characters, deep shadows. vertical aspect ratio. High detail, polished Pixar feature film aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "皮克斯3D CGI动画电影海报风格，群像阵容包含来自[SHOW]最具标志性和辨识度的角色，所有角色均被渲染为皮克斯风格的3D动画角色，具有夸张的表情丰富的脸庞，光滑的风格化皮肤，大眼睛，粗壮的比例。角色自动选自[SHOW]中最著名的英雄和反派。戏剧性的分层构图：中央英雄位于正前方中心位置，其他人在后方以扇形展开呈动态动作姿势。背景颜色自动选择以匹配[SHOW]的标志性基调和调色板。底部加粗标题文字：“SHOW”，采用原电影标志性的字体风格。电影级光照，角色边缘光，深邃的阴影。竖屏宽高比。高细节，打磨精致的皮克斯动画长片美学。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777102754753-cnw7i167-1777102761125-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777102754753-cnw7i167-1777102761125-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/pixar-3d-star-movie-poster",
+      "reviewed_at": "2026-04-25T07:45:52.978Z",
+      "created_at": "2026-04-25T07:40:18.919Z",
+      "updated_at": "2026-04-25T07:45:52.978Z"
+    },
+    {
+      "id": 13744,
+      "slug": "endangered-animal-visual-guide",
+      "title": "濒危动物逼真视觉图鉴",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@harboriis",
+      "source_url": "https://x.com/harboriis/status/2047704250327920716",
+      "tags": [
+        "信息图",
+        "濒危",
+        "写实",
+        "图形风",
+        "层次感"
+      ],
+      "prompts": [
+        {
+          "text": "Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一个关于濒危动物的视觉丰富的信息图。首先在网上找一个，研究它的栖息地、饮食和独特特征。通过带有注释的视觉效果和结构化的标注来呈现信息，而不是通用的板块。将其风格化为粗犷的图形插图：以一个详细的、逼真的中心动物作为焦点，由图表、标注和简洁的文本元素支撑。使用干净的背景，并在分层构图中将逼真感与强烈的图形元素（形状、图标、色块）混合在一起。使其密集、具有触感且专业制作。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777102674845-q34s6we5-1777102678040-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777102674845-q34s6we5-1777102678040-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/endangered-animal-visual-guide",
+      "reviewed_at": "2026-04-25T07:45:54.492Z",
+      "created_at": "2026-04-25T07:38:35.511Z",
+      "updated_at": "2026-04-25T07:45:54.492Z"
+    },
+    {
+      "id": 13742,
+      "slug": "london-24h-walking-tour-map",
+      "title": "伦敦二十四小时漫步旅行图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2047861968997077361",
+      "tags": [
+        "伦敦游",
+        "信息图",
+        "等距风",
+        "泰晤士",
+        "旅行图"
+      ],
+      "prompts": [
+        {
+          "text": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"A professional, high-resolution travel infographic poster for a 24-hour London walking tour.\",\n    \"layout\": {\n      \"format\": \"Vertical split layout.\",\n      \"left_panel\": {\n        \"description\": \"A cream-colored, textured marble-style background with gold ornamental borders.\",\n        \"text_content\": [\n          \"Main Title: '24-HOUR WALKING TOUR LONDON, UNITED KINGDOM'\",\n          \"Subtitle: 'One City, Five Timeless Stops. A Day to Remember Forever.'\",\n          \"Numbered List (1-5):\",\n          \"1. Tower of London (8:00 AM) - 'Explore the ancient royal fortress.'\",\n          \"2. Tower Bridge (9:30 AM) - 'Walk across the iconic Victorian bridge.'\",\n          \"3. Borough Market (12:00 PM) - 'Savor tastes from London's oldest food market.'\",\n          \"4. The Shard (3:00 PM) - 'Take in unmatched vertical city views.'\",\n          \"5. Southbank & London Eye (7:00 PM) - 'Enjoy a twilight stroll by the Thames.'\"\n        ]\n      },\n      \"right_panel\": {\n        \"description\": \"An isometric, stylized bird's-eye view illustration of London along the River Thames.\",\n        \"key_landmarks\": [\n          \"Tower of London\",\n          \"Tower Bridge\",\n          \"Borough Market\",\n          \"The Shard\",\n          \"London Eye\"\n        ],\n        \"visual_elements\": \"A glowing, continuous golden path connecting the five numbered stops along the river. A nautical compass rose is positioned in the bottom-left corner.\",\n        \"lighting_atmosphere\": \"Warm, cinematic sunset lighting with golden and orange hues reflecting off the water, transitioning to twilight near the London Eye.\"\n      },\n      \"footer_box\": {\n        \"location\": \"Bottom right corner.\",\n        \"text_info\": \"TOTAL DISTANCE ~ 10 KM / 6.2 MILES | ESTIMATED TIME 24 HOURS ~ 15,000 STEPS\"\n      }\n    },\n    \"style\": \"Elegant, polished, clean professional design, cohesive color palette of warm gold, cream, and deep sunset oranges. High-quality vector-like illustration combined with soft realistic lighting.\"\n  }\n}",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"一张专业的、高分辨率的24小时伦敦步行旅游信息图海报。\",\n    \"layout\": {\n      \"format\": \"垂直分割布局。\",\n      \"left_panel\": {\n        \"description\": \"奶油色的、带有纹理的大理石风格背景，配有金色装饰边框。\",\n        \"text_content\": [\n          \"主标题：'24小时步行旅游 伦敦，英国'\",\n          \"副标题：'一座城市，五个永恒的站点。难忘的一天。'\",\n          \"编号列表 (1-5)：\",\n          \"1. 伦敦塔 (上午 8:00) - '探索古老的皇家堡垒。'\",\n          \"2. 塔桥 (上午 9:30) - '漫步走过标志性的维多利亚时代桥梁。'\",\n          \"3. 博罗市场 (中午 12:00) - '品尝伦敦最古老食品市场的风味。'\",\n          \"4. 碎片大厦 (下午 3:00) - '欣赏无与伦比的垂直城市景观。'\",\n          \"5. 南岸与伦敦眼 (晚上 7:00) - '在泰晤士河畔享受黄昏漫步。'\"\n        ]\n      },\n      \"right_panel\": {\n        \"description\": \"一幅等距的、风格化的伦敦沿泰晤士河鸟瞰图插图。\",\n        \"key_landmarks\": [\n          \"伦敦塔\",\n          \"塔桥\",\n          \"博罗市场\",\n          \"碎片大厦\",\n          \"伦敦眼\"\n        ],\n        \"visual_elements\": \"一条发光的、连续的金色路径沿着河流连接这五个编号站点。左下角放置了一个航海罗盘玫瑰。\",\n        \"lighting_atmosphere\": \"温暖的、电影般的日落光线，金色的和橙色的色调在水面上反射，在伦敦眼附近过渡到黄昏。\"\n      },\n      \"footer_box\": {\n        \"location\": \"右下角。\",\n        \"text_info\": \"总距离 ~ 10 公里 / 6.2 英里 | 预计时间 24 小时 ~ 15,000 步\"\n      }\n    },\n    \"style\": \"优雅的、精良的、干净的专业设计，暖金色、奶油色和深日落橙色的协调调色板。高质量的矢量风格插图结合柔和的现实主义光线。\"\n  }\n}",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777102579840-17v78h4o-1777102582838-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777102579840-17v78h4o-1777102582838-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/london-24h-walking-tour-map",
+      "reviewed_at": "2026-04-25T07:45:56.907Z",
+      "created_at": "2026-04-25T07:37:11.359Z",
+      "updated_at": "2026-04-25T07:45:56.907Z"
+    },
     {
       "id": 13740,
       "slug": "nose-touching-between-demon-and-monk",
@@ -46,6 +541,82 @@
       "reviewed_at": "2026-04-24T16:13:37.838Z",
       "created_at": "2026-04-24T16:13:24.855Z",
       "updated_at": "2026-04-24T16:14:26.393Z"
+    },
+    {
+      "id": 13739,
+      "slug": "baigujing-vermilion-forehead",
+      "title": "白骨精朱砂点额动人瞬间",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047487600899014981",
+      "tags": [
+        "白骨精",
+        "古风插画",
+        "眉心朱砂",
+        "摇曳烛光",
+        "唯美意境"
+      ],
+      "prompts": [
+        {
+          "text": "White Bone Demon girl applying vermilion to Tang Seng's forehead, cool fingertips touching the center of his eyebrows, red candlelight flickering, breath audible",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "白骨精少女为唐僧点额朱砂，指尖微凉触眉心，烛影摇红呼吸可闻",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777047139150-e1d55uk0-1777047153063-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777047139150-e1d55uk0-1777047153063-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/baigujing-vermilion-forehead",
+      "reviewed_at": "2026-04-25T07:46:01.326Z",
+      "created_at": "2026-04-24T16:12:57.258Z",
+      "updated_at": "2026-04-25T07:46:01.326Z"
+    },
+    {
+      "id": 13738,
+      "slug": "lei-jun-meme-co-branded-shoes",
+      "title": "雷军神曲联名潮鞋",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047495547800654223",
+      "tags": [
+        "联名鞋",
+        "雷军",
+        "小米橙",
+        "电路板",
+        "潮鞋"
+      ],
+      "prompts": [
+        {
+          "text": "Lei Jun ARE YOU OK co-branded shoes, Xiaomi orange color scheme circuit board texture, \"ARE YOU OK\" shoelaces",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "雷军ARE YOU OK联名鞋，小米橙配色电路板纹，\"ARE YOU OK\"鞋带",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777047056388-62po890u-1777047064172-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777047056388-62po890u-1777047064172-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lei-jun-meme-co-branded-shoes",
+      "reviewed_at": "2026-04-25T07:46:03.058Z",
+      "created_at": "2026-04-24T16:11:18.175Z",
+      "updated_at": "2026-04-25T07:46:03.058Z"
     },
     {
       "id": 13737,
@@ -122,6 +693,158 @@
       "reviewed_at": "2026-04-24T16:13:58.091Z",
       "created_at": "2026-04-24T16:10:21.425Z",
       "updated_at": "2026-04-24T16:13:58.091Z"
+    },
+    {
+      "id": 13735,
+      "slug": "pan-jinlian-balcony-live",
+      "title": "潘金莲阳台开窗直播",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@songguoxiansen",
+      "source_url": "https://x.com/songguoxiansen/status/2047489549862043916",
+      "tags": [
+        "潘金莲",
+        "直播间",
+        "弹幕",
+        "王婆",
+        "古风"
+      ],
+      "prompts": [
+        {
+          "text": "Pan Jinlian propping open the window on the balcony, bullet comments scrolling \"Ximen Qing has entered the live stream\", Wang Po sending a gift",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "潘金莲阳台撑窗户，弹幕刷\"西门庆已进入直播间\"，王婆送礼物",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777046946427-6uz02j3z-1777046953367-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777046946427-6uz02j3z-1777046953367-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/pan-jinlian-balcony-live",
+      "reviewed_at": "2026-04-25T07:46:24.609Z",
+      "created_at": "2026-04-24T16:10:06.157Z",
+      "updated_at": "2026-04-25T07:46:24.609Z"
+    },
+    {
+      "id": 13734,
+      "slug": "lara-croft-evolution-poster",
+      "title": "劳拉克劳馥的演变之旅海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@CharaspowerAI",
+      "source_url": "https://x.com/CharaspowerAI/status/2047699589218599340",
+      "tags": [
+        "劳拉",
+        "进化",
+        "海报",
+        "游戏史",
+        "现代风"
+      ],
+      "prompts": [
+        {
+          "text": "Create a modern design poster showing the evolution of Lara Croft from early Tomb Raider games to modern versions.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一张现代设计海报，展示劳拉·克劳馥从早期《古墓丽影》游戏到现代版本的演变。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777046831110-38qergk1-1777046835611-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777046831110-38qergk1-1777046835611-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lara-croft-evolution-poster",
+      "reviewed_at": "2026-04-25T07:46:11.055Z",
+      "created_at": "2026-04-24T16:08:10.617Z",
+      "updated_at": "2026-04-25T07:46:11.055Z"
+    },
+    {
+      "id": 13732,
+      "slug": "british-steakhouse-doodle-notes",
+      "title": "英伦牛排店的手绘笔记美食照",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@axichuhai",
+      "source_url": "https://x.com/axichuhai/status/2047662271266996592",
+      "tags": [
+        "牛排店",
+        "手绘风",
+        "杂志感",
+        "美食照",
+        "英伦风"
+      ],
+      "prompts": [
+        {
+          "text": "Generate a photo of steak and dessert in a British steakhouse style. Like a photo taken with a smartphone, suitable for posting on Instagram. No people. Then, observe the elements appearing in the photo and add meaningful hand-drawn annotations to each element. \n【Drawing Rules】\n・Thin hand-drawn lines like drawn with a white pen\n・Rough, slightly uneven one-stroke writing style\n・Add outlines like tracing the outer circumference of objects\n・Create visual guidance with arrows or dashed lines\n【Text Rules】\n・English handwritten text \n・Short, comments like talking to oneself\n・Tone is \"diary, one-liner, emotional outlet\"\n【Comment Generation Rules】\n・Beverage → Taste, temperature, mood (Example: refreshing, gentle sweetness)\n・Food → Texture, deliciousness (Example: moist, the best)\n・Space → Atmosphere (Example: relaxing, wonderful time)\n・Overall → One-line summary (Example: too happy~)\n【Decorations】\n・Moderately add steam, sparkles, hearts, small emojis, etc.\n・Not excessive, leave \"white space\"\n【Final Style】\n・Instagram story style, rough note style of a magazine, stylish and relaxed atmosphere",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "生成一张英国牛排店风格的牛排和甜点的照片。像是用智能手机拍摄的、适合发到Instagram的照片。没有人物。然后，观察照片中出现的元素，并为每个元素添加有意义的手绘注释。 \n【描写规则】\n・像用白色笔画出那样的细手绘线条\n・一笔写成风格的粗糙、略微不均匀\n・像描摹物体外周那样添加轮廓线\n・用箭头或虚线制造视线引导\n【文本规则】\n・英文手写文字 \n・简短，像自言自语一样的评论\n・语气是“日记・一言・情感寄托”\n【评论生成规则】\n・饮料 → 味道・温度・心情（例：清爽、温柔的甜味）\n・食物 → 口感・美味（例：湿润、最高）\n・空间 → 氛围（例：放松、美好时光）\n・整体 → 一言总结（例：幸福过头了～）\n【装饰】\n・蒸汽、闪闪发光、心形、小表情符号等适度添加\n・不过度，留出“空白”\n【完成风格】\n・Instagram故事风、杂志的粗糙笔记风 ・时尚且轻松的氛围",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777046759077-vej3q04j-1777046761395-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777046759077-vej3q04j-1777046761395-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/british-steakhouse-doodle-notes",
+      "reviewed_at": "2026-04-25T07:46:13.384Z",
+      "created_at": "2026-04-24T16:08:05.925Z",
+      "updated_at": "2026-04-25T07:46:13.384Z"
+    },
+    {
+      "id": 13731,
+      "slug": "minimalist-oriental-essence-poster",
+      "title": "极简东方风高端精华海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@liyue_ai",
+      "source_url": "https://x.com/liyue_ai/status/2047692437632770480",
+      "tags": [
+        "极简风",
+        "护肤品",
+        "高级感",
+        "东方美",
+        "商业摄影"
+      ],
+      "prompts": [
+        {
+          "text": "Minimalist Eastern high-end advertising style, high-end skincare brand KV poster, brand name \"BRAND\", overall temperament pure, restrained, with repair, regeneration, anti-aging and pure technology sense\nThe center of the picture is a high-end essence product, glass bottle body, transparent gradient texture (upper transparent -> lower cold-toned cyan-green), liquid texture is clear, paired with a champagne gold metal bottle cap, the product is placed on a simple circular highlight base (polished stone + metal texture), the structure is clean and neat, edge highlights are clear and sharp, strengthening the product outline and volume sense, as the absolute visual center\nOnly a small number of exquisite golden energy halos and extremely thin flowing light bands are kept around the product (control the number of particles, avoid excessive decoration), forming a restrained slight S-shaped movement line, spreading outward from the product, symbolizing repair and regeneration energy (light effects are clean, orderly, not cluttered)\nAn Eastern woman is located slightly to the right behind the picture, half-body looking back with side face, calm and elegant temperament, delicate and natural facial features, cold white and delicate skin presenting a real transparent luster (emphasizing skincare effects), minimalist and high-end makeup, avoiding excessive highlights\nBlack long hair flows slightly, hair strands are clean and neat, only a small number of faint golden light dots embellish, creating a subtle connection with the product light effects (remove complex flower decorations, overall more restrained)\nWearing semi-transparent silk clothing, simple structure, transparent material, with a very slight metallic luster and soft reflection, avoiding overly strong textures\nThe light and shadow system is a real studio lighting effect (studio lighting), the warm golden main light source illuminates from the side and rear, the product is the main light focus point, the character is auxiliary light-receiving, the edge light is clean and neat, the volumetric light is extremely weak, only retaining the spatial transparency sense, the overall light control is precise without overexposure\nThe background is a minimalist light-colored gradient (off-white + warm gold), a large area of clean negative space, no redundant particles and decorations, strengthening the advertising layout space\nThe bottom of the picture adds restrained cold-toned cyan-green water surface or mineral slice elements (low detail, low contrast), as a symbol of the brand's \"pure technology\", but not stealing the visual center\nThe color system is strictly controlled: the main color is off-white + gold, embellished with cold-toned cyan-green and champagne gold, overall low saturation, high-end, unified\nThe composition is a stable center composition, weakening dynamic exaggeration, the overall tends to balance and high-end static expression, visual hierarchy is clear (product > light > character > environment)\nOverall style: international high-end skincare brand visual (similar to La Mer / HR / SK-II), emphasizing real texture and restrained expression\nUltra-fine, 8K texture, commercial photography-level real material performance\nNegative: too many golden particles, complex decorations, blurry product, fuzzy edges, crowded picture, chaotic light and shadow, messy colors, cheap texture, overexposure",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "极简东方高级广告风格，高端护肤品牌KV海报，品牌名“BRAND”，整体气质纯净、克制、具有修护、再生、抗老与纯净科技感\n\n画面中心为一款高端精华产品，玻璃瓶身，通透渐变质感（上部透明→下部冷调青绿色），液体质感清晰，搭配香槟金金属瓶盖，产品置于简洁圆形高光底座（抛光石材+金属质感），结构干净利落，边缘高光清晰锐利，强化产品轮廓与体积感，作为绝对视觉中心\n\n产品周围仅保留少量精致金色能量光环与极细流动光带（控制粒子数量，避免过多装饰），形成克制的轻微S型动线，从产品向外扩散，象征修护与再生能量（光效干净、有序、不杂乱）\n\n一位东方女性位于画面后方偏右，半身回眸侧脸，气质冷静优雅，五官精致自然，冷白细腻肌肤呈现真实通透光泽（强调护肤效果），妆容极简高级，避免过多高光\n\n黑色长发轻微流动，发丝干净利落，仅少量微弱金色光点点缀，与产品光效产生微妙联系（去除复杂花朵装饰，整体更克制）\n\n身穿半透明丝绸服装，结构简洁，材质通透，带非常轻微金属光泽与柔和反光，避免过强纹理\n\n光影系统为真实摄影棚光效（studio lighting），暖金色主光源从侧后方照射，产品为主光聚焦点，人物为辅助受光，边缘光干净利落，体积光极弱，仅保留空间通透感，整体光线控制精准不过曝\n\n背景为极简浅色渐变（米白+暖金），大面积干净留白，无多余粒子与装饰，强化广告排版空间\n\n画面底部加入克制的冷调青绿色水面或矿物质切片元素（低细节、低对比），作为品牌“纯净科技”象征，但不抢视觉中心\n\n色彩体系严格控制：主色为米白+金色，点缀冷调青绿色与香槟金，整体低饱和、高级、统一\n\n构图为稳定中心构图，弱化动态夸张，整体趋于平衡与高级静态表达，视觉层级清晰（产品 > 光 > 人物 > 环境）\n\n整体风格：国际高端护肤品牌视觉（类似La Mer / HR / SK-II），强调真实质感与克制表达\n\n超精细，8K质感，商业摄影级真实材质表现\n\n负面：金色粒子过多，装饰复杂，产品模糊，边缘发虚，画面拥挤，光影混乱，颜色杂乱，廉价质感，过曝",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777046727987-sgz1veci-1777046735012-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777046727987-sgz1veci-1777046735012-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/minimalist-oriental-essence-poster",
+      "reviewed_at": "2026-04-25T07:46:14.538Z",
+      "created_at": "2026-04-24T16:06:50.943Z",
+      "updated_at": "2026-04-25T07:46:14.538Z"
     },
     {
       "id": 13730,
@@ -1038,7 +1761,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lipstick-matrix-livestream",
       "reviewed_at": "2026-04-23T17:21:58.533Z",
       "created_at": "2026-04-23T17:08:20.918Z",
-      "updated_at": "2026-04-23T17:21:58.533Z"
+      "updated_at": "2026-04-25T11:32:09.882Z"
     },
     {
       "id": 13677,
@@ -1190,7 +1913,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/chinese-dynasty-timeline-infographic",
       "reviewed_at": "2026-04-23T17:22:02.480Z",
       "created_at": "2026-04-23T17:03:20.320Z",
-      "updated_at": "2026-04-23T17:22:02.480Z"
+      "updated_at": "2026-04-25T12:53:10.660Z"
     },
     {
       "id": 13671,
@@ -1610,7 +2333,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-oriental-skincare-ad",
       "reviewed_at": "2026-04-23T17:22:17.891Z",
       "created_at": "2026-04-23T16:40:46.046Z",
-      "updated_at": "2026-04-23T17:22:17.891Z"
+      "updated_at": "2026-04-25T10:35:29.058Z"
     },
     {
       "id": 13653,
@@ -9880,7 +10603,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer",
       "reviewed_at": "2026-04-18T15:36:28.679Z",
       "created_at": "2026-04-18T15:32:50.121Z",
-      "updated_at": "2026-04-18T15:40:38.317Z"
+      "updated_at": "2026-04-25T15:49:13.401Z"
     },
     {
       "id": 13412,
@@ -9914,11 +10637,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776525954188-msoh7y9x-1776525963054-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776525954188-msoh7y9x-1776525963054-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/late-night-convenience-store-neon-girl",
       "reviewed_at": "2026-04-18T15:35:26.847Z",
       "created_at": "2026-04-18T15:30:44.268Z",
-      "updated_at": "2026-04-18T15:35:26.847Z"
+      "updated_at": "2026-04-25T15:29:16.929Z"
     },
     {
       "id": 13411,
@@ -9956,7 +10679,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dreamy-boston-spring-poster",
       "reviewed_at": "2026-04-18T15:36:01.611Z",
       "created_at": "2026-04-18T15:30:20.253Z",
-      "updated_at": "2026-04-18T15:36:01.611Z"
+      "updated_at": "2026-04-25T10:53:16.310Z"
     },
     {
       "id": 13410,
@@ -9994,7 +10717,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/handwritten-recipe-to-magazine-spread",
       "reviewed_at": "2026-04-18T15:36:03.217Z",
       "created_at": "2026-04-18T15:26:13.717Z",
-      "updated_at": "2026-04-18T15:36:03.217Z"
+      "updated_at": "2026-04-25T14:59:44.559Z"
     },
     {
       "id": 13409,
@@ -10032,7 +10755,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/neon-qiongqi-chinese-painting",
       "reviewed_at": "2026-04-18T15:35:31.109Z",
       "created_at": "2026-04-18T15:24:29.393Z",
-      "updated_at": "2026-04-18T15:35:31.109Z"
+      "updated_at": "2026-04-25T12:20:01.193Z"
     },
     {
       "id": 13408,
@@ -10070,7 +10793,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-poet-holographic-collection",
       "reviewed_at": "2026-04-18T15:36:28.732Z",
       "created_at": "2026-04-18T15:23:54.773Z",
-      "updated_at": "2026-04-18T15:36:28.732Z"
+      "updated_at": "2026-04-25T11:11:12.016Z"
     },
     {
       "id": 13407,
@@ -10108,7 +10831,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ming-dynasty-baoyu-tweet",
       "reviewed_at": "2026-04-18T15:36:25.569Z",
       "created_at": "2026-04-18T15:22:50.239Z",
-      "updated_at": "2026-04-18T15:36:25.569Z"
+      "updated_at": "2026-04-25T10:52:39.690Z"
     },
     {
       "id": 13406,
@@ -10146,7 +10869,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/museum-level-chinese-disassembly-infographic",
       "reviewed_at": "2026-04-18T15:36:09.227Z",
       "created_at": "2026-04-18T15:22:00.327Z",
-      "updated_at": "2026-04-18T15:36:09.227Z"
+      "updated_at": "2026-04-25T15:16:29.048Z"
     },
     {
       "id": 13405,
@@ -10184,7 +10907,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/retro-traditional-almanac-2026",
       "reviewed_at": "2026-04-18T15:36:11.137Z",
       "created_at": "2026-04-18T15:19:29.304Z",
-      "updated_at": "2026-04-18T15:36:11.137Z"
+      "updated_at": "2026-04-25T14:25:53.656Z"
     },
     {
       "id": 13404,
@@ -10222,7 +10945,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pep-third-grade-chinese-textbook",
       "reviewed_at": "2026-04-18T15:35:37.818Z",
       "created_at": "2026-04-18T15:19:18.285Z",
-      "updated_at": "2026-04-18T15:35:37.818Z"
+      "updated_at": "2026-04-25T15:39:23.620Z"
     },
     {
       "id": 13403,
@@ -10260,7 +10983,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/exquisite-teochew-menu",
       "reviewed_at": "2026-04-18T15:36:13.469Z",
       "created_at": "2026-04-18T15:19:17.235Z",
-      "updated_at": "2026-04-18T15:39:10.352Z"
+      "updated_at": "2026-04-25T14:59:53.313Z"
     },
     {
       "id": 13402,
@@ -10298,7 +11021,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/focusing-on-ai-campus-daily",
       "reviewed_at": "2026-04-18T15:36:16.436Z",
       "created_at": "2026-04-18T15:19:10.439Z",
-      "updated_at": "2026-04-18T15:36:16.436Z"
+      "updated_at": "2026-04-25T13:28:51.715Z"
     },
     {
       "id": 13401,
@@ -10336,7 +11059,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tiktok-beauty-live-interface",
       "reviewed_at": "2026-04-18T15:36:38.126Z",
       "created_at": "2026-04-18T15:16:38.604Z",
-      "updated_at": "2026-04-18T15:36:38.126Z"
+      "updated_at": "2026-04-25T15:38:00.654Z"
     },
     {
       "id": 13400,
@@ -10374,7 +11097,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/master-mechanical-keyboard-design",
       "reviewed_at": "2026-04-18T15:35:43.837Z",
       "created_at": "2026-04-18T15:15:58.416Z",
-      "updated_at": "2026-04-18T15:35:43.837Z"
+      "updated_at": "2026-04-25T13:19:24.106Z"
     },
     {
       "id": 13399,
@@ -10412,7 +11135,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/terminator-taobao-page",
       "reviewed_at": "2026-04-18T15:35:45.401Z",
       "created_at": "2026-04-18T15:14:40.444Z",
-      "updated_at": "2026-04-18T15:35:45.401Z"
+      "updated_at": "2026-04-25T08:15:50.379Z"
     },
     {
       "id": 13398,
@@ -10450,7 +11173,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/blackboard-chu-shi-biao-full-text",
       "reviewed_at": "2026-04-18T15:35:48.371Z",
       "created_at": "2026-04-18T15:14:35.409Z",
-      "updated_at": "2026-04-18T15:35:48.371Z"
+      "updated_at": "2026-04-25T13:54:14.075Z"
     },
     {
       "id": 13397,
@@ -10488,7 +11211,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/mai-shiranui-xiaohongshu",
       "reviewed_at": "2026-04-18T15:36:39.131Z",
       "created_at": "2026-04-18T15:14:29.002Z",
-      "updated_at": "2026-04-18T15:38:50.968Z"
+      "updated_at": "2026-04-25T10:51:36.557Z"
     },
     {
       "id": 13396,
@@ -10526,7 +11249,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/trump-kim-tiktok-pk",
       "reviewed_at": "2026-04-18T15:36:34.405Z",
       "created_at": "2026-04-18T15:14:18.749Z",
-      "updated_at": "2026-04-18T15:36:34.405Z"
+      "updated_at": "2026-04-25T11:58:16.173Z"
     },
     {
       "id": 13395,
@@ -10564,7 +11287,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-blank-graffiti-draft",
       "reviewed_at": "2026-04-18T15:35:51.023Z",
       "created_at": "2026-04-18T15:11:12.853Z",
-      "updated_at": "2026-04-18T15:35:51.023Z"
+      "updated_at": "2026-04-25T13:06:11.399Z"
     },
     {
       "id": 13394,
@@ -10600,9 +11323,9 @@
       "video_urls": [],
       "thumbnail": "pthumbs/prompts/assets/202604/1776524925775-50l71kyc-1776524929755-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/key-character-relationship-map",
-      "reviewed_at": "2026-04-18T15:35:52.555Z",
+      "reviewed_at": "2026-04-20T02:19:47.355Z",
       "created_at": "2026-04-18T15:09:02.332Z",
-      "updated_at": "2026-04-18T15:35:52.555Z"
+      "updated_at": "2026-04-25T15:25:14.558Z"
     },
     {
       "id": 13393,
@@ -10640,7 +11363,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/official-character-reference-sheet",
       "reviewed_at": "2026-04-18T15:35:14.948Z",
       "created_at": "2026-04-18T15:08:52.248Z",
-      "updated_at": "2026-04-18T15:35:14.948Z"
+      "updated_at": "2026-04-25T15:14:54.157Z"
     },
     {
       "id": 13392,
@@ -10678,7 +11401,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-ribbon-dancing-guangzhou",
       "reviewed_at": "2026-04-18T15:35:13.493Z",
       "created_at": "2026-04-18T15:06:31.332Z",
-      "updated_at": "2026-04-18T15:35:13.493Z"
+      "updated_at": "2026-04-25T15:44:24.437Z"
     },
     {
       "id": 13391,
@@ -11439,7 +12162,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/floating-rose-agarwood-scene",
       "reviewed_at": "2026-01-14T15:00:59.118Z",
       "created_at": "2026-01-14T15:00:59.118Z",
-      "updated_at": "2026-04-16T18:51:28.235Z"
+      "updated_at": "2026-04-25T01:38:15.529Z"
     },
     {
       "id": 1941,
