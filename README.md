@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **411**
-- Archived in this snapshot: **411**
+- Reported by source: **438**
+- Archived in this snapshot: **438**
 - Failed this run: **0**
-- Fetched at: **2026-04-26T16:39:31.169Z**
+- Fetched at: **2026-04-27T17:20:01.762Z**
 
 ## Files
 
@@ -22,11 +22,30 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 潮男紫色羽绒服广告大片 | 潮海报, 羽绒服, 街头风, 男模 | @Sheldon056 | [detail](https://opennana.com/awesome-prompt-gallery/trendy-puffer-poster) |
+| 极简风格教育信息图设计 | 信息图, 极简风, 教育类, UI设计 | @knowledgefxg | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-educational-infographic) |
+| 皮克斯风格3D甜美青年肖像 | 皮克斯, 治愈系, 圆眼镜, 渐变色 | @ZaraIrahh | [detail](https://opennana.com/awesome-prompt-gallery/pixar-style-3d-portrait) |
+| 视觉丰富的人物信息图设计 | 信息图, 人物志, 混合风, 超写实 | @shiri_shh | [detail](https://opennana.com/awesome-prompt-gallery/visually-rich-character-infographic) |
+| 前卫奢华美妆广告大片 | 奢华, 前卫, 高定, 极简 | @AIwithkhan | [detail](https://opennana.com/awesome-prompt-gallery/avant-garde-luxury-beauty) |
+| 温柔清新高级刺绣图 | 刺绣风, 立体画, 花鸟图, 丝线感 | @dotey | [detail](https://opennana.com/awesome-prompt-gallery/gentle-silk-stumpwork-birds) |
+| 极致运动美学着陆页 | 运动服, 着陆页, 健身女, 网页端 | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/ultimate-sporty-aesthetic) |
+| 柔光八零年代中国女孩一日分镜 | 复古风, 分镜图, 怀旧感, 胶片感 | @cellinlab | [detail](https://opennana.com/awesome-prompt-gallery/soft-80s-chinese-girl-storyboard) |
+| 人像照片的专业发型分析 |  | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/professional-hair-style) |
+| 历史名臣日历插画集 | 插画, 名臣, 日历, 名言 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/historical-ministers-calendar) |
 | 金莲直播卖炊饼奇景 | 直播, 炊饼, 弹幕, 搞笑 | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/pan-jinlian-livestream-buns) |
+| 潘金莲叫滴滴遇到武松骑马 | 潘金莲, 武松, 滴滴, 骑马 | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/pan-jinlian-didi-wu-song) |
 | 绝美潘金莲弹幕刷屏美妆课 | 美妆, 古风, 潘金莲, 遮瑕 | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/beautiful-pan-jinlian-bullet-screen-makeup) |
 | 金莲朋友圈自拍风波 | 朋友圈, 潘金莲, 武松, 玩梗 | @Mrpinecone888 | [detail](https://opennana.com/awesome-prompt-gallery/pan-jinlian-moments-selfie) |
 | 虞姬巴黎秀场高定红裙 | 虞姬, 秀场, 红裙, 佩剑 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/yuji-paris-haute-couture) |
+| 千里江山图青绿丝巾 | 山水, 丝绸, 江山图, 王希孟 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/thousand-li-rivers-silk-scarf) |
+| 粉彩御窑杨贵妃赏牡丹 | 粉彩瓷, 杨贵妃, 牡丹花, 皇家风 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/imperial-yang-guifei-peony) |
+| 慈禧太后御用翡翠朝珠设计 | 翡翠, 朝珠, 慈禧, 宫廷 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/cixi-imperial-jadeite-necklace) |
+| 图穷匕见古风电影票根设计 | 古风, 票根, 刺客, 匕首 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/ancient-dagger-reveal-ticket-stub) |
+| 大唐贵妃六步惊艳宫廷妆 | 唐代妆, 杨玉环, 宫廷风, 花钿 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/tang-dynasty-makeup-steps) |
+| 陌陌右滑匹配潘金莲西门庆 | 潘金莲, 西门庆, 陌陌, 特效 | @songguoxiansen | [detail](https://opennana.com/awesome-prompt-gallery/momo-swipe-right-match-pan-jinlian-ximen-qing) |
 | 奢华街头风男装海报 | 街头潮牌, 男装海报, 暗黑奢华, 电影光影 | @rovvmut_ | [detail](https://opennana.com/awesome-prompt-gallery/luxury-streetwear-poster) |
+| 暗调情绪风手机广告大片 | 手机广告, 超写实, 暗调情绪, 时尚大片 | @meng_dagg695 | [detail](https://opennana.com/awesome-prompt-gallery/dark-moody-phone-ad) |
+| 诗意分层诗歌解析海报设计 | 诗解析, 海报风, 手写体, 视觉感 | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/poetic-layered-poetry-poster) |
 | 电影级暗调风格巨星海报合集 | 足球, 球星, 海报, 电影感 | @ShamiWeb3 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-dark-superstar-posters) |
 | 社交动态定制电影封面 | 电影化, 主视觉, 社交圈, 做主角 | @Preda2005 | [detail](https://opennana.com/awesome-prompt-gallery/social-media-film-cover) |
 | 水墨光影国潮城市海报 | 国潮, 水墨, 竖版, 城市图 | @TanLuAI | [detail](https://opennana.com/awesome-prompt-gallery/ink-light-guochao-city-poster) |
@@ -53,24 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 地铁偷拍知性眼镜大美女 | 街拍, 地铁, 偷拍, 眼镜娘 | @qloog | [detail](https://opennana.com/awesome-prompt-gallery/subway-candid-intellectual-girl) |
 | 复古图书馆的奢华时尚大片 | 奢华风, 复古风, 电影感, 缎面裙 | @Noor_ul_ain43 | [detail](https://opennana.com/awesome-prompt-gallery/vintage-library-luxury-fashion) |
 | 劳力士超现实奢华海报 | 劳力士, 超现实, 极简风, 奢华感 | @Sheldon056 | [detail](https://opennana.com/awesome-prompt-gallery/rolex-surrealist-luxury-poster) |
-| 四大革命的美食微缩画 | 美食, 微缩, 微距, 革命 | @Gdgtify | [detail](https://opennana.com/awesome-prompt-gallery/food-dioramas-of-revolutions) |
-| 清晨初醒的温柔早安问候 | 日系风, 主视角, 生活感, 甜女友 | @ohmuyi | [detail](https://opennana.com/awesome-prompt-gallery/morning-greeting) |
-| 路易威登奢华时尚插画 | 奢牌, 插画, 高级感, 优雅 | @Noor_ul_ain43 | [detail](https://opennana.com/awesome-prompt-gallery/louis-vuitton-luxury-fashion-illustration) |
-| 宜家风格相爱说明书 | 宜家风, 插画, 复古, 情感 | @GlitterPixely | [detail](https://opennana.com/awesome-prompt-gallery/ikea-love-manual) |
-| ins风娜美俏皮俯拍写真 | 娜美, 俯拍, 吐舌, 俏皮 | @johnAGI168 | [detail](https://opennana.com/awesome-prompt-gallery/ins-nami-playful-top-down) |
-| 极简高桥流黑白光影海报 | 极简风, 高桥流, 排版术, 苹果风 | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/minimal-takahashi-light-poster) |
-| 云海坠落的巨神与巫女 | 剧场版, 吉卜力, 新海诚, 巫女服 | @oggii_0 | [detail](https://opennana.com/awesome-prompt-gallery/falling-colossus-shrine-maiden) |
-| 现代手冲咖啡信息图 | 手冲, 信息图, 极简风, 咖啡馆 | @Dheepanratnam | [detail](https://opennana.com/awesome-prompt-gallery/modern-pour-over-infographic) |
-| 超现实耐克帽商业信息图 | 信息图, 耐克帽, 商业风, 超现实 | @john_my07 | [detail](https://opennana.com/awesome-prompt-gallery/surreal-nike-cap-infographic) |
-| 史诗电影连贯动作定格画册 | 剧照, 动作, 网格图, 故事 | @GeorgeWuAI | [detail](https://opennana.com/awesome-prompt-gallery/epic-movie-action-stills) |
-| 硅谷AI创业飞行棋全览 | 飞行棋, 硅谷, 创业, 棋盘 | @cellinlab | [detail](https://opennana.com/awesome-prompt-gallery/silicon-valley-ai-startup-chess) |
-| 电紫烟雾中的飞跃运动少女 | 运动少女, 超现实, 电紫烟雾, 凌空飞跃 | @im_shahid7 | [detail](https://opennana.com/awesome-prompt-gallery/electric-violet-leaping-athlete) |
-| 奢华卧房里的印度尤物 | 异域女, 红心裙, 豪华床, 古典风 | @jarvis_og_AI | [detail](https://opennana.com/awesome-prompt-gallery/luxurious-bedroom-indian-beauty) |
-| 前卫奢华运动时尚大片 | 运动风, 前卫感, 大球体, 极简风 | @AIwithkhan | [detail](https://opennana.com/awesome-prompt-gallery/avant-garde-luxury-sports) |
-| 海贼王双重曝光情感电影海报 | 海贼王, 双重曝光, 电影海报, 3D写实 | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/one-piece-double-exposure-poster) |
-| 甄嬛传像素养成游戏概念图 | 甄嬛传, 概念图, 三视图, 养成类 | @cellinlab | [detail](https://opennana.com/awesome-prompt-gallery/empresses-in-palace-game-concept) |
-| 春日花田里的俏皮少女 | 春日氛围, 照片拼贴, 花田少女, 杂志大片 | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/spring-flower-field-girl) |
-| 十古佛角色卡牌展示 | 十古佛, 卡牌风, 立绘, 神佛 | @yhslgg | [detail](https://opennana.com/awesome-prompt-gallery/ten-ancient-buddhas-card) |
-| 极简风格角色设定图 | 角色设定, 极简风格, 三视图, 现代设计 | @aleenaamiir | [detail](https://opennana.com/awesome-prompt-gallery/minimal-character-sheet) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
