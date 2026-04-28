@@ -2,13 +2,568 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-04-27T17:20:01.762Z",
-  "total_reported": 438,
-  "total_pages": 22,
-  "total_archived": 438,
+  "fetched_at": "2026-04-28T17:46:05.909Z",
+  "total_reported": 473,
+  "total_pages": 24,
+  "total_archived": 473,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 13888,
+      "slug": "ai-facial-aesthetic-upgrade-report-requirements",
+      "title": "AI 五官美学升级报告要求",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2048736154875269139",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请基于用户上传的正面形象照片，生成一张横向 4:3 的高完成度「AI 五官美学升级报告 / Before & After Facial Aesthetic Upgrade Report」。\n\n请严格保留用户本人的身份特征、脸部辨识度、五官核心轮廓、年龄感、皮肤真实纹理和整体气质，让人一眼能认出是同一个人。不要换头，不要变成模板网红脸，不要通过换衣服来制造变化。本次升级重点只放在五官、轮廓、皮肤质感和面部精神状态上。\n\n画面采用「中央 Before / After 双脸主视觉 + 周围专业标注 + 底部方案矩阵」的横向报告版式。\n\n中央区域：\n左侧为 Before 原始脸部状态，尽量保持用户上传照片的真实状态；\n右侧为 After 五官美学升级模拟脸，必须仍然是同一个人，但看起来更精神、更清爽、更立体、更精致、更上镜。\n两张脸保持相似角度、相似光线、相似构图，方便形成清楚对比。\n\nAfter 的升级方向：\n韩系自然医美风、清爽高级、Clean Beauty、自然微调感、真实但更精致。\n目标是自然变帅、自然变精致、自然变高级，而不是明显整容脸。\n\n请在 After 脸上加入精致的编号圆点、细线箭头和局部放大注释，明确标注以下六个区域：\n\n01 眉毛 / Brow：\n分析眉形清晰度、眉峰眉尾、浓淡、左右协调度；建议自然修眉或男士自然眉方向，提升眉眼精神感。\n\n02 眼部 / Eyes：\n分析单双眼皮状态、眼神精神感、上睑状态、眼周疲态；建议自然型眼部精神感优化，不要夸张双眼皮，不要过度开眼角。\n\n03 鼻部 / Nose：\n分析鼻梁、鼻根、鼻头、鼻翼与中面部关系；建议自然增强鼻部立体感和鼻头精致度，避免过高鼻梁、过尖鼻头和假体感。\n\n04 面部轮廓 / Facial Contour：\n分析颧骨、下颌线、下巴、正面脸型比例；建议让下颌线更清晰、面部轮廓更利落，但不要模板化 V 脸，不要女性化。\n\n05 唇部与口周 / Lips & Mouth Area：\n分析唇形、嘴角、口周精致度和表情亲和力；建议轻微提升口周干净度和唇形自然度，不要丰唇过度。\n\n06 皮肤质感 / Skin & Texture：\n分析肤色均匀度、光泽感、气色、清爽度；After 皮肤更干净、更均匀、更有自然光泽，但必须保留真实皮肤纹理，避免过度磨皮、塑料感和蜡像感。\n\n信息模块：\n左侧信息区展示「原始五官观察」和「主要优化机会」；\n右侧信息区展示「建议动作」和「具体方式」；\n底部总结区展示「优先级矩阵」，包括：\n- 优先改善：修眉、皮肤管理、眼周精神感\n- 可尝试：自然纹眉、基础轻医美、口周精致度优化\n- 可评估：鼻部微调、轮廓线条优化\n- 高谨慎：骨相级项目、明显侵入式整形，仅作为面诊方向，不下绝对结论\n\n视觉风格：\n高端医美咨询提案板 + 潮流杂志内页 + 专业顾问分析图。\n背景以白色、米白、浅灰为主，少量银色、灰蓝、浅橄榄绿作为强调色。\n整体干净、高级、专业、有呼吸感，文字清晰易读，信息丰富但不拥挤。\n\n标题：\nAI 五官美学升级报告\nBefore & After Facial Aesthetic Upgrade Report\n\n辅助标签可使用：\nFACIAL RESET\nNATURAL ENHANCEMENT\nAesthetic Proposal\nPersonal Face Upgrade\n\n底部小字加入：\n本报告为五官美学方向评估与视觉提案，不替代医生面诊。涉及纹眉、半永久、注射、整形等项目时，请以正规机构专业评估为准。\n\n严格避免：\n不要生成衣品升级报告；\n不要重点换衣服、帽子、项链、包包；\n不要让 After 靠穿搭变帅；\n不要换头；\n不要网红脸；\n不要过度双眼皮、开眼角、高鼻梁、尖鼻头、V脸、丰唇；\n不要过度磨皮；\n不要把男性脸改得过于女性化；\n不要遗漏眉毛、眼睛、鼻子、面部轮廓、唇部口周、皮肤质感六大区域。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296951905-hshk63e9-1777296958256-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296951905-hshk63e9-1777296958256-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ai-facial-aesthetic-upgrade-report-requirements",
+      "reviewed_at": "2026-04-28T14:01:50.228Z",
+      "created_at": "2026-04-27T13:37:46.010Z",
+      "updated_at": "2026-04-28T14:01:50.228Z"
+    },
+    {
+      "id": 13887,
+      "slug": "premium-beard-analysis-poster",
+      "title": "高端男士胡须风格分析海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@RizwanAly07",
+      "source_url": "https://x.com/RizwanAly07/status/2048610196302250019",
+      "tags": [
+        "胡型图",
+        "理容风",
+        "奢华感",
+        "测评表",
+        "男士范"
+      ],
+      "prompts": [
+        {
+          "text": "Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一张高级的“胡须风格分析”海报，展示参考图像中的同一位男士。显示脸型、胡须密度、下颌线轮廓、胡须生长模式和胡须适合度评分。包含不同胡须风格的对比，如胡茬、短方正胡须、全络腮胡、山羊胡、范戴克胡、净面。添加侧脸视图和正脸视图。现代深蓝色奢华背景，专业理容信息图风格，高细节，逼真的面部一致性，时尚的排版，高级男士理容海报。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296896839-qrpk0oox-1777296903182-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296896839-qrpk0oox-1777296903182-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/premium-beard-analysis-poster",
+      "reviewed_at": "2026-04-27T17:20:58.742Z",
+      "created_at": "2026-04-27T13:36:39.354Z",
+      "updated_at": "2026-04-27T17:20:58.742Z"
+    },
+    {
+      "id": 13885,
+      "slug": "nest-inspired-sculpture-seat",
+      "title": "灵感源于鸟巢的雕塑座椅",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@aleenaamiir",
+      "source_url": "https://x.com/aleenaamiir/status/2048667175112802778",
+      "tags": [
+        "鸟巢椅",
+        "休闲椅",
+        "编织",
+        "自然风",
+        "概念化"
+      ],
+      "prompts": [
+        {
+          "text": "Conceptual transformation, bird nest construction techniques shaping a sculptural lounge chair, sequence from nest-building photography to weaving diagrams to organic structural abstraction to final product, interwoven frame forming seat and backrest, natural fibers with soft cushioning, earthy tones with refined finish, sustainable luxury aesthetic, presentation layout, sketches above, render below, warm natural lighting.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "概念转换，鸟巢建造技术塑造雕塑休闲椅，从筑巢摄影到编织图解到有机结构抽象再到最终产品的序列，交织框架形成座椅和靠背，天然纤维搭配柔软软垫，泥土色调搭配精致表面处理，可持续奢华美学，展示布局，上方草图，下方渲染图，温暖的自然光",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296607554-a9wm83tr-1777296633400-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296607554-a9wm83tr-1777296633400-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/nest-inspired-sculpture-seat",
+      "reviewed_at": "2026-04-28T14:01:52.617Z",
+      "created_at": "2026-04-27T13:33:05.196Z",
+      "updated_at": "2026-04-28T14:01:52.617Z"
+    },
+    {
+      "id": 13884,
+      "slug": "luxury-magazine-editorial",
+      "title": "现代奢华时尚杂志大片特写",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@XSydneyFan",
+      "source_url": "https://x.com/XSydneyFan/status/2048453550263644315",
+      "tags": [
+        "超写实",
+        "时尚大片",
+        "锁子甲",
+        "电影光影",
+        "现代女性"
+      ],
+      "prompts": [
+        {
+          "text": "{\n  \"image_generation_prompt\": {\n    \"style\": \"ultra-realistic, 8K, high-detail, cinematic portrait photography\",\n    \"subject\": {\n      \"type\": \"young woman\",\n      \"reference_image\": \"use uploaded image as primary facial and identity reference\",\n      \"pose\": {\n        \"description\": \"standing confidently, slightly leaning against a counter\",\n        \"body_language\": \"relaxed yet self-assured, shoulders back, head slightly tilted\",\n        \"expression\": \"confident smile, natural and engaging\"\n      }\n    },\n    \"appearance\": {\n      \"hair\": {\n        \"color\": \"dark brown to deep black\",\n        \"style\": \"sleek ponytail\",\n        \"texture\": \"smooth, glossy, well-groomed\"\n      },\n      \"face\": {\n        \"skin\": \"luminous, glowing, smooth texture, high realism pores\",\n        \"cheeks\": \"soft rosy blush\",\n        \"eyes\": \"naturally defined, subtle highlight reflections\",\n        \"lips\": \"light pink-red lipstick, slightly glossy finish\"\n      },\n      \"makeup\": {\n        \"style\": \"natural glam\",\n        \"finish\": \"dewy, radiant skin\",\n        \"details\": \"soft contour, subtle highlight, balanced tones\"\n      }\n    },\n    \"outfit\": {\n      \"type\": \"metallic chainmail fashion ensemble\",\n      \"top\": {\n        \"description\": \"draped cowl-neck halter top\",\n        \"material\": \"metallic silver chainmail\",\n        \"fit\": \"fluid drape with reflective texture\"\n      },\n      \"bottom\": {\n        \"description\": \"asymmetrical mini skirt\",\n        \"features\": [\n          \"high thigh slit\",\n          \"flowing metallic chainmail fabric\",\n          \"dynamic reflective surfaces\"\n        ]\n      },\n      \"accessories\": {\n        \"earrings\": \"small dangling golden earrings\",\n        \"necklace\": \"small red teardrop-shaped pendant necklace\",\n        \"waist\": \"thin delicate silver waist chain\"\n      }\n    },\n    \"environment\": {\n      \"setting\": \"modern indoor setting\",\n      \"background\": \"minimalist, softly blurred\",\n      \"prop\": \"counter surface for leaning pose\",\n      \"ambience\": \"luxury, fashion editorial vibe\"\n    },\n    \"lighting\": {\n      \"type\": \"soft studio lighting\",\n      \"direction\": \"front and slightly side-lit\",\n      \"effects\": [\n        \"soft shadows\",\n        \"skin glow enhancement\",\n        \"metallic reflections on outfit\",\n        \"cinematic highlights\"\n      ]\n    },\n    \"camera\": {\n      \"quality\": \"8K resolution\",\n      \"lens\": \"85mm portrait lens\",\n      \"depth_of_field\": \"shallow depth of field, subject in sharp focus, background blurred\",\n      \"framing\": \"mid-length portrait (waist-up to thigh)\",\n      \"angle\": \"slightly low or eye-level for confident presence\"\n    },\n    \"rendering\": {\n      \"detail_level\": \"extreme realism\",\n      \"textures\": [\n        \"skin micro-details\",\n        \"fabric reflections\",\n        \"hair strands definition\"\n      ],\n      \"color_grading\": \"balanced cinematic tones with slight warmth\",\n      \"sharpness\": \"high clarity, crisp focus on subject\"\n    },\n    \"mood\": {\n      \"tone\": \"confident, stylish, modern\",\n      \"aesthetic\": \"high-fashion editorial, luxury magazine look\"\n    }\n  }\n}",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "{\n  \"image_generation_prompt\": {\n    \"style\": \"超写实，8K，高细节，电影级人像摄影\",\n    \"subject\": {\n      \"type\": \"年轻女性\",\n      \"reference_image\": \"使用上传的图像作为主要面部和身份参考\",\n      \"pose\": {\n        \"description\": \"自信地站立，微微靠在柜台上\",\n        \"body_language\": \"放松但自信，双肩向后，头部微微倾斜\",\n        \"expression\": \"自信的微笑，自然且引人入胜\"\n      }\n    },\n    \"appearance\": {\n      \"hair\": {\n        \"color\": \"深棕色至深黑色\",\n        \"style\": \"光滑的马尾辫\",\n        \"texture\": \"顺滑、有光泽、打理得很好\"\n      },\n      \"face\": {\n        \"skin\": \"明亮、发光、平滑的质感，高写实毛孔\",\n        \"cheeks\": \"柔和的玫瑰色腮红\",\n        \"eyes\": \"自然分明，微妙的高光反射\",\n        \"lips\": \"浅粉红色口红，微光泽的饰面\"\n      },\n      \"makeup\": {\n        \"style\": \"自然魅力妆\",\n        \"finish\": \"清透发光的肌肤\",\n        \"details\": \"柔和修容，微妙高光，平衡的色调\"\n      }\n    },\n    \"outfit\": {\n      \"type\": \"金属锁子甲时尚套装\",\n      \"top\": {\n        \"description\": \"垂褶荡领背心上衣\",\n        \"material\": \"金属银色锁子甲\",\n        \"fit\": \"流畅的垂坠感带有反射纹理\"\n      },\n      \"bottom\": {\n        \"description\": \"不对称迷你裙\",\n        \"features\": [\n          \"高开叉\",\n          \"流动的金属锁子甲面料\",\n          \"动态反射表面\"\n        ]\n      },\n      \"accessories\": {\n        \"earrings\": \"小号金色垂坠耳环\",\n        \"necklace\": \"小红水滴形吊坠项链\",\n        \"waist\": \"纤细精致的银色腰链\"\n      }\n    },\n    \"environment\": {\n      \"setting\": \"现代室内环境\",\n      \"background\": \"极简主义，柔和模糊\",\n      \"prop\": \"用于倚靠姿势的柜台表面\",\n      \"ambience\": \"奢华，时尚大片氛围\"\n    },\n    \"lighting\": {\n      \"type\": \"柔和的影棚灯光\",\n      \"direction\": \"正面及轻微侧面打光\",\n      \"effects\": [\n        \"柔和阴影\",\n        \"肌肤发光增强\",\n        \"服装上的金属反射\",\n        \"电影级高光\"\n      ]\n    },\n    \"camera\": {\n      \"quality\": \"8K分辨率\",\n      \"lens\": \"85mm人像镜头\",\n      \"depth_of_field\": \"浅景深，主体清晰对焦，背景模糊\",\n      \"framing\": \"中长人像（腰部以上至大腿）\",\n      \"angle\": \"微低角度或平视角度以展现自信气场\"\n    },\n    \"rendering\": {\n      \"detail_level\": \"极致写实\",\n      \"textures\": [\n        \"皮肤微观细节\",\n        \"面料反射\",\n        \"发丝清晰度\"\n      ],\n      \"color_grading\": \"带有轻微暖色调的平衡电影色调\",\n      \"sharpness\": \"高清晰度，主体对焦锐利\"\n    },\n    \"mood\": {\n      \"tone\": \"自信、时尚、现代\",\n      \"aesthetic\": \"高级时尚大片，奢华杂志外观\"\n    }\n  }\n}",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296523257-hcj5nuvd-1777296526504-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296523257-hcj5nuvd-1777296526504-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/luxury-magazine-editorial",
+      "reviewed_at": "2026-04-27T17:21:03.959Z",
+      "created_at": "2026-04-27T13:30:45.956Z",
+      "updated_at": "2026-04-27T17:21:03.959Z"
+    },
+    {
+      "id": 13883,
+      "slug": "hand-drawn-sticker-art",
+      "title": "手绘贴纸风可爱插画",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@aleenaamiir",
+      "source_url": "https://x.com/aleenaamiir/status/2048702250856694031",
+      "tags": [
+        "手绘",
+        "贴纸",
+        "插画",
+        "俏皮",
+        "极简"
+      ],
+      "prompts": [
+        {
+          "text": "Hand-drawn sticker-style illustration of [Subject/Object], bold clean outlines, vibrant flat colors, expressive and cute design, slightly exaggerated features, fun and modern aesthetic, high contrast, playful personality, minimal but eye-catching",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "手绘贴纸风格插图[主题/对象], 粗犷干净的轮廓, 鲜艳的纯色, 富有表现力且可爱的设计, 略带夸张的特征, 有趣且现代的美学, 高对比度, 俏皮的个性, 极简但引人注目",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296406134-fuhkrma7-1777296407759-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777296406134-fuhkrma7-1777296407870-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296406134-fuhkrma7-1777296407759-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hand-drawn-sticker-art",
+      "reviewed_at": "2026-04-27T17:21:05.323Z",
+      "created_at": "2026-04-27T13:30:31.211Z",
+      "updated_at": "2026-04-27T17:21:05.323Z"
+    },
+    {
+      "id": 13882,
+      "slug": "lost-in-japan-poster",
+      "title": "迷失在日本的高级旅行海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@chatgptpaglu",
+      "source_url": "https://x.com/chatgptpaglu/status/2048623805334159525",
+      "tags": [
+        "旅行海报",
+        "图形拼贴",
+        "日本风情",
+        "电影质感",
+        "复古设计"
+      ],
+      "prompts": [
+        {
+          "text": "Create a premium stylized travel poster / graphic collage for JAPAN.\n\nThe main subject MUST be a stylish international female tourist (young woman, feminine face, long hair, slim body). She must clearly look female, not male or gender-neutral. Use a completely unique face identity.\n\nShe is wearing modern travel fashion: linen shirt, neutral tones outfit, sunglasses, backpack, holding a camera. She looks confident and exploring.\n\nIMPORTANT: Use the SAME color theme and visual style as a cinematic Turkey travel poster:\nwarm golden tones, teal accents, beige vintage paper textures, soft sunset lighting, slightly desaturated but rich colors. Keep the exact same mood, lighting, and color grading.\n\nKeep layout and composition consistent with a travel poster series:\ncentral character, layered collage background, balanced editorial design.\n\nPlace her in a dynamic collage composition surrounded by Japanese elements:\nMount Fuji, Tokyo city skyline, cherry blossoms, pagoda temple, neon street signs, ramen, sushi.\n\nApply SAME collage style:\ntorn paper edges, halftone dots, vintage textures, travel stamps, sticker elements.\n\nInclude:\n\"ARRIVED TOKYO\" stamp\ndirection board (Shibuya, Kyoto, Osaka)\nJapanese stamp style badge\nminimal decorative icons\n\nAdd big headline:\n\"LOST IN JAPAN\"\n\nAdd small text:\n\"Where culture meets adventure\"\n\"Not all those who wander are lost\"\n\nLighting: cinematic warm glow, dramatic shadows (same as Turkey version)\nStyle: editorial magazine collage, ultra detailed, 4K, print ready\n\nIMPORTANT:\nmatch the color grading, tones, and lighting exactly with the  poster style",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "为日本创作一张高级风格化的旅行海报/图形拼贴。\n\n主要对象必须是一位时尚的国际女性游客（年轻女子，女性化的面孔，长发，苗条身材）。她必须明显看起来是女性，而不是男性或中性。使用完全独特的面孔特征。\n\n她穿着现代旅行时尚装束：亚麻衬衫，中性色调的服装，太阳镜，背包，拿着相机。她看起来自信且正在探索。\n\n重要提示：使用与电影感土耳其旅行海报相同的色彩主题和视觉风格：温暖的金色调，青色点缀，米色复古纸张纹理，柔和的日落光照，略微去饱和但丰富的色彩。保持完全相同的情绪、光照和色彩分级。\n\n保持布局和构图与旅行海报系列一致：中心人物，分层拼贴背景，平衡的编辑设计。\n\n将她置于一个充满活力的拼贴构图中，周围环绕着日本元素：富士山，东京城市天际线，樱花，宝塔寺庙，霓虹街头招牌，拉面，寿司。\n\n应用相同的拼贴风格：撕裂的纸张边缘，半调网点，复古纹理，旅行印章，贴纸元素。\n\n包括：\n\"ARRIVED TOKYO\"印章\n指示牌（涩谷，京都，大阪）\n日式印章风格徽章\n极简装饰图标\n\n添加大标题：\n\"LOST IN JAPAN\"\n\n添加小文本：\n\"Where culture meets adventure\"\n\"Not all those who wander are lost\"\n\n光照：电影感温暖光芒，戏剧性阴影（与土耳其版本相同）\n风格：编辑杂志拼贴，超细节，4K，印刷就绪\n\n重要提示：\n将色彩分级、色调和光照与海报风格完全匹配",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777296460849-p71j53a5-1777296469304-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777296460849-p71j53a5-1777296469304-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lost-in-japan-poster",
+      "reviewed_at": "2026-04-27T17:21:07.589Z",
+      "created_at": "2026-04-27T13:29:26.519Z",
+      "updated_at": "2026-04-27T17:21:07.589Z"
+    },
+    {
+      "id": 13881,
+      "slug": "neo-chinese-minimal-xiang-yu-poster-design",
+      "title": "新中式极简项羽海报设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@liyue_ai",
+      "source_url": "https://x.com/liyue_ai/status/2048676465856987231",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "你是一个高端东方美学视觉生成系统，目标是为人物、意象、器物、城市或抽象主题生成新中式极简东方海报。\n\n一、整体视觉方向\n\n生成一张 9:16 竖版新中式高级海报，整体风格为：\n\n极简（minimal）\n克制（restrained）\n留白（negative space）\n东方意境（oriental poetic atmosphere）\n高端商业视觉（luxury oriental editorial）\n\n背景采用：\n宣纸白（#F5F0E6）或极浅暖白渐变\n可带极轻微纸张肌理（rice paper texture, subtle）\n保持大面积留白（不少于40%）\n\n整体视觉需具备：\n高级感、呼吸感、东方韵律、视觉张力\n\n二、核心设计原则\n主体必须为画面视觉中心（视觉占比 40%–65%）\n构图优先使用：\nS 型流动构图（S-curve composition）\n对角线构图（diagonal flow）\n画面“少即是多”，拒绝信息堆叠\n不使用现代 UI 卡片、边框、信息图结构\n所有元素需“自然生长”，避免拼贴感\n强调气韵，而非单纯写实\n风格关键词：\n\n新中式（Neo-Chinese aesthetics）\n水墨融合（ink + modern rendering）\n东方商业插画（oriental luxury illustration）\n诗意叙事（poetic storytelling）\n\n三、画面结构\n1. 顶部标题区（左上或沿构图走势）\n\n主标题（中文）：\n{主题名称}\n\n副标题（短句）：\n{一句具有东方意境的表达}\n细横线（极细，浅灰或淡墨）\n\n英文/拼音（可选）：\n{拼音或英文表达}\n\n排版要求：\n不居中堆叠\n顺应构图走势（随 S 曲线或对角线排布）\n留白充足\n\n2. 主体视觉（中部）\n\n生成一个具有东方审美表达的核心主体：\n{主体内容：人物 / 花 / 城市 / 山水 / 器物 / 抽象意象}\n\n要求：\n具有真实质感 + 艺术提炼（写实 × 意境）\n材质可信（丝绸 / 石 / 水 / 雾 / 金属 / 宣纸）\n光影为：\n\n电影级侧逆光（cinematic side/back lighting）\n体积光（volumetric light）\n柔和轮廓光（rim light）\n\n可加入元素（必须克制）：\n云气 / 水纹 / 金线 / 飘带 / 花瓣 / 雾气\n禁止复杂背景\n允许极简承托物（如石、舟、水面、枝）\n\n3. 视觉辅助结构\n意境型点缀结构（非信息块）\n可选 2–4 个“轻量表达元素”：\n\n例如：\n印章（朱红，极简）\n小字题注（单行或双行）\n细线图形（山形 / 水纹 / 圆弧）\n抽象符号（如金线流动）\n\n要求：\n不规则分布\n不可对齐成 UI 模块\n必须“像画的一部分”\n\n4. 底部留白区\n\n底部只保留一句总结（极克制）：\n{一句具有东方哲思或诗性的表达}\n\n风格：\n灰色小字\n字距略宽\n居中或偏侧\n不可抢视觉\n\n四、字体与排版\n\n主标题：\n宋体 / 仿宋 / 高级黑体\n大字号，低字距，稳重\n\n副标题：\n浅灰\n中等字号\n字距略松\n\n英文：\n极简无衬线（Helvetica / 思源黑体风格）\n\n整体原则：\n排版“呼吸感优先”\n不密集、不对齐过度\n\n五、色彩规范\n主背景：\n宣纸白 / 米白 / 极浅暖灰\n\n主色：\n墨黑 / 深灰\n\n点缀色（仅少量使用）：\n鎏金（金色细线）\n朱砂红（印章）\n青绿（山水）\n靛蓝 / 松石绿\n\n原则：\n低饱和 + 局部提亮\n避免大面积纯色块\n\n六、图像质量要求\n\n8K / 超清细节\n真实材质表现（physically accurate materials）\n无塑料感、无低质贴图\n无畸形结构\n边缘干净\n\n强调：\n气韵 > 细节堆叠\n克制 > 炫技\n\n七、禁止项\n不要：\n❌ 卡片 / 圆角 / 信息图排版\n❌ 复杂背景\n❌ 大面积渐变炫光\n❌ 廉价国潮纹样\n❌ 过度金色堆叠\n❌ 文案过多\n❌ 主体过小\n\n---\n主题名称：项羽",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777295083445-ogxf7xa3-1777295090740-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777295083445-ogxf7xa3-1777295090740-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/neo-chinese-minimal-xiang-yu-poster-design",
+      "reviewed_at": "2026-04-28T14:01:54.916Z",
+      "created_at": "2026-04-27T13:21:53.573Z",
+      "updated_at": "2026-04-28T14:01:54.916Z"
+    },
+    {
+      "id": 13880,
+      "slug": "create-modern-geometric-typography-concept-poster",
+      "title": "创作现代几何字体概念海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2048691025342853442",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请基于用户输入的【核心文字 / 单词 / 词组 / 短句 / 字母】，创作一张高完成度的「现代平面几何字体概念海报 / Geometric Typographic Concept Poster」。这不是普通插画，也不是简单把文字放大后的字效海报，而是一张“基于主题词含义自动构建视觉隐喻”的现代平面设计海报。画面需要以文字为主视觉，以几何图形、色块、线条、空间关系、透明叠层、模块化结构和符号化元素作为语义延展，让观众一眼感受到这个词语的气质、情绪、关系和内在含义。\n\n用户输入如下：核心文字 / 单词 / 词组 / 短句 / 字母：【____】；\n文字语言：【中文 / 英文 / 中英混排】；\n可选补充语境：【____】；\n可选情绪倾向：【____】；\n可选禁用元素：【____】。\n\n请先真正理解用户输入内容的字面含义、情绪气质、隐含象征、文化联想、心理感受、语义张力，并判断它更偏向哪一类主题：如果是情绪型，例如孤独、自由、热烈、焦虑、松弛、压抑、浪漫、冷漠，请重点通过色块关系、留白比例、图形距离、方向感、密度变化、视觉重心来表达；如果是动作型，例如逃离、靠近、坠落、生长、爆发、旋转、流动、停滞，请重点通过几何运动轨迹、字体切割与错位、方向线条、模块推进关系、斜向构图和速度感来表达；如果是关系型，例如连接、对抗、平衡、依赖、分裂、共生、拉扯、融合，请重点通过两个或多个主体之间的距离、重叠、分离、嵌套、包裹、对称、失衡、碰撞、交错、连接节点和中介结构来表达；如果是抽象概念型，例如时间、秩序、边界、记忆、命运、欲望、真相、规则、偏见，请先找到一个简洁但具体的视觉隐喻，再通过系统感排版、网格变化、遮挡、偏移、层级结构、模块重复与变化来表达；如果是具象物象型，例如火焰、种子、月亮、桥梁、岛屿、风、镜子，不要直接画成写实插图，而应将其提炼为符号化、几何化、排版化、结构化的视觉表达。\n\n整体画面应呈现为一张现代、清爽、有设计感、有传播力、有视觉记忆点、图形与文字强关联、有概念但不空洞、大胆但不杂乱、有留白但不单薄的现代平面几何字体概念海报。用户输入的文字必须作为画面核心标题，成为第一视觉主体；文字可以横排、竖排、拆分、错位、重组、局部遮挡、嵌套、切片、偏移、透明覆盖，或与几何图形形成正负形关系；图形元素必须围绕文字展开，可以穿过文字、支撑文字、切割文字、包裹文字，并与文字形成结构互动；画面元素数量要控制，建议以 1 组核心文字主体、1 组核心几何隐喻系统、少量辅助线条 / 标签 / 点阵 / 小字信息为主；必须保留足够留白，让画面透气、清爽、有当代感；构图可以大胆，但不能让文字失去可读性；整张画面要有封面感、展览海报感、传播感和视觉停留感。\n\n视觉风格请采用 modern graphic design、geometric composition、typographic poster、experimental typography、clean flat design、crisp vector-like precision、contemporary visual identity aesthetics 的方向，整体气质应现代、平面、清亮、理性、有设计感、有实验性、有系统感、有高级感，不复古、不厚重、不脏乱、不空洞。请避免以下风格：普通插画、写实摄影、复古文学封面、包豪斯旧海报感、构成主义老派风格、厚重建筑隐喻、暗黑戏剧化、电商海报感、PPT 封面感、过度模板感。\n\n请根据主题词的气质自动选择最匹配的配色方案，但整体要保持现代、醒目、干净、有设计感。例如，活力 / 热烈 / 爆发可使用 bright orange、coral red、vivid yellow、electric blue；冷静 / 秩序 / 理性可使用 navy、black、white、gray、silver blue；温柔 / 记忆 / 柔和可使用 soft pink、warm white、pale green、light yellow、muted lavender；冲突 / 危险 / 对抗可使用 red、black、white、neon green 等高对比配色；自由 / 轻盈 / 开放可使用 sky blue、mint green、white、bright yellow、aqua cyan；神秘 / 哲思 / 深层意识可使用 indigo、deep violet、black 与亮色点缀。可以使用高明度现代色、少量渐变、半透明几何片，但不要做旧、不要脏、不要厚重、不要灰暗沉闷，整体要“轻盈但有力量，现代但不空洞”。\n\n字体与排版必须清晰、醒目、可读，且具有现代感、几何感、设计感和一定实验性；中文适合使用有力量的无衬线标题字、几何字体、现代设计感字体，英文适合使用 bold grotesk、condensed sans、geometric sans、editorial sans 等风格；允许局部变形，但不能影响整体识别；字体与图形之间应有明确互动关系，而不是图文分离；可以加入一句非常短的小字说明来深化主题，例如 “A visual state of ____”、“The shape of ____”、“Between ____ and ____”，或根据中文语境自动生成一句简洁副标题，但必须克制，不要抢核心文字的视觉权重。\n\n图形元素不能只是装饰，必须对主题词形成视觉解释；可使用圆形、矩形、三角形、线段、圆环、路径线、网格、波形、箭头、模块化色块、透明叠层、点阵、标签、切片、偏移框、数据感辅助符号等元素；图形必须服务主题语义、强化排版节奏、增加视觉记忆点、不喧宾夺主，并与文字共同构成一个完整的视觉句子。整体质感应干净、crisp、vector-like、带轻微数字感、精致、高级、平面、当代；可以有非常轻微的渐变、少量透明叠层、细腻而克制的设计颗粒感；不要厚重纹理、脏旧纸张、过度噪点、油画质感、复古拼贴、大面积阴影或复杂立体建模感。\n\n请避免以下问题：不要做成普通插画、不要做成写实摄影、不要做成复古旧海报、不要做成厚重文学封面、不要堆砌过多元素、不要让图形和词义脱节、不要只是把文字放大后加背景、不要出现廉价模板感、不要过度装饰、不要让画面灰暗沉闷脏乱、不要让文字不可读。最终成图应呈现为一张现代、平面、几何、极简、醒目、好看、有概念、有传播力的字体概念海报，让人感觉“这个词被设计成了一个视觉符号”、“图形不是装饰，而是在解释这个词”、“字体、图形、色彩和留白共同组成了一个完整的视觉句子”、“AI 真正理解了这个主题词，然后进行了设计，而不是只做表面装饰”。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777294699239-syfwmp5h-1777294701146-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777294699239-syfwmp5h-1777294701950-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777294699239-syfwmp5h-1777294701146-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/create-modern-geometric-typography-concept-poster",
+      "reviewed_at": "2026-04-27T17:23:44.258Z",
+      "created_at": "2026-04-27T13:13:30.914Z",
+      "updated_at": "2026-04-27T17:23:44.258Z"
+    },
+    {
+      "id": 13878,
+      "slug": "got-dark-fantasy-grid",
+      "title": "权游风四宫格暗黑奇幻角色海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSynthia",
+      "source_url": "https://x.com/AIwithSynthia/status/2048741594606825761",
+      "tags": [
+        "权游风",
+        "暗黑风",
+        "角色集",
+        "中世纪",
+        "冰与火"
+      ],
+      "prompts": [
+        {
+          "text": "Cinematic fantasy character poster grid, inspired by Game of Thrones, 4-panel layout, each panel featuring a different warrior king or queen, ultra-detailed armor, dramatic lighting, fire and ice elements, large bold typography titles like “THE DRAGON QUEEN”, “THE NORTH KING”, “THE LION”, “THE RAVEN”, medieval castles in background, smoke, embers, snow particles, epic high contrast, ultra-realistic, 8k, dark fantasy tone",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "电影感奇幻角色海报网格，灵感来自权力的游戏，4面板布局，每个面板展示一位不同的战士国王或女王，超精细盔甲，戏剧性光影，火与冰元素，大号粗体排版标题如“龙之女王”、“北境之王”、“雄狮”、“渡鸦”，背景中的中世纪城堡，烟雾、余烬、雪花粒子，史诗级高对比度，超写实，8k，黑暗奇幻基调",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777295016943-b5u9tifs-1777295021171-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777295016943-b5u9tifs-1777295021171-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/got-dark-fantasy-grid",
+      "reviewed_at": "2026-04-27T17:23:49.836Z",
+      "created_at": "2026-04-27T13:05:45.986Z",
+      "updated_at": "2026-04-27T17:23:49.836Z"
+    },
+    {
+      "id": 13876,
+      "slug": "90-day-health-management",
+      "title": "90 天体检后健康管理计划",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2048607751958339974",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请根据我上传的体检报告，创作一张高完成度、适合手机端查看的「体检报告计划卡 / Health Plan Card」。\n\n这不是体检摘要海报，而是一张围绕“接下来如何按阶段推进健康管理”展开的计划图。请自动从体检报告中提炼最重要的健康管理任务，并把它们整理成一张具有时间推进逻辑的健康管理路线图。\n\n【核心任务】\n请自动识别体检报告中最值得管理的 3–6 个重点问题，并将其整理成“阶段计划”。\n整张图要帮助用户理解：\n- 接下来 7 天做什么\n- 接下来 30 天做什么\n- 接下来 90 天做什么\n- 每天和每周可以坚持什么\n- 到什么时间点适合复查什么\n\n【内容表达方向】\n整体要偏“计划性、路线图、阶段推进、执行节奏”。\n重点不在展示全部体检数据，而在于把健康管理拆成清晰阶段。\n\n【推荐内容模块】\n1. 顶部标题区\n- 主标题可为：体检报告计划卡 / 90天健康管理计划 / 体检后健康改善路线图\n- 副标题：根据本次体检报告整理的分阶段管理建议\n\n2. 核心目标区\n- 自动提炼 3–5 个健康管理主目标\n- 例如：\n  - 控制心血管风险\n  - 减轻体重与代谢负担\n  - 改善饮食与生活习惯\n  - 处理需要确认的问题\n  - 建立复查节奏\n\n3. 第1阶段（1–7天）\n- 先做确认和记录\n- 哪些问题建议优先处理 / 复查\n- 哪些基础指标要开始记录\n- 哪些生活方式先开始调整\n\n4. 第2阶段（第2–4周）\n- 开始稳定执行饮食、步行、轻训练、睡眠管理\n- 每周做什么\n- 日常要坚持什么\n- 以“可执行小目标”为主\n\n5. 第3阶段（1–3个月）\n- 体重、血压、血脂、尿酸、肝功能等是否有改善\n- 哪些项目适合复查\n- 哪些问题继续随访\n- 形成阶段性成果目标\n\n6. 每日 / 每周执行区\n- 每天做什么\n- 每周做什么\n- 可用短句 + 小卡片形式表达\n- 例如：饭后步行、记录体重、少甜饮料、规律睡眠、轻力量训练等\n- 内容根据报告重点自动适配\n\n7. 复查与随访区\n- 自动识别哪些问题更适合“复查确认”或“定期随访”\n- 用温和、非诊断式表述，例如：\n  - 建议按需复查\n  - 建议门诊进一步评估\n  - 建议随访观察\n\n8. 警示提醒区\n- 哪些情况出现时要停止拖延并及时联系医生\n- 用红色提示区集中表达\n\n【视觉要求】\n- 竖版 9:16，适配 iPhone\n- 模块清晰，具备“阶段路线图”感觉\n- 可使用时间轴、阶段卡片、编号模块、箭头关系\n- 字号大，适合中老年用户阅读\n- 主色建议为绿色 / 蓝绿色，辅助色用于区分阶段\n- 画面要专业、清爽、计划感强\n- 可以加入健康人物插画或家庭场景辅助视觉，但重点仍然是计划结构\n\n【输出目标】\n最终生成的是一张“按时间推进的体检报告健康管理计划卡”，让用户看到后知道未来 7 天、30 天、90 天该怎么做。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777293366080-j7m3ak89-1777293371192-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777293366080-j7m3ak89-1777293371192-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/90-day-health-management",
+      "reviewed_at": "2026-04-28T14:01:57.881Z",
+      "created_at": "2026-04-27T12:40:30.886Z",
+      "updated_at": "2026-04-28T14:01:57.881Z"
+    },
+    {
+      "id": 13875,
+      "slug": "lotus-rebirth-pure-land",
+      "title": "七宝池中莲花化生的极乐净土",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@leyu37829",
+      "source_url": "https://x.com/leyu37829/status/2047758555596661002",
+      "tags": [
+        "佛国",
+        "七宝池",
+        "莲花",
+        "金光",
+        "曼陀罗"
+      ],
+      "prompts": [
+        {
+          "text": "The Western Pure Land of Ultimate Bliss (also known as the Western Pure Land, the Land of Peaceful Nurturance), is the Buddha-land of Amitabha Buddha (Buddha of Infinite Life), whose core characteristic is the absence of all suffering and the reception of only joy, forming a stark contrast with our \"Endurance\" (Saha) world.\nLocated in the west of our world, at a distance of ten trillion Buddha-lands away (from the \"Amitabha Sutra\").\n\nBuddha Lord: The founding teacher Amitabha Buddha (Infinite Light, Infinite Life), resides permanently to teach the Dharma; the left and right attendants are Avalokitesvara Bodhisattva and Mahasthamaprapta Bodhisattva, collectively known as the \"Three Sages of the Western Pure Land\".\n\nLand Environment: Adorned with seven treasures, flawless and perfect\nEarth: The ground is made of gold, flat and soft, bright and clean, with no mountains, rivers, ditches, thorns, dirt, or stones.\nSeven Treasure Ponds and Water of Eight Virtues:\nSeven Treasure Ponds are everywhere (gold, silver, lapis lazuli, crystal, agate, ruby, carnelian).\nThe pond water possesses eight virtues: sweet, cold, soft, light, clear, fragrant, when drinking, and after drinking, it can eliminate afflictions, nourish the body, and please the mind.\nGolden sand at the bottom of the ponds, seven-treasure paths and steps, lotus flowers in the ponds are as large as cartwheels, in blue, yellow, red, and white, each radiating light.\nArchitecture: Seven Treasure pavilions, palaces, and lecture halls, floating in the sky, changing size at will, bright and transparent, surpassing the heavenly realms countless times.\nTreasure Trees and Celestial Music:\nSeven rows of trees, seven rows of railings, seven rows of nets, all made of four treasures.\nWhen the wind blows through the treasure trees and nets, it produces subtle Dharma sounds, like hundreds and thousands of musical instruments playing simultaneously; those who hear it naturally give rise to the mind of mindfulness of the Buddha, mindfulness of the Dharma, and mindfulness of the Sangha.\nClimate and Celestial Rain: No cold or heat, no wind or rain, forever mild and comfortable; during the six periods of day and night, celestial Mandarava flowers rain down, falling colorfully, with a fragrant scent.\nRare Birds: White cranes, peacocks, parrots, Kalavinkas, are all manifestations created by the Buddha, emitting harmonious and elegant sounds, proclaiming the Buddha Dharma, causing sentient beings to constantly give rise to good thoughts.\n\nSentient Beings: No suffering, only joy, infinite lifespan\nMethod of Rebirth: Sentient beings are born by transformation from lotus flowers in the Seven Treasure Ponds, not from the womb of parents, free from the suffering of birth, aging, illness, and death.\nPhysical Form: Purple-golden bodies, with magnificent marks, similar to Amitabha Buddha; possessing the five supernatural powers of the heavenly eye, heavenly ear, knowledge of others' minds, knowledge of past lives, and spiritual penetration, free and unhindered.\nLifespan: Boundless and limitless asamkhyeya kalpas, almost eternal, without premature death or aging.\nMentality: All are supreme good people, free from greed, anger, and ignorance, free from jealousy and fighting, everyone is compassionate and equal, with pure wisdom, constantly hearing the Buddha Dharma, never retreating from Bodhi.\nLife: Clothing and food naturally manifest, no labor required; in the early morning, one can go to other Buddha-lands ten trillion away to make offerings to the Buddhas, returning by mealtime, free and unhindered.\n\nTime and Space: Infinite and eternal\nTime: No day or night, no years or months, eternal bliss, the world has no changes of \"formation, existence, destruction, and emptiness\".\nSpace: Vast and boundless, even if all sentient beings of the ten directions go there, it will not be crowded; one speck of dust can contain a Three Thousand Great Thousand Worlds, all things are unhindered.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "西方极乐世界（又称西方净土、安乐国），是阿弥陀佛（无量寿佛）的佛土，核心特点是无有众苦、但受诸乐，与我们这个 “堪忍”（娑婆）世界形成鲜明对比。\n在我们世界的西方，距离十万亿佛土之遥（《阿弥陀经》）。\n\n佛主：教主阿弥陀佛（无量光、无量寿），常住说法；左右胁侍为观世音菩萨、大势至菩萨，合称 “西方三圣”。\n\n国土环境：七宝庄严，完美无瑕\n大地：黄金为地，平坦柔软、光明洁净，无山川沟壑、荆棘土石。\n七宝池与八功德水：\n遍地七宝池（金、银、琉璃、玻璃、砗磲、赤珠、玛瑙）。\n池水具八功德：甘、冷、软、轻、清、香、饮时、饮已，能除烦恼、润身悦心。\n池底金沙，阶道七宝，池中莲花大如车轮，青、黄、赤、白，各放光明。\n建筑：七宝楼阁、宫殿、讲堂，浮空而起、随心大小，光明通透，胜过天界无数倍。\n宝树与天乐：\n七重行树、七重栏楯、七重罗网，皆四宝所成。\n风吹宝树罗网，出微妙法音，如百千乐同时俱作，闻者自然生念佛、念法、念僧之心。\n气候与天雨：无寒暑、无风雨，永远温和舒适；昼夜六时，天雨曼陀罗花，缤纷飘落，香气芬芳。\n奇禽：白鹤、孔雀、鹦鹉、迦陵频伽等，皆佛变化所作，出和雅音，宣说佛法，令众生常生善念。\n\n众生：无苦唯乐，寿命无量\n往生方式：众生由七宝池莲花化生，非父母胎生，无生老病死之苦。\n身形：紫磨金色身，相好庄严，与阿弥陀佛相似；具天眼、天耳、他心、宿命、神足五通，自在无碍。\n寿命：无量无边阿僧祇劫，几乎永恒，无夭折衰老。\n心性：皆是诸上善人，无贪嗔痴、无嫉妒争斗，人人慈悲平等、智慧清净，常闻佛法、不退菩提。\n生活：衣食自然化现，不需劳作；清晨可赴他方十万亿佛土供养诸佛，食时即返，自在无碍。\n\n时间与空间：无限永恒\n时间：无昼夜、无年月，永恒安乐，世界无 “成住坏空” 之变。\n空间：广大无边，十方众生尽往亦不拥挤；一微尘可纳三千大千世界，事事无碍。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777293177413-hztd3493-1777293183972-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777293177413-hztd3493-1777293183972-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lotus-rebirth-pure-land",
+      "reviewed_at": "2026-04-28T14:02:00.327Z",
+      "created_at": "2026-04-27T12:37:48.751Z",
+      "updated_at": "2026-04-28T14:02:00.327Z"
+    },
+    {
+      "id": 13874,
+      "slug": "3d-french-student-character-sheet",
+      "title": "3D法国女学生角色设定图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@OlivioSarikas",
+      "source_url": "https://x.com/OlivioSarikas/status/2048353349960085692",
+      "tags": [
+        "3D角色",
+        "游戏设定",
+        "法国少女",
+        "角色立绘",
+        "三视图"
+      ],
+      "prompts": [
+        {
+          "text": "a highly detailed 3D gaming character sheet,   \n- on the left side a beautiful female french student ,  head front view + side view, assesoire samples, character front view and back viere,   \n- on the right side details about her: name, age, job, city, size, weight, character descritpion, hobbies, streghts, weaknesses, backstory,",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张高度细节的3D游戏角色设定图，   \n- 左侧是一位美丽的法国女学生，头部正视图 + 侧视图，配饰样本，角色正视图和背视图，   \n- 右侧是关于她的详细信息：姓名、年龄、工作、城市、身高、体重、角色描述、爱好、优势、弱点、背景故事，",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777293129439-68u9qsj4-1777293134008-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777293129439-68u9qsj4-1777293134008-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/3d-french-student-character-sheet",
+      "reviewed_at": "2026-04-27T17:24:00.027Z",
+      "created_at": "2026-04-27T12:33:07.549Z",
+      "updated_at": "2026-04-27T17:24:00.027Z"
+    },
+    {
+      "id": 13873,
+      "slug": "zhao-kuangyin-wechat-moments",
+      "title": "赵匡胤发的朋友圈太魔性了",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ohmuyi",
+      "source_url": "https://x.com/ohmuyi/status/2048563362611736581",
+      "tags": [
+        "脑洞",
+        "朋友圈",
+        "兵变",
+        "搞笑",
+        "穿越"
+      ],
+      "prompts": [
+        {
+          "text": "WeChat Moments of the Chenqiao Mutiny",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "陈桥兵变的微信朋友圈",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777292691437-6ti89r90-1777292698843-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777292691437-6ti89r90-1777292698843-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/zhao-kuangyin-wechat-moments",
+      "reviewed_at": "2026-04-28T14:02:01.941Z",
+      "created_at": "2026-04-27T12:25:38.598Z",
+      "updated_at": "2026-04-28T14:02:01.941Z"
+    },
+    {
+      "id": 13872,
+      "slug": "mushroom-lamp-design-board",
+      "title": "蘑菇生长概念台灯设计板",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@aleenaamiir",
+      "source_url": "https://x.com/aleenaamiir/status/2048575290943951085",
+      "tags": [
+        "概念设计",
+        "蘑菇台灯",
+        "有机生长",
+        "现代美学",
+        "暖光氛围"
+      ],
+      "prompts": [
+        {
+          "text": "Conceptual transformation, organic mushroom growth shaping a soft ambient table lamp, sequence from forest macro photography to growth stage diagrams to rounded volumetric abstraction to final object, dome-like top diffusing warm light, soft-touch matte material, earthy tones with subtle gradients, cozy modern aesthetic, design board layout, sketches top, render bottom, warm ambient lighting.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "概念转换，有机蘑菇生长塑造出一盏柔和的氛围台灯，从森林微距摄影到生长阶段图表，再到圆润的体积抽象，最后到最终物体的序列，穹顶般的顶部漫射出温暖的光线，柔触感哑光材质，带有微妙渐变的泥土色调，舒适的现代美学，设计板布局，顶部草图，底部渲染，温暖的氛围照明。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777292015839-azgreg60-1777292017738-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777292015839-azgreg60-1777292017738-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/mushroom-lamp-design-board",
+      "reviewed_at": "2026-04-28T14:02:03.847Z",
+      "created_at": "2026-04-27T12:24:27.657Z",
+      "updated_at": "2026-04-28T14:02:03.847Z"
+    },
+    {
+      "id": 13871,
+      "slug": "luxury-emerald-haute-couture",
+      "title": "奢华祖母绿高定封面大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Ozayrr_irl",
+      "source_url": "https://x.com/Ozayrr_irl/status/2048326789492003317",
+      "tags": [
+        "高定",
+        "绿宝石",
+        "真丝裙",
+        "暗黑风",
+        "大片感"
+      ],
+      "prompts": [
+        {
+          "text": "A stunning luxury fashion magazine cover for a fictional brand called \"VELOUR\" — bold silver serif masthead at the top. A young, cute white woman with soft facial features, big doe eyes, rosy cheeks, and loosely pinned-up auburn hair with soft face-framing tendrils stands tall in the center frame — one hand resting lightly on her collarbone, the other hanging naturally at her side, chin slightly tilted upward, lips softly closed, eyes locked on the camera with effortless calm.\n\nShe wears a floor-length emerald green liquid satin column gown — sleek and form-fitting through the body, with a dramatic sculptural one-shoulder asymmetric neckline that rises into a sharp architectural petal on the left side. A long sheer emerald overlay trails behind her like smoke. No puff sleeves — instead, one bare arm and one arm wrapped in a single sheer emerald glove to the elbow.\n\nShe stands on a cracked white marble floor. Background: deep charcoal grey gradient fading to near black at the edges — moody, editorial, dramatic contrast against the jewel-tone gown.\n\nLighting: single strong key light from the upper left casting sharp elegant shadows on her face and collarbone. A faint warm rim light outlines her silhouette from behind.\n\nLeft side text (magazine cover typography, part of scene): \"DARK ROMANCE / THE NEW SEASON\" in small refined ivory serif caps. Right side: \"BEYOND LIMITS / VERDANT POWER\". Bottom large editorial serif: \"REIGN & RADIANCE\"\n\nVertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading..",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个令人惊艳的奢华时尚杂志封面，为一个名为“VELOUR”的虚构品牌设计——顶部是粗犷的银色衬线报头。一位年轻可爱的白人女性，面部特征柔和，有着大鹿眼、红润的脸颊，以及松松挽起的红棕色头发，带有柔和的修饰脸型的细发丝，在画面中央高挑站立——一只手轻轻搭在锁骨上，另一只手自然垂在身侧，下巴微微上扬，嘴唇轻闭，双眼注视着镜头，流露出毫不费力的平静。\n\n她穿着一件及地的祖母绿色液态真丝修身直筒长裙——身体部分线条流畅且贴合身形，具有戏剧性的雕塑感单肩不对称领口，在左侧向上延伸成尖锐的建筑感花瓣。一层长长的半透明祖母绿薄纱如烟雾般在她身后拖曳。没有泡泡袖——取而代之的是，一只手臂裸露，另一只手臂包裹着一只及肘的半透明祖母绿手套。\n\n她站在开裂的白色大理石地板上。背景：深炭灰色渐变，在边缘处褪色至接近纯黑——情绪化，具有大片感，与宝石色调的长裙形成戏剧性的对比。\n\n灯光：左上方单一的强主光在她的脸部和锁骨上投射出锐利优雅的阴影。微弱的暖色轮廓光从背后勾勒出她的剪影。\n\n左侧文字（杂志封面排版，场景的一部分）：“DARK ROMANCE / THE NEW SEASON”，采用小号精致的象牙色衬线大写字母。右侧：“BEYOND LIMITS / VERDANT POWER”。底部大号大片感衬线字体：“REIGN & RADIANCE”\n\n竖版 9:13 格式。超逼真，8K，无文字叠加，电影级调色..",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777291916060-q4flywta-1777291919139-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777291916060-q4flywta-1777291919139-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/luxury-emerald-haute-couture",
+      "reviewed_at": "2026-04-28T14:04:27.300Z",
+      "created_at": "2026-04-27T12:13:42.258Z",
+      "updated_at": "2026-04-28T14:04:27.300Z"
+    },
+    {
+      "id": 13870,
+      "slug": "vertical-shanhaijing-beast-photography-poster",
+      "title": "竖版山海经神兽摄影海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@johnAGI168",
+      "source_url": "https://x.com/johnAGI168/status/2048429214899081520",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "{\n  \"type\": \"9:16 竖版山海经神兽九宫格摄影海报，国家地理杂志特辑视觉\",\n  \"aspect_ratio\": \"9:16\",\n  \"style\": \"National Geographic editorial wildlife photography aesthetic，每格为独立的高分辨率自然摄影作品拼合，super photorealistic，telephoto wildlife shots，真实自然光，可信生态环境，避免任何 CGI 或插画感，整体像一本《国家地理》中文版特刊跨页\",\n  \"background\": \"整体背景为深炭灰色 #1A1A1A 哑光纸质感，承托 9 格独立摄影作品，营造杂志暗版印刷的高级感\",\n  \"color_palette\": \"炭黑底 + 各格摄影呈现自然环境真实色彩（晨雾灰蓝、黄昏暖橙、苔藓绿、雪原冷白、夜林墨黑），文字以暖白与暗金为主\",\n  \"layout\": {\n    \"top_masthead\": {\n      \"magazine_logo\": \"顶部居中细衬线英文刊头 'SHANHAIJING SPECIAL ISSUE'，下方一行金色细线\",\n      \"main_title\": \"其下大号宋体中文主标题《山海经·神兽实录》，墨白色\",\n      \"subtitle_en\": \"再下一行小号衬线英文副标题 'Nine Mythical Beasts Captured in the Wild · A Field Documentation'\",\n      \"issue_meta\": \"右上角小字 'Vol. 09 / 2026'，左上角小字 '中文版特辑'\"\n    },\n    \"grid_3x3\": {\n      \"count\": 9,\n      \"panel_treatment\": \"每格为独立矩形摄影作品，无边框直接拼合，格与格之间留 8px 黑色缝隙形成网格秩序；每格摄影占满，下方半透明黑色信息条叠加（约占该格 18% 高度），含中文名、拉丁学名、出处一行\",\n      \"items\": [\n        {\n          \"id\": \"No.01\",\n          \"shot_description\": \"黎明青丘山竹林深处的远摄野生动物作品，一只狐形生物半身从竹林后探出，警觉回头直视镜头，琥珀色双眸有真实瞳孔反光与湿润感，毛色雪白略带象牙暖调，根根分明的毛发被晨雾打湿微微贴附，身后九条尾巴呈自然散开的扇形（其中数条因快门略微动态模糊，强化真实捕捉感），背景是雾中虚化的青灰色竹影。Shot on Nikon Z9 with 600mm f/4 telephoto lens, golden hour ambient light, ISO 1600 grain texture, shallow depth of field\",\n          \"creature_zh\": \"九尾狐\",\n          \"creature_latin\": \"Vulpes Novemcaudata\",\n          \"origin\": \"《南山经》青丘之山\"\n        },\n        {\n          \"id\": \"No.02\",\n          \"shot_description\": \"丹穴山悬崖古松枝头的逆光摄影，一只大型雉科鸟类立于扭曲松枝上，五色羽毛在朝阳逆光下呈现真实的半透明羽片层次（红、青、黄、白、黑五色分明但饱和度自然不夸张），长尾羽如流苏垂下，颈部细羽被晨风吹起，喙微张露出舌尖，背景是赤色晨雾中的远山轮廓全部虚化成柔和色块。Telephoto compression, backlit golden rim light, slight atmospheric haze, captured on Canon EOS R5 with 800mm lens\",\n          \"creature_zh\": \"凤凰\",\n          \"creature_latin\": \"Phoenix Sinensis\",\n          \"origin\": \"《南山经》丹穴之山\"\n        },\n        {\n          \"id\": \"No.03\",\n          \"shot_description\": \"山间晨雾中的远距离偶遇摄影，一头大型有蹄类生物侧身行走于湿润苔石之间，鹿形躯干、牛尾、马蹄、额生独角，体表覆有真实可信的细密鳞甲质感（介于穿山甲与鳄鱼皮之间的自然纹理），独角呈乳白象牙色带细纹，蹄下踏过浅溪，水珠飞溅清晰可见。Overcast diffused natural light, no harsh shadows, documentary still frame, 400mm telephoto, environmental wide context\",\n          \"creature_zh\": \"麒麟\",\n          \"creature_latin\": \"Qilin Auspicius\",\n          \"origin\": \"《海内北经》\"\n        },\n        {\n          \"id\": \"No.04\",\n          \"shot_description\": \"原始森林深处阴翳光线下的低视角摄影，一只大型猫科生物正面端坐于青苔覆盖的倒木上，狮形雪白通体，额生短角，胸口与四肢有暗金色斑纹（如非洲野犬的斑驳质感），双眸金黄直视镜头，胡须根根清晰，毛尖在树冠光斑下泛微光。Forest dappled light filtering through canopy, low ISO clean capture, 200mm f/2.8, shot on Sony A1\",\n          \"creature_zh\": \"白泽\",\n          \"creature_latin\": \"Bai Ze Sapiens\",\n          \"origin\": \"《轩辕本纪》东望山\"\n        },\n        {\n          \"id\": \"No.05\",\n          \"shot_description\": \"活火山口边缘的环境野生动物摄影，一只独脚长腿涉禽如火烈鸟般单足而立，通体青羽带朱红色横向斑纹，喙白如骨，单腿支撑姿态稳定真实（关节解剖学可信），背景是模糊的橙红色岩浆余光与黑色火山岩。Volcanic ambient red light as key, ISO 3200 noise texture, telephoto isolation, hyper-real plumage detail\",\n          \"creature_zh\": \"毕方\",\n          \"creature_latin\": \"Bi Fang Monopes\",\n          \"origin\": \"《西山经》章莪之山\"\n        },\n        {\n          \"id\": \"No.06\",\n          \"shot_description\": \"邽山雪原黄昏时刻的伏击瞬间摄影，一只壮硕翼虎低伏于雪地之中，体型如东北虎而背部生有一对收拢的羽翼（翼羽如猛禽般层叠贴背），赭红毛色带深色虎纹，獠牙微露，呼出的白色雾气清晰可见，雪粒附着于面部毛发。Cold blue twilight ambient light, breath vapor visible, 600mm wildlife shot, hyper-real fur and feather texture\",\n          \"creature_zh\": \"穷奇\",\n          \"creature_latin\": \"Qiong Qi Alatus\",\n          \"origin\": \"《西山经》邽山\"\n        },\n        {\n          \"id\": \"No.07\",\n          \"shot_description\": \"北冥高空航拍视角，一只巨型翼展鸟类正俯飞掠过云海之上，主翼羽展开如帆船，可清晰看见每根羽片的层叠与缝隙间漏下的光，下方是翻涌的灰蓝色海面与盘旋云絮，画面上呈现真实的航拍光雾与大气透视。Aerial drone perspective, telephoto compression, soft cloud diffusion, gray-blue palette, photographic film grain\",\n          \"creature_zh\": \"鲲鹏\",\n          \"creature_latin\": \"Kun Peng Magnus\",\n          \"origin\": \"《大荒东经》\"\n        },\n        {\n          \"id\": \"No.08\",\n          \"shot_description\": \"鹿吴山悬崖绝壁上的猛禽摄影，一只大型鹰科生物栖于裸露岩石上，头顶生有一只向后弯曲的真实角质独角（如羚羊角的纹理），翼羽墨黑带钢蓝光泽，金色虹膜与黑色瞳孔锐利，爪握岩石的肌腱可见，背景是雾蒙蒙的远山峡谷。Cliff-edge wildlife portrait, sidelit overcast diffuse light, 500mm prime lens, hyper-detailed feather and talon\",\n          \"creature_zh\": \"蛊雕\",\n          \"creature_latin\": \"Gu Diao Cornutus\",\n          \"origin\": \"《南山经》鹿吴之山\"\n        },\n        {\n          \"id\": \"No.09\",\n          \"shot_description\": \"小次山密林中的野外抓拍摄影，一只中型猿类半身藏于阔叶植被之后，头部纯白如雪，四肢远端为鲜艳赤红色，深棕躯干，神情警觉地从树叶缝隙中凝视镜头，叶片在前景虚化形成自然遮挡，光线为雨林午后柔和漫射。Camera-trap aesthetic, foliage occlusion in foreground, telephoto with environmental framing, true-to-life primate anatomy\",\n          \"creature_zh\": \"朱厌\",\n          \"creature_latin\": \"Zhu Yan Albicapitus\",\n          \"origin\": \"《西山经》小次之山\"\n        }\n      ]\n    },\n    \"bottom_footer\": {\n      \"left\": \"细衬线英文小字 'Photography & Documentation: Field Expedition Team'\",\n      \"center\": \"一道细金线分隔，下方居中宋体小字 '据《山海经》辑录'\",\n      \"right\": \"细衬线英文小字 'shanhaijing.field-guide / 2026'\"\n    }\n  },\n  \"typography\": {\n    \"masthead_font\": \"细衬线英文大写字母（如 Optima 或 Trajan 风格），暖白色\",\n    \"main_title_font\": \"现代宋体加粗大号，暖白色\",\n    \"creature_name_zh_font\": \"中号宋体，暖白色\",\n    \"creature_name_latin_font\": \"细衬线斜体小号，暗金色 #C9A961\",\n    \"origin_font\": \"极细黑体小号，浅灰白\",\n    \"info_strip_overlay\": \"每格底部信息条为半透明黑色 #000000 60% 不透明度，文字三行紧凑排版\"\n  },\n  \"rendering_quality\": \"整体画面追求真实新闻摄影与自然纪实摄影质感，每一格都应让观者第一眼相信这是用长焦镜头在野外真实拍摄到的活体生物，皮毛/羽片/鳞甲/瞳孔/光斑/景深虚化全部符合真实光学规律，避免任何插画笔触、CGI 塑料感、过度锐化或不自然色彩饱和，整张海报的设计感来自杂志版式秩序而非生物本身的修饰\"\n}",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777289969150-b3zgf78x-1777289971455-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777289969150-b3zgf78x-1777289971455-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vertical-shanhaijing-beast-photography-poster",
+      "reviewed_at": "2026-04-28T14:04:22.956Z",
+      "created_at": "2026-04-27T11:59:47.680Z",
+      "updated_at": "2026-04-28T14:06:30.300Z"
+    },
     {
       "id": 13869,
       "slug": "trendy-puffer-poster",
@@ -46,6 +601,44 @@
       "reviewed_at": "2026-04-27T12:02:58.781Z",
       "created_at": "2026-04-27T11:55:30.278Z",
       "updated_at": "2026-04-27T12:02:58.781Z"
+    },
+    {
+      "id": 13868,
+      "slug": "character-full-display-poster",
+      "title": "角色设定全方位展示海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@qisi_ai",
+      "source_url": "https://x.com/qisi_ai/status/2048415090421145792",
+      "tags": [
+        "设定图",
+        "表情包",
+        "档案卡",
+        "动作图",
+        "配色卡"
+      ],
+      "prompts": [
+        {
+          "text": "Create a character design sheet based on the uploaded image. \n\nDesign: Character profile poster\n\nIncluding:\n1. Large main portrait \n2. Various facial expressions (happy, angry, sleepy, surprised, etc.)\n3. Action poses (running, playing) (based on personality) \n4. Small object icons \n5. Color scheme section \n6. Profile section, including name and personality",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "基于上传的图像创建一个角色设计图。 \n\n设计：角色简介海报\n\n包括：\n1. 大型主肖像 \n2. 各种面部表情（开心、生气、困倦、惊讶等等）\n3. 动作姿势（跑步、玩耍）（基于个性） \n4. 小型物体图标 \n5. 配色方案部分 \n6. 简介部分，包括名称和个性",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777290443880-oydil0ay-1777290446638-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777290443880-oydil0ay-1777290446638-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/character-full-display-poster",
+      "reviewed_at": "2026-04-28T14:04:24.421Z",
+      "created_at": "2026-04-27T11:48:23.616Z",
+      "updated_at": "2026-04-28T14:06:04.303Z"
     },
     {
       "id": 13867,
@@ -198,6 +791,44 @@
       "reviewed_at": "2026-04-27T12:04:00.564Z",
       "created_at": "2026-04-27T11:45:05.566Z",
       "updated_at": "2026-04-27T12:04:00.564Z"
+    },
+    {
+      "id": 13863,
+      "slug": "stunning-idol-hero-key-art",
+      "title": "绝美偶像英雄动漫主视觉图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@IamEmily2050",
+      "source_url": "https://x.com/IamEmily2050/status/2048565959070306807",
+      "tags": [
+        "偶像",
+        "英雄",
+        "动漫",
+        "战斗",
+        "华丽"
+      ],
+      "prompts": [
+        {
+          "text": "You are an imagegeneration art director specializing in original female idol hero anime key art.\n\nAlways create original images. Do not copy any uploaded image, specific artist, studio, franchise, copyrighted character, or trademarked design. Do not reproduce the same subject, pose, prop, landmark, or composition from any reference. Use references only for broad quality, polish, density, and mood.\n\nCore style:\nCreate high impact anime key visuals centered on a female idol hero: a heroine who combines star charisma, symbolic costume design, emotional presence, and action-ready energy. The image should feel like premium promotional art for a major anime, game, or fantasy idol-action franchise.\n\nCharacter direction:\nThe heroine must feel iconic, admired, and instantly recognizable. She should have a strong silhouette, expressive eyes, refined facial design, beautiful hair flow, and a costume that blends idol glamour with heroic functionality. Her design should feel aspirational and memorable rather than generic.\n\nCostume language:\nUse layered, elegant stage hero fashion: fitted bodice or performance jacket, decorative trims, ribbons, asymmetric accessories, ornamental fasteners, gloves, boots, structured skirt panels or hero cape elements, and a cohesive motif such as celestial, floral, crystalline, royal, futuristic, or elemental. The outfit should look premium, performative, and battle-capable.\n\nPose and presence:\nPrioritize commanding, star like body language. She should project confidence, grace, and heroic leadership. Use dynamic but readable poses that make her feel like both a performer and a savior figure. Avoid stiff pin-up posing.\n\nComposition:\nUse a promotional key art composition with clear focal hierarchy. The heroine should dominate the frame. Employ elegant motion in hair, ribbons, fabric, particles, and lighting arcs. Use strong silhouette readability, layered depth, and a cinematic sense of scale. Prefer dramatic low-angle or stage-front framing.\n\nWorld and atmosphere:\nBlend fantasy heroism with idol spectacle. Backgrounds may include celestial architecture, magical stage elements, radiant city lights, floating sigils, crystalline structures, heroic emblems, or stylized atmospheric scenery. The environment should support the heroine’s mythology and fame.\n\nLighting and color:\nUse bold, polished, premium anime lighting. Combine glamorous stage like highlights with heroic fantasy glow. Favor clean contrast, luminous rim light, sparkling accents, and a strong signature palette. The image should feel radiant, aspirational, and emotionally charged.\n\nRendering:\nCrisp anime linework, polished face rendering, clean cel-shading with painterly light accents, detailed costume textures, luminous particles, sharp eyes, elegant hands, and a premium poster finish.\n\nAvoid:\ngeneric schoolgirl styling, random fantasy armor, weak silhouette, flat costume design, lifeless expression, oversexualized presentation, cluttered composition, muddy colors, photorealism, 3D render look, chibi proportions, distorted anatomy, extra fingers, extra limbs, text, logos, watermarks, and obvious copying of any reference image.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "你是一名专注于原创女性偶像英雄动漫主视觉图的图像生成艺术总监。\n\n始终创建原创图像。不要复制任何上传的图像、特定艺术家、工作室、系列、受版权保护的角色或商标设计。不要从任何参考中重现相同的主题、姿势、道具、地标或构图。仅将参考用于广泛的质量、打磨、密度和氛围。\n\n核心风格：\n创建以女性偶像英雄为中心的高冲击力动漫主视觉图：一位结合了明星魅力、象征性服装设计、情感存在感和战斗就绪能量的女主角。该图像应该让人感觉像是主要动漫、游戏或幻想偶像动作系列的优质宣传艺术。\n\n角色方向：\n女主角必须感觉具有标志性、受人敬仰且一眼就能认出。她应该具有强烈的轮廓、富有表现力的眼睛、精致的面部设计、美丽的头发流动，以及融合了偶像魅力与英雄实用性的服装。她的设计应该感觉令人向往且令人难忘，而不是普通的。\n\n服装语言：\n使用分层、优雅的舞台英雄时尚：紧身胸衣或表演夹克、装饰性饰边、丝带、不对称配饰、装饰性扣件、手套、靴子、结构化的裙板或英雄披风元素，以及一个连贯的主题，如天体、花卉、水晶、皇家、未来主义或元素。该服装应该看起来优质、具有表演性且具备战斗能力。\n\n姿势与存在感：\n优先考虑具有指挥力、像明星一样的肢体语言。她应该投射出自信、优雅和英雄般的领导力。使用动态但可读的姿势，使她感觉既是表演者又是救世主形象。避免僵硬的写真相片姿势。\n\n构图：\n使用具有清晰焦点层次结构的宣传主视觉构图。女主角应该主导画面。在头发、丝带、面料、粒子和光弧中采用优雅的运动。使用强烈的轮廓可读性、分层深度和电影般的比例感。偏好戏剧性的低角度或舞台前框取。\n\n世界与氛围：\n将幻想英雄主义与偶像奇观相融合。背景可能包括天体建筑、魔法舞台元素、耀眼的城市灯光、漂浮的符文、水晶结构、英雄徽章或风格化的大气风景。环境应该支持女主角的神话和名望。\n\n光照与色彩：\n使用大胆、打磨、优质的动漫光照。将迷人的舞台般高光与英雄般的幻想光芒相结合。偏好干净的对比、发光的轮廓光、闪烁的点缀和强烈的标志性调色板。图像应该感觉光芒四射、令人向往且充满情感。\n\n渲染：\n清晰的动漫线条、打磨的面部渲染、带有绘画般光点缀的干净赛璐璐阴影、详细的服装纹理、发光的粒子、锐利的眼睛、优雅的双手和优质的海报润色。\n\n避免：\n普通的女学生造型、随机的幻想盔甲、虚弱的轮廓、平淡的服装设计、无生命的表情、过度性化的呈现、杂乱的构图、浑浊的颜色、照片写实主义、3D渲染外观、Q版比例、扭曲的解剖结构、额外的手指、额外的四肢、文本、徽标、水印以及对任何参考图像的明显复制。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777289871880-wzycwsez-1777289875159-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777289871880-wzycwsez-1777289875159-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/stunning-idol-hero-key-art",
+      "reviewed_at": "2026-04-28T14:02:08.727Z",
+      "created_at": "2026-04-27T11:42:29.308Z",
+      "updated_at": "2026-04-28T14:02:08.727Z"
     },
     {
       "id": 13862,
@@ -873,6 +1504,82 @@
       "updated_at": "2026-04-27T12:03:51.268Z"
     },
     {
+      "id": 13840,
+      "slug": "five-elements-casual-workwear",
+      "title": "五行元素轻职场穿搭图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@yhslgg",
+      "source_url": "https://x.com/yhslgg/status/2048340984459829590",
+      "tags": [
+        "五行",
+        "通勤",
+        "职场",
+        "休闲",
+        "穿搭"
+      ],
+      "prompts": [
+        {
+          "text": "Generate using the principles of the Five Elements Metal, Wood, Water, Fire, and Earth, women's outfits for Monday to Friday workdays, mainly for work scenarios, not too formal.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "用五行金木水火土的原理帮我生成，女生周一到周5工作日的穿搭，主要是工作场景，不用太正式。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777215189136-x0yjt8fh-1777215199119-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777215189136-x0yjt8fh-1777215199119-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/five-elements-casual-workwear",
+      "reviewed_at": "2026-04-27T17:21:26.985Z",
+      "created_at": "2026-04-26T14:54:25.273Z",
+      "updated_at": "2026-04-27T17:21:26.985Z"
+    },
+    {
+      "id": 13838,
+      "slug": "cloud-shoes-joyful-ad",
+      "title": "云端童鞋欢乐跳跃广告",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Strength04_X",
+      "source_url": "https://x.com/Strength04_X/status/2048277662096142369",
+      "tags": [
+        "童鞋",
+        "跳跃",
+        "彩虹色",
+        "商业风",
+        "气泡字"
+      ],
+      "prompts": [
+        {
+          "text": "Bright colorful children's shoe brand advertisement for \"CLOUD\", happy young child jumping in the air wearing oversized colorful foam shoes, giant rainbow colored shoe prop in background, bright yellow and white studio background, playful bubbly bold typography \"CLOUD\" in background, tagline \"Every step \nis an adventure.\", confetti falling, fun joyful lighting, \ncommercial photography style, ultra HD 8K , Designed with ChatGPT image 2.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "明亮多彩的儿童鞋品牌广告，面向“CLOUD”，快乐的幼儿在空中跳跃，穿着超大号的多彩泡沫鞋，背景中有巨大的彩虹色鞋子道具，明亮黄色和白色的摄影棚背景，背景中有俏皮气泡状的粗体字体“CLOUD”，标语“每一步都是一次冒险。”，五彩纸屑飘落，有趣欢乐的灯光，商业摄影风格，超高清8K ，使用ChatGPT image 2设计。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777215009423-nagcwk5q-1777215015663-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777215009423-nagcwk5q-1777215015663-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/cloud-shoes-joyful-ad",
+      "reviewed_at": "2026-04-28T14:04:07.902Z",
+      "created_at": "2026-04-26T14:52:37.435Z",
+      "updated_at": "2026-04-28T14:04:07.902Z"
+    },
+    {
       "id": 13837,
       "slug": "poetic-layered-poetry-poster",
       "title": "诗意分层诗歌解析海报设计",
@@ -911,6 +1618,83 @@
       "updated_at": "2026-04-27T01:40:33.216Z"
     },
     {
+      "id": 13834,
+      "slug": "realistic-sailor-moon-princess-serenity",
+      "title": "真人版美少女战士月光仙子全身像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@fdtreesky",
+      "source_url": "https://x.com/fdtreesky/status/2048277449025450110",
+      "tags": [
+        "美少女",
+        "月仙子",
+        "真人风",
+        "全身照",
+        "日系风"
+      ],
+      "prompts": [
+        {
+          "text": "Japanese Sailor Moon Princess Serenity realistic style, background matching the outfit, full body shot",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "日本美少女戰士月光仙子真人風格，搭配服裝的背景，全身照",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777186218474-zoku5u1s-1777186220718-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777186218474-zoku5u1s-1777186221259-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777186218474-zoku5u1s-1777186220718-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/realistic-sailor-moon-princess-serenity",
+      "reviewed_at": "2026-04-27T17:21:38.732Z",
+      "created_at": "2026-04-26T06:51:12.393Z",
+      "updated_at": "2026-04-27T17:21:38.732Z"
+    },
+    {
+      "id": 13827,
+      "slug": "rainy-night-bus-stop-girl",
+      "title": "雨夜公交站等车的少女",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@TanLuAI",
+      "source_url": "https://x.com/TanLuAI/status/2047997554462261717",
+      "tags": [
+        "雨夜",
+        "街拍",
+        "公交站",
+        "氛围感",
+        "随手拍"
+      ],
+      "prompts": [
+        {
+          "text": "At a city bus stop on a rainy night, a young adult woman stands alone under the dim yellow streetlight and the bus stop light box, looking down slightly at her phone, not looking at the camera, showing a natural waiting state. She is wearing a light-colored thin jacket, a dark midi skirt, and white sneakers, with long hair falling naturally, holding a phone in one hand, and lightly holding a clear umbrella in the other hand. The character is located in the right third of the frame, with a blurred foreground obstruction on the left, like a momentary glimpse from the edge of a street crowd or a car window. The bus stop sign, advertising light box, streetlight pole, and the edge of the umbrella form clear vertical and diagonal lines, guiding the line of sight. The ground has rainwater reflections, and distant headlights and neon lights are blurred into soft light spots. The overall look is a mix of a cold blue rainy night environment and warm yellow streetlights, creating realistic city lighting, with soft top light and side light, without a strong posed feeling. Shallow depth of field makes the subject clear and the background slightly blurred, the image has a real camera grain feel, slight motion blur, and imperfect composition, presenting a candid snapshot of a real moment. The photo style is realistic and natural, not a portrait, not an advertising blockbuster, with no text watermark.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "在雨夜的城市公交站台，一位年轻成年女性独自站在昏黄路灯和公交站灯箱下，微微低头看手机，没有看向镜头，展现自然等待的状态。她穿着浅色薄外套、深色半裙和白色运动鞋，长发自然垂落，一只手拿着手机，另一只手轻握透明雨伞。人物位于画面右侧三分之一的位置，左侧有模糊的前景遮挡，像从街边人群或车窗边缘偶然看到的一瞬间。公交站牌、广告灯箱、路灯杆和雨伞边缘形成清晰的竖向与斜向线条，引导视线。地面有雨水反光，远处车灯和霓虹被虚化成柔和光斑。整体为冷蓝色雨夜环境与暖黄色路灯混合的真实城市光线，柔和顶光和侧光，没有强烈摆拍感。浅景深使主体清晰，背景略微虚化，画面带真实相机颗粒感、轻微运动模糊和不完美构图，呈现随手抓拍的真实瞬间。照片风格真实自然，非写真、非广告大片，无文字水印。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777183359242-mwvtzjce-1777183360775-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777183359242-mwvtzjce-1777183360775-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/rainy-night-bus-stop-girl",
+      "reviewed_at": "2026-04-27T17:21:45.206Z",
+      "created_at": "2026-04-26T06:04:04.528Z",
+      "updated_at": "2026-04-27T17:21:45.206Z"
+    },
+    {
       "id": 13825,
       "slug": "cinematic-dark-superstar-posters",
       "title": "电影级暗调风格巨星海报合集",
@@ -947,6 +1731,44 @@
       "reviewed_at": "2026-04-26T06:06:56.606Z",
       "created_at": "2026-04-26T06:01:10.087Z",
       "updated_at": "2026-04-26T06:10:42.145Z"
+    },
+    {
+      "id": 13824,
+      "slug": "scroll-wrapped-chinese-girl",
+      "title": "山水长卷环绕的国风少女",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@liyue_ai",
+      "source_url": "https://x.com/liyue_ai/status/2048266595441737891",
+      "tags": [
+        "国风",
+        "二次元",
+        "新中式",
+        "美少女",
+        "梦幻感"
+      ],
+      "prompts": [
+        {
+          "text": "Oriental fantasy Chinese style anime illustration, the main subject of the picture is a bust portrait of a young oriental girl, she is wearing a red neo-Chinese style spaghetti strap cheongsam dress, draped with a translucent light blue and white sheer veil, fair and delicate skin, exquisite facial features, clear and bright blue eyes, a cold and elegant expression. Her long black hair is fluttering wildly in the wind, the hair strands have delicate highlights. On her head, she wears a gold hollowed-out classical hair crown, paired with ruby and cyan-green gemstone jewelry. In the picture, there is a huge floating long scroll in the style of a landscape painting surrounding the character, forming an elegant S-shaped dynamic composition, the background is a deep blue night courtyard, blooming white cherry blossom branches stretch into the picture from above, petals falling with the wind. In the upper right corner, there is a warm golden backlight, passing through the flower branches and hair strands, forming soft halos, rim lights and air particles. The foreground is decorated with crystal glowing blue flowers. The overall style is dreamy, gorgeous, ethereal, with high-end anime impasto texture, cinematic lighting and shadows, cold and warm contrast and exquisite details. Aspect ratio 9:16, no text, watermarks and logos.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "东方幻想国风动漫插画，画面主体是一位年轻东方少女半身肖像，她穿着红色新中式吊带旗袍礼服，外披半透明浅蓝白薄纱，皮肤白皙细腻，五官精致，蓝色眼睛清澈明亮，表情清冷优雅。她的黑色长发在风中大幅飘散，发丝有细腻高光。头上佩戴金色镂空古典发冠，搭配红宝石与青绿色宝石首饰。\n\n画面中有一条巨大的飘动山水画风格的长卷轴环绕人物，形成优雅的 S 型动态构图，背景是深蓝夜色庭院，盛开的白色樱花枝从上方伸入画面，花瓣随风飘落。右上角有暖金色逆光，穿过花枝和发丝，形成柔和光晕、轮廓光和空气粒子。前景点缀晶莹发光的蓝色花朵。整体风格梦幻、华丽、空灵，具有高端二次元厚涂质感、电影级光影、冷暖对比和精致细节。比例 9:16，不要文字、水印和 logo。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777183102449-vkzhx722-1777183105157-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777183102449-vkzhx722-1777183105157-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/scroll-wrapped-chinese-girl",
+      "reviewed_at": "2026-04-27T17:21:47.822Z",
+      "created_at": "2026-04-26T05:59:34.415Z",
+      "updated_at": "2026-04-27T17:21:47.822Z"
     },
     {
       "id": 13823,
@@ -1216,6 +2038,120 @@
       "updated_at": "2026-04-26T06:08:09.933Z"
     },
     {
+      "id": 13815,
+      "slug": "surreal-cartoon-fashion",
+      "title": "超现实真人卡通融合时尚大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2048051277867954359",
+      "tags": [
+        "混媒风",
+        "时尚片",
+        "卡通兽",
+        "街头风",
+        "超现实"
+      ],
+      "prompts": [
+        {
+          "text": "Full-body fashion editorial shot of a confident young person model sitting casually on a concrete ledge, legs slightly apart, one arm resting on knee, the other relaxed, looking straight at camera with a calm dominant expression.\n\nWearing a light denim jacket over a plain white t-shirt, neutral shorts, bright socks, and modern sneakers. Clean styling, natural pose, wind slightly moving hair and fabric.\n\nBeside and partially interacting with a stylized cartoon [ANIMAL], positioned naturally as if sharing the same space.\n\nThe [ANIMAL] is illustrated in bold cartoon style with thick black outlines, vibrant neon color palette (blue, green, yellow accents), exaggerated proportions, expressive features, playful yet powerful presence.\n\nBackground: bright outdoor urban setting with clear blue sky, soft clouds, sunlit concrete textures, strong natural daylight, crisp shadows.\n\nFusion of hyper-realistic photography and graphic illustration, seamless integration between subject and cartoon.\n\nAdd graphic overlay elements: doodle arrows, scribbles, abstract shapes, comic-style symbols, dynamic motion lines.\n\nHigh contrast, HDR lighting, sharp focus, fashion editorial composition, surreal mixed-media aesthetic, ultra-detailed, 8k resolution.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一位自信的年轻模特的全身时尚大片拍摄，随意坐在混凝土边缘，双腿微张，一只手臂搭在膝盖上，另一只手放松，直视镜头，带着平静而强势的表情。\n\n内搭纯白色T恤外穿浅色牛仔夹克，中性色调短裤，亮色袜子和现代运动鞋。干净的造型，自然的姿势，微风轻轻吹动头发和面料。\n\n旁边并部分与一个风格化的卡通[ANIMAL]互动，位置自然，仿佛共享同一个空间。\n\n该[ANIMAL]以大胆的卡通风格绘制，具有粗黑的轮廓线，充满活力的霓虹色调（蓝色、绿色、黄色点缀），夸张的比例，富有表现力的特征，俏皮而强大的存在感。\n\n背景：明亮的室外城市场景，清澈的蓝天，柔和的云朵，阳光照射的混凝土纹理，强烈的自然日光，清晰的阴影。\n\n超写实摄影与图形插画的融合，主体与卡通之间无缝结合。\n\n添加图形叠加元素：涂鸦箭头、乱涂乱画、抽象形状、漫画风格的符号、动态的运动线条。\n\n高对比度，HDR光照，锐利的焦点，时尚大片构图，超现实混合媒体美学，超精细，8k分辨率。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777180460697-x3q1zj9o-1777180469569-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777180460697-x3q1zj9o-1777180469569-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/surreal-cartoon-fashion",
+      "reviewed_at": "2026-04-27T17:21:49.216Z",
+      "created_at": "2026-04-26T05:15:19.014Z",
+      "updated_at": "2026-04-27T17:21:49.216Z"
+    },
+    {
+      "id": 13814,
+      "slug": "cold-glamorous-mirror-reflection",
+      "title": "冷艳高级脸的镜中倒影",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@chatgptpaglu",
+      "source_url": "https://x.com/chatgptpaglu/status/2048027741484990863",
+      "tags": [
+        "冷艳美女",
+        "镜面倒影",
+        "时尚大片",
+        "超清画质",
+        "疏离氛围"
+      ],
+      "prompts": [
+        {
+          "text": "Stunningly beautiful woman with a cool, aloof atmospheric vibe, exquisite and refined facial features, cold and glamorous high-end face, long flowing hair, graceful and alluring figure, (character features completely locked and consistent) Scene: Indoor space with mirrors (bathroom or mirrored wall), multiple reflections, layered depth in the space Pose: Standing in front of the mirror, one hand lightly touching the mirror surface or resting on the countertop, body slightly angled, head gently turned toward the camera Expression: Calm and emotionless, with a hint of cold indifference and detachment Camera angle: Low angle or slight side angle shot, with the mirror reflection clearly visible in the frame Lighting: Cool white light as the main source, with localized shadows, emphasizing structural contours and three-dimensionality Style: High-end fashion editorial, subtle film grain, low contrast Details: Delicately realistic skin texture, clear yet softly layered and slightly blurred mirror reflections Atmosphere: Restrained, rational, distant, with a touch of surreal unreality Quality: Ultra-sharp 8K, extreme details, cinematic lighting and shadows, beautiful depth-of-field bokeh.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "极其美丽的女人，带着冷酷、超然的氛围感，精致细腻的面部特征，冷艳的高级脸，飘逸的长发，优雅迷人的身材，（角色特征完全锁定且一致）场景：带有镜子的室内空间（浴室或镜子墙），多重倒影，空间具有层次感姿势：站在镜子前，一只手轻轻触摸镜面或放在台面上，身体微侧，头部轻轻转向镜头表情：平静且面无表情，带有一丝冷漠与疏离感相机角度：低角度或轻微侧角拍摄，画面中清晰可见镜中的倒影光线：以冷白光为主光源，带有局部阴影，强调结构轮廓和立体感风格：高端时尚杂志大片，微妙的胶片颗粒感，低对比度细节：细腻逼真的皮肤纹理，清晰却柔和有层次且略带模糊的镜面倒影氛围：克制、理性、疏离，带有一丝超现实的失真感画质：超清晰8K，极致细节，电影级光影，唯美的景深虚化。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777180392950-zhuwwwl7-1777180396117-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777180392950-zhuwwwl7-1777180396117-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/cold-glamorous-mirror-reflection",
+      "reviewed_at": "2026-04-27T17:22:04.370Z",
+      "created_at": "2026-04-26T05:13:43.347Z",
+      "updated_at": "2026-04-27T17:22:04.370Z"
+    },
+    {
+      "id": 13812,
+      "slug": "old-photo-dslr-restore",
+      "title": "老照片单反级无损修复",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@doctorwasif",
+      "source_url": "https://x.com/doctorwasif/status/2048014890028486904",
+      "tags": [
+        "老照片",
+        "修复",
+        "单反级",
+        "人像",
+        "超清"
+      ],
+      "prompts": [
+        {
+          "text": "Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "将这张老照片修复为单反-画质的专业人像色彩和细节，使用可与佳能 EOS R6 II 的效果相媲美的先进放大算法。确保修复后的图像看起来自然，保留精确的面部特征，具有极佳的清晰度",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777180294373-hgheyw61-1777180307541-1.png"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777180294373-hgheyw61-1777180307541-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/old-photo-dslr-restore",
+      "reviewed_at": "2026-04-27T17:21:55.485Z",
+      "created_at": "2026-04-26T05:12:36.109Z",
+      "updated_at": "2026-04-27T17:21:55.485Z"
+    },
+    {
       "id": 13810,
       "slug": "house-feng-shui-bagua-analysis",
       "title": "房屋风水八卦深度解析图",
@@ -1252,6 +2188,158 @@
       "reviewed_at": "2026-04-26T06:07:19.107Z",
       "created_at": "2026-04-26T05:10:01.953Z",
       "updated_at": "2026-04-26T06:07:19.107Z"
+    },
+    {
+      "id": 13809,
+      "slug": "breaking-screen-girl",
+      "title": "突破屏幕的短发女孩",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "",
+      "source_url": null,
+      "tags": [
+        "破屏",
+        "撕纸",
+        "社媒",
+        "超写实",
+        "立体感"
+      ],
+      "prompts": [
+        {
+          "text": "A creative 3D photo manipulation of a social media profile interface, featuring a surprised young woman with short messy yellow hair, round glasses, and expressive wide eyes, wearing a sleeveless yellow top. She is breaking through a torn paper effect from the screen, holding the ripped edges with both hands. The tear reveals a dark background behind her, adding depth. The UI resembles a modern social media profile page with profile picture, username “Noor 🌸”, verified badge, bio text, and follower stats. Top banner shows a black-and-white close-up of eyes. Clean minimal layout, soft shadows, realistic lighting, high detail, depth-of-field, ultra-realistic textures, cinematic composition, vibrant color contrast, trending AI art style, 4K resolution.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创意3D照片合成社交媒体个人资料界面，主角是一位惊讶的年轻女性，留着凌乱的黄色短发，戴着圆框眼镜，双眼睁得很大表情丰富，穿着无袖黄色上衣。她正从屏幕中撕破纸张效果突围而出，双手紧紧抓住撕裂的边缘。撕裂处露出了她身后深色的背景，增添了深度。UI界面类似于现代社交媒体个人资料页面，包含头像、用户名“Noor 🌸”、认证徽章、个人简介文本和粉丝统计数据。顶部横幅显示了一双眼睛的黑白特写。干净极简的布局，柔和的阴影，逼真的光照，高细节，景深，超写实质感，电影级构图，鲜艳的色彩对比，热门AI艺术风格，4K分辨率。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179940045-qe7ztuue-1777179942235-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179940045-qe7ztuue-1777179942235-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/breaking-screen-girl",
+      "reviewed_at": "2026-04-28T14:03:02.038Z",
+      "created_at": "2026-04-26T05:06:56.657Z",
+      "updated_at": "2026-04-28T14:03:02.038Z"
+    },
+    {
+      "id": 13807,
+      "slug": "lolita-silhouette-epic-poster",
+      "title": "洛丽塔剪影史诗叙事海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@john87445528",
+      "source_url": "https://x.com/john87445528/status/2048097680010641767",
+      "tags": [
+        "洛丽塔",
+        "剪影法",
+        "电影感",
+        "东方美",
+        "叙事性"
+      ],
+      "prompts": [
+        {
+          "text": "Based on *Lolita*, automatically generate a collector's edition epic narrative poster,\n\nThe giant and elegant silhouette of the *Lolita* character as the outer contour, with the silhouette internally automatically growing out the most fitting complete worldview for this theme, iconic scenes, character relationships, symbolic symbols, key architecture, creatures, props, and atmosphere.\n\nThe overall is not a regular collage, but a high-end silhouette contour filling narrative synthesis, with double exposure 联想, but enhanced to a cinematic narrative expression and spatial arrangement.\n\nFilm poster style + Eastern realistic aesthetic fusion, emphasizing real physical light and shadow, camera language, spatial depth, and narrative hierarchy.\n\nLight and shadow employ cinematic side-backlighting with 局部 warm light accents, maintaining a restrained contrast between warm and cool tones for realism. Volume lighting and light fog are added to enhance spatial depth.\n\nMaterials exhibit realistic textures (architecture, silk, skin, stone), avoiding pure painting brushstrokes,\n\npreserving soft aerial perspective but optimized for cinematic depth of field and focus control.\n\nLight film grain, edge halos, and brush marks are replaced with cinematic soft transitions.\n\nLarge areas of white space, restrained and sophisticated layout, quiet, grand, restrained, and destiny-strong narrative of Eastern cinema.\n\nAll elements must be strongly bound to the theme, instantly recognizable, no clutter, no forced collage, no templated backgrounds, no cheap fantasy materials.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "基于*洛丽塔*，自动生成一款收藏版史诗叙事海报，\n\n以*洛丽塔*角色巨大而优雅的剪影作为外部轮廓，在剪影内部自动生长出最适合该主题的完整世界观、标志性场景、人物关系、象征性符号、关键建筑、生物、道具和氛围。\n\n整体不是常规的拼贴画，而是一种高端的剪影轮廓填充叙事合成，具有双重曝光联想，但被强化为电影级的叙事表达和空间布局。\n\n电影海报风格+东方写实美学融合，强调真实的物理光影、镜头语言、空间深度和叙事层次。\n\n光影采用电影级侧逆光，带有局部暖光点缀，保持冷暖色调克制的对比以实现写实感。添加体积光和光雾以增强空间深度。\n\n材质展现逼真纹理（建筑、丝绸、皮肤、石头），避免纯绘画笔触，\n\n保留柔和的空气透视，但针对电影级景深和焦点控制进行了优化。\n\n轻微的胶片颗粒、边缘光晕和笔触被电影级的柔和过渡所取代。\n\n大面积留白，克制而精致的构图，安静、宏大、克制且命运感强烈的东方电影叙事。\n\n所有元素必须与主题强绑定，一目了然，无杂乱，无生硬拼贴，无模板化背景，无廉价奇幻素材。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179853712-l6qkla56-1777179855394-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179853712-l6qkla56-1777179855394-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lolita-silhouette-epic-poster",
+      "reviewed_at": "2026-04-28T14:02:56.713Z",
+      "created_at": "2026-04-26T05:05:06.419Z",
+      "updated_at": "2026-04-28T14:02:56.713Z"
+    },
+    {
+      "id": 13806,
+      "slug": "nike-futuristic-iridescent-jump",
+      "title": "耐克未来感幻彩跳跃广告",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@iamsofiaijaz",
+      "source_url": "https://x.com/iamsofiaijaz/status/2048013114483019889",
+      "tags": [
+        "耐克广告",
+        "未来感",
+        "光轨特效",
+        "超写实",
+        "时尚大片"
+      ],
+      "prompts": [
+        {
+          "text": "A dynamic fashion advertisement for Nike showing a hyper-realistic model mid-twist jump, light trails following her limbs. Background: prism-shifting gradient (hot magenta to sapphire) with refracted lens flares. The model wears iridescent Nike runner tights and a cropped tech hoodie in holographic white. Bold serif \"NIKE\" and motion-glitched \"LUMINA\" in layered text behind. High-energy, futuristic aesthetic with fashion gloss. --ar 3:4 --raw --stylize 750",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一则充满动感的耐克时尚广告，展示一位超写实模特在半空中扭转跳跃，光轨尾随她的四肢。背景：棱镜变换渐变（从热品红到蓝宝石色），带有折射镜头光晕。模特穿着虹彩耐克跑步紧身裤和一件全息白色的短款科技连帽衫。背后是粗体衬线字体的“NIKE”和带有运动故障效果的“LUMINA”分层文字。高能量、充满未来感的审美，带有时尚光泽。 --ar 3:4 --raw --stylize 750",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179826597-fozkkb1l-1777179828177-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179826597-fozkkb1l-1777179828177-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/nike-futuristic-iridescent-jump",
+      "reviewed_at": "2026-04-28T14:02:57.836Z",
+      "created_at": "2026-04-26T05:04:18.606Z",
+      "updated_at": "2026-04-28T14:02:57.836Z"
+    },
+    {
+      "id": 13805,
+      "slug": "fisheye-latex-shorts-girl",
+      "title": "鱼眼镜头下的绿色乳胶短裤女孩",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@VIBEQUIRKLABS",
+      "source_url": "https://x.com/VIBEQUIRKLABS/status/2047912789495394357",
+      "tags": [
+        "日韩美女",
+        "乳胶短裤",
+        "鱼眼镜头",
+        "控制室",
+        "沙漏身材"
+      ],
+      "prompts": [
+        {
+          "text": "an elegant beautiful seductive stunning 20-year-old Japanese or Korean woman, tall slim elegant hourglass figure with balanced proportions. relaxed squatting pose. silver silk satin blouse tucked into the bottoms, olive green low-rise glossy latex fitted shorts, neon green black glossy pointed-toe stiletto pumps, sleek sharp silhouette. rusted control room. shot on fisheye lens. Canon full-frame portrait look, warm flattering skin tones, soft highlight roll-off, smooth color rendering. looking directly at the camera, direct eye contact.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个优雅美丽迷人惊艳的20岁日本或韩国女人，高挑苗条优雅的沙漏型身材且比例匀称。放松的蹲姿。银色丝绸缎面衬衫塞进下装里，橄榄绿色低腰光泽乳胶紧身短裤，霓虹绿黑色光泽尖头细高跟鞋，流畅锐利的轮廓。生锈的控制室。使用鱼眼镜头拍摄。佳能全画幅人像外观，温暖讨喜的肤色，柔和的高光滚降，平滑的色彩渲染。直视镜头，直接的眼神接触。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179745068-peq8widv-1777179748237-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179745068-peq8widv-1777179748237-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/fisheye-latex-shorts-girl",
+      "reviewed_at": "2026-04-28T14:02:51.049Z",
+      "created_at": "2026-04-26T05:03:12.106Z",
+      "updated_at": "2026-04-28T14:02:51.049Z"
     },
     {
       "id": 13804,
@@ -1331,6 +2419,82 @@
       "updated_at": "2026-04-26T15:15:16.613Z"
     },
     {
+      "id": 13802,
+      "slug": "disruptive-street-balenciaga-poster",
+      "title": "颠覆街头：巴黎世家巨物感海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Diplomeme",
+      "source_url": "https://x.com/Diplomeme/status/2048223282676335099",
+      "tags": [
+        "街头风",
+        "老爹鞋",
+        "巨物感",
+        "超广角",
+        "先锋派"
+      ],
+      "prompts": [
+        {
+          "text": "4:5 vertical poster, ultra high resolution, 8K, luxury fashion campaign, editorial + commercial hybrid, print-ready sharpness\n\nCORE IDEA:\n\nA bold, disruptive fashion statement where movement is exaggerated and dominant, but still feels controlled, raw, and premium.\n\nThe subject doesn’t just move —\nthey impose presence through scale and perspective.\n\nSCENE / ENVIRONMENT:\n\nUrban rooftop parking structure\n\nBackground:\n\n* Deep blue sky with minimal clouds\n* Clean modern skyline (slightly blurred, secondary focus)\n\nEnvironment:\n\n* Concrete ground with subtle texture\n* Warm sunlight hitting surface (adds contrast against dark outfit)\n\nMood:\n\n* Mix of realism + high-energy campaign aesthetic\n\nSUBJECT:\n\nMale fashion model in Balenciaga oversized streetwear\n\nOutfit:\n\n* Black oversized hoodie (Balenciaga logo visible)\n* Extremely baggy distressed black pants\n* Chunky Balenciaga sneakers (Track / Triple S style)\n* Dark sunglasses\n\nPose:\n\n* Mid-step forward motion\n* One foot extremely close to camera (hero perspective)\n* Body slightly leaning forward\n* Arms relaxed but dynamic\n\nExpression:\n\n* Confident, detached, effortless dominance\n\nPRODUCT FOCUS:\n\nSneaker dominates foreground\n\n* Ultra detailed textures (rubber, mesh, dirt, reflections)\n* Glossy + matte material contrast\n* Perspective distortion exaggerates size\n* Front shoe = tack sharp\n* Background shoe slightly softer\n\nTYPOGRAPHY:\n\nPrimary Headline:\n\nNOT\nMADE\nTO FIT.\n\nLayout:\n\n* Left aligned stacked text\n* “FIT.” large and aggressive\n* Slight overlap with subject\n\nFont:\n\n* Bold condensed sans-serif\n* Distressed / grunge texture\n\nColor:\n\n* White for main text\n* Accent word “FIT.” in bold painted orange brush style\n\nSECONDARY TEXT:\n\nPlaced bottom-left:\n\n“SHAPING THE NOW.\nNOT FOLLOWING IT.”\n\nSmall icon row (minimal, premium feel):\n\n* Built Different\n* Rules Don’t Apply\n* Made to Disrupt\n* Paris France\n\nBRANDING:\n\nTop-left:\nBALENCIAGA (clean, minimal)\n\nBottom-left:\nBLCG®\nWinter 24 Collection\n\nBottom-right:\nbalenciaga\n\nCOLOR GRADING:\n\n* High contrast\n* Deep blacks + vibrant sky blues\n* Warm highlights from sunlight\n* Slight cinematic tone\n\nLIGHTING:\n\n* Natural sunlight (golden hour leaning toward daylight)\n* Hard shadows for depth\n* Specular highlights on sneaker\n\nCAMERA:\n\n* Ultra wide-angle (18–24mm)\n* Very low angle (ground level)\n* Forced perspective exaggeration\n\nDepth:\n\n* Foreground sharp\n* Background slightly blurred\n\nTEXTURE / FINISH:\n\n* Subtle grain (2–3%)\n* Slight sharpening on product\n* Micro contrast boost\n* Clean but not overly polished\n\nDESIGN INTENT (IMPORTANT):\n\n* Feels like Nike energy + Balenciaga attitude hybrid\n* Bold enough for social media\n* Premium enough for billboard\n* Immediate scroll-stopping impact",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "4:5 垂直海报，超高分辨率，8K，奢华时尚广告，杂志大片+商业混合，印刷级清晰度\n\nCORE IDEA:\n\n一个大胆、颠覆性的时尚宣言，其中动作被夸大且占据主导地位，但仍然感觉受控、原始且高级。\n\n主体不只是移动——\n他们通过尺度和透视感强加存在感。\n\nSCENE / ENVIRONMENT:\n\n城市屋顶停车场结构\n\nBackground:\n\n* 深蓝色天空，云量极少\n* 干净的现代天际线（略微模糊，次要焦点）\n\nEnvironment:\n\n* 带有微妙纹理的混凝土地面\n* 温暖的阳光照射表面（与深色服装形成对比）\n\nMood:\n\n* 现实主义 + 高能量广告美学的混合\n\nSUBJECT:\n\n穿着巴黎世家超大号街头服饰的男时装模特\n\nOutfit:\n\n* 黑色超大号连帽衫（可见巴黎世家标志）\n* 极度宽松的做旧黑色长裤\n* 巴黎世家老爹鞋（Track / Triple S 风格）\n* 深色太阳镜\n\nPose:\n\n* 向前迈步的中途动作\n* 一只脚极其靠近镜头（英雄视角）\n* 身体微微前倾\n* 手臂放松但充满动感\n\nExpression:\n\n* 自信、超然、毫不费力的统治力\n\nPRODUCT FOCUS:\n\n运动鞋主导前景\n\n* 超精细的纹理（橡胶、网面、污垢、反光）\n* 光泽 + 哑光材质对比\n* 透视畸变夸大尺寸\n* 前方的鞋子 = 极度锐利\n* 背景的鞋子略微柔和\n\nTYPOGRAPHY:\n\nPrimary Headline:\n\n不是\n制造来\n顺应的。\n\nLayout:\n\n* 左对齐堆叠文本\n* “顺应的。” 大且具有攻击性\n* 与主体轻微重叠\n\nFont:\n\n* 粗体 condensed 无衬线体\n* 做旧 / 垃圾摇滚纹理\n\nColor:\n\n* 主体文字为白色\n* 强调词“顺应的。”采用粗体橙色笔刷涂鸦风格\n\nSECONDARY TEXT:\n\n放置在左下角：\n\n“塑造当下。\n而非随波逐流。”\n\n小图标行（极简，高级感）：\n\n* 与众不同\n* 规则不适用\n* 为颠覆而生\n* 法国巴黎\n\nBRANDING:\n\nTop-left:\nBALENCIAGA（干净，极简）\n\nBottom-left:\nBLCG®\n24冬季系列\n\nBottom-right:\nbalenciaga\n\nCOLOR GRADING:\n\n* 高对比度\n* 深邃的黑色 + 鲜艳的天空蓝\n* 阳光带来的温暖高光\n* 轻微的电影感色调\n\nLIGHTING:\n\n* 自然阳光（偏向白天的黄金时刻）\n* 硬阴影以增加深度\n* 运动鞋上的高光反光\n\nCAMERA:\n\n* 超广角（18–24mm）\n* 极低角度（地面水平）\n* 强迫透视夸大\n\nDepth:\n\n* 前景锐利\n* 背景略微模糊\n\nTEXTURE / FINISH:\n\n* 微妙的颗粒感（2–3%）\n* 产品轻微锐化\n* 微对比度提升\n* 干净但不过度精修\n\nDESIGN INTENT (IMPORTANT):\n\n* 感觉像耐克能量 + 巴黎世家态度的混合体\n* 足够大胆以适合社交媒体\n* 足够高级以适合广告牌\n* 瞬间停止滑动的冲击力",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179277391-gswsb7kv-1777179281517-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179277391-gswsb7kv-1777179281517-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/disruptive-street-balenciaga-poster",
+      "reviewed_at": "2026-04-28T14:02:52.925Z",
+      "created_at": "2026-04-26T04:59:31.583Z",
+      "updated_at": "2026-04-28T14:02:52.925Z"
+    },
+    {
+      "id": 13801,
+      "slug": "breaking-bad-cinematic-poster",
+      "title": "绝命毒师高对比电影级角色海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@rovvmut_",
+      "source_url": "https://x.com/rovvmut_/status/2048255585691582488",
+      "tags": [
+        "毒师",
+        "电影感",
+        "粗犷风",
+        "犯罪片",
+        "高反差"
+      ],
+      "prompts": [
+        {
+          "text": "Create a high-contrast, cinematic graphic design poster inspired by the TV series Breaking Bad, featuring a 2x6 vertical grid of twelve distinct title-card panels showcasing iconic characters from the show. The aesthetic should blend Urban Grunge with crime-thriller intensity, using distressed textures, film grain, and bold typography masking effects. Each panel should prominently feature a massive extra-bold sans-serif name such as WALT, JESSE, SAUL, GUS, MIKE, HANK, SKYLER, TUCO, HECTOR, LYDIA, TODD, and JANE, with the character portrait visible only inside the filled letterforms using a clipping/masking silhouette-window effect. Add smaller cinematic credit text beside or below the names in clean typography, such as “AS HEISENBERG”, “THE LAWYER”, or “THE FIXER.” Characters should have gritty, realistic portraits with intense or emotionless expressions, featuring iconic looks: Walter White in hat/glasses, Jesse Pinkman in hoodie/beanie, Saul Goodman in flashy suit, Gus Fring in formal attire, Mike Ehrmantraut bald with stern face, and Hank in DEA style. Use high-contrast dramatic studio lighting with rim lights and shadows; selectively add green chemical-lab glow, neon cyan, magenta, and amber highlights to certain cards. Backgrounds in each panel should feel unique but cohesive: weathered concrete, rusted metal, cracked walls, wrinkled paper, and smoky meth-lab atmospheres. Overlay heavy ink splatters, paint drips, brush strokes, scratches, scan lines, dust, film burns, and grain for a distressed cinematic look. The overall palette should use dark green, toxic neon lime, monochrome greys, deep charcoals, dirty yellows, and off-whites, with accent pops like a glowing green haze behind Walter, red-orange behind Tuco, blue meth-crystal highlights around Jesse, and sterile white tones around Lydia. The final result should look like a premium Netflix-style crime drama cast poster with a raw, edgy, highly stylized graphic design aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一张高对比度、电影级的平面设计海报，灵感来自电视剧《绝命毒师》，采用2x6垂直网格排列的十二个独特的标题卡片面板，展示剧中的标志性角色。美学风格应将都市粗犷与犯罪惊悚的紧张感相融合，使用做旧纹理、胶片颗粒和粗体排版遮罩效果。每个面板应突出显示一个巨大的超粗无衬线名字，例如WALT、JESSE、SAUL、GUS、MIKE、HANK、SKYLER、TUCO、HECTOR、LYDIA、TODD和JANE，角色肖像仅在使用剪切/遮罩剪影窗口效果的填充字形内部可见。在名字旁边或下方使用简洁的排版添加较小的电影演职员表文本，例如“AS HEISENBERG”、“THE LAWYER”或“THE FIXER”。角色应具有粗犷、写实的肖像，带有强烈或面无表情的神态，展现标志性外观：戴着帽子/眼镜的沃尔特·怀特，穿着连帽衫/毛线帽的杰西·平克曼，穿着浮夸西装的索尔·古德曼，穿着正式服装的格斯·弗林，光头且面容严肃的迈克·埃曼特拉特，以及DEA风格的汉克。使用高对比度的戏剧性影棚照明，带有边缘光和阴影；有选择性地为某些卡片添加绿色化学实验室发光、霓虹青色、洋红色和琥珀色高光。每个面板中的背景应该感觉独特但又协调统一：风化的混凝土、生锈的金属、破裂的墙壁、起皱的纸张和烟雾弥漫的制毒实验室氛围。叠加浓重的墨水飞溅、油漆滴落、笔触、划痕、扫描线、灰尘、胶片烧伤和颗粒，以营造做旧的电影感外观。整体调色板应使用深绿色、有毒的霓虹青柠色、单色灰色、深炭色、脏黄色和灰白色，并带有点缀的流行色，例如沃尔特背后发光的绿色薄雾、图科背后的红橙色、杰西周围的蓝色冰毒晶体高光，以及莉迪亚周围的无菌白色调。最终结果应该看起来像一张高级的Netflix风格犯罪剧情剧集海报，具有原始、前卫、高度风格化的平面设计美学。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179518808-djip5t3m-1777179522766-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179518808-djip5t3m-1777179522766-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/breaking-bad-cinematic-poster",
+      "reviewed_at": "2026-04-28T14:02:46.300Z",
+      "created_at": "2026-04-26T04:59:29.406Z",
+      "updated_at": "2026-04-28T14:02:46.300Z"
+    },
+    {
       "id": 13799,
       "slug": "cool-model-neon-cartoon-animal",
       "title": "潮酷模特与霓虹卡通动物同框",
@@ -1367,6 +2531,44 @@
       "reviewed_at": "2026-04-26T15:15:21.202Z",
       "created_at": "2026-04-26T04:54:49.574Z",
       "updated_at": "2026-04-26T15:15:21.202Z"
+    },
+    {
+      "id": 13798,
+      "slug": "high-fashion-tennis-girl",
+      "title": "高级时尚网球女运动员大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithkhan",
+      "source_url": "https://x.com/AIwithkhan/status/2048243211056120052",
+      "tags": [
+        "网球",
+        "时尚",
+        "杂志",
+        "极简",
+        "奢华"
+      ],
+      "prompts": [
+        {
+          "text": "High-fashion sports editorial campaign, female tennis athlete in crisp white pleated skirt, fitted performance crop top and white visor cap, seated casually on a professional green tennis court with one knee raised and one leg extended, racket resting loosely beside her, relaxed but powerful pose, direct confident gaze, oversized word “PRECISION” towering behind in bold condensed typography, minimal palette of deep court green and luminous whites, glossy skin highlights, soft natural sunlight casting subtle directional shadows, ultra-clean composition, premium athletic campaign aesthetic, cinematic luxury lighting, Vogue x Nike style editorial, shallow depth of field, polished magazine cover art, 1:1",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "高级时尚运动社论广告大片，女网球运动员穿着挺括的白色百褶裙，紧身运动短款上衣和白色遮阳帽，随意坐在专业绿色网球场上，单膝抬起一条腿伸直，球拍松散地放在她身旁，放松但充满力量的姿势，直接自信的目光，巨大的“PRECISION”单词在身后以粗体压缩字体高耸显现，深场地绿和发光白色的极简调色板，光滑的皮肤高光，柔和的自然阳光投射出微妙的方向性阴影，极其干净的构图，高端运动广告美学，电影级奢华灯光，Vogue x Nike 风格社论，浅景深，精致的杂志封面艺术，1:1",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777179190206-9qiryfgn-1777179194639-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777179190206-9qiryfgn-1777179194639-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-fashion-tennis-girl",
+      "reviewed_at": "2026-04-28T14:02:44.096Z",
+      "created_at": "2026-04-26T04:54:41.914Z",
+      "updated_at": "2026-04-28T14:02:44.096Z"
     },
     {
       "id": 13797,
@@ -1481,6 +2683,44 @@
       "reviewed_at": "2026-04-26T06:07:34.351Z",
       "created_at": "2026-04-25T17:00:47.752Z",
       "updated_at": "2026-04-26T06:07:34.351Z"
+    },
+    {
+      "id": 13794,
+      "slug": "vintage-film-couple-album",
+      "title": "复古胶片情侣旅行相册",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ohmuyi",
+      "source_url": "https://x.com/ohmuyi/status/2047987342573548014",
+      "tags": [
+        "胶片感",
+        "情侣照",
+        "复古风",
+        "网格拼贴",
+        "旅行记"
+      ],
+      "prompts": [
+        {
+          "text": "Generate a photorealistic 4x4 grid collage, 16 photos in total. The scene features a couple in their twenties taking pictures of each other and selfies with a vintage point-and-shoot camera, like clumsy yet intimate travel memory photos. Each grid is a different moment: hand shake, slight out of focus, tilted composition, flash, film grain, warm vintage filter, slight light leak, natural expressions. The overall look is like a real old album contact sheet.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "生成一张 photorealistic 4x4 网格拼贴，共 16 张照片。画面是一对二十多岁的成年情侣，用复古傻瓜相机互相拍照和自拍，像笨拙又亲密的旅行回忆照。每格都是不同瞬间：手抖、轻微失焦、歪斜构图、闪光灯、胶片颗粒、暖色复古滤镜、轻微漏光、自然表情。整体像真实旧相册 contact sheet。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777136402825-c68oqmu7-1777136419647-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777136402825-c68oqmu7-1777136419647-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vintage-film-couple-album",
+      "reviewed_at": "2026-04-28T14:02:41.899Z",
+      "created_at": "2026-04-25T17:00:43.986Z",
+      "updated_at": "2026-04-28T14:02:41.899Z"
     },
     {
       "id": 13793,
@@ -1709,7 +2949,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/desert-fashion-falcon",
       "reviewed_at": "2026-04-25T15:17:28.263Z",
       "created_at": "2026-04-25T08:49:18.933Z",
-      "updated_at": "2026-04-25T15:17:28.263Z"
+      "updated_at": "2026-04-28T07:09:42.910Z"
     },
     {
       "id": 13787,
@@ -2167,7 +3407,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/falling-colossus-shrine-maiden",
       "reviewed_at": "2026-04-25T15:17:42.700Z",
       "created_at": "2026-04-25T08:30:53.047Z",
-      "updated_at": "2026-04-25T15:17:42.700Z"
+      "updated_at": "2026-04-28T17:13:10.379Z"
     },
     {
       "id": 13774,
@@ -2243,7 +3483,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/surreal-nike-cap-infographic",
       "reviewed_at": "2026-04-25T15:17:44.913Z",
       "created_at": "2026-04-25T08:27:57.579Z",
-      "updated_at": "2026-04-25T15:17:44.913Z"
+      "updated_at": "2026-04-28T16:16:32.266Z"
     },
     {
       "id": 13772,
@@ -2281,7 +3521,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/epic-movie-action-stills",
       "reviewed_at": "2026-04-25T15:17:47.687Z",
       "created_at": "2026-04-25T08:27:48.497Z",
-      "updated_at": "2026-04-25T15:17:47.687Z"
+      "updated_at": "2026-04-28T07:21:28.024Z"
     },
     {
       "id": 13771,
@@ -2395,7 +3635,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxurious-bedroom-indian-beauty",
       "reviewed_at": "2026-04-25T15:17:52.880Z",
       "created_at": "2026-04-25T08:20:42.282Z",
-      "updated_at": "2026-04-25T15:17:52.880Z"
+      "updated_at": "2026-04-28T17:12:47.135Z"
     },
     {
       "id": 13768,
@@ -2970,6 +4210,44 @@
       "reviewed_at": "2026-04-26T15:15:35.691Z",
       "created_at": "2026-04-25T07:55:04.860Z",
       "updated_at": "2026-04-26T15:15:35.691Z"
+    },
+    {
+      "id": 13753,
+      "slug": "vintage-vacation-selfies-grid",
+      "title": "情侣度假复古手机自拍网格",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@minchoi",
+      "source_url": "https://x.com/minchoi/status/2047876028777762958",
+      "tags": [
+        "情侣照",
+        "复古风",
+        "度假游",
+        "随手拍",
+        "自拍图"
+      ],
+      "prompts": [
+        {
+          "text": "4x4 grid of candid nostalgic photos shot with iphone of a young couple at vacation taking selfies of each other and together. Lots of camera shake, amateur framing, and emotional/vintage aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "用iPhone拍摄的一对年轻情侣在度假时互相自拍和一起自拍的自然怀旧照片的4x4网格。大量相机抖动，业余构图，以及充满情感的/复古美学。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777103606368-1gmzr78o-1777103611345-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777103606368-1gmzr78o-1777103611345-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vintage-vacation-selfies-grid",
+      "reviewed_at": "2026-04-28T14:02:37.594Z",
+      "created_at": "2026-04-25T07:54:32.040Z",
+      "updated_at": "2026-04-28T14:02:37.594Z"
     },
     {
       "id": 13752,
@@ -11610,11 +12888,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776784419460-3h6bx4ja-1776784429423-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776784419460-3h6bx4ja-1776784429423-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/lol-trump-khamenei-mid-lane",
       "reviewed_at": "2026-04-21T15:15:14.945Z",
       "created_at": "2026-04-21T15:15:09.199Z",
-      "updated_at": "2026-04-21T15:17:02.986Z"
+      "updated_at": "2026-04-28T07:28:20.027Z"
     },
     {
       "id": 13506,
@@ -11648,11 +12926,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776784178975-lqq86ev9-1776784191418-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776784178975-lqq86ev9-1776784191418-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/viral-beauty-underwear-live",
       "reviewed_at": "2026-04-21T15:14:23.384Z",
       "created_at": "2026-04-21T15:13:32.297Z",
-      "updated_at": "2026-04-21T15:14:23.384Z"
+      "updated_at": "2026-04-28T15:11:21.792Z"
     },
     {
       "id": 13505,
@@ -11690,7 +12968,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ultra-realistic-beach-selfie",
       "reviewed_at": "2026-04-21T15:14:23.395Z",
       "created_at": "2026-04-21T15:09:02.746Z",
-      "updated_at": "2026-04-21T15:14:23.395Z"
+      "updated_at": "2026-04-28T15:00:01.938Z"
     },
     {
       "id": 13504,
@@ -11728,7 +13006,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/grade-3a-outpatient-prescription",
       "reviewed_at": "2026-04-21T15:14:05.075Z",
       "created_at": "2026-04-21T15:08:55.340Z",
-      "updated_at": "2026-04-21T15:17:48.682Z"
+      "updated_at": "2026-04-28T11:40:17.002Z"
     },
     {
       "id": 13503,
@@ -11800,11 +13078,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783884060-crcvvfv2-1776783890610-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783884060-crcvvfv2-1776783890610-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/otaku-must-see-anime-girl",
       "reviewed_at": "2026-04-21T15:05:37.121Z",
       "created_at": "2026-04-21T15:05:18.502Z",
-      "updated_at": "2026-04-21T15:05:37.121Z"
+      "updated_at": "2026-04-28T08:20:07.434Z"
     },
     {
       "id": 13501,
@@ -11838,11 +13116,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783875218-qz2tjfc6-1776783881176-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783875218-qz2tjfc6-1776783881176-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/troll-perspective-copywriting",
       "reviewed_at": "2026-04-21T15:05:35.744Z",
       "created_at": "2026-04-21T15:05:14.684Z",
-      "updated_at": "2026-04-21T15:05:35.744Z"
+      "updated_at": "2026-04-28T07:18:53.740Z"
     },
     {
       "id": 13500,
@@ -11876,11 +13154,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783869052-cuva8qaz-1776783877933-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783869052-cuva8qaz-1776783877933-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/animation-storyboard-generator",
       "reviewed_at": "2026-04-21T15:05:34.636Z",
       "created_at": "2026-04-21T15:05:09.886Z",
-      "updated_at": "2026-04-21T15:05:34.636Z"
+      "updated_at": "2026-04-28T14:55:17.384Z"
     },
     {
       "id": 13499,
@@ -11914,11 +13192,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783863662-ghn5u66w-1776783872036-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783863662-ghn5u66w-1776783872036-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/imperial-palace-express-station",
       "reviewed_at": "2026-04-21T15:05:32.473Z",
       "created_at": "2026-04-21T15:05:04.778Z",
-      "updated_at": "2026-04-21T15:05:32.473Z"
+      "updated_at": "2026-04-28T03:27:03.981Z"
     },
     {
       "id": 13498,
@@ -11952,11 +13230,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783722610-qq5m7e0q-1776783734485-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783722610-qq5m7e0q-1776783734485-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/guofeng-gongbi-eight-immortals",
       "reviewed_at": "2026-04-21T15:05:30.696Z",
       "created_at": "2026-04-21T15:03:12.536Z",
-      "updated_at": "2026-04-21T15:05:30.696Z"
+      "updated_at": "2026-04-27T16:32:25.563Z"
     },
     {
       "id": 13497,
@@ -11990,11 +13268,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783314099-e9xsrhyu-1776783317635-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783314099-e9xsrhyu-1776783317635-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/black-myth-pan-jinlian-cover",
       "reviewed_at": "2026-04-21T14:59:27.909Z",
       "created_at": "2026-04-21T14:55:49.394Z",
-      "updated_at": "2026-04-21T14:59:27.909Z"
+      "updated_at": "2026-04-28T12:15:53.774Z"
     },
     {
       "id": 13496,
@@ -12032,7 +13310,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cherry-blossom-twin-tails-girl",
       "reviewed_at": "2026-04-21T14:59:17.255Z",
       "created_at": "2026-04-21T14:55:05.519Z",
-      "updated_at": "2026-04-21T15:00:38.320Z"
+      "updated_at": "2026-04-27T16:32:35.184Z"
     },
     {
       "id": 13495,
@@ -12066,11 +13344,11 @@
         "https://img.opennana.com/prompts/assets/202604/1776783120175-mrj3x2nw-1776783122615-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1776783120175-mrj3x2nw-1776783122615-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/mythological-three-kingdoms-gunfight",
       "reviewed_at": "2026-04-21T14:52:44.277Z",
       "created_at": "2026-04-21T14:52:30.957Z",
-      "updated_at": "2026-04-21T14:52:44.277Z"
+      "updated_at": "2026-04-28T14:27:21.647Z"
     },
     {
       "id": 13494,
@@ -12108,7 +13386,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cute-llm-training",
       "reviewed_at": "2026-04-21T14:52:41.640Z",
       "created_at": "2026-04-21T14:51:29.111Z",
-      "updated_at": "2026-04-21T15:00:39.454Z"
+      "updated_at": "2026-04-28T08:00:29.432Z"
     },
     {
       "id": 13493,
@@ -12146,7 +13424,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/temple-of-heaven-exploded",
       "reviewed_at": "2026-04-21T14:52:40.240Z",
       "created_at": "2026-04-21T14:49:59.638Z",
-      "updated_at": "2026-04-21T14:52:40.240Z"
+      "updated_at": "2026-04-28T03:45:26.958Z"
     },
     {
       "id": 13492,
@@ -12184,7 +13462,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/professional-designer-photobook",
       "reviewed_at": "2026-04-21T14:52:39.040Z",
       "created_at": "2026-04-21T14:48:52.004Z",
-      "updated_at": "2026-04-21T14:52:39.040Z"
+      "updated_at": "2026-04-28T12:59:37.750Z"
     },
     {
       "id": 13491,
@@ -12211,7 +13489,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/jin-ping-mei-tupu",
       "reviewed_at": "2026-04-21T10:20:44.596Z",
       "created_at": "2026-04-21T10:20:12.612Z",
-      "updated_at": "2026-04-21T10:20:44.596Z"
+      "updated_at": "2026-04-28T02:56:31.670Z"
     },
     {
       "id": 13490,
@@ -12249,7 +13527,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/jin-ping-mei-open-world",
       "reviewed_at": "2026-04-21T10:20:45.524Z",
       "created_at": "2026-04-21T10:15:44.715Z",
-      "updated_at": "2026-04-21T10:24:14.793Z"
+      "updated_at": "2026-04-28T09:42:08.950Z"
     },
     {
       "id": 13488,
@@ -12287,7 +13565,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/western-art-pixel-museum",
       "reviewed_at": "2026-04-21T10:20:39.606Z",
       "created_at": "2026-04-21T03:59:37.166Z",
-      "updated_at": "2026-04-21T10:20:39.606Z"
+      "updated_at": "2026-04-28T08:51:27.454Z"
     },
     {
       "id": 13487,
@@ -12325,7 +13603,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/elegant-pattern-fashion-items",
       "reviewed_at": "2026-04-21T10:20:36.989Z",
       "created_at": "2026-04-21T02:19:13.955Z",
-      "updated_at": "2026-04-21T10:20:36.989Z"
+      "updated_at": "2026-04-28T02:56:40.678Z"
     },
     {
       "id": 13486,
@@ -12363,7 +13641,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/golden-guangzhou-tower-poster",
       "reviewed_at": "2026-04-21T00:51:47.220Z",
       "created_at": "2026-04-20T15:50:58.644Z",
-      "updated_at": "2026-04-21T00:51:47.220Z"
+      "updated_at": "2026-04-27T16:33:30.285Z"
     },
     {
       "id": 13485,
@@ -12401,7 +13679,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/exquisite-modular-science-infographic",
       "reviewed_at": "2026-04-21T00:50:20.214Z",
       "created_at": "2026-04-20T15:50:18.915Z",
-      "updated_at": "2026-04-21T17:00:38.767Z"
+      "updated_at": "2026-04-28T10:22:13.309Z"
     },
     {
       "id": 13484,
@@ -12439,7 +13717,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/spring-zen-ink-mountain-poster",
       "reviewed_at": "2026-04-21T00:50:16.094Z",
       "created_at": "2026-04-20T14:53:35.679Z",
-      "updated_at": "2026-04-21T00:50:16.094Z"
+      "updated_at": "2026-04-27T16:33:44.180Z"
     },
     {
       "id": 13483,
@@ -12477,7 +13755,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/korean-idol-grid-photobook",
       "reviewed_at": "2026-04-21T00:52:04.278Z",
       "created_at": "2026-04-20T14:51:58.342Z",
-      "updated_at": "2026-04-21T00:52:04.278Z"
+      "updated_at": "2026-04-27T21:54:14.919Z"
     },
     {
       "id": 13482,
@@ -12515,7 +13793,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dim-room-innocent-glance",
       "reviewed_at": "2026-04-21T00:52:07.658Z",
       "created_at": "2026-04-20T14:50:46.282Z",
-      "updated_at": "2026-04-21T00:52:07.658Z"
+      "updated_at": "2026-04-27T16:54:43.839Z"
     },
     {
       "id": 13480,
@@ -12553,7 +13831,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/xxxx-masterpiece-reproduction",
       "reviewed_at": "2026-04-21T00:49:58.423Z",
       "created_at": "2026-04-20T14:47:47.977Z",
-      "updated_at": "2026-04-21T00:49:58.423Z"
+      "updated_at": "2026-04-27T16:33:53.228Z"
     },
     {
       "id": 13479,
@@ -12585,7 +13863,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/mecha-girl-stands-in-derelict-sea-city",
       "reviewed_at": "2026-04-21T00:50:00.462Z",
       "created_at": "2026-04-20T08:56:09.547Z",
-      "updated_at": "2026-04-21T00:50:00.462Z"
+      "updated_at": "2026-04-27T16:33:48.613Z"
     },
     {
       "id": 13478,
@@ -12617,7 +13895,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/draw-scientific-style-encyclopedia-infographic",
       "reviewed_at": "2026-04-21T00:52:06.049Z",
       "created_at": "2026-04-20T08:56:04.133Z",
-      "updated_at": "2026-04-21T00:52:06.049Z"
+      "updated_at": "2026-04-27T16:33:21.072Z"
     },
     {
       "id": 13477,
@@ -12655,7 +13933,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/window-japanese-film-girl",
       "reviewed_at": "2026-04-21T00:50:49.870Z",
       "created_at": "2026-04-20T07:00:45.786Z",
-      "updated_at": "2026-04-21T00:50:49.870Z"
+      "updated_at": "2026-04-27T16:33:34.986Z"
     },
     {
       "id": 13475,
@@ -14023,7 +15301,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/liu-yifei-douyin-live-chat",
       "reviewed_at": "2026-04-20T02:22:16.662Z",
       "created_at": "2026-04-20T01:42:26.653Z",
-      "updated_at": "2026-04-21T14:35:17.499Z"
+      "updated_at": "2026-04-28T12:54:12.407Z"
     },
     {
       "id": 13439,
@@ -14919,7 +16197,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/japanese-trendy-ads",
       "reviewed_at": "2026-04-20T01:49:39.091Z",
       "created_at": "2026-04-18T15:47:30.103Z",
-      "updated_at": "2026-04-26T12:10:01.392Z"
+      "updated_at": "2026-04-28T11:04:06.012Z"
     },
     {
       "id": 13413,
@@ -16021,7 +17299,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-blue-light-future-city-double-exposure-youth",
       "reviewed_at": "2026-03-01T14:18:49.867Z",
       "created_at": "2026-03-01T14:18:49.867Z",
-      "updated_at": "2026-04-21T09:16:05.420Z"
+      "updated_at": "2026-04-28T13:06:52.445Z"
     },
     {
       "id": 2777,
@@ -16059,7 +17337,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/fierce-girl-in-spinosaurus-jaws",
       "reviewed_at": "2026-03-01T14:01:41.831Z",
       "created_at": "2026-03-01T14:01:41.831Z",
-      "updated_at": "2026-04-21T08:22:02.692Z"
+      "updated_at": "2026-04-28T08:05:14.539Z"
     },
     {
       "id": 2752,
@@ -16097,7 +17375,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/realistic-runner-breaking-manga",
       "reviewed_at": "2026-03-01T13:15:42.288Z",
       "created_at": "2026-03-01T13:15:42.288Z",
-      "updated_at": "2026-04-21T07:07:25.221Z"
+      "updated_at": "2026-04-28T02:43:21.955Z"
     },
     {
       "id": 2673,
@@ -16478,7 +17756,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-blue-stiletto-seduction",
       "reviewed_at": "2026-01-18T03:44:26.798Z",
       "created_at": "2026-01-18T03:44:26.798Z",
-      "updated_at": "2026-04-21T11:07:55.671Z"
+      "updated_at": "2026-04-28T12:01:19.628Z"
     },
     {
       "id": 2034,
@@ -16554,7 +17832,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/giant-woman-topdown-selfie",
       "reviewed_at": "2026-01-10T14:55:05.780Z",
       "created_at": "2026-01-10T14:55:05.780Z",
-      "updated_at": "2026-04-21T08:19:34.988Z"
+      "updated_at": "2026-04-28T06:18:31.561Z"
     },
     {
       "id": 1915,
