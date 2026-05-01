@@ -2,13 +2,813 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-04-30T17:18:20.247Z",
-  "total_reported": 507,
-  "total_pages": 26,
-  "total_archived": 507,
+  "fetched_at": "2026-05-01T16:55:51.068Z",
+  "total_reported": 528,
+  "total_pages": 27,
+  "total_archived": 528,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 13942,
+      "slug": "rolex-luxury-architecture-poster",
+      "title": "劳力士奢华建筑概念海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ertanlabs",
+      "source_url": "https://x.com/ertanlabs/status/2049921979407643043",
+      "tags": [
+        "劳力士",
+        "微缩",
+        "建筑",
+        "奢华",
+        "超写实"
+      ],
+      "prompts": [
+        {
+          "text": "Create a breathtaking 9:16 luxury advertising poster for Rolex. This must be a conceptual masterpiece, not a standard watch ad. The theme is “time built as architecture.” The poster should feel intellectual, luxurious, and visually stunning.\n\nCreative concept:\nThe Rolex watch dial becomes an entire miniature architectural world. The bezel acts like a city boundary. The hour markers become skyscrapers. The hands of the watch become sleek bridges connecting structures. Tiny figures move through the city as if living inside time itself. A warm sunrise crosses the dial from one side while night still exists on the other side, showing multiple times of day within one world. The watch is both an object and an ecosystem. It should feel like time is something constructed, inhabited, and mastered.\n\nComposition:\nThe watch fills a large portion of the poster, angled slightly toward camera. The city-inside-the-dial concept must be ultra-detailed and luxurious. The background should be deep and elegant with subtle gold lighting and soft shadow gradients.\n\nColor palette:\nGold, dark green, black, steel silver, warm ivory light.\n\nTypography:\nMain headline:\n\"TIME, BUILT TO LAST\"\nProduct title:\n\"Rolex\"\nSubheadline:\n\"Where precision becomes legacy.\"\nFeature callouts:\n- \"Swiss Precision\"\n- \"Iconic Craftsmanship\"\n- \"Timeless Design\"\n- \"A World Within Every Second\"\nCTA:\n\"Wear what endures\"\nFooter copy:\n\"Not just measured. Mastered.\"\n\nStyle:\nHyper-realistic luxury watch campaign, miniature world concept, ultra-premium lighting, macro detail, elegant editorial typography, museum-level sophistication.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "Create a breathtaking 9:16 luxury advertising poster for Rolex. 这必须是一个概念杰作，而不是标准的腕表广告。主题是“将时间构筑为建筑”。海报应该给人一种充满智慧、奢华且视觉震撼的感觉。\n\nCreative concept:\n劳力士腕表表盘变成一个完整的微缩建筑世界。表圈像城市边界。时标变成摩天大楼。腕表的指针变成连接建筑结构的流线型桥梁。微小的人物在城市中穿梭，仿佛生活在时间本身之中。温暖的日出从一侧横跨表盘，而另一侧依然存在黑夜，在一个世界中展现一天中的多个时间。腕表既是物体也是生态系统。它应该给人一种时间是被构筑、被居住、被掌控的感觉。\n\nComposition:\n腕表占据海报的很大一部分，略微朝向相机。表盘内城市概念必须超精细且奢华。背景应该深邃而优雅，带有微妙的金色灯光和柔和的阴影渐变。\n\nColor palette:\n金色，深绿色，黑色，钢银色，温暖的象牙白光。\n\nTypography:\nMain headline:\n\"时间，经久不衰\"\nProduct title:\n\"Rolex\"\nSubheadline:\n\"精准成就传奇。\"\nFeature callouts:\n- \"瑞士精准\"\n- \"标志性工艺\"\n- \"永恒设计\"\n- \"每一秒皆为一个世界\"\nCTA:\n\"佩戴恒久之作\"\nFooter copy:\n\"不只是被测量，而是被掌控。\"\n\nStyle:\n超写实奢华腕表广告，微缩世界概念，超高端灯光，微距细节，优雅的编辑排版字体，博物馆级别的精致感。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777652022442-3tneli8v-1777652024170-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777652022442-3tneli8v-1777652024170-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/rolex-luxury-architecture-poster",
+      "reviewed_at": "2026-05-01T16:17:43.455Z",
+      "created_at": "2026-05-01T16:16:51.558Z",
+      "updated_at": "2026-05-01T16:20:57.225Z"
+    },
+    {
+      "id": 13939,
+      "slug": "neon-tokyo-mochi-night-market",
+      "title": "霓虹灯下的东京麻薯夜市",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrDasOnX",
+      "source_url": "https://x.com/MrDasOnX/status/2050076049372004454",
+      "tags": [
+        "麻薯",
+        "夜市",
+        "拼贴画",
+        "甜品",
+        "东京"
+      ],
+      "prompts": [
+        {
+          "text": "A vibrant Tokyo street food scene focused on Japanese mochi desserts, styled as a dynamic Pinterest-style vertical collage (2:3 aspect ratio).\n\nStyle: lively, urban night market aesthetic with neon lights, warm lantern glow, and cinematic contrast. Rich colors (neon pink, red, yellow, deep blue). Mix of candid street photography and close-up food shots. Energetic, slightly gritty but still appetizing.\n\nLayout:\nVertical collage with layered frames, slightly tilted images, like a street food photo dump.\n\nInclude elements:\n- Main hero image: freshly made mochi on a street stall, vendor hands shaping mochi, steam rising\n- Close-up shots:\n  • mochi being grilled or torched lightly (yakimochi style)\n  • vendor stretching and filling mochi dough\n  • mochi skewers or trays under warm lights\n  • mochi ice cream cut open with visible filling\n- Background scenes: Tokyo night market stalls, Japanese signs, lanterns, blurred crowd\n\nIngredients / prep visuals:\n- rice dough preparation in a street setup\n- dusting mochi with starch\n- filling with red bean paste or custard\n\nText overlays (bold but minimal):\n“Tokyo street sweets”\n“fresh handmade mochi”\n“soft + chewy”\n“late night snack”\n\nText styling:\nBold modern sans-serif mixed with subtle handwritten accents\n\nExtra details:\n- paper lanterns, neon signage with Japanese characters\n- wooden stalls, metal trays, street vendor tools\n- motion blur of people walking\n- steam and smoke effects for atmosphere\n- small arrows or scribbles highlighting steps\n\nMood:\nEnergetic, authentic, bustling street market vibe with cozy food focus\n\nComposition:\nLayered, slightly chaotic but visually balanced, highly engaging and scroll-stopping\n\nHigh resolution, cinematic lighting, realistic food textures",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一个充满活力的东京街头美食场景，专注于日本麻薯甜点，风格为动态的Pinterest风格垂直拼贴画（2:3宽高比）。\n\nStyle: 充满活力的城市夜市美学，带有霓虹灯、温暖的灯笼光晕和电影般的对比度。丰富的色彩（霓虹粉、红色、黄色、深蓝色）。抓拍街头摄影与食物特写的混合。充满活力，略显粗犷但依然令人食欲大开。\n\nLayout:\n带有分层画框的垂直拼贴画，略微倾斜的图像，就像街头美食照片大放送。\n\nInclude elements:\n- 主视觉图像：街边摊位上新鲜制作的麻薯，摊贩的手正在塑造麻薯，热气升腾\n- 特写镜头：\n  • 正在被轻微烧烤或炙烤的麻薯（烤麻薯风格）\n  • 摊贩拉伸和填充麻薯面团\n  • 温暖灯光下的麻薯串或托盘\n  • 切开的麻薯冰淇淋，可见内馅\n- 背景场景：东京夜市摊位，日文招牌，灯笼，模糊的人群\n\nIngredients / prep visuals:\n- 街头场景下的米面团准备\n- 在麻薯上撒淀粉\n- 填入红豆沙或蛋奶沙司\n\nText overlays (bold but minimal):\n“东京街头甜品”\n“新鲜手工麻薯”\n“柔软 + 有嚼劲”\n“深夜小吃”\n\nText styling:\n粗体现代无衬线体混合微妙的手写点缀\n\nExtra details:\n- 纸灯笼，带有日文字符的霓虹招牌\n- 木制摊位，金属托盘，街头摊贩工具\n- 行人走动的动态模糊\n- 用于烘托气氛的蒸汽和烟雾效果\n- 突出步骤的小箭头或涂鸦\n\nMood:\n充满活力、真实、熙熙攘攘的街头市场氛围，专注于温馨的美食\n\nComposition:\n分层的，略显杂乱但在视觉上保持平衡，极具吸引力且让人忍不住停下划屏的手\n\n高分辨率，电影级光照，逼真的食物纹理",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777651863074-jc0pc5lc-1777651866049-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777651863074-jc0pc5lc-1777651866049-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/neon-tokyo-mochi-night-market",
+      "reviewed_at": "2026-05-01T16:17:48.573Z",
+      "created_at": "2026-05-01T16:12:23.737Z",
+      "updated_at": "2026-05-01T16:20:58.913Z"
+    },
+    {
+      "id": 13937,
+      "slug": "ai-posture-analysis-report",
+      "title": "AI体态比例优化报告",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2050074075016384834",
+      "tags": [
+        "体态",
+        "穿搭",
+        "比例",
+        "信息图",
+        "矫正"
+      ],
+      "prompts": [
+        {
+          "text": "Please generate a horizontal 4:3 high-completion \"AI Posture & Body Proportion Analysis Report\" based on the full-body front and full-body side real-person photos I uploaded.\n\nThis report is not a medical diagnosis, not a before-and-after weight loss comparison, nor an exaggerated weight loss effect image, but a \"Visual Posture Analysis + Proportion Management + Outfit Optimization + Posture Calibration Simulation\" report based on real-person photos. Please strictly retain the user's own facial recognition, facial features structure, sense of age, real skin texture, hairstyle and temperament, body foundation and original identity. Do not swap faces, do not turn the person into someone else, do not create exaggerated weight loss or unrealistic body changes.\n\n[Core Settings]\nBefore: Show the user's current natural standing posture state, including front and side two perspectives, retaining the real body shape, real clothing, and natural posture.\nAfter: Show the simulated state of the same person after \"Posture Calibration + Outfit Optimization + Visual Proportion Adjustment\". The focus is on being more upright, more relaxed, more energetic, and showing more coordinated proportions, rather than becoming thinner, bonier, or drastically changing the body shape.\nPlease understand After as \"a better visual state presented on the same day through correct standing posture, core tightening, shoulder and neck relaxation, pelvic repositioning, and outfit line optimization\".\n\n[Highest Priority Principles]\n1. Do not make medical diagnoses, only perform visual posture and outfit proportion analysis.\n2. Do not use humiliating words, do not judge whether the appearance is good or bad, do not create body anxiety.\n3. Do not exaggerate body shape changes, do not forcefully slim down, do not change fat distribution, do not change bone structure.\n4. All data should be presented in the form of \"AI Visual Estimate / Visual Estimate\", do not pretend to be real medical measurements.\n5. The language should be gentle, professional, data-driven, and encouraging, focusing on expressing \"optimizable space\", \"more coordinated proportions\", \"more relaxed posture\", and \"more compatible outfit\".\n\n[Overall Layout]\nHorizontal 4:3, high-end health management consultant report + fashion magazine infographic style. The background uses clean off-white, light gray, or low-saturation warm white, paired with thin line frames, numbered labels, partial enlargement boxes, posture baseline, vertical center of gravity line, curve annotations, and concise charts. The overall information volume is rich but not crowded, professional, with a sense of design, suitable for sharing on Xiaohongshu or X.\n\n[Title Area]\nMain Title: AI Posture & Body Proportion Analysis Report\nEnglish Subtitle: Posture & Body Proportion Analysis Report\nSub Title: Before Natural Posture → After Posture & Styling Reset\nCorner Mark: Non-medical diagnosis · AI Visual Estimate · Posture & outfit optimization simulation\n\n[Main Visual Area]\nAdopt a four-image comparison structure:\nThe left side is BEFORE:\n- Before Front Image: Retain the user's natural standing posture, natural outfit, and real body shape\n- Before Side Image: Show the natural side posture\n\nThe right side is AFTER:\n- After Front Image: Same person, same identity, similar angle, posture is more upright, shoulders and neck are more relaxed, waist and abdomen lines are more optimized by the outfit, overall proportions are more coordinated\n- After Side Image: Same person, showing from the side that the head and neck position is more retracted, shoulders and back are more open, pelvis position is more neutral, forward bulging sensation of the abdomen is reduced, knees are not overly locked, overall center of gravity is more stable\n\nThe four character images must be clear, similar in size, and have a clear comparison relationship. Do not let After become a completely different person, and do not over-beautify or over-slim.\n\n[Posture Analysis Annotation Area]\nPlease use thin line arrows, numbers, and partial enlargement boxes to annotate the following parts on the Before and After images:\n\n1. Head & Neck Position / Head & Neck Alignment\nBefore can be annotated: Forward head, obvious neck pressure sensation\nAfter can be annotated: Chin slightly tucked, neck lines more relaxed\n\n2. Shoulder & Upper Arm Position / Shoulder & Upper Arm Position\nBefore can be annotated: Rounded shoulder trend, scapulae protracted, upper arm position forward\nAfter can be annotated: Shoulder lines opened, upper body more upright\n\n3. Ribcage & Upper Back / Ribcage & Upper Back\nBefore can be annotated: Ribcage forward bulging, insufficient back support\nAfter can be annotated: Ribcage more stable, back curves more natural\n\n4. Waist & Abdomen Position / Waist & Abdomen\nBefore can be annotated: Abdomen visually forward bulging, waistline unclear\nAfter can be annotated: Weaken the forward bulging sensation through posture and outfit, waistline clearer\n\n5. Pelvis & Hip Position / Pelvis & Hip Position\nBefore can be annotated: Anterior pelvic tilt trend, hip center of gravity not stable enough\nAfter can be annotated: Pelvis closer to neutral position, hip support more stable\n\n6. Thigh & Knee Position / Thigh & Knee Alignment\nBefore can be annotated: Inner thigh pressure sensation, knee locked or hyperextended trend\nAfter can be annotated: Leg force distribution more balanced, knee state more natural\n\n7. Vertical Center of Gravity Line / Vertical Balance Line\nBefore can be annotated: Head, shoulders, pelvis, knees, ankles are not completely on the same visual center of gravity line\nAfter can be annotated: Center of gravity line more stable, overall more upright\n\n[Data Comparison Column]\nPlease use clear charts to show the AI Visual Estimate indicators of Before → After. All indicators must be marked with \"Visual Estimate\", do not write them as real medical tests. Suggested data are as follows:\n\n- Neck Alignment / Neck Alignment: 6.1 → 8.4\n- Shoulder Openness / Shoulder Openness: 5.8 → 8.2\n- Pelvic Stability / Pelvic Stability: 5.9 → 8.0\n- Waist-Abdomen Balance / Waist-Abdomen Balance: 6.0 → 8.1\n- Vertical Balance / Vertical Balance: 6.3 → 8.6\n- Styling Compatibility / Styling Compatibility: 6.5 → 9.0\n- Posture Presence / Posture Presence: 6.2 → 8.8\n\nPlease use progress bars, radar charts, or comparison number cards to present, visually clear but not exaggerated.\n\n[Curve & Proportion Analysis Area]\nPlease draw lightweight line graphs or body outline curve schematics to show:\n- Neck and shoulder lines\n- Back curves\n- Waist and abdomen lines\n- Pelvic angle trends\n- Leg vertical lines\n- Front left-right balance sense\n\nThe lines should look like professional posture assessment diagrams, not medical diagnosis diagrams, and must not create a sense of intimidation.\n\n[Outfit Optimization Suggestion Area]\nPlease show 3 daily outfit plans suitable for the After state. Each set includes a small thumbnail, style keywords, and one sentence of reason:\n\nLook 01: Commuting shows steadiness\nKeywords: Straight silhouette, deep and light layering, coat modifies shoulders and back\nReason: Through the coat shoulder line and straight-leg bottoms, weaken the forward bulging sensation of the abdomen, and enhance the vertical proportion.\n\nLook 02: Weekend light sports\nKeywords: Functional fabrics, slightly loose, short top and long bottom\nReason: Improve comfort while making body lines more relaxed and extended.\n\nLook 03: Urban light trendy\nKeywords: Short coat, high waistline, neat shoe type\nReason: Elevate the visual center of gravity, making the overall look more upright, younger, and more energetic.\n\n[Action Suggestion Area]\nPlease add a small module \"7-Day Posture Reset / 7-Day Posture Reset\", with gentle and executable content:\n- 3 minutes of chin tuck exercise every day\n- 5 minutes of thoracic spine opening every day\n- 5 minutes of hip flexor stretching every day\n- 10 glute bridge activations every day\n- Avoid locking knees when standing\n- Keep feet stable, ribs tucked, and shoulders and neck relaxed when taking photos\n\nPlease note that these suggestions can only serve as daily posture management suggestions, do not write them as treatment plans.\n\n[Bottom Summary]\nPlease summarize with a gentle and powerful sentence:\n\"This is not about getting thin overnight, but through posture calibration, center of gravity adjustment, and outfit line management, making the same body present a more relaxed, more upright, and more confident state.\"\n\n[Strictly Avoid]\nDo not show nudity or underwear; do not make it revealing; do not shame the body; do not use negative words like \"obesity defects\", \"fat problems\", \"very bad figure\"; do not exaggerate weight loss; do not pretend to make medical diagnoses; do not fabricate real body fat percentage, real waist circumference, real weight; do not turn the user into someone else; do not over-beautify; do not let After become an unrealistic influencer figure.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "请基于我上传的全身正面与全身侧面真人照片，生成一张横向 4:3 的高完成度「AI 体态比例管理报告 / AI Posture & Body Proportion Analysis Report」。\n\n本报告不是医学诊断，不是减肥前后对比，也不是夸张瘦身效果图，而是一张基于真人照片进行的「视觉体态分析 + 比例管理 + 穿搭优化 + 姿态校准模拟」报告。请严格保留用户本人的脸部辨识度、五官结构、年龄感、皮肤真实质感、发型气质、身材基础和原始身份，不要换脸，不要把人变成另一个人，不要制造夸张减重或不现实的身材变化。\n\n【核心设定】\nBefore：展示用户当前自然站姿状态，包含正面与侧面两个视角，保留真实体型、真实穿着和自然姿态。\nAfter：展示同一人在「姿态校准 + 穿搭优化 + 视觉比例调整」后的模拟状态，重点是更挺拔、更舒展、更有精神、更显比例协调，而不是变瘦、变骨感或大幅改变身材。\n请把 After 理解为「同一天通过正确站姿、核心收紧、肩颈放松、骨盆回正、穿搭线条优化后呈现出的更佳视觉状态」。\n\n【最高优先级原则】\n1. 不做医学诊断，只做视觉体态与穿搭比例分析。\n2. 不使用羞辱性词汇，不评价外貌好坏，不制造身材焦虑。\n3. 不夸张改变体型，不强行瘦身，不改变脂肪分布，不改变骨骼结构。\n4. 所有数据均以「AI视觉估算 / Visual Estimate」形式呈现，不冒充真实医学测量。\n5. 语言温和、专业、数据化、鼓励性，重点表达“可优化空间”“比例更协调”“体态更舒展”“穿搭更适配”。\n\n【整体版式】\n横向 4:3，高端健康管理顾问报告 + 时尚杂志信息图风格。背景使用干净米白、浅灰或低饱和暖白色，配合细线框、编号标签、局部放大框、姿态基准线、垂直重心线、曲线标注和简洁图表。整体信息量丰富但不拥挤，专业、有设计感、适合小红书或 X 分享。\n\n【标题区】\n主标题：AI 体态比例管理报告\n英文副标题：Posture & Body Proportion Analysis Report\n小标题：Before Natural Posture → After Posture & Styling Reset\n角标：非医学诊断 · AI视觉估算 · 姿态与穿搭优化模拟\n\n【主视觉区】\n采用四图对比结构：\n左侧为 BEFORE：\n- Before 正面图：保留用户自然站姿、自然穿搭、真实体型\n- Before 侧面图：展示自然侧面体态\n\n右侧为 AFTER：\n- After 正面图：同一人、同一身份、相似角度，姿态更挺拔，肩颈更舒展，腰腹线条更被穿搭优化，整体比例更协调\n- After 侧面图：同一人，侧面展示头颈位置更回正、肩背更打开、骨盆位置更中立、腹部前顶感降低、膝盖不过度锁死，整体重心更稳定\n\n四张人物图必须清晰、大小接近、对比关系明确。不要让 After 变成完全不同的人，也不要过度美颜或过度瘦身。\n\n【体态分析标注区】\n请在 Before 与 After 图上使用细线箭头、编号和局部放大框标注以下部位：\n\n1. 头颈位置 / Head & Neck Alignment\nBefore 可标注：头部前伸、颈部压力感更明显\nAfter 可标注：下巴微收、颈部线条更舒展\n\n2. 肩部与上臂 / Shoulder & Upper Arm Position\nBefore 可标注：圆肩趋势、肩胛前引、上臂位置偏前\nAfter 可标注：肩线打开、上半身更挺拔\n\n3. 胸廓与背部 / Ribcage & Upper Back\nBefore 可标注：胸廓前顶、背部支撑不足\nAfter 可标注：胸廓更稳定，背部曲线更自然\n\n4. 腰腹位置 / Waist & Abdomen\nBefore 可标注：腹部视觉前顶，腰线不清晰\nAfter 可标注：通过站姿与穿搭弱化前顶感，腰线更清楚\n\n5. 骨盆与髋部 / Pelvis & Hip Position\nBefore 可标注：骨盆前倾趋势，髋部重心不够稳定\nAfter 可标注：骨盆更接近中立位，髋部支撑更稳定\n\n6. 大腿与膝盖 / Thigh & Knee Alignment\nBefore 可标注：大腿内侧压力感、膝盖锁死或超伸趋势\nAfter 可标注：腿部受力更均衡，膝盖状态更自然\n\n7. 垂直重心线 / Vertical Balance Line\nBefore 可标注：头、肩、骨盆、膝盖、脚踝不完全在同一视觉重心线上\nAfter 可标注：重心线更稳定，整体更挺拔\n\n【数据对比栏】\n请用清晰图表展示 Before → After 的 AI视觉估算指标。所有指标都要标注「Visual Estimate」，不要写成真实医学检测。建议数据如下：\n\n- 头颈对齐度 / Neck Alignment：6.1 → 8.4\n- 肩背打开度 / Shoulder Openness：5.8 → 8.2\n- 骨盆稳定感 / Pelvic Stability：5.9 → 8.0\n- 腰腹视觉平衡 / Waist-Abdomen Balance：6.0 → 8.1\n- 垂直重心稳定 / Vertical Balance：6.3 → 8.6\n- 穿搭修饰效率 / Styling Compatibility：6.5 → 9.0\n- 整体挺拔度 / Posture Presence：6.2 → 8.8\n\n请使用进度条、雷达图或对比数字卡片呈现，视觉清楚但不要夸张。\n\n【曲线与比例分析区】\n请绘制轻量线条图或人体轮廓曲线示意，展示：\n- 颈肩线条\n- 背部曲线\n- 腰腹线条\n- 骨盆角度趋势\n- 腿部垂直线\n- 正面左右平衡感\n\n线条要像专业体态评估图，不能像医疗诊断图，不能制造恐吓感。\n\n【穿搭优化建议区】\n请展示 3 套适合 After 状态的日常穿搭方案。每套包含小缩略图、风格关键词和一句理由：\n\nLook 01：通勤显稳重\n关键词：直线廓形、深浅分层、外套修饰肩背\n理由：通过外套肩线与直筒下装，弱化腹部前顶感，增强纵向比例。\n\nLook 02：周末轻运动\n关键词：功能面料、微宽松、上短下长\n理由：提高舒适度，同时让身体线条更放松、更舒展。\n\nLook 03：城市轻潮\n关键词：短外套、高腰线、利落鞋型\n理由：提升视觉重心，让整体更挺拔、更年轻、更有精神。\n\n【行动建议区】\n请增加一个小模块「7天体态重启建议 / 7-Day Posture Reset」，内容温和、可执行：\n- 每天 3 分钟下巴回收练习\n- 每天 5 分钟胸椎打开\n- 每天 5 分钟髋屈肌拉伸\n- 每天 10 次臀桥激活\n- 站立时避免膝盖锁死\n- 拍照时保持脚掌稳定、肋骨回收、肩颈放松\n\n请注意，这些建议只能作为日常姿态管理建议，不要写成治疗方案。\n\n【底部总结】\n请用一句温和、有力量的话总结：\n“这不是一夜变瘦，而是通过姿态校准、重心调整和穿搭线条管理，让同一个身体呈现出更舒展、更挺拔、更自信的状态。”\n\n【严格避免】\n不要裸体或内衣展示；不要暴露化；不要羞辱身材；不要使用“肥胖缺陷”“赘肉问题”“身材很差”等负面词；不要夸张瘦身；不要假装医学诊断；不要虚构真实体脂率、真实腰围、真实体重；不要把用户变成另一个人；不要过度美颜；不要让 After 变成不现实的网红身材。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777651618041-z86b2bik-1777651620410-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777651618041-z86b2bik-1777651620410-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ai-posture-analysis-report",
+      "reviewed_at": "2026-05-01T16:17:53.672Z",
+      "created_at": "2026-05-01T16:10:18.430Z",
+      "updated_at": "2026-05-01T16:17:53.672Z"
+    },
+    {
+      "id": 13936,
+      "slug": "high-end-minimalist-portrait-poster",
+      "title": "高级极简人像海报设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@qisi_ai",
+      "source_url": "https://x.com/qisi_ai/status/2050079074257957008",
+      "tags": [
+        "极简风",
+        "人像海报",
+        "商业棚拍",
+        "时尚杂志",
+        "高级质感"
+      ],
+      "prompts": [
+        {
+          "text": "Transform the user-uploaded portrait photo into a vertical 3:4 high-end minimalist portrait poster.\n\nPreserve the true identity features, facial structure, hairstyle, hair color, clothing, jewelry, posture, and overall temperament of the character in the original image. Do not swap faces, do not change the character's age, gender, race, or core appearance. You can moderately optimize skin texture, light and shadow, clarity, clothing details, and overall refinement to make the image present a professional studio portrait effect.\n\nReplace the original background with a clean gray-white gradient studio background; the background should be simple, soft, and high-end. The character is presented in a half-body portrait composition, centered or slightly to the right, retaining appropriate white space. The lighting is soft and even commercial photography lighting, with a clear face, natural skin tone, and an overall delicate, realistic, and fashionable texture.\n\nThe image style references high-end portrait ID posters, fashion magazine covers, Portrait ID style, and minimalist visual design. The overall image is clean, restrained, professional, and has a sense of a high-end brand poster.\n\nAdd three lines of English text in the bottom left corner of the image. Users can input custom text; if the user does not input text, automatically generate English copy suitable for the character's temperament. When the user inputs Chinese, it must first be translated into natural, concise, and high-end English before being displayed in the image; Chinese must not appear in the image.\n\nText typography requirements:\n\nThe main title uses a dark blue bold sans-serif font with a larger font size, placed at the very top of the bottom left corner. The subtitle uses a white medium font size, located below the main title. The series text uses white uppercase sans-serif font, located below the subtitle. The three lines of text are overall left-aligned, with simple and clear typography, without obscuring the character's face or affecting the main subject.\n\nOutput requirements:\n\nImage ratio is 3:4, vertical poster composition, high-definition, realistic photography texture, high-end minimalist style, commercial studio lighting effect, clean background, fashion portrait poster.\n\nMain title Character name / nickname / stage name:\nSubtitle Character temperament / identity positioning / brand short phrase:\nSeries text Series number + style theme:",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "将用户上传的人物照片转化为一张竖版 3:4 的高级极简人像海报。\n\n保留原图中人物的真实身份特征、五官结构、发型、发色、服装、首饰、姿势和整体气质。不要换脸，不要改变人物年龄、性别、种族或核心外貌。可以适度优化皮肤质感、光影、清晰度、服装细节和整体精致度，使画面呈现专业棚拍人像效果。\n\n将原图背景替换为干净的灰白色渐变棚拍背景，背景简洁、柔和、有高级感。人物以半身肖像构图呈现，居中或略微偏右，保留适当留白。光线为柔和均匀的商业摄影灯光，脸部清晰，肤色自然，整体质感细腻、真实、时尚。\n\n画面风格参考高端人像证件海报、时尚杂志封面、Portrait ID 风格、极简主义视觉设计。整体画面干净、克制、专业，具有高级品牌海报感。\n\n在画面左下角加入三行英文文字。用户可以输入自定义文字，如果用户没有输入，则自动生成适合该人物气质的英文文案。用户输入中文时，必须先翻译成自然、简洁、高级的英文后再显示在画面中，画面中不要出现中文。\n\n文字排版要求：\n\n主标题使用深蓝色粗体无衬线字体，字号较大，放在左下角最上方。副标题使用白色中等字号，位于主标题下方。系列文字使用白色大写无衬线字体，位于副标题下方。三行文字整体左对齐，排版简洁清晰，不遮挡人物面部，不影响人物主体。\n\n输出要求：\n\n图片比例为 3:4，竖版海报构图，高清，真实摄影质感，高级极简风格，商业棚拍光效，干净背景，时尚人像海报。\n\n主标题 人物姓名 / 昵称 / 艺名：\n副标题 人物气质 / 身份定位 / 品牌短句：\n系列文字 系列编号 + 风格主题：",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777651760679-rg0fsnr5-1777651761714-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777651760679-rg0fsnr5-1777651761714-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-end-minimalist-portrait-poster",
+      "reviewed_at": "2026-05-01T16:17:58.015Z",
+      "created_at": "2026-05-01T16:10:12.422Z",
+      "updated_at": "2026-05-01T16:17:58.015Z"
+    },
+    {
+      "id": 13935,
+      "slug": "minimal-yeezy-street-collage",
+      "title": "极简高级的Yeezy街头拼贴",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Diplomeme",
+      "source_url": "https://x.com/Diplomeme/status/2049904325636595927",
+      "tags": [
+        "椰子鞋",
+        "极简风",
+        "拼贴画",
+        "高级感",
+        "街头潮"
+      ],
+      "prompts": [
+        {
+          "text": "[\n  BRAND NAME = ADIDAS × YEEZY\n] [\n  PRODUCT = YEEZY BOOST 700\n] [\n  COLORWAY = MONOCHROME GREY / OFF-WHITE / GUM SOLE\n] Act as a Social Media Art Director and Digital Collage Artist specializing in bold,\nyouth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage where minimalism collides with dominance. This is controlled rebellion — not loud,\nbut undeniable. Aesthetic: - Anti-polished but precise - Reduced chaos,\nincreased weight - Sculptural presence + layered texture - Editorial meets street energy Core Idea: “BUILT DIFFERENT.” PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (18–30),\nneutral expression,\nhigh-fashion posture - Pose Energy: 70% attitude,\n30% natural (forward step,\ngrounded stance) - Outfit: Monochrome oversized Yeezy-style silhouette - Hero Product: Yeezy Boost 700 (primary visual anchor) - Photography Style: Editorial cutout,\nclean edges - Camera Angle: Slight low angle (authority perspective) - Crop: 3/4 body,\nshoe clearly dominant in foreground - Background Removal: Clean extraction for collage layering PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Muted stone grey (hero tone) - Secondary Accent: Soft beige / off-white haze - Shape Style: Irregular brush / soft torn edges (not geometric) - Coverage: 40–50% of composition - Texture: Subtle grain + fabric-like noise (15%) - Placement: Behind model,\nslightly diagonal to frame silhouette PHASE 4: GRAPHIC ELEMENTS LAYER Add 3–5 abstract elements: - Soft gradient shapes - Minimal architectural lines - Faint circular forms - Subtle shadow duplication (depth echo) - Light distortion blur fragments Rules: - Color Palette: Neutral tones only (grey / beige / off-white) - Placement: Asymmetric (top-left + bottom-right bias) - Scale: Small (5%) + medium (15%) - Avoid center clutter - Maintain clean,\nintentional layering Aesthetic: Refined chaos — visible but controlled PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Top-right (Adidas minimal mark) - Headline: “BUILT DIFFERENT.” - Supporting Copy: “FORM OVER EVERYTHING.” - Micro Copy: “YEEZY BOOST 700” - Type Style: Bold modern sans-serif - Treatment: Mostly aligned,\nslight rotation (max 2°) - Hierarchy: Headline → Product → Supporting → Logo PHASE 6: TEXTURE & BACKGROUND - Base Layer: Warm off-white / light grey (RGB 245–248) - Texture: Subtle paper grain + soft noise - Treatment: Texture should be felt,\nnot dominant PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance (model slightly off-center) - Breathing Room: 20–25% negative space - Layering Order: Background → Color blob → Graphics → Model → Typography - Focal Point: Product (shoe) = 60% Graphics + model = 40% - Movement: Subtle diagonal flow (not aggressive) PHASE 8: BRAND INTELLIGENCE Adidas × Yeezy: - Less noise,\nmore intention - Presence over movement - Design as identity - Controlled visual disruption PHASE 9: SOCIAL MEDIA FOOTER - Minimal bottom strip Content: http://adidas.com/yeezy - Clean grid layout TECHNICAL SPECS: - Aspect Ratio: 4:5 - Resolution: 2400x3000px - Color Mode: sRGB - High detail,\nsoft contrast - Slight grain allowed - Photography Base: 85mm lens,\nf/2.8 FINAL OUTPUT MOOD: Dominant. Minimal-chaos. Architectural. High-fashion street authority.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "[\n  BRAND NAME = ADIDAS × YEEZY\n] [\n  PRODUCT = YEEZY BOOST 700\n] [\n  COLORWAY = 单色灰 / 米白 / 橡胶底\n] 作为社交媒体艺术总监和数字拼贴艺术家，专注于为Instagram和数字营销活动打造大胆的、面向年轻群体的品牌内容。PHASE 1: 概念框架 创建一个极简主义与主导力量碰撞的动态数字拼贴。这是受控的反叛——不喧哗，但不可忽视。美学风格：- 反精修但精准 - 减少混乱，增加厚重感 - 雕塑感存在 + 层次纹理 - 杂志大片感结合街头能量 核心理念：“生而不同。” PHASE 2: 模特与摄影 - 主体：一名模特（18–30岁），中性表情，高级时装姿态 - 姿态能量：70%的态度，30%的自然（向前迈步，稳重的站姿） - 服装：单色Oversize（超大廓形）的Yeezy风格剪影 - 核心产品：Yeezy Boost 700（主要视觉锚点） - 摄影风格：杂志风抠图，干净边缘 - 拍摄角度：轻微低角度（权威视角） - 裁剪：3/4身形，鞋子在前景中明显占主导地位 - 背景移除：干净的抠取以用于拼贴分层 PHASE 3: 色块基础 - 主色块：柔和的石灰灰色（主色调） - 辅助强调色：柔和的米色 / 米白色薄雾 - 形状风格：不规则笔刷 / 柔和撕裂边缘（非几何形状） - 覆盖率：占构图的40–50% - 纹理：微妙的颗粒 + 类似织物的噪点（15%） - 放置位置：在模特后方，略呈对角线以勾勒剪影 PHASE 4: 图形元素层 添加3–5个抽象元素：- 柔和渐变形状 - 极简建筑线条 - 隐约的圆形形态 - 微妙的阴影复制（深度回声） - 轻微扭曲的模糊碎片 规则：- 调色板：仅限中性色调（灰色 / 米色 / 米白色） - 放置位置：不对称（左上角 + 右下角偏向） - 比例：小（5%）+ 中（15%） - 避免中心杂乱 - 保持干净、有意图的分层 美学风格：精致的混乱——可见但受控 PHASE 5: 排版整合 - 品牌标志：右上方（阿迪达斯极简标志） - 主标题：“生而不同。” - 辅助文案：“形式高于一切。” - 微型文案：“YEEZY BOOST 700” - 字体风格：粗体现代无衬线字体 - 处理方式：大部分对齐，轻微旋转（最大2°） - 层级：主标题 → 产品 → 辅助文案 → 标志 PHASE 6: 纹理与背景 - 基础层：暖米白色 / 浅灰色（RGB 245–248） - 纹理：微妙的纸张颗粒 + 柔和噪点 - 处理方式：纹理应能被感知到，而非占据主导 PHASE 7: 构图规则 - 布局：不对称平衡（模特略微偏离中心） - 留白空间：20–25%的负空间 - 分层顺序：背景 → 色块 → 图形 → 模特 → 排版 - 焦点：产品（鞋子）= 60% 图形 + 模特 = 40% - 动势：微妙的对角线流动（不具攻击性） PHASE 8: 品牌智能 Adidas × Yeezy：- 减少噪点，增加意图 - 存在感胜过动感 - 设计即身份 - 受控的视觉打破 PHASE 9: 社交媒体页脚 - 极简底部条带内容：http://adidas.com/yeezy - 干净的网格布局 TECHNICAL SPECS：- 宽高比：4:5 - 分辨率：2400x3000px - 色彩模式：sRGB - 高细节，柔和对比度 - 允许轻微颗粒感 - 摄影基础：85mm镜头，f/2.8 FINAL OUTPUT MOOD：主导的。极简混乱。建筑感。高级时装街头权威。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777651320223-ojzmzoni-1777651323365-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777651320223-ojzmzoni-1777651323365-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/minimal-yeezy-street-collage",
+      "reviewed_at": "2026-05-01T16:17:56.860Z",
+      "created_at": "2026-05-01T16:07:11.164Z",
+      "updated_at": "2026-05-01T16:17:56.860Z"
+    },
+    {
+      "id": 13926,
+      "slug": "lazy-supine-relaxing-pose",
+      "title": "慵懒仰卧放松姿态",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@fdtreesky",
+      "source_url": "https://x.com/fdtreesky/status/2049474619267219725",
+      "tags": [
+        "仰卧",
+        "俯拍",
+        "放松",
+        "对称",
+        "躺姿"
+      ],
+      "prompts": [
+        {
+          "text": "Comfortable supine posture, lying on back facing upwards, relaxed front-facing upper body posture, arms and legs placed casually, overhead vertical top-down camera angle, front camera position, looking straight at subject perspective, symmetrical subject direction,9:16",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "舒適仰臥姿勢、仰躺面向上方、放鬆正面向上身體姿勢、雙臂與雙腿隨意擺放，俯視垂直頂視攝影機角度、正面攝影機位置、直視主體視角、對稱主體方向,9:16",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777543281596-usbwflmk-1777543289287-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777543281596-usbwflmk-1777543289775-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777543281596-usbwflmk-1777543289287-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lazy-supine-relaxing-pose",
+      "reviewed_at": "2026-05-01T06:15:27.183Z",
+      "created_at": "2026-04-30T10:03:46.844Z",
+      "updated_at": "2026-05-01T06:15:27.183Z"
+    },
+    {
+      "id": 13923,
+      "slug": "q-version-scientist-toy",
+      "title": "Q版科学家潮玩手办",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Gdgtify",
+      "source_url": "https://x.com/Gdgtify/status/2049521088284279280",
+      "tags": [
+        "潮玩",
+        "Q版",
+        "科学家",
+        "机械风",
+        "手办"
+      ],
+      "prompts": [
+        {
+          "text": "2x2 grid, do this for 4 famous scientists:  -> semantic inference: SELECT * FROM Designer_Toys  WHERE artistic_style = 'Kawaii / Industrial Complex' AND subject_matter = '[INVENTOR]';  /* RENDER LOGIC: */ -- Core: A modular 6-inch collectible figure with interchangeable parts. -- Centerpiece: Chibi-style [INVENTOR] with oversized head and articulated joints. -- Kinetic Elements: Miniature versions of AI_INFER(their inventions) that can be attached to the figure. -- Base Detail: A display stand shaped like AI_INFER(their workshop) with tiny tools and blueprints. -- Ethereal Detail: Augmented reality elements visible through a companion app showing AI_INFER(their thought process).",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "2x2网格，为4位著名科学家执行此操作：  -> 语义推断：SELECT * FROM Designer_Toys  WHERE artistic_style = '可爱风 / 工业综合体' AND subject_matter = '[发明家]';  /* 渲染逻辑： */ -- 核心：一款模块化的6英寸可收藏手办，带有可互换部件。 -- 中心件：Q版风格的[发明家]，拥有巨大的头部和可动关节。 -- 动态元素：AI_INFER(他们的发明)的微型版本，可以附加到手办上。 -- 底座细节：一个形状像AI_INFER(他们的工作坊)的展示台，带有微小的工具和蓝图。 -- 虚幻细节：通过配套应用程序可见的增强现实元素，展示AI_INFER(他们的思考过程)。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777543243359-7wpy91e5-1777543246481-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777543243359-7wpy91e5-1777543246481-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/q-version-scientist-toy",
+      "reviewed_at": "2026-05-01T06:14:54.899Z",
+      "created_at": "2026-04-30T10:01:32.070Z",
+      "updated_at": "2026-05-01T06:14:54.899Z"
+    },
+    {
+      "id": 13922,
+      "slug": "starry-geometric-youth",
+      "title": "一幅高度详细的技术风格手绘插画",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Goodmanprotocol",
+      "source_url": "https://x.com/Goodmanprotocol/status/2049514400386855005",
+      "tags": [
+        "手绘",
+        "素描",
+        "星空",
+        "肖像",
+        "线稿"
+      ],
+      "prompts": [
+        {
+          "text": "A highly detailed, hand-drawn illustration in a technical style of a young man looking upward with a hopeful and at the same time intense expression.\nHis face is elaborated with fine cross-hatching that particularly emphasizes the facial structure and the emotional impact.\nThe hair appears tousled and dynamic, with individual strands depicted in an ink-like sketch style.The portrait is surrounded by golden geometric patterns, celestial rings, and constellation-like lines, creating a fusion of scientific precision and spiritual atmosphere.Ratio 9:16",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一幅高度详细的技术风格手绘插画，画中一位年轻男子向上看去，带着一种充满希望同时又强烈的表情。他的脸部通过精细的交叉排线进行了精细刻画，特别强调了面部结构和情感冲击力。头发显得凌乱而充满动感，单根发丝以类似墨水的素描风格描绘。这幅肖像被金色的几何图案、天体环和类似星座的线条所包围，创造出一种科学精确性与精神氛围的融合。比例 9:16",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542986721-0gxxlo03-1777542992601-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542986721-0gxxlo03-1777542992601-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/starry-geometric-youth",
+      "reviewed_at": "2026-05-01T06:14:56.338Z",
+      "created_at": "2026-04-30T09:58:16.208Z",
+      "updated_at": "2026-05-01T06:14:56.338Z"
+    },
+    {
+      "id": 13921,
+      "slug": "apple-airpods-ad",
+      "title": "极简苹果风耳机产品广告",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@mehvishs25",
+      "source_url": "https://x.com/mehvishs25/status/2049513437542461551",
+      "tags": [
+        "苹果风",
+        "产品图",
+        "商业片",
+        "极简风",
+        "信息图"
+      ],
+      "prompts": [
+        {
+          "text": "High-end e-commerce infographic featuring Apple AirPods (latest generation). A young woman (same face and identity as the provided reference image) is the central subject, shown in a clean studio setting with soft, diffused lighting. She is wearing AirPods in her ears, naturally integrated into the scene, and holding the open AirPods charging case in her hand at chest level, slightly angled toward the camera.\nThe composition should feel premium and minimal, with a crisp white or light gradient background. Include subtle reflections and soft shadows for a polished product-ad look. The AirPods case should be glossy white with visible earbuds inside and a small LED indicator light.\nAdd modern infographic elements around the subject: – Thin, elegant pointer lines highlighting key features\n– Minimal icons and short labels such as “Active Noise Cancellation,” “Spatial Audio,” “Long Battery Life,” and “Seamless Connectivity”\n– Clean sans-serif typography (Apple-style aesthetic)\n– Balanced layout with negative space, not cluttered\nStyle: ultra-realistic, sharp focus, shallow depth of field, commercial photography quality, Apple-inspired design language\nColor palette: white, light grey, soft blue accents\nAspect ratio: 1:1\nResolution: 4K, highly detailed, professional product showcase",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "高端电商信息图，以苹果 AirPods（最新一代）为特色。一位年轻女性（与提供的参考图像具有相同的面容和身份）是中心主题，展示在干净的演播室环境中，配有柔和、漫射的光线。她耳朵上戴着 AirPods，自然地融入场景中，并在胸部高度的手中拿着打开的 AirPods 充电盒，略微朝向相机倾斜。\n构图应感觉高端且极简，背景为纯白色或浅色渐变。包含微妙的反射和柔和的阴影，以呈现精致的产品广告外观。AirPods 充电盒应为光泽白色，内部可见耳机，并带有一个小型 LED 指示灯。\n在主体周围添加现代信息图元素：– 细长优雅的指针线突出关键特性\n– 极简图标和简短标签，如“主动降噪”、“空间音频”、“长续航”和“无缝连接”\n– 简洁的无衬线排版（苹果风格美学）\n– 带有留白的平衡布局，不杂乱\n风格：超写实，锐利对焦，浅景深，商业摄影质量，苹果风格设计语言\n色彩搭配：白色，浅灰色，柔和蓝色点缀\n宽高比：1:1\n分辨率：4K，高度详细，专业产品展示",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777543028555-1qret6l1-1777543030958-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777543028555-1qret6l1-1777543030958-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/apple-airpods-ad",
+      "reviewed_at": "2026-05-01T06:15:31.291Z",
+      "created_at": "2026-04-30T09:57:54.841Z",
+      "updated_at": "2026-05-01T06:15:31.291Z"
+    },
+    {
+      "id": 13919,
+      "slug": "top-10-legendary-stadiums",
+      "title": "十大传奇足球场夜景海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@TechieBySA",
+      "source_url": "https://x.com/TechieBySA/status/2049569703043948971",
+      "tags": [
+        "足球场",
+        "绿茵场",
+        "海报",
+        "插画",
+        "狂欢夜"
+      ],
+      "prompts": [
+        {
+          "text": "A vibrant, illustrated travel poster titled \"Top 10 Most Iconic Football Stadiums in COUNTRY\" with a rich, cinematic night-scene collage aesthetic. Bold decorative typography for the country name, glowing floodlights and warm pitch tones throughout. Ten numbered stadiums connected by a dashed route line, each shown as a detailed illustrated scene — iconic architecture, roaring crowds, green pitches glowing under floodlights, club colors embedded naturally into the composition. Include a subtitle: \"Legendary Grounds. Electric Atmospheres. Unforgettable Nights.\" Small flag of [COUNTRY] near the title. Bottom left shows the country name with a football and location pin. Bottom right has a \"Save This Before You Go!\" badge. Dark blue framing edge with a worn, textured border. 2:3",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张充满活力的插画风格旅行海报，标题为“COUNTRY十大最具标志性足球场”，具有丰富、电影感的夜景拼贴美学。国家名称采用粗体装饰性字体排版，整体呈现出发光的泛光灯和温暖的球场色调。十个带编号的体育场由一条虚线路线连接，每个都展示为一个详细的插画场景——标志性建筑、欢呼的人群、在泛光灯下发光的绿色球场、俱乐部颜色自然地融入构图中。包含副标题：“传奇球场。震撼氛围。难忘之夜。”标题附近有[COUNTRY]的小国旗。左下角显示国家名称，并带有一个足球和位置定位图钉。右下角有一个“出发前请收藏！”徽章。深蓝色框架边缘，带有做旧纹理边框。2:3",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542851267-j1qiffeq-1777542859387-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542851267-j1qiffeq-1777542859387-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/top-10-legendary-stadiums",
+      "reviewed_at": "2026-05-01T06:14:59.598Z",
+      "created_at": "2026-04-30T09:55:20.881Z",
+      "updated_at": "2026-05-01T06:14:59.598Z"
+    },
+    {
+      "id": 13918,
+      "slug": "cinematic-male-travel-poster",
+      "title": "电影感男士旅行肖像海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Taaruk_",
+      "source_url": "https://x.com/Taaruk_/status/2049520285234425925",
+      "tags": [
+        "叠影",
+        "迪拜",
+        "旅行者",
+        "电影感",
+        "海报风"
+      ],
+      "prompts": [
+        {
+          "text": "A cinematic double exposure portrait of a young male traveler in side profile, wearing sunglasses, a casual jacket, and a backpack, holding a map and a camera hanging around his neck. Inside his silhouette, a stunning Dubai cityscape is blended seamlessly  featuring the Burj Khalifa, modern skyscrapers, desert dunes, palm trees, and a coastal shoreline during golden sunset.\nWarm golden light fills the composition, with soft clouds and birds in the sky. The double exposure is clean and well-balanced, with smooth blending between portrait and landscape. Minimal light beige background for a premium poster feel.\nHighly detailed, ultra-realistic textures, cinematic lighting, soft shadows, 85mm lens look, sharp focus, professional travel advertisement style, 8K resolution",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一幅年轻男性旅行者的电影级双重曝光侧面肖像，戴着墨镜，穿着休闲夹克，背着背包，手里拿着地图，脖子上挂着相机。在他的剪影内部，令人惊叹的迪拜城市景观被无缝融合，展示了哈利法塔、现代摩天大楼、沙漠沙丘、棕榈树以及黄金日落时分的海岸线。\n温暖的金色光芒充满整个画面，天空中飘着柔和的云朵和飞鸟。双重曝光干净且平衡良好，肖像与风景之间的融合十分平滑。极简的浅米色背景营造出高级海报质感。\n高度细节，超写实纹理，电影级光照，柔和阴影，85mm镜头效果，锐利对焦，专业旅行广告风格，8K分辨率",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542813432-k1iquhy9-1777542817015-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542813432-k1iquhy9-1777542817015-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/cinematic-male-travel-poster",
+      "reviewed_at": "2026-05-01T06:15:02.251Z",
+      "created_at": "2026-04-30T09:54:21.990Z",
+      "updated_at": "2026-05-01T06:15:02.251Z"
+    },
+    {
+      "id": 13917,
+      "slug": "kaido-ink-double-exposure-poster",
+      "title": "凯多水墨双重曝光海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@SimplyAnnisa",
+      "source_url": "https://x.com/SimplyAnnisa/status/2049727945392984512",
+      "tags": [
+        "凯多",
+        "水墨风",
+        "双曝光",
+        "东方风",
+        "竖版画"
+      ],
+      "prompts": [
+        {
+          "text": "A promotional poster for the character \" kaido one piece \" consistently uses a vertical main visual composition. Each poster employs a hierarchical structure with a larger top and smaller bottom: the upper half of the image features the character's most recognizable head, facial contours, mask, or half-body outline as a large visual subject, forming a highly recognizable silhouette-like main shape; the lower middle part arranges the complete character as a secondary subject, presenting a stable standing posture or a slight movement, constituting the visual core of the image.  The overall outline and the area surrounding the characters employ double exposure and a collage-style narrative composition, seamlessly blending multiple scenes, imagery, small-scale character relationships, supporting elements, and the environment into layers of clouds, ink wash, and negative space. Echoing backgrounds are placed on the left and right sides, creating narrative tension and spatial variation. A flowing thread runs vertically through the image, connecting the main character, the internal collages, and the overall outline above, reinforcing the cohesiveness and guiding the viewer's eye.  The overall image retains a large area of white space, with edges treated with ink wash and blurred/fragmented effects to create a sense of interplay between reality and illusion, and a feeling of breathability, characteristic of Eastern aesthetics. The overall style is unified, sophisticated, and restrained, emphasizing layering, narrative, strong visual impact, and a series of poster designs.  1/2 inches: 9:16.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "角色“ kaido one piece ”的宣传海报始终采用垂直的主视觉构图。每张海报采用上大下小的层级结构：图片的上半部分以角色最具辨识度的头部、面部轮廓、面具或半身轮廓作为大型视觉主体，形成高度可辨识的类似剪影的主要形状；中下部安排完整角色作为次要主体，呈现稳定的站立姿势或轻微的动作，构成画面的视觉核心。整体轮廓和角色周围的区域采用双重曝光和拼贴风格的叙事构图，将多个场景、意象、小尺度角色关系、辅助元素和环境无缝融合到层叠的云朵、水墨和留白中。呼应的背景放置在左右两侧，创造叙事张力和空间变化。一条流动的丝线垂直贯穿画面，连接主角、内部拼贴和上方的整体轮廓，强化凝聚力并引导观众的视线。整体画面保留大面积的留白，边缘采用水墨和模糊/碎片化处理，营造出虚实相生和呼吸感，具有东方美学的特征。整体风格统一、精致且克制，强调层次感、叙事性、强烈的视觉冲击力以及一系列海报设计。 1/2英寸：9:16。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542737664-7b7nc2ky-1777542741705-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542737664-7b7nc2ky-1777542741705-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/kaido-ink-double-exposure-poster",
+      "reviewed_at": "2026-05-01T06:15:04.016Z",
+      "created_at": "2026-04-30T09:53:09.421Z",
+      "updated_at": "2026-05-01T06:15:04.016Z"
+    },
+    {
+      "id": 13915,
+      "slug": "korean-cashier-smile",
+      "title": "便利店里的温柔韩国收银员",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@john_my07",
+      "source_url": "https://x.com/john_my07/status/2049730190008557838",
+      "tags": [
+        "便利店",
+        "韩系",
+        "抓拍",
+        "写实",
+        "收银员"
+      ],
+      "prompts": [
+        {
+          "text": "A beautiful young Korean woman in her 20s works as a convenience store cashier, wearing a typical Seven Eleven uniform (white shirt with green, red, and orange accents, name tag reading “아리,” hair neatly tied back). She stands behind the cashier counter, serving a customer with a friendly and natural expression. On the counter, there is a POS machine, a barcode scanner, and small items such as candy and drinks.\n\nCandid moment: the photo is taken discreetly using a smartphone from a customer’s point of view, with slight foreground blur, imperfect framing, and an unposed, spontaneous feel. Lighting comes from bright and evenly distributed convenience store neon lights.\n\nEnvironment: a modern convenience store interior, with neatly arranged shelves of products behind the cashier, creating a clean and well-lit atmosphere.\n\nPhotography style: photorealistic, candid photography, shallow depth of field, natural skin tones, high detail, slight motion blur for realism, 4K quality.\n\nOptional additions for variation:\n\nslight tilted angle\nsmartphone camera noise effect\nreflections on glass display\nthe cashier smiling gently while handing a receipt or change",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一位二十多岁的美丽年轻韩国女性担任便利店收银员，穿着典型的7-11制服（带有绿色、红色和橙色点缀的白衬衫，写着“아리”的胸牌，头发整齐地向后扎起）。她站在收银台后面，带着友好自然的表情为顾客服务。在收银台上，有一台POS机、一个条形码扫描仪以及糖果和饮料等小件物品。\n\n抓拍瞬间：照片是从顾客视角使用智能手机隐蔽拍摄，带有轻微的前景模糊、不完美的构图，以及一种未经摆拍的随性感觉。灯光来自明亮且分布均匀的便利店霓虹灯。\n\n环境：现代化的便利店内部，收银员身后是整齐排列的商品货架，营造出干净明亮的氛围。\n\n摄影风格：照片写实，抓拍摄影，浅景深，自然的肤色，高细节，为增加真实感而带有轻微的运动模糊，4K画质。\n\n用于变化的可选附加内容：\n\n轻微的倾斜角度\n智能手机相机噪点效果\n玻璃展示柜上的反射\n收银员在递收据或找零时温柔地微笑",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542666126-fdn2u5ve-1777542668578-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542666126-fdn2u5ve-1777542668578-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/korean-cashier-smile",
+      "reviewed_at": "2026-05-01T06:15:37.858Z",
+      "created_at": "2026-04-30T09:51:52.181Z",
+      "updated_at": "2026-05-01T06:15:37.858Z"
+    },
+    {
+      "id": 13914,
+      "slug": "guochao-double-exposure-tianjin",
+      "title": "国潮双重曝光下的魅力天津城",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@430Yang",
+      "source_url": "https://x.com/430Yang/status/2049426252314841493",
+      "tags": [
+        "国潮风",
+        "天津城",
+        "新春红",
+        "双曝光",
+        "手绘感"
+      ],
+      "prompts": [
+        {
+          "text": "A 2026 Tianjin city promotional poster full of a festive Spring Festival atmosphere, while also possessing an elegant style and urban cultural heritage.\nThe overall image adopts the artistic expression technique of Guochao illustration + double exposure, with the composition continuing an S-shaped flow, natural and smooth visual guidance, combining a sense of modern design with the charm of Oriental aesthetics.\n\nOn a pure white high-end texture background, the image maintains a large area of negative space, overall fresh, elegant, and transparent.\nIn the lower right corner stands a miniature figure wearing traditional Chinese clothing, with an agile posture, waving a long red silk dance ribbon.\nThis red silk has a smooth, flowing, and dynamic texture, spiraling upward in the air, naturally extending toward the upper left, forming a highly visually impactful flowing trajectory.\n\nAs the red silk extends, it gradually transforms into a magnificent Haihe River water vein, while integrating Tianjin's cultural context and geographical imagery, like a city scroll traversing ancient and modern times.\nIn the visual subject formed by the intertwining of this \"river\" and silk, a hand-drawn panoramic view of Tianjin is superimposed, in Guochao style, with rich layers, magnificent momentum, and exquisite, stunning details.\n\nThe image focuses on showcasing Tianjin's representative landmarks and urban elements:\n\nTianjin Eye (striking city landmark, highly recognizable)\nHaihe River (the core water system running through the entire image)\nJiefang Bridge (reflecting the city's sense of history and industrial beauty)\nJinwan Plaza building complex (showcasing the prosperity of a modern metropolis)\nCentury Clock (Tianjin's landmark landscape)\nAncient Culture Street (reflecting Jinmen's traditional culture)\nWudadao foreign-style building complex (reflecting the historical style of East-meets-West)\nDrum Tower (reflecting Tianjin's ancient charm)\nItalian Style Area (adding urban romance and exotic flair)\nTianjin Port and ocean freighter elements (reflecting the city's character of openness, port, and global connectivity)\nAppropriately incorporate Tianjin cultural symbols such as Yangliuqing New Year paintings, Clay Figure Zhang painted sculptures, crosstalk cultural symbols, and mahua as embellishing details to enhance regional recognition\n\nThe entire image presents a visual artistic conception of \"river, city, bridge, port, and the blending of ancient and modern times\", with light clouds and mist, dense water vapor, carrying the sense of emptiness and fairy spirit in Oriental aesthetics.\nThe colors are mainly Chinese red, gold, elegant white, cyan-green, and light blue, with local embellishments of warm gold, overall festive but not tacky, rich but not cluttered.\n\nImage requirements:\nRich details, complex structure, distinct layers\nA panoramic view of the city, with a sense of shock and artistry\nMaintain the Spring Festival atmosphere, modern aesthetics, and promotional poster texture\nObvious hand-drawn feel, exquisite and beautiful, with collectible visual quality\nHas the momentum of a city promotional video poster, as well as the premium feel of a high-end cultural tourism poster\n\nText layout requirements:\nElegantly layout the English title in the lower left corner: \"SPRING 2026\"\nPaired with a vertical Chinese slogan next to it, for example:\n\"Haihe Jinmen, Charming Tianjin\"\nor\n\"Hometown of Jinmen, Open Tianjin\"\nor\n\"Blending of Ancient and Modern, Vibrant Tianjin\"\n\nText requirements:\n\nBeautiful and generous layout\nClear and complete handwriting\nHas a high-end poster design sense\nCoordinated Chinese and English collocation\nNo garbled characters, no typos\n\nOverall implication:\nShowcasing Tianjin's unique charm as a famous historical and cultural city, an important northern port city, and a modern international metropolis, reflecting the charm of the Haihe River, the ancient charm of Jinmen, and the city spirit of openness and inclusiveness.\n\nPoster size: 9:16 vertical version.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一张充满新春喜庆氛围、同时兼具高雅格调与城市文化底蕴的 2026 天津城市宣传海报。\n整体画面采用 国潮插画 + 双重曝光 的艺术表现手法，构图延续 S型流动感，视觉引导自然流畅，兼具现代设计感与东方审美韵味。\n\n在 纯白色高级纹理背景 上，画面保持大面积留白，整体清新、雅致、通透。\n画面 右下角 站着一个 身穿中国传统服饰的微缩人物，人物姿态灵动，正在挥舞一条 长长的红色丝绸舞带。\n这条红色丝绸具有柔顺、飘逸、富有张力的质感，在空中盘旋上扬，向 左上方 自然延展，形成极具视觉冲击力的流动轨迹。\n\n随着红绸的延伸，它逐渐幻化成一条壮丽的 海河水脉，同时融合天津城市的文化脉络与地理意象，像一条贯穿古今的城市长卷。\n在这条“河流”与丝绸交织形成的视觉主体中，叠加一幅 天津城市手绘全景图，国潮风格，层次丰富，气势恢宏，细节精致震撼。\n\n画面中重点展现 天津代表性地标与城市元素：\n\n天津之眼（醒目的城市地标，富有辨识度）\n海河（贯穿全画面的核心水系）\n解放桥（体现城市历史感与工业美感）\n津湾广场建筑群（展现现代都市繁华气息）\n世纪钟（天津标志性景观）\n古文化街（体现津门传统文化）\n五大道洋楼建筑群（体现中西合璧的历史风貌）\n鼓楼（体现天津古韵）\n意式风情区（增加城市浪漫与异域风情）\n天津港、远洋货轮元素（体现开放、港口、通达世界的城市气质）\n可适当融入 杨柳青年画、泥人张彩塑、相声文化符号、麻花等天津文化符号，作为点缀性细节，增强地域辨识度\n\n整幅画面呈现出 “河、城、桥、港、古今交融” 的视觉意境，云雾轻绕，水汽氤氲，带有东方美学中的空灵感与仙气。\n色彩以 中国红、金色、雅白、青绿色、浅蓝色 为主，局部点缀暖金，整体 喜庆但不俗艳，丰富但不杂乱。\n\n画面要求：\n细节丰富，结构复杂，层次分明\n城市风景尽收眼底，具有震撼感与艺术感\n保持 新春气息、现代审美、宣传海报质感\n手绘感明显，精致唯美，具有收藏级视觉品质\n既有城市宣传片海报的气势，也有高端文旅海报的高级感\n\n文字排版要求：\n左下角优雅排版英文标题：“SPRING 2026”\n旁边搭配 竖排中文宣传语，例如：\n“河海津门 魅力天津”\n或\n“津门故里 开放天津”\n或\n“古今交融 万象天津”\n\n文字要求：\n\n排版优美大方\n字迹清晰完整\n具有高级海报设计感\n中英文搭配协调\n不要乱码，不要错字\n\n整体寓意：\n展现天津作为历史文化名城、北方重要港口城市、现代化国际都市的独特魅力，体现海河风韵、津门古韵与开放包容的城市精神。\n\n海报尺寸：9:16 竖版。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542634532-xcl4jbf1-1777542641265-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542634532-xcl4jbf1-1777542641265-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/guochao-double-exposure-tianjin",
+      "reviewed_at": "2026-05-01T06:15:08.741Z",
+      "created_at": "2026-04-30T09:51:46.793Z",
+      "updated_at": "2026-05-01T06:15:08.741Z"
+    },
+    {
+      "id": 13913,
+      "slug": "tang-hanfu-palace-editorial",
+      "title": "绝美唐风汉服宫廷大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@chatgptpaglu",
+      "source_url": "https://x.com/chatgptpaglu/status/2049695192832463358",
+      "tags": [
+        "唐风",
+        "汉服",
+        "宫廷",
+        "唯美",
+        "大片"
+      ],
+      "prompts": [
+        {
+          "text": "A breathtakingly beautiful and elegant woman in high-end artistic photoshoot style, extremely realistic photography, delicate soft beautiful face with refined features, warm fair skin, long flowing soft wavy hair cascading naturally, graceful and voluptuous figure with perfect curves, (character features fully consistent and locked) Outfit: Exquisite and romantic Tang-style improved hanfu, chest-high ruqun with flowing wide sleeves and multi-layered lightweight silk and gauze fabrics, elegant warm color palette (soft apricot, pale lotus pink, misty rose, subtle gold accents), luxurious drape and subtle sheen, beautifully accentuating her shoulders, waist, bust and hip curves in a modern elegant way, highly fashionable and ethereal, no excessive embroidery Scene: Standing inside a magnificent ancient Chinese imperial palace, grand hall with towering red lacquered pillars, intricate golden carvings and painted beams, ornate wooden lattice screens, luxurious silk curtains and lanterns, high ceilings with detailed patterns, soft natural light streaming through large carved windows, opulent yet graceful and dreamy atmosphere Core concept: Beautiful woman in exquisite Tang hanfu inside a grand historical Chinese palace, creating a deeply immersive high-fashion ancient elegance with strong sense of timeless luxury, ultra luxurious editorial photography style, not cosplay Pose: Elegantly sensual standing pose beside an ornate pillar or carved railing, graceful S-curve body line, waist gently twisted, one hand lightly touching the pillar or railing, the other hand softly lifting or resting on her flowing skirt, shoulders relaxed, wide sleeves draping beautifully with gentle movement, very feminine and alluring yet refined and classy Expression: Gentle and serene with a soft, dreamy smile, warm and captivating eyes looking toward the camera or slightly to the side Makeup: Delicate warm artistic makeup, soft pink eyeshadow, naturally defined eyebrows, rosy cherry lips, fresh and ethereal look Camera angle: Professional side angle or slight low angle shot, capturing beautiful depth and layers of the palace architecture with rich spatial dimension Lighting: Soft natural daylight mixed with warm ambient lantern light, gentle highlights and soft shadows that beautifully sculpt her figure and the flowing fabric, cinematic and flattering lighting Style: High-end fashion editorial photography, ultra realistic, photorealistic, subtle film grain, soft low contrast, slightly desaturated warm tones, movie-grade quality Details: Flawless yet natural skin texture with subtle glow, realistic hair strands with natural movement, intricate fabric folds and translucency in the hanfu, rich architectural details in the background, occasional soft flower petals floating in the air Atmosphere: Romantic, graceful, dreamy, luxurious and poetic, high-class ancient palace elegance with a touch of fantasy Quality: 8K ultra detailed, cinematic lighting, shallow depth of field, professional photography masterpiece, best quality, photorealistic, ultra realistic Aspect Ratio: 2:3",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "令人叹为观止的美丽优雅女子，高端艺术摄影风格，极其逼真的摄影，精致柔美的脸庞与立体的五官，温暖的白皙肌肤，自然垂下的柔软飘逸长卷发，优雅且丰满的身材与完美的曲线，（角色特征完全一致且锁定）Outfit: 精致浪漫的唐风改良汉服，齐胸襦裙搭配飘逸的宽袖和多层轻薄的丝绸与薄纱面料，优雅的暖色调（柔和的杏色、浅莲花粉、雾玫瑰色、微妙的金色点缀），奢华的垂坠感和微妙的光泽，以现代优雅的方式完美凸显她的肩部、腰部、胸部和臀部曲线，高度时尚且空灵，没有过多的刺绣 Scene: 站在宏伟的中国古代皇宫内，宏伟的大厅配有高耸的红漆柱子，错综复杂的金色雕刻和彩绘横梁，华丽的木制雕花格栅屏风，豪华的丝绸窗帘和灯笼，带有精细图案的高天花板，柔和的自然光透过大型雕花窗户照进来，华丽却又优雅梦幻的氛围 Core concept: 穿着精致唐风汉服的美丽女子置身于宏伟的中国历史宫殿中，营造出具有强烈永恒奢华感的深度沉浸式高级时尚古风优雅，超奢华的杂志大片摄影风格，非角色扮演 Pose: 在华丽的柱子或雕花栏杆旁摆出优雅性感的站姿，优美的 S 型身体线条，腰部轻轻扭转，一只手轻轻触碰柱子或栏杆，另一只手轻柔地提起或放在她飘逸的裙子上，肩膀放松，宽袖随着轻柔的动作优美地垂下，非常女性化和迷人，却又精致高雅 Expression: 温柔宁静，带着柔和梦幻的微笑，温暖迷人的眼睛看向镜头或略微看向一侧 Makeup: 精致的暖色调艺术妆容，柔和的粉色眼影，自然立体的眉毛，玫瑰色的樱桃唇，清新空灵的妆容 Camera angle: 专业的侧面角度或轻微的低角度拍摄，捕捉宫殿建筑美丽的深度和层次，具有丰富的空间维度 Lighting: 柔和的自然日光混合温暖的环境灯笼光，柔和的高光和柔和的阴影优美地塑造出她的身材和飘逸的面料，电影般且讨喜的灯光 Style: 高端时尚杂志大片摄影，超写实，照片级真实，微妙的胶片颗粒，柔和的低对比度，略微降低饱和度的暖色调，电影级质量 Details: 无瑕却自然的皮肤纹理带有微妙的光泽，逼真的发丝带有自然的动态，汉服上错综复杂的面料褶皱和半透明感，背景中丰富的建筑细节，偶尔有柔软的花瓣在空气中飘浮 Atmosphere: 浪漫、优雅、梦幻、奢华且富有诗意，带有几分幻想的高级古风宫殿优雅 Quality: 8K 超精细，电影级灯光，浅景深，专业摄影杰作，最佳质量，照片级真实，超写实 Aspect Ratio: 2:3",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542525994-a7kf24fu-1777542529700-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542525994-a7kf24fu-1777542529700-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/tang-hanfu-palace-editorial",
+      "reviewed_at": "2026-05-01T06:15:10.342Z",
+      "created_at": "2026-04-30T09:49:55.798Z",
+      "updated_at": "2026-05-01T06:15:10.342Z"
+    },
+    {
+      "id": 13912,
+      "slug": "monochrome-optical-poster",
+      "title": "黑白光学抽象概念海报设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2049495868873531629",
+      "tags": [
+        "极简风",
+        "错视感",
+        "参数化",
+        "实验派",
+        "概念图"
+      ],
+      "prompts": [
+        {
+          "text": "Please create a high-completion \"Monochrome Optical Concept Poster\" based on the user-input [Theme Text] and [Image Ratio].\n[User Input]\nTheme Text: [Custom]\nImage Ratio: [Custom according to needs]\nThis is not an ordinary text poster, nor a simple layout poster, nor a figurative illustration, but a high-completion concept poster with the \"Theme Text\" as the core, integrating \"Black and White Op Art\", \"Parametric Generative Graphics\", \"Biomorphic Abstraction\", and \"Experimental Swiss Style Typography\". The overall look must have a strong visual impact, modern design sense, abstraction, orderliness, philosophical feel, and a unified series style.\n[Overall Style Requirements]\n1. The overall adopts black and white monochrome as the main tone, with a background of clean light cream white, warm white, or extremely light gray paper texture.\n2. The main visual of the image should present a high-contrast abstract graphic language, combining elements such as optical illusion, mirror symmetry, ripples, repeated curves, parametric arcs, radial lines, moiré patterns, concentric lines, dot matrices, checkerboard deformations, fluid forms, feather-like or wing-like structures, nodes, circuits, paths, and energy fields.\n3. The graphics cannot just be decorative; they must form a semantic echo with the [Theme Text]: making the abstract graphics look like they are \"explaining\" the emotion, structure, tension, or relationship of this theme.\n4. The style should lean towards high-end graphic design, experimental posters, futuristic visual archives, design exhibition posters, and conceptual album cover vibes, avoiding commercial promotional feel, cheap feel, and ordinary social media template feel.\n[Main Title Requirements]\n1. Use the [Theme Text] as the most important main title of the entire poster, placed in the center or core visual area of the image, with a large font size, strong recognition, and strong visual dominance.\n2. The main title must be rendered accurately, without typos, missing characters, or incorrect characters.\n3. If the [Theme Text] is in Chinese, the Chinese main title shall prevail, and a small English subtitle or English explanation can be automatically added as supplementary information; if the [Theme Text] is in English, the English main title shall prevail, and a smaller line of Chinese supplementary explanation can be automatically added.\n4. The font style of the main title should be modern, restrained, and powerful, suitable for high-end design posters, without cartoonish feel or excessive flashiness.\n[Composition and Visual Structure Requirements]\n1. The image should have a clear \"central order\", and it is recommended to adopt one of the following structures, automatically judging the most suitable method based on the theme:\n   - Symmetric Confrontation\n   - Central Axis Explosion\n   - Bidirectional Collision\n   - Resonant Aggregation\n   - Node Path\n   - Vortex Circuit\n   - Ritual Exhibition\n2. If the theme leans towards \"conflict, confrontation, gaming, scrambling, dilemma, historical tension\", visual structures such as left-right clashing, dual-core confrontation, central collision, splitting, and pulling can be adopted.\n3. If the theme leans towards \"integration, symbiosis, resonance, connection, harmony, order\", visual structures such as mirror echoing, centripetal convergence, ripple resonance, and structural interlocking can be adopted.\n4. If the theme leans towards \"speculation, cognition, system, decision-making, philosophy, mechanism\", visual organization methods such as nodes, connecting lines, circuits, paths, balanced structures, and parametric diagram feel can be adopted.\n5. The main abstract graphic should be strong enough to become the recognition symbol of the poster alone, but it must not overwhelm the main title.\n[Typography and Information Hierarchy Requirements]\n1. In addition to the main title, a small amount of auxiliary typography information can be added to the image to enhance the \"archival feel / exhibition feel / conceptual feel\", for example:\n   - Small English keywords\n   - Small Chinese keywords\n   - Vertical side notes\n   - Short navigation-style words at the top or bottom\n   - Short slogans\n   - Structural labels\n   - Symbolic explanatory text\n2. These auxiliary information should be automatically generated around the theme; the content should be short, small, and refined, without large paragraphs of explanation, and not like article typography.\n3. Appropriately add dots, lines, crosses, asterisks, rings, grids, coordinate-like symbols, minimalist icons, to enhance the systematic feel and experimental feel.\n4. The layout should have a breathing feel and white space, and cannot be too crowded; at the same time, there must be enough information density to form a high-end visual effect of \"strong design sense but not cluttered\".\n[Theme Translation Logic Requirements]\n1. You cannot just put the theme text on and finish; you must transform the [Theme Text] into a visual metaphor.\n2. For example:\n   - If the theme has a sense of conflict, the graphics should reflect pulling, confrontation, collision, fission, imbalance, oppression, and battlefield feel.\n   - If the theme has a sense of integration, the graphics should reflect convergence, echo, flow, interlocking, resonance, connection, and balance.\n   - If the theme has a sense of dilemma or gaming, the graphics should reflect bifurcation, choice, nodes, balance, paths, tension, and loops.\n   - If the theme has a sense of history or epic, the graphics can introduce abstract expressions of artifacts, patterns, ritual feel, and power feel, but still need to maintain a modern black and white experimental design style.\n3. The abstract graphics should look like \"the form after the concept has been visualized\", rather than random patterns.\n[Image Texture Requirements]\n1. The texture leans towards graphic design and high-end printing visuals, with black and white being clean and crisp, and clear edges.\n2. Subtle paper texture, faint noise, and printing feel can be appropriately added, but do not over-retro.\n3. The overall should look like a poster that can be directly used for:\n   - Exhibition posters\n   - Viewpoint covers\n   - Design-focused feature covers\n   - Conceptual visual posters\n   - Cultural and ideological cover images\n4. Avoid generating realistic characters, real scene photography, cartoon illustrations, colorful commercial advertising styles, and juvenile graphic languages.\n[Final Output Requirements]\nPlease output a concept poster with complete composition, prominent main title, strong abstract graphics, high-end typography, unified black and white, and a sense of series and collectibility.\nMake sure that the [Theme Text] is accurate and clear, the overall style is unified, and the image has strong characteristics of \"Optical Abstraction + Conceptual Typography + Modern Design Poster\".",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "请根据用户输入的【主题文字】与【图片比例】，创作一张高完成度的「黑白光学抽象概念海报 / Monochrome Optical Concept Poster」。\n\n【用户输入】\n主题文字：【自定义】 \n图片比例：【根据需求自定义】 \n\n这不是普通文字海报，不是简单排版海报，也不是具象插画，而是一张以“主题文字”为核心、融合「黑白光学艺术 / Op Art」「参数化生成图形」「生物形态抽象」「实验性瑞士风排版」的高完成度概念海报。整体必须具有强烈的视觉冲击力、现代设计感、抽象性、秩序感、哲学感和系列化统一风格。\n\n【整体风格要求】\n1. 整体采用黑白单色为主，背景为干净的浅米白、暖白或极浅灰纸面质感。\n2. 画面主视觉应呈现高对比度的抽象图形语言，结合光学错觉、镜像对称、波纹、重复曲线、参数化弧线、放射线、莫尔纹、同心线、点阵、棋盘格变形、流体形态、羽毛状或翼状结构、节点、回路、路径、能量场等元素。\n3. 图形不能只是装饰，要与【主题文字】形成语义呼应：让抽象图形像是在“解释”这个主题的情绪、结构、张力或关系。\n4. 风格应偏高级平面设计、实验海报、未来感视觉档案、设计展海报、概念专辑封面气质，避免商业促销感、廉价感和普通社媒模板感。\n\n【主标题要求】\n1. 将【主题文字】作为整张海报最重要的主标题，放在画面中心或核心视觉区域，字号大、识别强、视觉统治力强。\n2. 主标题必须准确渲染，不能出现错字、漏字、别字。\n3. 若【主题文字】为中文，则以中文大标题为主，可自动补充一个小型英文副标题或英文解释作为辅助信息；若【主题文字】为英文，则英文主标题为主，可自动补充一行较小的中文辅助说明。\n4. 主标题字体风格应现代、克制、有力量感，适合高端设计海报，不要卡通感，不要过度花哨。\n\n【构图与视觉结构要求】\n1. 画面应具有明确的“中心秩序”，推荐采用以下结构之一，并根据主题自动判断最适合的方式：\n   - 对称对峙式\n   - 中轴爆发式\n   - 双向碰撞式\n   - 共振聚合式\n   - 节点路径式\n   - 漩涡回路式\n   - 仪式展陈式\n2. 如果主题偏“冲突、对抗、博弈、争夺、困境、历史张力”，可采用左右对冲、双核对峙、中心碰撞、分裂与拉扯的视觉结构。\n3. 如果主题偏“融合、共生、共振、连接、和谐、秩序”，可采用镜像呼应、向心汇聚、波纹共鸣、结构互嵌的视觉结构。\n4. 如果主题偏“思辨、认知、系统、决策、哲学、机制”，可采用节点、连线、回路、路径、均衡结构、参数图示感的视觉组织方式。\n5. 主体抽象图形应足够强，能单独成为海报的识别符号，但不要喧宾夺主压过主标题。\n\n【排版与信息层级要求】\n1. 除主标题外，可在画面中加入少量辅助排版信息，用于增强“档案感 / 展览感 / 概念感”，例如：\n   - 小号英文关键词\n   - 小号中文关键词\n   - 竖排边注\n   - 顶部或底部导航式短词\n   - 简短口号\n   - 结构标签\n   - 符号化说明文字\n2. 这些辅助信息应围绕主题自动生成，内容要短、小、精，不要大段说明，不要像文章排版。\n3. 可适度加入点、线、十字、星号、圆环、网格、坐标感符号、极简图标等，提升系统感与实验感。\n4. 版式要有呼吸感与留白，不能过于拥挤；同时又要有足够的信息密度，形成“设计感强但不杂乱”的高级视觉效果。\n\n【主题翻译逻辑要求】\n1. 不能只把主题文字放上去就结束，而要将【主题文字】转化为视觉隐喻。\n2. 例如：\n   - 若主题具有冲突感，图形应体现拉扯、对峙、碰撞、裂变、失衡、压迫、战场感。\n   - 若主题具有融合感，图形应体现汇聚、回响、流动、互嵌、共鸣、联结、平衡感。\n   - 若主题具有困境或博弈感，图形应体现分叉、选择、节点、均衡、路径、张力、循环。\n   - 若主题具有历史或史诗感，图形可引入器物、纹样、仪式感、权力感的抽象化表达，但仍需保持现代黑白实验设计风格。\n3. 抽象图形应看起来像“概念被可视化后的形态”，而不是随机花纹。\n\n【画面质感要求】\n1. 质感偏平面设计与高级印刷视觉，黑白干净利落，边缘清晰。\n2. 可适当加入细微纸感、微弱噪点、印刷感，但不要做旧过头。\n3. 整体应像一张可以直接用于：\n   - 展览海报\n   - 观点封面\n   - 设计感专题封面\n   - 概念视觉海报\n   - 文化与思想类封面图\n4. 避免生成写实人物、真实场景摄影、卡通插画、彩色商业广告风、低幼图形语言。\n\n【最终输出要求】\n请输出一张构图完整、主标题醒目、抽象图形强烈、排版高级、黑白统一、具有系列感与收藏感的概念海报。\n务必确保【主题文字】准确清晰，整体风格统一，画面具有强烈的“光学抽象 + 概念排版 + 现代设计海报”特征。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542442445-01u0etp2-1777542446877-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202604/1777542442445-01u0etp2-1777542446889-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542442445-01u0etp2-1777542446877-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/monochrome-optical-poster",
+      "reviewed_at": "2026-05-01T06:15:13.080Z",
+      "created_at": "2026-04-30T09:49:21.271Z",
+      "updated_at": "2026-05-01T06:15:13.080Z"
+    },
+    {
+      "id": 13910,
+      "slug": "hyper-realistic-vogue-cover",
+      "title": "超写实时尚杂志封面大片",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@miratechtool",
+      "source_url": "https://x.com/miratechtool/status/2049466823469420926",
+      "tags": [
+        "超写实",
+        "杂志感",
+        "高级感",
+        "先锋",
+        "光影"
+      ],
+      "prompts": [
+        {
+          "text": "Create a hyper-realistic VOGUE magazine cover featuring the same woman (keep face identical). She is seated in a relaxed editorial pose on a sculptural sofa.\nOutfit: avant-garde high-fashion look — asymmetrical blazer, silk textures, bold tailoring, statement heels.\nStyling: glossy lips, dewy glowing skin, slightly dramatic eye makeup.\nLighting: soft diffused studio light with luxury glow.\nBackground: minimal beige/cream studio with fashion shadows.\nHeadline: “The New Power Aesthetic”\nSubtext: “MIRA — where influence meets couture”\nStyle: high-fashion editorial, artistic, 8K, Vogue photoshoot vibe.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创作一张超写实的 VOGUE 杂志封面，以同一位女性为特色（保持面部完全一致）。她以放松的编辑姿态坐在雕塑般的沙发上。\nOutfit: 先锋高级时尚造型 —— 不对称西装外套，丝绸质感，大胆剪裁，引人注目的高跟鞋。\nStyling: 光泽双唇，水润发光肌肤，略带戏剧感的眼妆。\nLighting: 柔和漫射的影棚灯光，带有奢华光晕。\nBackground: 极简的米色/奶油色影棚，带有时尚阴影。\nHeadline: “全新力量美学”\nSubtext: “MIRA — 影响力与高级定制的交汇”\nStyle: 高级时尚大片，艺术感，8K，Vogue 拍摄氛围。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542374162-z59u2rwt-1777542378473-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542374162-z59u2rwt-1777542378473-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hyper-realistic-vogue-cover",
+      "reviewed_at": "2026-05-01T06:15:45.497Z",
+      "created_at": "2026-04-30T09:48:06.965Z",
+      "updated_at": "2026-05-01T06:15:45.497Z"
+    },
+    {
+      "id": 13909,
+      "slug": "new-york-nine-grid-snaps",
+      "title": "纽约打卡的九宫格随手拍",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@craftian_keskin",
+      "source_url": "https://x.com/craftian_keskin/status/2049493053933596869",
+      "tags": [
+        "九宫格",
+        "纽约游",
+        "随手拍",
+        "博主风",
+        "手机风"
+      ],
+      "prompts": [
+        {
+          "text": "{\n  \"Objective\": \"Generate a 3x3 grid-style image prompt featuring a highly attractive female travel vlogger exploring iconic locations in New York City, captured as low-quality smartphone photos.\",\n  \"Persona Details\": {\n    \"Character\": \"Female travel vlogger\",\n    \"Appearance\": \"Extremely beautiful, expressive, fashionable casual travel outfits\",\n    \"Mood\": \"Energetic, adventurous, candid\",\n    \"Style\": \"Influencer-style but captured in imperfect, low-quality smartphone photography\"\n  },\n  \"Scene Composition\": {\n    \"Layout\": \"3x3 grid collage (9 images total)\",\n    \"Image Quality\": \"Low resolution, slight blur, inconsistent lighting, casual smartphone aesthetic\",\n    \"Camera Style\": \"Handheld, selfie angles, candid shots, slight motion blur\"\n  },\n  \"Grid Elements\": [\n    {\n      \"Position\": \"Top Left\",\n      \"Scene\": \"Statue of Liberty in background, vlogger smiling in selfie pose\"\n    },\n    {\n      \"Position\": \"Top Center\",\n      \"Scene\": \"Times Square at night with neon lights, vlogger mid-walk candid shot\"\n    },\n    {\n      \"Position\": \"Top Right\",\n      \"Scene\": \"Central Park greenery, relaxed sitting pose on bench\"\n    },\n    {\n      \"Position\": \"Middle Left\",\n      \"Scene\": \"Famous NYC food spot (e.g., pizza slice or street food), vlogger eating and laughing\"\n    },\n    {\n      \"Position\": \"Middle Center\",\n      \"Scene\": \"Inside Metropolitan Museum, posing next to Matisse's 'Dance' painting\"\n    },\n    {\n      \"Position\": \"Middle Right\",\n      \"Scene\": \"Museum of Natural History, standing next to T-Rex fossil skeleton\"\n    },\n    {\n      \"Position\": \"Bottom Left\",\n      \"Scene\": \"Brooklyn Bridge walking shot, wind-blown hair candid\"\n    },\n    {\n      \"Position\": \"Bottom Center\",\n      \"Scene\": \"Empire State Building viewpoint selfie\"\n    },\n    {\n      \"Position\": \"Bottom Right\",\n      \"Scene\": \"Street scene in SoHo or DUMBO, casual walking candid shot\"\n    }\n  ],\n  \"Lighting and Aesthetic\": {\n    \"Lighting\": \"Natural, inconsistent lighting conditions (day/night mix)\",\n    \"Color Tone\": \"Slightly washed out or overexposed in some frames\",\n    \"Vibe\": \"Authentic, unpolished travel diary feel\"\n  },\n  \"Response Format\": {\n    \"Type\": \"Image generation prompt\",\n    \"Structure\": \"Detailed multi-scene description formatted for AI image generation systems\"\n  }\n}",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "{\n  \"Objective\": \"生成一张3x3网格样式的图像提示词，展示一位极具吸引力的女性旅行博主探索纽约市标志性地点，以低质量智能手机照片的形式捕捉。\",\n  \"Persona Details\": {\n    \"Character\": \"女性旅行博主\",\n    \"Appearance\": \"极其美丽，表情丰富，时尚休闲旅行装\",\n    \"Mood\": \"充满活力，富有冒险精神，抓拍\",\n    \"Style\": \"网红风格，但以不完美的低质量智能手机摄影捕捉\"\n  },\n  \"Scene Composition\": {\n    \"Layout\": \"3x3网格拼贴画（共9张图像）\",\n    \"Image Quality\": \"低分辨率，轻微模糊，光线不一致，随意的智能手机美学\",\n    \"Camera Style\": \"手持，自拍角度，抓拍，轻微动态模糊\"\n  },\n  \"Grid Elements\": [\n    {\n      \"Position\": \"左上\",\n      \"Scene\": \"背景为自由女神像，博主微笑着摆出自拍姿势\"\n    },\n    {\n      \"Position\": \"上方居中\",\n      \"Scene\": \"夜晚霓虹灯闪烁的时代广场，博主行走中的抓拍\"\n    },\n    {\n      \"Position\": \"右上\",\n      \"Scene\": \"中央公园的绿植，在长椅上放松地坐着\"\n    },\n    {\n      \"Position\": \"左中\",\n      \"Scene\": \"著名的纽约美食地点（例如，一片披萨或街头小吃），博主边吃边笑\"\n    },\n    {\n      \"Position\": \"正中\",\n      \"Scene\": \"大都会博物馆内，在马蒂斯的《舞蹈》画作旁摆姿势\"\n    },\n    {\n      \"Position\": \"右中\",\n      \"Scene\": \"自然历史博物馆，站在霸王龙化石骨架旁\"\n    },\n    {\n      \"Position\": \"左下\",\n      \"Scene\": \"布鲁克林大桥行走照，头发被风吹起的抓拍\"\n    },\n    {\n      \"Position\": \"下方居中\",\n      \"Scene\": \"帝国大厦观景台自拍\"\n    },\n    {\n      \"Position\": \"右下\",\n      \"Scene\": \"SoHo或DUMBO的街景，随意行走的抓拍\"\n    }\n  ],\n  \"Lighting and Aesthetic\": {\n    \"Lighting\": \"自然，不一致的光线条件（日/夜混合）\",\n    \"Color Tone\": \"某些帧中略显褪色或曝光过度\",\n    \"Vibe\": \"真实，未修饰的旅行日记感觉\"\n  },\n  \"Response Format\": {\n    \"Type\": \"图像生成提示词\",\n    \"Structure\": \"为AI图像生成系统格式化的详细多场景描述\"\n  }\n}",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542331093-h2nvnfjh-1777542338649-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542331093-h2nvnfjh-1777542338649-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/new-york-nine-grid-snaps",
+      "reviewed_at": "2026-05-01T06:15:20.245Z",
+      "created_at": "2026-04-30T09:46:30.119Z",
+      "updated_at": "2026-05-01T06:15:20.245Z"
+    },
+    {
+      "id": 13908,
+      "slug": "minimal-red-white-boxer-poster",
+      "title": "极简红白风女拳手海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSynthia",
+      "source_url": "https://x.com/AIwithSynthia/status/2049718330353975652",
+      "tags": [
+        "拳击",
+        "健身",
+        "大片",
+        "极简",
+        "动感"
+      ],
+      "prompts": [
+        {
+          "text": "Create a high-end fitness boxing poster in a 3-panel collage layout.\nTop panel:\nA strong athletic woman boxer wearing a red boxing outfit (sports bra, shorts, boxing gloves, high socks, boxing shoes) leaning confidently against a worn heavy punching bag. Studio background with large bold red typography behind her (word like “FOCUS” or “IMPACT” in oversized distressed font). Clean minimal lighting, editorial fitness campaign style.\nBottom left panel:\nClose-up portrait of the same woman (shoulders and face). Slight sweat, sharp jawline, focused expression looking sideways. Boxing gloves visible near frame. Background includes large faded typography partially visible.\nBottom right panel:\nFull-body action pose of the woman throwing a punch at the punching bag. Dynamic stance, strong posture, gloves in motion. Same studio setup and typography in background (different word like “STRENGTH” or “DISCIPLINE”).\nOverall style:\npremium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创建一个采用3面板拼贴布局的高端健身拳击海报。\n顶部面板：\n一位身材健硕的女拳击手穿着红色拳击服（运动内衣、短裤、拳击手套、高筒袜、拳击鞋），自信地靠在一个破旧的重型沙袋上。工作室背景，她身后有巨大的粗体红色排版文字（如“FOCUS”或“IMPACT”等字样，使用超大尺寸的做旧字体）。干净极简的灯光，杂志大片式健身宣传风格。\n左下方面板：\n同一位女性的特写肖像（肩膀和面部）。微微出汗，清晰的下颌线，侧视的专注表情。画框边缘附近可见拳击手套。背景包含部分可见的巨大褪色排版文字。\n右下方面板：\n女性向沙袋挥拳的全身动作姿势。动态站姿，强壮的体态，手套处于运动状态。背景中是相同的工作室布置和排版文字（不同的字样如“STRENGTH”或“DISCIPLINE”）。\n整体风格：\n高端健身品牌宣传，富有戏剧性的工作室灯光，柔和的阴影，高对比度，超写实，清晰的细节，极简色彩调色板（红色、白色、中性色调），干净的构图，电影级摄影，4k质量。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542266716-zegxgg37-1777542271919-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542266716-zegxgg37-1777542271919-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/minimal-red-white-boxer-poster",
+      "reviewed_at": "2026-05-01T06:15:17.130Z",
+      "created_at": "2026-04-30T09:45:50.401Z",
+      "updated_at": "2026-05-01T06:15:17.130Z"
+    },
+    {
+      "id": 13907,
+      "slug": "portrait-color-matching-guide",
+      "title": "肖像专属穿搭色彩解析图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ZaraIrahh",
+      "source_url": "https://x.com/ZaraIrahh/status/2049730770474877234",
+      "tags": [
+        "四季色",
+        "色彩卡",
+        "穿搭图",
+        "对比感",
+        "视觉系"
+      ],
+      "prompts": [
+        {
+          "text": "Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "使用这张肖像创建一个个人色彩分析图表。指出哪种季节色彩最适合该对象。展示并排的服装颜色对比，以突出哪些颜色最适合该对象。列出最适合该对象的纹理/配饰/发型。以视觉优先，仅使用简短标签且不要段落。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542300118-49brrvro-1777542304620-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542300118-49brrvro-1777542304620-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/portrait-color-matching-guide",
+      "reviewed_at": "2026-05-01T06:15:41.076Z",
+      "created_at": "2026-04-30T09:45:47.116Z",
+      "updated_at": "2026-05-01T06:19:22.279Z"
+    },
+    {
+      "id": 13906,
+      "slug": "street-girl-juice-poster",
+      "title": "街头潮女果汁广告海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSarah_",
+      "source_url": "https://x.com/AIwithSarah_/status/2049452842931630202",
+      "tags": [
+        "饮品图",
+        "街头风",
+        "透视感",
+        "电商感",
+        "潮女范"
+      ],
+      "prompts": [
+        {
+          "text": "Create a premium modern beverage advertisement poster in a vertical 3:4 format featuring a stylish young female model crouching confidently in a bright urban indoor hallway with colorful graffiti wall art on one side and clean minimal architecture on the other, giving a trendy streetwear lifestyle vibe. The model wears casual fashionable clothes such as a red oversized jacket, white inner top, black joggers, and white sneakers, looking directly at the camera with a cool confident expression. In the foreground, a giant realistic fruit juice bottle is held toward the camera in forced perspective, dominating the composition with sharp focus and glossy reflections. The bottle should have a completely different fictional brand name such as “VIVAJUICE” in bold modern typography, with attractive fruit illustrations on the label and flavor text like “Sunrise Mango” or “Tropical Burst.” At the top left, place the brand logo and a catchy tagline like “Drink Fresh. Live Bold.” Across the top center, add huge bold overlapping typography reading “PURE AS NATURE” or “FRESH EVERY SIP” in contrasting colors like dark green and mint. Below the headline, include 4 clean icon-based feature badges in a row with text such as “NO ADDED SUGAR,” “100% NATURAL,” “NO PRESERVATIVES,” and “NOT FROM CONCENTRATE.” At the bottom right, display three smaller bottle variants in different flavors neatly arranged. Use soft natural lighting mixed with commercial studio polish, realistic shadows, shallow depth of field, glossy floor reflections, and a premium energetic eCommerce campaign aesthetic inspired by modern Instagram and billboard ads.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "创作一张高端现代饮品广告海报，采用竖版 3:4 格式，主角是一位时尚的年轻女性模特自信地蹲在明亮的都市室内走廊中，一侧是色彩斑斓的涂鸦墙艺术，另一侧是干净极简的建筑，呈现出时髦的街头服饰生活方式氛围。模特穿着休闲时尚的服装，如红色超大号外套、白色内搭上衣、黑色慢跑裤和白色运动鞋，以酷炫自信的表情直视镜头。在前景中，一个巨大的逼真果汁瓶以强迫透视的方式举向镜头，以锐利对焦和光泽反射主导整个构图。该瓶子应该有一个完全不同的虚构品牌名称，如“VIVAJUICE”，采用粗体现代排版，标签上有吸引人的水果插图和口味文字，如“日出芒果”或“热带迸发”。在左上角，放置品牌标志和引人注目的标语，如“鲜饮。活出胆色。”。在顶部中央，添加巨大的粗体重叠排版文字，写着“纯净如自然”或“每口皆新鲜”，使用深绿色和薄荷色等对比色。在标题下方，在一行中包含4个干净的基于图标的功能徽章，文字如“无添加糖”、“100%纯天然”、“无防腐剂”和“非浓缩还原”。在右下角，整齐排列展示三种不同口味的较小瓶子变体。使用柔和的自然光线混合商业影棚质感、逼真的阴影、浅景深、光泽的地面反射，以及受现代 Instagram 和广告牌广告启发的高端充满活力的电商活动美学。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202604/1777542159978-5utqz7hh-1777542163459-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202604/1777542159978-5utqz7hh-1777542163459-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/street-girl-juice-poster",
+      "reviewed_at": "2026-05-01T06:15:43.334Z",
+      "created_at": "2026-04-30T09:44:36.312Z",
+      "updated_at": "2026-05-01T06:15:43.334Z"
+    },
     {
       "id": 13903,
       "slug": "twelve-grid-hairstyle-design",
@@ -5797,7 +6597,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/premium-sneaker-infographic-ad",
       "reviewed_at": "2026-04-27T01:40:57.149Z",
       "created_at": "2026-04-25T07:37:04.014Z",
-      "updated_at": "2026-04-27T01:40:57.149Z"
+      "updated_at": "2026-04-30T18:31:10.873Z"
     },
     {
       "id": 13740,
@@ -5831,11 +6631,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777047133693-ev91wzj8-1777047149838-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777047133693-ev91wzj8-1777047149838-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/nose-touching-between-demon-and-monk",
       "reviewed_at": "2026-04-24T16:13:37.838Z",
       "created_at": "2026-04-24T16:13:24.855Z",
-      "updated_at": "2026-04-24T16:14:26.393Z"
+      "updated_at": "2026-05-01T08:23:37.572Z"
     },
     {
       "id": 13739,
@@ -5945,11 +6745,11 @@
         "https://img.opennana.com/prompts/assets/202604/1777047061186-dbzjdg4f-1777047067522-1.jpeg"
       ],
       "video_urls": [],
-      "thumbnail": null,
+      "thumbnail": "pthumbs/prompts/assets/202604/1777047061186-dbzjdg4f-1777047067522-1-480.jpg",
       "url": "https://opennana.com/awesome-prompt-gallery/liu-yifei-white-veil-perfume",
       "reviewed_at": "2026-04-24T16:13:59.562Z",
       "created_at": "2026-04-24T16:11:13.822Z",
-      "updated_at": "2026-04-24T16:13:59.562Z"
+      "updated_at": "2026-05-01T16:03:53.955Z"
     },
     {
       "id": 13736,
@@ -5987,7 +6787,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/four-beauties-classical-postcards",
       "reviewed_at": "2026-04-24T16:13:58.091Z",
       "created_at": "2026-04-24T16:10:21.425Z",
-      "updated_at": "2026-04-24T16:13:58.091Z"
+      "updated_at": "2026-04-30T10:12:37.864Z"
     },
     {
       "id": 13735,
@@ -6215,7 +7015,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dreamy-luxury-skincare",
       "reviewed_at": "2026-04-24T15:51:47.584Z",
       "created_at": "2026-04-24T14:32:35.462Z",
-      "updated_at": "2026-04-24T15:59:14.092Z"
+      "updated_at": "2026-05-01T00:16:30.293Z"
     },
     {
       "id": 13729,
@@ -6254,7 +7054,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/the-final-ai-battle-poster",
       "reviewed_at": "2026-04-24T15:51:49.087Z",
       "created_at": "2026-04-24T14:31:08.434Z",
-      "updated_at": "2026-04-24T15:51:49.087Z"
+      "updated_at": "2026-04-30T04:59:18.702Z"
     },
     {
       "id": 13728,
@@ -6331,7 +7131,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vintage-newspaper-front-page-1777040908307",
       "reviewed_at": "2026-04-24T15:51:54.676Z",
       "created_at": "2026-04-24T14:28:28.435Z",
-      "updated_at": "2026-04-24T15:58:16.773Z"
+      "updated_at": "2026-04-30T05:54:45.950Z"
     },
     {
       "id": 13726,
@@ -6637,7 +7437,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/light-purple-song-hanfu-beauty",
       "reviewed_at": "2026-04-24T15:52:03.491Z",
       "created_at": "2026-04-24T14:15:40.042Z",
-      "updated_at": "2026-04-24T15:52:03.491Z"
+      "updated_at": "2026-05-01T15:02:29.335Z"
     },
     {
       "id": 13717,
@@ -6740,7 +7540,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/surreal-giant-crocs-fashion",
       "reviewed_at": "2026-04-24T15:52:07.684Z",
       "created_at": "2026-04-24T14:10:04.336Z",
-      "updated_at": "2026-04-24T15:52:07.684Z"
+      "updated_at": "2026-05-01T15:01:52.789Z"
     },
     {
       "id": 13713,
@@ -6778,7 +7578,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/strawberry-milkshake-twins",
       "reviewed_at": "2026-04-24T15:52:09.701Z",
       "created_at": "2026-04-24T14:09:49.976Z",
-      "updated_at": "2026-04-24T15:52:09.701Z"
+      "updated_at": "2026-05-01T13:48:24.540Z"
     },
     {
       "id": 13712,
@@ -7160,7 +7960,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/backlight-veil-japanese-romance",
       "reviewed_at": "2026-04-24T15:52:21.213Z",
       "created_at": "2026-04-24T13:31:46.051Z",
-      "updated_at": "2026-04-24T15:52:21.213Z"
+      "updated_at": "2026-05-01T11:34:32.299Z"
     },
     {
       "id": 13702,
@@ -7379,7 +8179,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-fantasy-ensemble-cover",
       "reviewed_at": "2026-04-24T10:09:51.499Z",
       "created_at": "2026-04-24T04:13:50.201Z",
-      "updated_at": "2026-04-24T10:09:51.499Z"
+      "updated_at": "2026-05-01T06:26:41.370Z"
     },
     {
       "id": 13693,
@@ -7418,7 +8218,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vintage-newspaper-front-page",
       "reviewed_at": "2026-04-24T10:09:59.873Z",
       "created_at": "2026-04-24T03:14:26.509Z",
-      "updated_at": "2026-04-24T10:09:59.873Z"
+      "updated_at": "2026-04-29T19:33:19.466Z"
     },
     {
       "id": 13692,
@@ -7456,7 +8256,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/high-detail-character-sheet",
       "reviewed_at": "2026-04-24T10:10:01.490Z",
       "created_at": "2026-04-24T03:10:08.794Z",
-      "updated_at": "2026-04-24T10:10:01.490Z"
+      "updated_at": "2026-05-01T08:25:34.138Z"
     },
     {
       "id": 13691,
@@ -7494,7 +8294,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ultra-cinema-quality-enhance",
       "reviewed_at": "2026-04-24T10:10:03.856Z",
       "created_at": "2026-04-24T03:09:47.450Z",
-      "updated_at": "2026-04-24T10:10:03.856Z"
+      "updated_at": "2026-05-01T08:03:02.360Z"
     },
     {
       "id": 13690,
@@ -7532,7 +8332,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/journey-to-the-west-monsters-infographic",
       "reviewed_at": "2026-04-24T10:10:06.305Z",
       "created_at": "2026-04-24T01:22:18.209Z",
-      "updated_at": "2026-04-24T10:10:06.305Z"
+      "updated_at": "2026-05-01T08:48:35.997Z"
     },
     {
       "id": 13689,
@@ -7570,7 +8370,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/summer-beach-sparkling-water",
       "reviewed_at": "2026-04-24T01:17:22.418Z",
       "created_at": "2026-04-23T17:20:13.555Z",
-      "updated_at": "2026-04-24T01:17:22.418Z"
+      "updated_at": "2026-04-29T18:33:35.364Z"
     },
     {
       "id": 13688,
@@ -7608,7 +8408,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/subway-candid-girl-on-phone",
       "reviewed_at": "2026-04-24T10:10:26.587Z",
       "created_at": "2026-04-23T17:18:15.601Z",
-      "updated_at": "2026-04-24T10:10:26.587Z"
+      "updated_at": "2026-05-01T10:03:20.297Z"
     },
     {
       "id": 13687,
@@ -7646,7 +8446,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/retro-korean-poster-room-portrait",
       "reviewed_at": "2026-04-24T01:17:27.074Z",
       "created_at": "2026-04-23T17:18:10.000Z",
-      "updated_at": "2026-04-24T01:17:27.074Z"
+      "updated_at": "2026-04-30T07:45:22.662Z"
     },
     {
       "id": 13686,
@@ -7722,7 +8522,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/chinese-aerospace-gold-stamp",
       "reviewed_at": "2026-04-23T17:20:50.183Z",
       "created_at": "2026-04-23T17:12:36.346Z",
-      "updated_at": "2026-04-23T17:20:50.183Z"
+      "updated_at": "2026-04-30T09:24:59.238Z"
     },
     {
       "id": 13684,
@@ -7760,7 +8560,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tang-dynasty-lantern-festival-panorama",
       "reviewed_at": "2026-04-23T17:20:55.119Z",
       "created_at": "2026-04-23T17:12:33.782Z",
-      "updated_at": "2026-04-23T17:20:55.119Z"
+      "updated_at": "2026-04-30T17:13:26.467Z"
     },
     {
       "id": 13683,
@@ -7798,7 +8598,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/su-daji-red-veil-fox-ears",
       "reviewed_at": "2026-04-23T17:21:01.797Z",
       "created_at": "2026-04-23T17:11:29.654Z",
-      "updated_at": "2026-04-23T17:21:07.769Z"
+      "updated_at": "2026-04-30T15:30:17.483Z"
     },
     {
       "id": 13682,
@@ -7836,7 +8636,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-epic-nezha-void",
       "reviewed_at": "2026-04-23T17:21:00.422Z",
       "created_at": "2026-04-23T17:10:54.266Z",
-      "updated_at": "2026-04-23T17:21:00.422Z"
+      "updated_at": "2026-04-30T16:35:13.871Z"
     },
     {
       "id": 13681,
@@ -7874,7 +8674,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-lu-bu-dual-form-boss",
       "reviewed_at": "2026-04-24T10:10:11.087Z",
       "created_at": "2026-04-23T17:10:34.753Z",
-      "updated_at": "2026-04-24T10:10:11.087Z"
+      "updated_at": "2026-05-01T08:24:21.702Z"
     },
     {
       "id": 13680,
@@ -7912,7 +8712,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/heimu-ya-red-flying-needle-cliff",
       "reviewed_at": "2026-04-24T10:10:12.975Z",
       "created_at": "2026-04-23T17:09:31.579Z",
-      "updated_at": "2026-04-24T10:10:12.975Z"
+      "updated_at": "2026-04-30T10:16:14.954Z"
     },
     {
       "id": 13679,
@@ -7950,7 +8750,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/red-cloaked-dongfang-bubai-drinking",
       "reviewed_at": "2026-04-23T17:21:12.247Z",
       "created_at": "2026-04-23T17:09:17.526Z",
-      "updated_at": "2026-04-23T17:21:12.247Z"
+      "updated_at": "2026-04-30T12:13:06.479Z"
     },
     {
       "id": 13678,
@@ -8026,7 +8826,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-palace-empress-underwear",
       "reviewed_at": "2026-04-23T17:22:50.022Z",
       "created_at": "2026-04-23T17:07:09.310Z",
-      "updated_at": "2026-04-23T17:22:50.022Z"
+      "updated_at": "2026-04-30T16:21:49.703Z"
     },
     {
       "id": 13676,
@@ -8064,7 +8864,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/wu-zetian-empress-underwear",
       "reviewed_at": "2026-04-24T10:10:32.698Z",
       "created_at": "2026-04-23T17:07:04.237Z",
-      "updated_at": "2026-04-24T10:10:32.698Z"
+      "updated_at": "2026-05-01T08:39:12.786Z"
     },
     {
       "id": 13675,
@@ -8140,7 +8940,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/prosperous-tang-chang-an",
       "reviewed_at": "2026-04-24T01:17:40.475Z",
       "created_at": "2026-04-23T17:04:29.028Z",
-      "updated_at": "2026-04-24T01:17:40.475Z"
+      "updated_at": "2026-04-30T14:24:41.391Z"
     },
     {
       "id": 13673,
@@ -8254,7 +9054,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/social-app-match-success",
       "reviewed_at": "2026-04-24T01:19:00.807Z",
       "created_at": "2026-04-23T17:01:12.590Z",
-      "updated_at": "2026-04-24T01:19:00.807Z"
+      "updated_at": "2026-04-30T14:17:14.148Z"
     },
     {
       "id": 13670,
@@ -8292,7 +9092,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/durex-zhu-bajie-safe-journey",
       "reviewed_at": "2026-04-24T01:19:03.739Z",
       "created_at": "2026-04-23T17:00:57.892Z",
-      "updated_at": "2026-04-24T01:19:03.739Z"
+      "updated_at": "2026-04-30T10:28:30.888Z"
     },
     {
       "id": 13669,
@@ -8330,7 +9130,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/zhi-zun-bao-zixia-wall-kiss",
       "reviewed_at": "2026-04-24T01:19:07.253Z",
       "created_at": "2026-04-23T17:00:16.343Z",
-      "updated_at": "2026-04-24T02:05:59.617Z"
+      "updated_at": "2026-04-30T15:01:35.437Z"
     },
     {
       "id": 13668,
@@ -8368,7 +9168,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/elegant-blonde-fashion-portrait",
       "reviewed_at": "2026-04-24T01:17:46.721Z",
       "created_at": "2026-04-23T16:56:46.739Z",
-      "updated_at": "2026-04-24T01:17:46.721Z"
+      "updated_at": "2026-04-30T19:13:07.494Z"
     },
     {
       "id": 13667,
@@ -8406,7 +9206,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/reborn-space-woman-poster",
       "reviewed_at": "2026-04-24T01:17:53.442Z",
       "created_at": "2026-04-23T16:52:04.138Z",
-      "updated_at": "2026-04-24T01:17:53.442Z"
+      "updated_at": "2026-04-30T10:44:13.945Z"
     },
     {
       "id": 13666,
@@ -8483,7 +9283,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ai-art-exhibition-poster",
       "reviewed_at": "2026-04-24T01:17:57.526Z",
       "created_at": "2026-04-23T16:48:51.412Z",
-      "updated_at": "2026-04-24T01:17:57.526Z"
+      "updated_at": "2026-04-30T07:12:22.327Z"
     },
     {
       "id": 13664,
@@ -8561,7 +9361,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dreamy-edo-ukiyoe-portrait",
       "reviewed_at": "2026-04-24T01:18:00.892Z",
       "created_at": "2026-04-23T16:47:48.805Z",
-      "updated_at": "2026-04-24T01:18:00.892Z"
+      "updated_at": "2026-04-30T00:05:32.390Z"
     },
     {
       "id": 13662,
@@ -8599,7 +9399,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/quadcopter-full-dimension-drawings",
       "reviewed_at": "2026-04-24T01:18:02.776Z",
       "created_at": "2026-04-23T16:46:52.615Z",
-      "updated_at": "2026-04-24T01:18:02.776Z"
+      "updated_at": "2026-04-30T06:36:33.091Z"
     },
     {
       "id": 13661,
@@ -8675,7 +9475,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-wine-gown-magazine-cover",
       "reviewed_at": "2026-04-24T10:10:41.442Z",
       "created_at": "2026-04-23T16:45:16.279Z",
-      "updated_at": "2026-04-24T10:10:41.442Z"
+      "updated_at": "2026-05-01T08:48:45.414Z"
     },
     {
       "id": 13659,
@@ -8942,7 +9742,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/french-landmark-food-poster",
       "reviewed_at": "2026-04-23T17:22:19.306Z",
       "created_at": "2026-04-23T16:40:43.781Z",
-      "updated_at": "2026-04-23T17:22:19.306Z"
+      "updated_at": "2026-04-30T12:13:20.905Z"
     },
     {
       "id": 13652,
@@ -9094,7 +9894,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/doomsday-doraemon-battle",
       "reviewed_at": "2026-04-24T01:18:11.650Z",
       "created_at": "2026-04-23T16:29:22.231Z",
-      "updated_at": "2026-04-24T01:18:11.650Z"
+      "updated_at": "2026-04-30T11:24:50.402Z"
     },
     {
       "id": 13648,
@@ -9132,7 +9932,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tv-show-character-relationship",
       "reviewed_at": "2026-04-24T01:18:14.546Z",
       "created_at": "2026-04-23T16:29:19.049Z",
-      "updated_at": "2026-04-24T01:18:14.546Z"
+      "updated_at": "2026-04-30T06:09:50.672Z"
     },
     {
       "id": 13647,
@@ -9171,7 +9971,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dream-of-red-mansion-epic-poster",
       "reviewed_at": "2026-04-24T01:18:16.924Z",
       "created_at": "2026-04-23T16:26:42.592Z",
-      "updated_at": "2026-04-24T01:18:22.995Z"
+      "updated_at": "2026-05-01T01:10:52.466Z"
     },
     {
       "id": 13646,
@@ -9286,7 +10086,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/oriental-fantasy-ethereal-goddess",
       "reviewed_at": "2026-04-24T01:18:19.245Z",
       "created_at": "2026-04-23T13:21:32.753Z",
-      "updated_at": "2026-04-24T01:23:10.650Z"
+      "updated_at": "2026-04-30T10:43:38.938Z"
     },
     {
       "id": 13643,
@@ -9400,7 +10200,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hot-graffiti-kitchen-octopus",
       "reviewed_at": "2026-04-24T01:18:24.792Z",
       "created_at": "2026-04-23T13:18:28.113Z",
-      "updated_at": "2026-04-24T01:18:24.792Z"
+      "updated_at": "2026-04-29T10:46:19.968Z"
     },
     {
       "id": 13640,
@@ -9438,7 +10238,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/japanese-negative-film-memory",
       "reviewed_at": "2026-04-24T01:18:29.355Z",
       "created_at": "2026-04-23T12:29:41.363Z",
-      "updated_at": "2026-04-24T01:18:29.355Z"
+      "updated_at": "2026-05-01T01:10:41.634Z"
     },
     {
       "id": 13639,
@@ -9552,7 +10352,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/advanced-technical-blueprint-infographic",
       "reviewed_at": "2026-04-24T01:18:33.706Z",
       "created_at": "2026-04-23T12:24:27.281Z",
-      "updated_at": "2026-04-24T01:18:33.706Z"
+      "updated_at": "2026-04-30T08:28:41.450Z"
     },
     {
       "id": 13636,
@@ -9630,7 +10430,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/black-off-shoulder-ruqun",
       "reviewed_at": "2026-04-24T01:18:36.129Z",
       "created_at": "2026-04-23T12:08:01.983Z",
-      "updated_at": "2026-04-24T01:18:36.129Z"
+      "updated_at": "2026-04-30T14:12:51.984Z"
     },
     {
       "id": 13634,
@@ -10052,7 +10852,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/four-color-asian-girl-chocolate-ad",
       "reviewed_at": "2026-04-24T01:18:43.235Z",
       "created_at": "2026-04-23T08:47:54.055Z",
-      "updated_at": "2026-04-24T01:18:43.235Z"
+      "updated_at": "2026-04-30T14:03:07.996Z"
     },
     {
       "id": 13623,
@@ -16205,7 +17005,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/yoga-pants-streamer-curves",
       "reviewed_at": "2026-04-20T02:15:24.816Z",
       "created_at": "2026-04-20T02:06:12.222Z",
-      "updated_at": "2026-04-27T01:11:07.324Z"
+      "updated_at": "2026-04-29T22:51:51.419Z"
     },
     {
       "id": 13449,
@@ -17747,7 +18547,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ming-dynasty-baoyu-tweet",
       "reviewed_at": "2026-04-18T15:36:25.569Z",
       "created_at": "2026-04-18T15:22:50.239Z",
-      "updated_at": "2026-04-25T10:52:39.690Z"
+      "updated_at": "2026-04-30T17:26:59.859Z"
     },
     {
       "id": 13406,
@@ -18355,7 +19155,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/douyin-livestream-screenshot",
       "reviewed_at": "2026-04-17T07:33:37.383Z",
       "created_at": "2026-04-17T06:44:23.932Z",
-      "updated_at": "2026-04-24T05:27:59.997Z"
+      "updated_at": "2026-04-30T02:31:11.198Z"
     },
     {
       "id": 7205,
@@ -18393,7 +19193,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/snack-brand-technical-breakdown",
       "reviewed_at": "2026-03-12T16:40:14.726Z",
       "created_at": "2026-03-12T16:22:36.592Z",
-      "updated_at": "2026-04-23T22:35:51.037Z"
+      "updated_at": "2026-04-29T10:15:52.651Z"
     },
     {
       "id": 7203,
@@ -18431,7 +19231,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/creative-leaf-collage-portrait",
       "reviewed_at": "2026-03-12T16:40:14.745Z",
       "created_at": "2026-03-12T16:16:36.796Z",
-      "updated_at": "2026-04-24T04:48:48.544Z"
+      "updated_at": "2026-04-29T15:23:44.956Z"
     },
     {
       "id": 2892,
@@ -18773,7 +19573,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bird-woven-dream-couture",
       "reviewed_at": "2026-02-25T04:15:16.330Z",
       "created_at": "2026-02-25T04:15:16.330Z",
-      "updated_at": "2026-04-23T17:21:26.405Z"
+      "updated_at": "2026-04-27T16:41:07.187Z"
     },
     {
       "id": 2617,
@@ -18925,7 +19725,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hyper-realistic-3d-instagram-ad",
       "reviewed_at": "2026-01-26T15:49:59.684Z",
       "created_at": "2026-01-26T15:49:59.684Z",
-      "updated_at": "2026-04-24T12:43:14.693Z"
+      "updated_at": "2026-04-30T22:34:54.855Z"
     },
     {
       "id": 2213,
@@ -19001,7 +19801,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/pixar-style-sunny-youth",
       "reviewed_at": "2026-01-20T14:33:26.278Z",
       "created_at": "2026-01-20T14:33:26.278Z",
-      "updated_at": "2026-04-24T13:13:03.731Z"
+      "updated_at": "2026-04-30T09:40:35.209Z"
     },
     {
       "id": 2073,
