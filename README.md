@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **528**
-- Archived in this snapshot: **528**
+- Reported by source: **546**
+- Archived in this snapshot: **546**
 - Failed this run: **0**
-- Fetched at: **2026-05-01T16:55:51.068Z**
+- Fetched at: **2026-05-02T16:43:24.374Z**
 
 ## Files
 
@@ -22,6 +22,24 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 咖啡海报的创意与设计 |  | @Diplomeme | [detail](https://opennana.com/awesome-prompt-gallery/coffee-poster-creative-design) |
+| 设计专业丰富品牌识别系统 |  | @Naiknelofar788 | [detail](https://opennana.com/awesome-prompt-gallery/design-professional-brand-identity-system) |
+| 五一旅行美食海报生成 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/may-day-travel-food-poster-generation) |
+| 设计高端汽水海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/high-end-soda-posters) |
+| 高端商业广告插画设计 | 广告图, 极简风, 高质感, 品牌感 | @aleenaamiir | [detail](https://opennana.com/awesome-prompt-gallery/high-end-commercial-illustration) |
+| 高级商务证件照头像海报设计 | 证件照, 商务风, 职业装, 半身像 | @qisi_ai | [detail](https://opennana.com/awesome-prompt-gallery/premium-business-headshot-poster) |
+| 积木拼就旺铺出租概念海报 | 积木字, 概念海报, 排版设计, 旺铺出租 | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/brick-rent-poster) |
+| 打造奢华简约我的2026风 |  | @ZaraIrahh | [detail](https://opennana.com/awesome-prompt-gallery/create-ultra-refined-my-2026style) |
+| 极简高端气场分析报告 | 气场图, 极简风, 奢华感, 数据图 | @TechieBySA | [detail](https://opennana.com/awesome-prompt-gallery/minimal-aura-report) |
+| 健身房里的Q版迷你我 | Q版, 涂鸦, 健身, 手绘 | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/gym-chibi-mini-me) |
+| 薰衣草紫梦高定杂志封面 | 杂志封面, 高定礼服, 薰衣草紫, 时尚大片 | @Ozayrr_irl | [detail](https://opennana.com/awesome-prompt-gallery/lavender-dream-couture-cover) |
+| 积木字体概念设计海报 | 积木字, 概念板, 网格版, 极简风 | @xiaoxiaodong01 | [detail](https://opennana.com/awesome-prompt-gallery/brick-typography-concept-poster) |
+| 杰克雷恩幽灵战争电影海报 | 海报, 动作片, 迪拜, 爆炸 | @jzaib4269 | [detail](https://opennana.com/awesome-prompt-gallery/jack-ryan-ghost-war-poster) |
+| 樱花风粒幻化动漫少女剪影 | 樱花雨, 重曝光, 电影感, 空灵风 | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/cherry-blossom-wind-silhouette) |
+| 阿迪达斯高端时尚广告大片 | 阿迪, 时尚, 极简风, 超写实 | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/adidas-premium-fashion-ad) |
+| 韩式大头贴情侣搞怪四宫格 | 大头贴, 情侣合照, 韩式街拍, 四宫格 | @gemini_prompts | [detail](https://opennana.com/awesome-prompt-gallery/korean-photobooth-couple-poses) |
+| 极简家居里的Q版俏皮少女 | 自拍, Q版, 极简风, 俏皮 | @Sairah_0 | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-home-chibi-girl) |
+| 街头潮酷北面品牌视觉大片 | 高定, 电影感, 街头风, 未来感 | @rovvmut_ | [detail](https://opennana.com/awesome-prompt-gallery/urban-streetwear-north-face) |
 | 劳力士奢华建筑概念海报 | 劳力士, 微缩, 建筑, 奢华 | @ertanlabs | [detail](https://opennana.com/awesome-prompt-gallery/rolex-luxury-architecture-poster) |
 | 霓虹灯下的东京麻薯夜市 | 麻薯, 夜市, 拼贴画, 甜品 | @MrDasOnX | [detail](https://opennana.com/awesome-prompt-gallery/neon-tokyo-mochi-night-market) |
 | AI体态比例优化报告 | 体态, 穿搭, 比例, 信息图 | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/ai-posture-analysis-report) |
@@ -54,23 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 餐饮品牌商业促销海报 | 美食海报, 商业推广, 品牌设计, 成分说明 | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/restaurant-brand-promo-poster) |
 | 甲午战争水彩战役地图 | 甲午战争, 水彩地图, 战役插图, 历史纪实 | @GeekCatX | [detail](https://opennana.com/awesome-prompt-gallery/first-sino-japanese-war-map) |
 | 沙滩排球角色设定图 | 死或生, 沙滩, 角色, 幻想 | @MANISH1027512 | [detail](https://opennana.com/awesome-prompt-gallery/beach-volleyball-character-art) |
-| 古风命理取名对比海报 | 四柱八字, 古风海报, 命理取名, 国潮设计 | @yhslgg | [detail](https://opennana.com/awesome-prompt-gallery/ancient-naming-poster) |
-| 巴士窗边的日系胶片少女 | 胶片感, 日系, 巴士, 抓拍 | @ohmuyi | [detail](https://opennana.com/awesome-prompt-gallery/bus-window-japanese-film-girl) |
-| AI 五官美学升级报告要求 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/ai-facial-aesthetic-upgrade-report-requirements) |
-| 高端男士胡须风格分析海报 | 胡型图, 理容风, 奢华感, 测评表 | @RizwanAly07 | [detail](https://opennana.com/awesome-prompt-gallery/premium-beard-analysis-poster) |
-| 胶片里的日系少女旧梦 | 胶片感, 日系, 怀旧风, 少女 | @BubbleBrain | [detail](https://opennana.com/awesome-prompt-gallery/japanese-girl-film-dream) |
-| 灵感源于鸟巢的雕塑座椅 | 鸟巢椅, 休闲椅, 编织, 自然风 | @aleenaamiir | [detail](https://opennana.com/awesome-prompt-gallery/nest-inspired-sculpture-seat) |
-| 现代奢华时尚杂志大片特写 | 超写实, 时尚大片, 锁子甲, 电影光影 | @XSydneyFan | [detail](https://opennana.com/awesome-prompt-gallery/luxury-magazine-editorial) |
-| 手绘贴纸风可爱插画 | 手绘, 贴纸, 插画, 俏皮 | @aleenaamiir | [detail](https://opennana.com/awesome-prompt-gallery/hand-drawn-sticker-art) |
-| 迷失在日本的高级旅行海报 | 旅行海报, 图形拼贴, 日本风情, 电影质感 | @chatgptpaglu | [detail](https://opennana.com/awesome-prompt-gallery/lost-in-japan-poster) |
-| 新中式极简项羽海报设计 |  | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/neo-chinese-minimal-xiang-yu-poster-design) |
-| 创作现代几何字体概念海报 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/create-modern-geometric-typography-concept-poster) |
-| 3D卡通少女表情贴纸组 |  | @Noor_ul_ain43 | [detail](https://opennana.com/awesome-prompt-gallery/3d-cartoon-girl-emoji-sticker) |
-| 权游风四宫格暗黑奇幻角色海报 | 权游风, 暗黑风, 角色集, 中世纪 | @AIwithSynthia | [detail](https://opennana.com/awesome-prompt-gallery/got-dark-fantasy-grid) |
-| 墨韵羊城微观立体海报 | 微观城, 立体风, 水墨画, 极简美 | @liyue_ai | [detail](https://opennana.com/awesome-prompt-gallery/ink-guangzhou-micro-3d-poster) |
-| 90 天体检后健康管理计划 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/90-day-health-management) |
-| 七宝池中莲花化生的极乐净土 | 佛国, 七宝池, 莲花, 金光 | @leyu37829 | [detail](https://opennana.com/awesome-prompt-gallery/lotus-rebirth-pure-land) |
-| 3D法国女学生角色设定图 | 3D角色, 游戏设定, 法国少女, 角色立绘 | @OlivioSarikas | [detail](https://opennana.com/awesome-prompt-gallery/3d-french-student-character-sheet) |
-| 赵匡胤发的朋友圈太魔性了 | 脑洞, 朋友圈, 兵变, 搞笑 | @ohmuyi | [detail](https://opennana.com/awesome-prompt-gallery/zhao-kuangyin-wechat-moments) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
