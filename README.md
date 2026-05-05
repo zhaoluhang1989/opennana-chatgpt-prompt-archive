@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **575**
-- Archived in this snapshot: **575**
+- Reported by source: **590**
+- Archived in this snapshot: **590**
 - Failed this run: **0**
-- Fetched at: **2026-05-04T17:29:08.811Z**
+- Fetched at: **2026-05-05T17:23:24.601Z**
 
 ## Files
 
@@ -22,6 +22,21 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 女模与巨鞋的高端时尚海报 |  | @Strength04_X | [detail](https://opennana.com/awesome-prompt-gallery/fashion-poster-of-woman-sneaker) |
+| 迪奥香水超奢华广告 |  | @auqibhabib | [detail](https://opennana.com/awesome-prompt-gallery/ultra-luxury-dior) |
+| 以火影为主题的海报设计 |  | @Just_sharon7 | [detail](https://opennana.com/awesome-prompt-gallery/poster-design-themed-around-naruto) |
+| 高端简约女高尔夫摄影组图 |  | @AIwithkhan | [detail](https://opennana.com/awesome-prompt-gallery/high-end-minimal-female-golf-photography) |
+| 时尚转变故事板创作提示 |  | @ZaraIrahh | [detail](https://opennana.com/awesome-prompt-gallery/fashion-transformation-storyboard-prompt) |
+| 年轻女性夏日饮品广告照 |  | @Sairah_0 | [detail](https://opennana.com/awesome-prompt-gallery/summer-beverage-ad-photo-of-young-woman) |
+| 经典角色 3D 皮克斯风自拍照 |  | @harboriis | [detail](https://opennana.com/awesome-prompt-gallery/3d-pixar-style-selfie-of-classic-characters) |
+| 为图像添加互动手绘涂鸦 |  | @ChillaiKalan__ | [detail](https://opennana.com/awesome-prompt-gallery/add-interactive-hand-drawn-doodles-to-image) |
+| 竖版手绘儿童绘本内页 |  | @dotey | [detail](https://opennana.com/awesome-prompt-gallery/vertical-hand-drawn-childrens-book-inner-page) |
+| 人物与涂鸦结合的肖像照 |  | @Ciri_ai | [detail](https://opennana.com/awesome-prompt-gallery/portrait-with-subject-and-doodles) |
+| 基于上传 logo 打造品牌海报 |  | @itxabdullaa | [detail](https://opennana.com/awesome-prompt-gallery/build-brand-poster-based-on-logo) |
+| 布兰克特色彩东方风宣传海报 |  | @SimplyAnnisa | [detail](https://opennana.com/awesome-prompt-gallery/colorful-oriental-style-propaganda-poster) |
+| 肯德基原味炸鸡彩色创意杂志 |  | @MrDasOnX | [detail](https://opennana.com/awesome-prompt-gallery/colorful-creative-zine-about-kfc) |
+| 家庭家务 4x4 灰度故事板 |  | @doctorwasif | [detail](https://opennana.com/awesome-prompt-gallery/grayscale-storyboard-for-household-chores) |
+| 奥迪 A6 工程级拆解海报图 |  | @ShamiWeb3 | [detail](https://opennana.com/awesome-prompt-gallery/engineering-level-exploded-poster-of-audi-a6) |
 | 超写实3D角色拆解时尚海报 |  | @msjiaozhu | [detail](https://opennana.com/awesome-prompt-gallery/ultra-realistic-3d-character-disassembly-fashion-poster) |
 | 汉唐宫廷舞16宫格分镜图 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/han-tang-court-dance-16-grid-storyboard) |
 | 真人cosplay泳衣时尚杂志 |  | @underwoodxie96 | [detail](https://opennana.com/awesome-prompt-gallery/live-action-cosplay-swimsuit-fashion-mag) |
@@ -57,20 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | AI体态比例优化报告 | 体态, 穿搭, 比例, 信息图 | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/ai-posture-analysis-report) |
 | 高级极简人像海报设计 | 极简风, 人像海报, 商业棚拍, 时尚杂志 | @qisi_ai | [detail](https://opennana.com/awesome-prompt-gallery/high-end-minimalist-portrait-poster) |
 | 极简高级的Yeezy街头拼贴 | 椰子鞋, 极简风, 拼贴画, 高级感 | @Diplomeme | [detail](https://opennana.com/awesome-prompt-gallery/minimal-yeezy-street-collage) |
-| 增强现实解构亚洲经典美食 | 亚洲菜, 解构图, 微缩人, 雷达图 | @Gdgtify | [detail](https://opennana.com/awesome-prompt-gallery/ar-deconstruct-asian-food) |
-| 质感拉满的高端商业美女广告 | 商业照, 特写, 超写实, 电影感 | @miratechtool | [detail](https://opennana.com/awesome-prompt-gallery/high-end-commercial-beauty-ad) |
-| 飞跃半空的潮鞋广告海报 | 运动鞋, 海报, 街头风, 动感 | @im_shahid7 | [detail](https://opennana.com/awesome-prompt-gallery/flying-sneaker-ad-poster) |
-| 极简双重曝光旅行海报 | 极简风, 旅行者, 剪影画, 高级感 | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/minimalist-double-exposure-poster) |
-| 高端玩具包装工业设计展板 | 包装设计, 卡皮巴拉, 工业设计, 限量版 | @Preda2005 | [detail](https://opennana.com/awesome-prompt-gallery/premium-toy-design-board) |
-| 足球少年的夺冠之梦 | 足球梦, 分镜图, 绿茵场, 小男孩 | @rovvmut_ | [detail](https://opennana.com/awesome-prompt-gallery/football-boys-winning-dream) |
-| 极简棚拍运动品牌广告 | 三联画, 复古风, 健身女, 工业风 | @AIwithkhan | [detail](https://opennana.com/awesome-prompt-gallery/minimal-studio-sports-campaign) |
-| 慵懒仰卧放松姿态 | 仰卧, 俯拍, 放松, 对称 | @fdtreesky | [detail](https://opennana.com/awesome-prompt-gallery/lazy-supine-relaxing-pose) |
-| 兰博基尼混动超跑收藏海报 | 超跑, 海报, 混动, 未来感 | @ertanlabs | [detail](https://opennana.com/awesome-prompt-gallery/lamborghini-hybrid-supercar-poster) |
-| 特定风格 16 格故事板要求 |  | @AIwithkhan | [detail](https://opennana.com/awesome-prompt-gallery/16panel-storyboard-with-specific-style) |
-| Q版科学家潮玩手办 | 潮玩, Q版, 科学家, 机械风 | @Gdgtify | [detail](https://opennana.com/awesome-prompt-gallery/q-version-scientist-toy) |
-| 一幅高度详细的技术风格手绘插画 | 手绘, 素描, 星空, 肖像 | @Goodmanprotocol | [detail](https://opennana.com/awesome-prompt-gallery/starry-geometric-youth) |
-| 极简苹果风耳机产品广告 | 苹果风, 产品图, 商业片, 极简风 | @mehvishs25 | [detail](https://opennana.com/awesome-prompt-gallery/apple-airpods-ad) |
-| 电影幕后到银幕全纪录 | 电影幕后, 分镜网格, 片场纪实, 电影摄影 | @ai_gezgini | [detail](https://opennana.com/awesome-prompt-gallery/behind-scenes-to-screen) |
-| 十大传奇足球场夜景海报 | 足球场, 绿茵场, 海报, 插画 | @TechieBySA | [detail](https://opennana.com/awesome-prompt-gallery/top-10-legendary-stadiums) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
