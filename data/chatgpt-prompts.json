@@ -2,13 +2,410 @@
   "source": "https://opennana.com/awesome-prompt-gallery?model=ChatGPT",
   "api_base": "https://api.opennana.com/api/prompts",
   "model": "ChatGPT",
-  "fetched_at": "2026-05-05T17:23:24.601Z",
-  "total_reported": 590,
-  "total_pages": 30,
-  "total_archived": 590,
+  "fetched_at": "2026-05-06T17:29:19.849Z",
+  "total_reported": 616,
+  "total_pages": 31,
+  "total_archived": 616,
   "total_failed": 0,
   "failed": [],
   "items": [
+    {
+      "id": 14032,
+      "slug": "japanese-style-candid-shots-of-woman-in-hotel",
+      "title": "日系风酒店女子抓拍图组",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@BubbleBrain",
+      "source_url": "https://x.com/BubbleBrain/status/2051826980757336380",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A collection of scattered printed photo snapshots placed on a wooden table, showing a series of candid moments of a fictional adult East Asian woman alone in a hotel room at night. Photorealistic, Japanese negative film aesthetic, muted tones, low contrast, subtle greenish tint, soft highlight bloom, visible film grain, direct on-camera flash. Subject: adult East Asian woman, short black hair, natural beauty, calm and slightly distant expression with subtle sensual allure, no resemblance to any real person. Outfit: seductively unbuttoned white shirt revealing a hint of cleavage and delicate lace bra, black mini skirt riding slightly up her thighs, relaxed styling with natural wrinkles in fabric, subtly disheveled in a tasteful yet alluring way. Scene: small hotel room, bed with patterned sheets, bedside lamp, curtains partially closed, night city lights faintly visible through window. Moments captured: * lying on bed in a relaxed seductive pose, body slightly arched with one knee bent invitingly * sitting on bed looking down, legs elegantly crossed to accentuate her curves, subtle arch in her back * leaning back against the headboard with arms raised above her head, back sensually arched, shirt pulling open at the chest * eating simple food at a table, slowly bringing a bite to her lips with a sensual touch * drinking from a glass, head tilted back slightly, lips sensually pressed against the rim * turning back over her shoulder with shirt slipping off both shoulders, looking back with a mysterious distant gaze Composition: each image is a candid snapshot, imperfect framing, slightly off-angle, natural and unposed feeling. Lighting: harsh direct flash combined with dim ambient tungsten light, creating strong contrast and a nostalgic disposable camera look. Arrangement: multiple printed photos randomly scattered on a wooden surface, overlapping slightly, creating a narrative collage. Mood: quiet, intimate, slightly lonely, late-night solitude, everyday realism, subtle sensuality without explicit exposure. 4K, ultra-detailed, photorealistic, no text, no watermark.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "一组散落在木桌上印刷的照片快照，展示了一个虚构的成年东亚女性独自在酒店房间里夜晚的一系列坦率瞬间。照片真实，日本负片美学，柔和色调，低对比度，微妙的绿色色调，柔和的高光绽放，可见的胶片颗粒，直接机上闪光。主体：成年东亚女性，短黑发，自然美，平静且略带疏离的表情，带有微妙的感性魅力，与任何真实人物无相似之处。服装：诱人解开的白衬衫，露出一点乳沟和精致的蕾丝胸罩，黑色的迷你裙微微向上滑到大腿，轻松的造型，织物上有自然的褶皱，以优雅却诱人的方式略显凌乱。场景：小型酒店房间，床上铺着有图案的床单，床头灯，窗帘部分拉上，透过窗户隐约可见夜晚的城市灯光。捕捉的瞬间：* 以放松的诱人姿势躺在床上，身体微微弓起，一只膝盖弯曲以邀请方式 * 坐在床上低头看，腿优雅交叉以突出她的曲线，背部微妙弓起 * 向后靠着头板，双手举过头顶，背部感性地弓起，衬衫在胸口拉开 * 在桌子上吃简单的食物，慢慢将一口食物带到唇边，带有感性的触感 * 从玻璃杯中喝水，头微微向后倾斜，嘴唇感性地压在杯沿上 * 转过头肩，衬衫从两肩滑落，回首以神秘疏离的目光看。构图：每张图像都是坦率的快照，不完美的取景，略微偏斜的角度，自然且不摆拍的感觉。光线：刺眼的直接闪光与昏暗的环境钨光结合，创造强烈的对比和怀旧的一次性相机外观。排列：多张印刷照片随机散落在木质表面上，略微重叠，创造叙事拼贴。氛围：安静、亲密、略带孤独、深夜独处、日常现实主义，微妙的感性而不露骨暴露。4K，超详细，照片真实，无文字，无水印。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778078049959-rwsqhbtz-1778078050620-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778078049959-rwsqhbtz-1778078050620-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/japanese-style-candid-shots-of-woman-in-hotel",
+      "reviewed_at": "2026-05-06T14:48:52.359Z",
+      "created_at": "2026-05-06T14:34:24.648Z",
+      "updated_at": "2026-05-06T14:48:52.359Z"
+    },
+    {
+      "id": 14031,
+      "slug": "ultra-detailed-gohan-beast-style-warrior-illustration",
+      "title": "超细节悟饭野兽风战士插画",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@SimplyAnnisa",
+      "source_url": "https://x.com/SimplyAnnisa/status/2051685417653809463",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Ultra-detailed anime illustration of a powerful male warrior inspired by Gohan Beast transformation, standing in a dominant full-body pose, low-angle cinematic perspective, muscular physique, torn purple gi outfit with red sash, glowing red eyes, sharp facial features with battle damage and scratches, extremely spiky silver hair with high volume, intense aura of purple energy flames surrounding the body, floating debris and particles, dramatic energy bursts.\nBackground features a large circular arcane energy ring with intricate glowing symbols and sci-fi magical UI patterns, perfectly centered behind the character like a halo, emitting bright violet light rays. Energy waves expanding outward, lightning streaks and particle effects filling the scene.\nHighly detailed textures, anime + semi-realistic fusion style, insane linework, cinematic lighting, high contrast, volumetric glow, depth of field, 8K resolution, poster composition, perfectly centered symmetry, ultra sharp focus.\n--ar 9:16 --v 6 --style raw --q 2 --s 750",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "超详细的动漫插图，描绘一位受悟饭兽形态启发的强大男性战士，以主导的全身姿势站立，低角度电影视角，肌肉发达的身躯，破损的紫色武道服搭配红色腰带，闪烁的红色眼睛，锐利的面部特征带有战斗损伤和划痕，极度尖刺状的高体积银色头发，围绕身体的强烈紫色能量火焰灵气，漂浮的碎片和粒子，戏剧性的能量爆发。\n背景展示一个大型圆形奥术能量环，带有复杂的发光符号和科幻魔法 UI 图案，完美居中于角色身后如同光环，发射明亮的紫罗兰色光线。向外扩展的能量波，闪电条纹和粒子效果填充场景。\n高度详细的纹理，动漫 + 半现实主义融合风格，疯狂的线条工作，电影照明，高对比度，体积发光，景深，8K 分辨率，海报构图，完美居中的对称，超锐利焦点。\n--ar 9:16 --v 6 --style raw --q 2 --s 750",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077978598-jw9qb4sm-1778077979758-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077978598-jw9qb4sm-1778077979758-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ultra-detailed-gohan-beast-style-warrior-illustration",
+      "reviewed_at": "2026-05-06T14:48:48.563Z",
+      "created_at": "2026-05-06T14:33:19.458Z",
+      "updated_at": "2026-05-06T14:48:48.563Z"
+    },
+    {
+      "id": 14029,
+      "slug": "lays-immersive-snack-world-poster",
+      "title": "乐事薯片的沉浸式世界海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ShamiWeb3",
+      "source_url": "https://x.com/ShamiWeb3/status/2051721038007050421",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "CORE RULE:\n\nEverything must be derived from the Lay’s logo (orange variant):\n\nvibrant orange + yellow gradient tones\ncircular sun-like logo shape\nsoft curves, wave forms (chips)\nplayful, energetic, snackable tone\n\nNo generic fantasy worlds.\n\nMAIN CONCEPT:\n\nLay’s becomes a crispy, golden WORLD — a vibrant snack universe where everything feels warm, crunchy, and irresistibly fun.\n\narchitecture made of stacked chips\nglowing golden landscapes\nflowing cheese-like light trails (subtle, not messy)\nsoft, airy atmosphere like a fresh-opened pack\nMAIN STRUCTURE:\n\nVertical 4:5 poster\nDeep, layered cinematic composition\nCENTER (HERO SCENE):\n\nA massive golden-orange chip valley shaped like the Lay’s circular logo:\n\ngiant curved potato chips forming hills and roads\n\na glowing “sun” in the background inspired by the Lay’s logo\nwarm orange light flooding the scene\ncrispy texture details visible on surfaces\nflowing movement lines like heat + freshness\nThis is the main world of Lay’s — lively, warm, addictive.\n\nZONES (VERY IMPORTANT):\n\nCreate 4–6 immersive zones inside this world:\n\n1. PRODUCT WORLD\n\ngiant floating Lay’s chips rotating in the air\nchips stacked like monuments\npackets integrated into environment (not floating randomly)\n2. CUSTOMER LIFESTYLE\nyoung people relaxing on chip-shaped loungers\nlaughing, sharing chips\ncasual, fun, social vibe\n3. BRAND VALUES (FUN & SHARING)\ngroups passing chips across glowing paths\nvisual metaphor of connection (chip trails linking people)\n4. SOCIAL / POP CULTURE\npeople taking photos, short-video style poses\nsubtle UI-style overlays (likes, hearts, minimal and elegant)\n5. INNOVATION / FUTURE\nfuturistic chip-making structures\nconveyor-like flowing golden ribbons forming chips mid-air\nglowing tech-like snack production\n6. FLAVOR ENERGY (OPTIONAL BONUS ZONE)\nbursts of spice particles, salt crystals sparkling\ndynamic energy around chips\nCHARACTERS:\nInclude diverse, stylish people:\n\nwearing orange, yellow, and neutral tones inspired by Lay’s\n\nrelaxed, expressive, joyful\ninteracting with chips naturally (eating, sharing, playing)\nOBJECTS:\nTransform brand elements into the world:\n\nlogo circle → sun / central sky element\n\nchips → buildings, roads, terrain\npacket colors → lighting gradients\ntexture of chips → ground surfaces\nVISUAL DETAILS:\ncrispy textures (very detailed)\nglowing warm highlights\nreflections on packaging\nsalt crystals sparkling like tiny gems\nAdd:\n\nfloating chips in motion\n\ncrumbs drifting in the air\nsoft golden particles\nCOLOR:\nStrictly from Lay’s palette:\n\nrich orange\n\ngolden yellow\nwarm highlights\nsubtle neutral accents\nUse gradients and lighting for depth.\n\nSTYLE:\n\ncinematic concept art\nhyper-detailed\nslightly stylized realism\nvibrant, energetic, commercial-grade\nDEPTH:\n30–60 visual elements\nstrong foreground (chips + characters)\nrich midground (zones)\nglowing background (logo-sun + horizon)\nIMPORTANT RULES:\nmust feel immersive and delicious\nmust feel intentional and brand-driven\nno empty areas\nno generic fantasy clichés\neverything must connect to Lay’s\nFINAL FEEL:\nLike:\n\na snack universe film world\n\na AAA game environment made of flavor\na premium yet playful brand experience\nNOT:\n\nflat\n\nminimal\nrandom",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "核心规则：\n\n一切都必须源自乐事标志（橙色变体）：\n\n鲜艳的橙色 + 黄色渐变色调\n圆形太阳般的标志形状\n柔和曲线、波浪形态（薯片）\n俏皮、活力四射、零食般的语气\n\n禁止通用奇幻世界。\n\n主要概念：\n\n乐事成为一个酥脆的金色世界——一个充满活力的零食宇宙，这里的一切都感觉温暖、脆爽、不可抗拒地有趣。\n\n用堆叠薯片构成的建筑\n发光的金色景观\n流动的奶酪状光迹（微妙，不杂乱）\n柔和、通透的氛围，像刚打开的一包\n\n主要结构：\n\n垂直 4:5 海报\n深邃、分层的电影式构图\n中心（主角场景）：\n\n一个巨大的金橙色薯片山谷，形状像乐事的圆形标志：\n\n巨型弯曲薯片形成山丘和道路\n\n背景中一个发光的“太阳”，受乐事标志启发\n温暖的橙色光芒淹没整个场景\n表面可见脆爽的纹理细节\n流动的运动线条，像热量 + 新鲜感\n这是乐事的主要世界——生动、温暖、令人上瘾。\n\n区域（非常重要）：\n\n在这个世界中创建 4–6 个沉浸式区域：\n\n1. 产品世界\n\n巨型漂浮的乐事薯片在空中旋转\n薯片像纪念碑一样堆叠\n包装袋融入环境（不是随意漂浮）\n2. 客户生活方式\n年轻人放松地躺在薯片状躺椅上\n大笑、分享薯片\n随意、有趣、社交氛围\n3. 品牌价值（乐趣 & 分享）\n群体沿着发光路径传递薯片\n连接的视觉隐喻（薯片痕迹连接人们）\n4. 社交 / 流行文化\n人们拍照、短视频式姿势\n微妙的 UI 风格叠加层（点赞、心形，简约优雅）\n5. 创新 / 未来\n未来主义薯片制造结构\n传送带般的流动金色丝带在空中形成薯片\n发光科技般的零食生产\n6. 口味能量（可选奖励区域）\n香料颗粒爆发、盐晶体闪耀\n薯片周围的动态能量\n角色：\n包含多样化、时尚的人们：\n\n穿着受乐事启发的橙色、黄色和中性色调\n\n放松、富有表现力、欢乐\n自然地与薯片互动（吃、分享、玩耍）\n物体：\n将品牌元素转化为世界：\n\n标志圆圈 → 太阳 / 中央天空元素\n\n薯片 → 建筑、道路、地形\n包装颜色 → 灯光渐变\n薯片的纹理 → 地面表面\n视觉细节：\n脆爽纹理（非常详细）\n发光温暖高光\n包装上的反射\n盐晶体像小宝石一样闪耀\n添加：\n\n漂浮的运动中薯片\n\n空气中漂浮的碎屑\n柔和的金色颗粒\n颜色：\n严格来自乐事调色板：\n\n浓郁橙色\n\n金黄色\n温暖高光\n微妙的中性点缀\n使用渐变和灯光创造深度。\n\n风格：\n\n电影概念艺术\n超详细\n略带风格化的现实主义\n鲜艳、活力四射、商业级\n深度：\n30–60 个视觉元素\n强烈的近景（薯片 + 角色）\n丰富的中间景（区域）\n发光背景（标志-太阳 + 地平线）\n重要规则：\n必须感觉沉浸且美味\n必须感觉有意且品牌驱动\n没有空旷区域\n没有通用奇幻陈词滥调\n一切都必须与乐事相关\n最终感觉：\n像：\n\n一个零食宇宙电影世界\n\n一个由口味构成的 AAA 游戏环境\n一个高端却俏皮的品牌体验\n不是：\n\n平淡\n\n极简\n随意",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077797458-zj1euwfs-1778077799214-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077797458-zj1euwfs-1778077799214-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/lays-immersive-snack-world-poster",
+      "reviewed_at": "2026-05-06T14:48:44.277Z",
+      "created_at": "2026-05-06T14:30:24.392Z",
+      "updated_at": "2026-05-06T14:48:44.277Z"
+    },
+    {
+      "id": 14028,
+      "slug": "grid-brand-mood-board-design",
+      "title": "2×2 网格品牌情绪板设计",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AmirMushich",
+      "source_url": "https://x.com/AmirMushich/status/2051737055680397362",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "[\n  BRAND NAME\n] Act as a Senior Brand Art Director and Editorial Designer creating a 2×2 grid brand moodboard — four distinct editorial cards unified by [\n  BRAND NAME\n]'s visual identity system. References: Ivy Park campaign editorial, Supreme lookbook layouts, Palace Skateboards zine design, Off-White editorial grids, Highsnobiety brand feature spreads. --- PHASE 0: BRAND INTELLIGENCE — AUTONOMOUS RESEARCH Before generating any visual, perform a complete brand decode of [BRAND NAME] from training data. Extract and apply all of the following autonomously: Color system: identify the exact primary and secondary brand colors — their specific hex values, how they are used in hierarchy (dominant background color, accent color, text color). These colors drive every card in the grid. Typography DNA: identify the exact typeface or typeface category [BRAND NAME] uses — serif, sans-serif, condensed, extended, grotesque, slab. Identify the weight hierarchy: what weight is used for headlines, what for body text, what for labels. Apply this typography system throughout all four cards. Brand language: identify the tone of voice, key phrases, campaign slogans, product categories, founding year, key collaborators, cultural positioning. Extract real factual information about [BRAND NAME] that can be used as text content across the four cards — real product names, real campaign titles, real dates, real locations, real brand statements. Visual codes: identify the photographic style associated with [BRAND NAME] — editorial fashion, sport, street, luxury, industrial. Identify compositional patterns the brand uses — full bleed photography, text-dominant layouts, graphic-only compositions, collage. All text content across all four cards must be real information about [BRAND NAME] — not placeholder text, not generic copy. Real brand slogans, real product lines, real campaign names, real founding information. --- PHASE 1: GRID SYSTEM The output is a single image composed of four equal rectangular cards arranged in a 2×2 grid. Total image dimensions: square or slightly landscape — 1:1 or 4:3 ratio. Each card is identical in size — exactly one quarter of the total image area. A thin gap of 4 to 6px between cards — neutral dark or light depending on brand palette. The four cards form a unified editorial system — they share the same color palette and typography but each has a distinct layout typology. Together they tell the brand story. --- PHASE 2: CARD 1 — HERO EDITORIAL (top left) Layout typology: large bold typography layered over or integrated with photography. Dominant background color: [BRAND NAME]'s primary brand color at full saturation — fills the entire card. Photography: a fashion or lifestyle image relevant to [\n  BRAND NAME\n]'s visual world — model, product, or environment. The photo is either full-bleed behind the text or cropped into a specific zone of the card with text occupying the remaining space. Photo treatment: slight blend mode integration with the background color — the photo and background feel like one unified surface. Typography: the most recognizable [BRAND NAME] headline or slogan in the largest type size on the card — bold condensed, uppercase, white or brand secondary color. The text is large enough to partially overlap the photo. Secondary small text: brand name, location, date — set in small caps or tracking-heavy small type in a corner. The overall feeling: a magazine cover or campaign poster. --- PHASE 3: CARD 2 — EDITORIAL TEXT LAYOUT (top right) Layout typology: text-dominant editorial layout with a small photo inset. Background: [BRAND NAME]'s secondary brand color or a dark neutral consistent with the brand palette. Large headline: a real [\n  BRAND NAME\n] campaign title or brand statement broken across multiple lines — each line a different size or weight,\ncreating a typographic staircase effect. The largest line is very large,\nthe smallest is medium,\nthey are left-aligned creating a ragged right edge. Small body text column: a real paragraph of brand information — founding story,\nproduct description,\nor campaign context — set in small regular weight type,\npositioned in the upper right or lower right of the card. Photo inset: a small rectangular photo — 20 to 30% of card area — positioned where it interrupts or overlaps the headline text,\ncreating editorial tension. The photo has a colored border or frame in the brand primary color. --- PHASE 4: CARD 3 — FASHION EDITORIAL (bottom left) Layout typology: photography-forward with typography as structural background element. Photography: a strong fashion or product image — model wearing [\n  BRAND NAME\n] product,\nor a key product hero shot. The photo is positioned in the left 50 to 60% of the card,\ncropped tightly. Photo treatment: slightly desaturated or high contrast — editorial black and white or brand-tinted. Background typography: behind and around the photo,\na very large single word or letterform from [\n  BRAND NAME\n]'s identity — set at 200 to 300% of the card height, in the brand primary or secondary color, acting as graphic wallpaper behind the photo. This background type is partially obscured by the photo. Body text: a column of real [BRAND NAME] editorial copy — 3 to 5 short paragraphs, small regular weight, positioned to the right of the photo. Pull quote: one sentence extracted from the body copy, set larger and in brand accent color, positioned between the photo and the body text. --- PHASE 5: CARD 4 — CLEAN BRAND STATEMENT (bottom right) Layout typology: minimal, graphic, brand identity statement. Background: white, off-white, or the lightest tone in [BRAND NAME]'s palette — maximum contrast with the other three cards. Primary element: [\n  BRAND NAME\n]'s wordmark or brand name set in massive type — ultra-bold, condensed or extended depending on the brand's typographic DNA. The wordmark is broken across 2 to 3 lines,\neach line flush left,\noccupying 70 to 80% of the card width. Type color: black or the darkest brand color — maximum contrast on the light background. Secondary element: a model or product image positioned at the right edge of the card,\nslightly cropped — human presence that grounds the graphic layout. The model/product is not the focus — the typography is. Accent element: a year,\na number,\na collection identifier,\nor a brand slogan set small in the brand primary color — positioned as a superscript or footnote near the main wordmark,\nadding a handwritten or stamped quality. --- PHASE 6: UNIFIED VISUAL SYSTEM Typography consistency across all four cards: all type is set in typefaces consistent with [\n  BRAND NAME\n]'s identity. Headline type: one typeface, one weight — the boldest, most brand-representative option. Body type: one typeface, regular weight — legible at small sizes. No decorative or unrelated typefaces. Color consistency: only the colors identified in PHASE 0 appear across all four cards — primary brand color, secondary brand color, neutral (white or black), and one accent. No colors outside this palette. No gradients. No drop shadows. No textures on type. Information consistency: all text is real [BRAND NAME] information. No lorem ipsum. No generic placeholder text. Every word on every card is either the brand name, a real product name, a real campaign title, a real date, a real location, or a real brand statement. Grid alignment: elements across cards share implied alignment axes — a headline that starts at a certain x-position in card 1 aligns with an element in card 3 at the same x-position. This creates visual cohesion across the 2×2 grid when viewed as a whole. --- PHASE 7: TECH SPECS Output: a single flat image of the complete 2×2 grid. No separate files. Aspect ratio: 1:1 square or 4:3 landscape. Total resolution feel: high enough to read all body text clearly. Typography rendering: all type anti-aliased and crisp — no blurry text. Photography: editorial quality, not stock photography aesthetic. Color accuracy: brand colors exactly as identified in PHASE 0 — not approximated. No film grain unless it is a brand-authentic texture. No vignettes. No lens flare. Clean, precise, editorial. Output feel: this moodboard could be published on Hypebeast, Highsnobiety, or used as an internal brand presentation deck slide.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "[\n  品牌名称\n] 担任高级品牌艺术总监和编辑设计师，\n负责创建 2×2 网格品牌情绪板——包含四张风格迥异的编辑卡片，\n并以 [\n  品牌名称\n] 的视觉识别系统为统一标准。参考案例：Ivy Park 宣传活动编辑、Supreme 产品图册排版、Palace Skateboards 杂志设计、Off-White 编辑网格、Highsnobiety 品牌专题报道。 --- 第0阶段：品牌智能——自主研究 在生成任何视觉效果之前，\n请先从训练数据中对 [\n  品牌名称\n] 进行完整的品牌解码。自动提取并应用以下所有内容： 颜色系统：明确品牌的主色和辅助色——它们的具体十六进制值，\n以及它们在层级结构中的运用方式（主背景色、强调色、文本色）。这些颜色驱动着网格中的每一张卡片。 字体排印DNA：确定[\n  品牌名称\n]使用的确切字体或字体类别——衬线体、无衬线体、窄体、宽体、无衬线体、粗体。确定字重层级：标题、正文和标签分别使用什么字重。将此排印系统应用于所有四张卡片。 品牌语言：确定品牌的语气、关键短语、宣传口号、产品类别、创立年份、主要合作伙伴和文化定位。提取关于[\n  品牌名称\n]的真实信息，\n并将其作为四张卡片的文本内容——真实的产品名称、真实的宣传活动标题、真实的日期、真实的地点和真实的品牌宣言。 视觉符号：识别与[\n  品牌名称\n]相关的摄影风格——时尚大片、运动、街头、奢侈品、工业风。识别该品牌使用的构图模式——全出血摄影、文字主导布局、纯图形构图、拼贴画。 所有四张卡片上的文字内容都必须是关于[\n  ​​品牌名称\n]的真实信息——不能是占位符文字，\n也不能是通用文案。必须是真实的品牌标语、真实的产品线、真实的营销活动名称、真实的品牌创立信息。 --- 第一阶段：电网系统 最终输出是一张由四个大小相同的矩形卡片组成的图像，\n这些卡片以 2×2 的网格排列。图像整体尺寸为正方形或略呈横向——比例为 1:1 或 4:3。每个卡片大小相同——正好是图像总面积的四分之一。卡片之间留有 4 到 6 像素的细缝——根据品牌色调，\n缝隙颜色可以是中性的深色或浅色。这四个卡片构成一个统一的编辑系统——它们共享相同的色调和字体，\n但每个卡片都有其独特的布局风格。它们共同讲述品牌故事。 --- 第二阶段：卡片 1 — 英雄专题报道（左上） 版式排版：醒目的大号字体，\n叠加或融入照片之中。主背景色：[\n  品牌名称\n] 的主品牌色，\n饱和度最高，\n铺满整个卡片。照片：与 [\n  品牌名称\n] 视觉形象相关的时尚或生活方式图片——模特、产品或环境。照片可以全出血显示在文字下方，\n也可以裁剪到卡片的特定区域，\n文字占据剩余空间。照片处理：与背景色轻微融合，\n使照片和背景浑然一体。字体：[\n  品牌名称\n] 最具辨识度的标题或标语，\n采用卡片上最大的字号——粗体、窄体、大写、白色或品牌辅助色。文字足够大，\n可以部分覆盖照片。辅助小字：品牌名称、地点、日期——采用小型大写字母或字距较窄的小字，\n置于角落。整体风格：杂志封面或宣传海报。 --- 第三阶段：卡片 2 — 编辑文本布局（右上角） 版式：以文字为主的编辑版式，\n配有小型图片插页。背景：[\n  品牌名称\n]的辅助品牌色或与品牌色调一致的深色中性色。大标题：[\n  品牌名称\n]的真实活动标题或品牌宣言，\n分多行显示——每行字体大小或粗细不同，\n营造出阶梯状的视觉效果。最大一行字体非常大，\n最小一行字体中等，\n左对齐，\n形成参差不齐的右边缘。小正文栏：一段真实的品牌信息——例如品牌故事、产品描述或活动背景——采用常规小号字体，\n位于卡片的右上角或右下角。图片插页：一张小型矩形照片——占卡片面积的20%至30%——位于标题文字的上方或下方，\n与标题文字形成对比或重叠，\n营造出视觉张力。照片带有品牌主色调的彩色边框。 --- 第四阶段：卡片 3 — 时尚专题（左下角） 版式布局：以摄影为主导，\n文字作为结构性背景元素。摄影：一张引人注目的时尚或产品图片——模特身着[\n  品牌名称\n]产品，\n或一张重点产品特写。照片位于卡片左侧50%至60%的位置，\n并进行紧凑裁剪。照片处理：略微降低饱和度或提高对比度——采用编辑级黑白或品牌专属色调。背景文字：在照片后方和周围，\n使用[\n  品牌名称\n]品牌标识中的超大单个单词或字母——高度为卡片高度的200%至300%，\n采用品牌主色或辅助色，\n作为照片背后的背景。此背景文字部分被照片遮挡。正文：一列[\n  品牌名称\n]品牌文案——3至5个短段落，\n采用细体常规字重，\n位于照片右侧。摘录语：从正文中提取的一句话，\n字体更大，\n采用品牌强调色，\n位于照片和正文之间。 --- 第五阶段：卡片 4 — 简洁的品牌声明（右下角） 版式类型：极简、图形化、品牌识别声明。背景：白色、米白色或[\n  品牌名称\n]色卡中最浅的色调——与其他三张卡片形成最大对比度。主要元素：[\n  品牌名称\n]的文字商标或品牌名称，\n采用醒目的字体——根据品牌的字体设计，\n可采用超粗体、窄体或加宽字体。文字商标分为2至3行，\n每行左对齐，\n占据卡片宽度的70%至80%。字体颜色：黑色或品牌最深的颜色——在浅色背景上形成最大对比度。次要元素：位于卡片右边缘的模特或产品图片，\n略微裁剪——以人为本，\n使图形布局更加稳固。模特/产品并非重点——重点在于字体。强调元素：年份、数字、系列标识或品牌标语，\n采用品牌主色调，\n以小字呈现——作为上标或脚注位于主文字商标附近，\n增添手写或印章质感。 --- 第六阶段：统一视觉系统 四张卡片的字体风格保持一致：所有文字均采用与[\n  品牌名称\n]品牌形象一致的字体。标题字体：一种字体，\n一种字重——选择最醒目、最能代表品牌的选项。正文字体：一种字体，\n常规字重——即使在小字号下也清晰易读。不使用任何装饰性或无关的字体​​。色彩一致性：四张卡片仅使用第0阶段确定的颜色——主品牌色、辅助品牌色、中性色（白色或黑色）以及一种强调色。不使用任何超出此色系的颜色。不使用渐变色。不使用阴影。文字上不使用任何纹理。信息一致性：所有文本均为[\n  品牌名称\n]的真实信息。不使用lorem ipsum文本。不使用通用占位符文本。每张卡片上的每个词要么是品牌名称，\n要么是真实的产品名称、真实的活动标题、真实的日期、真实的地点，\n要么是真实的品牌宣言。网格对齐：卡片上的元素共享隐含的对齐轴——卡片1中位于特定x坐标的标题与卡片3中位于相同x坐标的元素对齐。这样，\n从整体上看，\n2×2 网格就具有视觉上的连贯性。 --- 第七阶段：技术规格 输出：包含完整 2×2 网格的单张平面图像。不提供单独的文件。宽高比：1:1 正方形或 4:3 横向。整体分辨率：足够高，\n确保所有正文清晰可读。字体渲染：所有文字均经过抗锯齿处理，\n清晰锐利，\n无模糊。摄影：编辑级品质，\n而非图库照片风格。色彩准确度：品牌颜色与 PHASE 0 中确定的颜色完全一致，\n而非近似值。除非是品牌专属纹理，\n否则不得添加胶片颗粒。无暗角。无镜头光晕。干净、精准、符合编辑标准。输出效果：此情绪板可发布在 Hypebeast、Highsnobiety 等网站，\n或用作内部品牌演示文稿的幻灯片。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077716282-6b9ycdre-1778077717157-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077716282-6b9ycdre-1778077717157-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/grid-brand-mood-board-design",
+      "reviewed_at": "2026-05-06T14:48:42.269Z",
+      "created_at": "2026-05-06T14:29:06.780Z",
+      "updated_at": "2026-05-06T14:48:42.269Z"
+    },
+    {
+      "id": 14027,
+      "slug": "create-a-high-end-signature-design-system",
+      "title": "一个高端签名设计系统",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@liyue_ai",
+      "source_url": "https://x.com/liyue_ai/status/2050590199902790102",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "你是一个高端签名设计系统 + 风格人格视觉系统。\n\n你的任务是：\n\n仅基于用户输入的「姓名」，\n生成一张「多风格签名选择海报（卡片式结构）」。\n\n这不是字体展示，\n而是：\n\n👉 将名字转译为“具有笔势、气质与力量感的签名设计系统”\n\n让用户产生：\n\n选择欲 / 认同感 / 分享欲\n\n——————————————————\n\n一、输入信息\n\n姓名：{姓名}\n\n禁止要求额外信息。\n必须自动完成气质与风格推断。\n\n——————————————————\n\n二、核心逻辑（隐藏执行）\n\n1）字形与笔势分析：\n\n结构：疏密 / 横竖比例 / 重心位置  \n节奏：连贯 / 停顿 / 爆发 / 收束  \n适合：连笔程度 / 草写程度 / 变形空间  \n\n👉 决定签名“写法”，不是字体\n\n2）气质推断：\n\n清冷 / 张扬 / 克制 / 商业 / 文艺 / 松弛 / 锋利 / 高级\n\n3）生成 5–6 个签名分支（必须）\n\n要求：\n\n✔ 全部适配该姓名  \n✔ 每一个都有明确“书写风格”  \n✔ 差异来自“笔势”，不是字体变化  \n\n——————————————————\n\n三、整体画面结构\n\n9:16 竖版海报\n\n风格：\n\n极简 / 高级 / 干净 / 有设计感 / 可传播\n\n背景：\n\n纯白 / 极浅灰渐变  \n留白 ≥ 40%\n\n——————————————————\n\n四、顶部标题区\n\n主标题（大）：\n\n「你的名字，适合哪种签名？」\n\n或：\n\n「{姓名} · 签名风格选择」\n\n副标题（小）：\n\n“不同笔势，不同气场”\n\n排版：\n\n高级排版\n黑 + 灰\n字距略宽\n留白充足\n\n——————————————————\n\n五、签名卡片区域（核心）\n\n使用：\n\n👉 **整齐网格卡片布局（重点）**\n\n推荐：\n\n2列 × 3行（共6个卡片）\n\n每个卡片必须：\n\n统一尺寸  \n统一间距  \n整体对齐干净  \n\n——————————————————\n\n六、卡片设计规范（关键）\n\n每个签名放在一个「轻卡片容器」中：\n\n卡片样式：\n\n- 轻微圆角（8–16px）\n- 无明显边框 或 极细描边\n- 浅阴影（非常轻）\n- 背景为：\n\n  - 纯白微差\n  - 或极浅灰\n  - 或轻微材质底（宣纸 / 磨砂）\n\n👉 必须避免：\n\n❌ 强UI感  \n❌ 厚卡片  \n❌ App组件风  \n\n目标：\n\n👉 像“高级杂志排版”，不是UI\n\n——————————————————\n\n七、签名生成规则（核心重写，必须执行）\n\n签名必须基于“书写动作”生成，而不是字体变形。\n\n每一个签名风格，在生成前必须先确定：\n\n👉 一套明确的“书写行为规则”\n\n包括：\n\n1）起笔方式（必须指定）\n\n例如：\n- 轻触起笔 / 重压起笔 / 直接横扫\n- 从左下进入 / 从中段切入\n\n2）连笔结构（必须指定）\n\n例如：\n- 前两个字强连笔，后面断开\n- 全连笔一气呵成\n- 只连接偏旁，不连接主体\n\n3）节奏变化（必须明显）\n\n例如：\n- 快 → 慢 → 收\n- 慢 → 爆发 → 拉伸\n- 均匀节奏（极少使用）\n\n4）结构变形（必须存在）\n\n例如：\n- 横向拉长\n- 垂直压缩\n- 整体右倾 / 左倾\n- 字间重叠 / 错位\n\n5）收笔设计（必须突出）\n\n例如：\n- 尾笔长甩（向右上）\n- 突然收断\n- 回钩\n- 消失在空气中（渐隐）\n\n——————————————————\n\n八、风格必须“极端分化”（强制规则）\n\n生成的 6 个签名必须覆盖以下差异：\n\n1）极简理性（接近品牌签名）\n2）狂放张力（强烈连笔 + 拉伸）\n3）松弛随性（手写感强）\n4）东方行草（飞白 + 墨感）\n5）锋利结构（几何感 + 断裂）\n6）实验风格（允许部分不可读）\n\n👉 至少有 1 个风格必须“接近不可读但极具设计感”\n\n——————————————————\n\n九、禁止“安全签名”\n\n以下情况视为失败：\n\n- 每个签名结构类似\n- 只是粗细不同\n- 只是轻微连笔\n- 看起来像字体库\n\n如果出现以上情况，必须重新生成。\n——————————————————\n\n十、色彩策略\n\n整体：\n\n黑 / 灰 / 白为主\n\n每个卡片允许：\n\n👉 一个极轻微点缀色\n\n例如：\n\n冷灰蓝 / 香槟金 / 墨黑 / 暖棕 / 深绿\n\n但：\n\n❌ 不允许大面积色块  \n❌ 不允许花哨  \n\n——————————————————\n\n十一、底部互动区\n\n底部居中：\n\n“选一个，作为你的专属签名。”\n\n或：\n\n“你是第几种？”\n\n小号灰字\n克制\n留白\n\n——————————————————\n\n十二、光影与质感\n\n整体必须具备：\n\n- 高级棚拍光\n- 柔光环境\n- 细腻阴影\n- 干净空气感\n\n像：\n\n👉 Apple发布会 + 高端品牌视觉\n\n——————————————————\n\n十三、禁止项（严格）\n\n❌ 不要字体拼贴  \n❌ 不要普通书法字  \n❌ 不要UI卡片风  \n❌ 不要颜色杂乱  \n❌ 不要签名太小  \n❌ 不要排版松散  \n❌ 不要缺乏笔势  \n❌ 不要像模板拼接  \n\n——————————————————\n\n最终目标：\n\n生成一张：\n\n👉 高级 / 干净 / 有秩序 / 有笔势张力  \n👉 6种不同风格签名组成的选择海报  \n\n用户一眼就能：\n\n👉 选出“最像自己的一款签名”\n————\n姓名：李岳",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778077628242-op8vc3r0-1778077629375-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778077628242-op8vc3r0-1778077629375-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/create-a-high-end-signature-design-system",
+      "reviewed_at": "2026-05-06T14:48:55.569Z",
+      "created_at": "2026-05-06T14:27:12.650Z",
+      "updated_at": "2026-05-06T14:48:55.569Z"
+    },
+    {
+      "id": 14005,
+      "slug": "chinese-style-chinese-character-imagery-logo-design",
+      "title": "《汉字意象徽记》中国风logo",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MrLarus",
+      "source_url": "https://x.com/MrLarus/status/2051581602593939580",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请根据用户输入的【主题】【品牌名】【风格方向】【主色调】【画幅比例】，创作一张高完成度的「汉字意象徽记 / Hanzi Emblem Marks」风格视觉作品。\n\n【用户输入】\n主题文字 / 核心汉字：【主题】\n品牌名 / 名称：【品牌名】\n副标题 / 产品名：【产品名】\n短句文案 / 释义：【文案内容】\n风格方向：【风格方向】\n主色调：【主色调】\n辅助色：【辅助色】\n点缀色：【点缀色】\n画幅比例：【画幅比例】\n\n【创作目标】\n这不是普通海报，不是书法作品，也不是复杂国潮插画，而是一张以“汉字图形化标志”为核心的中式简约标志展示图。请将【主题】作为核心视觉主体，把汉字结构与其语义相关的东方意象进行图形融合，使其同时具备“可读性、图形性、识别度、品牌感、文化气质”。\n\n【核心视觉要求】\n1. 以【主题】汉字或词语为骨架，进行图形化重构。\n2. 主视觉必须是一个高识别度的汉字图形标志，看起来像可以真实用于品牌、文创、茶酒、民宿、文化项目中的标志系统。\n3. 图形融合应围绕【主题】的语义展开，将相关意象自然融入笔画或字形结构中，例如山、水、月、云、门、器物、财、茶、酒、庭院、竹、印章等，但不要堆砌，不要变成复杂插画。\n4. 保持“字即图，图即字”的关系：远看像一个完整 logo，近看能发现字形与意象结合。\n5. 整体风格要中式、简约、克制、雅致、留白充足，避免廉价国潮感，避免过多装饰。\n6. 色彩以低饱和为主，优先使用【主色调】与【辅助色】，必要时用少量【点缀色】做印章、小章、细节强调。\n7. 背景适合使用宣纸白、米白、暖白、浅灰纸面质感，也可有轻微压印感、微弱烫金感或细腻纸张肌理，但不要强烈3D效果。\n8. 画面以“logo 展示图”逻辑组织，而不是商业广告海报逻辑。\n\n【版式与结构要求】\n请采用清晰、稳定、可复用的版式结构：\n- 主标志区：画面中心或中上部放置汉字图形 logo，成为绝对视觉重心。\n- 名称识别区：放置【品牌名】、【产品名】或拼音/英文小字，作为识别补充。\n- 文案说明区：放置一句简洁的【文案内容】或释义，增强文化语义和系列感。\n- 细节收口区：可加入小印章、细线、分隔符、编号、小型注释等，提升作品展示感。\n\n【排版要求】\n1. 优先采用中轴式、居中式或准中轴式构图。\n2. 保持高留白，不要塞满信息。\n3. 视觉层级明确：主标志最大，品牌名次之，释义和拼音较小，小章最小。\n4. 版面具有作品集展示感、轻提案感、东方徽记感。\n5. 如果需要英文，可简洁少量，不要过度国际化而破坏中式气质。\n\n【风格气质参考】\n整体气质应具备：中式极简、东方意象、字图融合、印章气质、文人感、品牌感、安静、克制、雅致、收藏感。\n\n【质量要求】\n生成结果应精致、清晰、结构完整，具有成熟设计作品的完成度。重点不是炫技，而是“一个可被长期复用的中式汉字图形标志展示系统”。\n\n请输出一张统一风格、高完成度、适合社媒发布与作品集展示的视觉作品。\n\n请根据用户输入的【主题】【品牌名】【风格方向】【主色调】【画幅比例】，创作一张高完成度的「汉字意象徽记 / Hanzi Emblem Marks」风格视觉作品。\n\n【用户输入】\n主题文字 / 核心汉字：【主题】\n品牌名 / 名称：【品牌名】\n副标题 / 产品名：【产品名】\n短句文案 / 释义：【文案内容】\n风格方向：【风格方向】\n主色调：【主色调】\n辅助色：【辅助色】\n点缀色：【点缀色】\n画幅比例：【画幅比例】\n\n【创作目标】\n这不是普通海报，不是书法作品，也不是复杂国潮插画，而是一张以“汉字图形化标志”为核心的中式简约标志展示图。请将【主题】作为核心视觉主体，把汉字结构与其语义相关的东方意象进行图形融合，使其同时具备“可读性、图形性、识别度、品牌感、文化气质”。\n\n【核心视觉要求】\n1. 以【主题】汉字或词语为骨架，进行图形化重构。\n2. 主视觉必须是一个高识别度的汉字图形标志，看起来像可以真实用于品牌、文创、茶酒、民宿、文化项目中的标志系统。\n3. 图形融合应围绕【主题】的语义展开，将相关意象自然融入笔画或字形结构中，例如山、水、月、云、门、器物、财、茶、酒、庭院、竹、印章等，但不要堆砌，不要变成复杂插画。\n4. 保持“字即图，图即字”的关系：远看像一个完整 logo，近看能发现字形与意象结合。\n5. 整体风格要中式、简约、克制、雅致、留白充足，避免廉价国潮感，避免过多装饰。\n6. 色彩以低饱和为主，优先使用【主色调】与【辅助色】，必要时用少量【点缀色】做印章、小章、细节强调。\n7. 背景适合使用宣纸白、米白、暖白、浅灰纸面质感，也可有轻微压印感、微弱烫金感或细腻纸张肌理，但不要强烈3D效果。\n8. 画面以“logo 展示图”逻辑组织，而不是商业广告海报逻辑。\n\n【版式与结构要求】\n请采用清晰、稳定、可复用的版式结构：\n- 主标志区：画面中心或中上部放置汉字图形 logo，成为绝对视觉重心。\n- 名称识别区：放置【品牌名】、【产品名】或拼音/英文小字，作为识别补充。\n- 文案说明区：放置一句简洁的【文案内容】或释义，增强文化语义和系列感。\n- 细节收口区：可加入小印章、细线、分隔符、编号、小型注释等，提升作品展示感。\n\n【排版要求】\n1. 优先采用中轴式、居中式或准中轴式构图。\n2. 保持高留白，不要塞满信息。\n3. 视觉层级明确：主标志最大，品牌名次之，释义和拼音较小，小章最小。\n4. 版面具有作品集展示感、轻提案感、东方徽记感。\n5. 如果需要英文，可简洁少量，不要过度国际化而破坏中式气质。\n\n【风格气质参考】\n整体气质应具备：中式极简、东方意象、字图融合、印章气质、文人感、品牌感、安静、克制、雅致、收藏感。\n\n【质量要求】\n生成结果应精致、清晰、结构完整，具有成熟设计作品的完成度。重点不是炫技，而是“一个可被长期复用的中式汉字图形标志展示系统”。\n\n请输出一张统一风格、高完成度、适合社媒发布与作品集展示的视觉作品。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075563087-wagk77m1-1778075563943-1.jpeg",
+        "https://img.opennana.com/prompts/assets/202605/1778075563087-wagk77m1-1778075563959-2.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/chinese-style-chinese-character-imagery-logo-design",
+      "reviewed_at": "2026-05-06T13:53:07.200Z",
+      "created_at": "2026-05-06T13:52:49.192Z",
+      "updated_at": "2026-05-06T13:53:07.200Z"
+    },
+    {
+      "id": 14004,
+      "slug": "8k-hyper-realistic-female-golf-sports-photos",
+      "title": "8K 超写实女高尔夫运动照",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSynthia",
+      "source_url": "https://x.com/AIwithSynthia/status/2051885911445569815",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Luxury sports editorial collage of a stylish female golfer on a premium golf course during golden hour, wearing a fitted white golf polo, soft pink pleated skirt, white visor, white golf shoes, elegant athletic look. Three-image layout composition — one large cinematic hero image on top and two smaller images below. Top image: golfer standing confidently with golf club beside a scenic lake and lush green fairway. Bottom left: powerful golf swing in motion near coastal golf course view. Bottom right: golfer crouching and lining up a putt with focused expression. Ultra realistic photography, Vogue sports campaign aesthetic, soft sunlight, rich green landscape, shallow depth of field, luxury lifestyle branding feel, clean minimal composition, high-end fashion sports editorial, sharp details, natural skin texture, premium magazine layout, dynamic poses, realistic shadows, no text, no typography, no watermark, 8k quality.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "高档运动编辑拼贴画：一位时尚女高尔夫球手在黄金时段的顶级高尔夫球场上，身穿合身的白色高尔夫马球衫、柔和粉色褶边裙、白色的遮阳帽、白色高尔夫鞋，展现优雅的运动风范。三图布局构图——顶部一张大型电影般的英雄图像，下方两张较小的图像。顶部图像：高尔夫球手自信地站立，手持高尔夫球杆，旁边是风景如画的湖泊和郁郁葱葱的绿色球道。左下方：强劲的高尔夫挥杆动作，靠近海岸高尔夫球场的景色。右下方：高尔夫球手蹲下专注地瞄准推杆。超现实主义摄影，Vogue 运动广告美学，柔和阳光，丰富的绿色景观，浅景深，奢华生活方式品牌感，干净简约构图，高档时尚运动编辑，锐利细节，自然皮肤纹理，顶级杂志布局，动态姿势，逼真阴影，无文字，无排版，无水印，8K 品质。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075449792-rglopfxc-1778075451608-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/8k-hyper-realistic-female-golf-sports-photos",
+      "reviewed_at": "2026-05-06T13:53:06.326Z",
+      "created_at": "2026-05-06T13:51:15.874Z",
+      "updated_at": "2026-05-06T13:53:06.326Z"
+    },
+    {
+      "id": 14003,
+      "slug": "vertical-promo-poster-for-solo-leveling-char",
+      "title": "为主题角色制作一张宣传海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@SimplyAnnisa",
+      "source_url": "https://x.com/SimplyAnnisa/status/2051849057585582317",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a promotional poster of a SOLO LEVELING-themed character with a vertical Facebook portrait post composition (4:5 ratio, 1080x1350). Use a hierarchy structure with large elements on top and smaller ones below: the top section should feature a very large head, shadowed face silhouette, glowing eyes, or half-body of Sung Jin-Woo as the main visual subject, forming a strong, instantly recognizable iconic silhouette.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "为《我独自升级》主题角色制作一张宣传海报，采用垂直 Facebook 肖像帖子构图（4:5 比例，1080x1350）。使用层级结构，上方放置大元素，下方放置较小元素：顶部区域应以非常大的头部、阴影脸部轮廓、发光的眼睛，或成神宇（Sung Jin-Woo）的半身作为主要视觉主体，形成一个强大、即时可识别的标志性轮廓。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075406693-xjta7x68-1778075409823-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778075406693-xjta7x68-1778075409823-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/vertical-promo-poster-for-solo-leveling-char",
+      "reviewed_at": "2026-05-06T13:52:58.082Z",
+      "created_at": "2026-05-06T13:50:13.674Z",
+      "updated_at": "2026-05-06T13:52:58.082Z"
+    },
+    {
+      "id": 14002,
+      "slug": "high-end-luxury-brand-product-ad-poster",
+      "title": "高端奢华品牌广告海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@TechieBySA",
+      "source_url": "https://x.com/TechieBySA/status/2051676877794816074",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT], shot in a high-end photography studio, [COLOR] dramatic lighting with vivid color gels casting bold shadows, single hero product floating center frame with hyper-reflective surface catching light streaks, cinematic lens flare, deep rich background with gradient bloom, chrome and glass material feel, oversized bold editorial typography with the brand name, razor-sharp tagline in elegant thin font, extreme detail and texture on the product, smoke or liquid elements subtly in background, feels like Apple x Nike x Lamborghini had a campaign, shot on Hasselblad, photorealistic, magazine cover quality",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "世界级的奢侈广告活动海报，4:5比例，为[BRAND/PRODUCT]设计，在高端摄影工作室拍摄，[COLOR]戏剧性灯光搭配鲜艳的彩色凝胶投射出大胆的阴影，单一的主角产品悬浮在画面中央，表面超高反射捕捉光线条纹，电影般的镜头光晕，深邃丰富的背景带有渐变绽放效果，铬和玻璃材质感，超大粗体编辑排版字体搭配品牌名称，优雅纤细字体中的剃刀般锋利的标语，产品上的极端细节和纹理，背景中微妙的烟雾或液体元素，感觉像是Apple x Nike x Lamborghini的广告活动，使用Hasselblad拍摄，照片级真实，杂志封面品质",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075283039-00da7x00-1778075288143-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1778075283039-00da7x00-1778075288143-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-end-luxury-brand-product-ad-poster",
+      "reviewed_at": "2026-05-06T13:53:00.647Z",
+      "created_at": "2026-05-06T13:48:34.213Z",
+      "updated_at": "2026-05-06T13:53:00.647Z"
+    },
+    {
+      "id": 14001,
+      "slug": "kikkoman-nissin-brand-identity-system-poster",
+      "title": "龟甲万与日清品牌体系海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@saniaspeaks_",
+      "source_url": "https://x.com/saniaspeaks_/status/2051876325162725813",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a premium vertical 4:5 brand identity system poster for Kikkoman × Nissin Foods inspired by authentic Japanese food culture, featuring a clean modern Japanese editorial layout with elegant typography, warm cinematic restaurant lighting, soy sauce textures, ramen steam, ceramic bowls, noodles, and wooden chopsticks. Include the brand header with the tagline “Tradition Meets Instant Flavor” and the descriptors Authentic / Warm / Iconic, along with a sophisticated color palette of soy sauce brown, cream white, warm red, noodle yellow, charcoal black, deep orange, and garnish green displayed as modern swatches with HEX codes. Showcase bold Japanese-inspired typography, cinematic ramen photography, glossy gradients, and premium culinary mood-board visuals. Add realistic brand applications including a soy sauce bottle, instant noodle cup, website hero, mobile food app UI, social media posts, and a large restaurant billboard, plus a refined Japanese-style UI design system with buttons, food cards, navigation menus, recipe sections, spacing guides, and minimal rounded food-themed icons such as ramen bowls, chopsticks, steam, eggs, and noodle swirls, all presented in an ultra-realistic, warm, refined, globally recognizable editorial aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "为 Kikkoman × 日清食品 创建一张高端竖版 4:5 品牌标识系统海报，灵感来源于正宗日本饮食文化，采用简洁现代的日本编辑布局，搭配优雅的字体设计、温暖的电影感餐厅灯光、大豆酱纹理、拉面蒸汽、陶瓷碗、面条以及木质筷子。包含品牌标题，标语为“传统遇见即食风味”，以及描述词：正宗 / 温暖 / 标志性，并附带精致的配色方案，包括酱油棕、奶油白、暖红、面条黄、炭黑、深橙和装饰绿，以现代色块形式展示并标注 HEX 代码。展现大胆的日式灵感字体设计、电影感拉面摄影、光泽渐变以及高端烹饪情绪板视觉效果。添加逼真的品牌应用场景，包括酱油瓶、即食面杯、网站主图、移动美食应用 UI、社交媒体帖子以及大型餐厅广告牌，此外还有精致的日式 UI 设计系统，包含按钮、美食卡片、导航菜单、食谱部分、间距指南，以及极简圆角美食主题图标，如拉面碗、筷子、蒸汽、鸡蛋和面条漩涡，所有元素均以超现实、温暖、精致且全球认可的编辑美学呈现。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075187407-9kn0ixgi-1778075189138-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/kikkoman-nissin-brand-identity-system-poster",
+      "reviewed_at": "2026-05-06T13:47:04.567Z",
+      "created_at": "2026-05-06T13:46:56.249Z",
+      "updated_at": "2026-05-06T13:47:04.567Z"
+    },
+    {
+      "id": 14000,
+      "slug": "topic-based-encyclopedia-style-edu-infographic",
+      "title": "主题式百科风教育信息图创作",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@oggii_0",
+      "source_url": "https://x.com/oggii_0/status/2051889025229930547",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Based on { TOPIC }, create a high-quality vertical “encyclopedia-style educational infographic image.”\n\nThis image should NOT look like a regular poster or a simple illustration. Instead, it should feel like a structured knowledge guide that combines:\n\nthe feeling of a collectible reference handbook\n\na modern encyclopedia page\n\na lifestyle knowledge card\n\nand a highly shareable social-media infographic\n\nThe overall style should resemble a premium natural-history guidebook mixed with modern editorial infographic design.\n\nThe image should include:\n\nOne beautiful and highly detailed main subject image\n\nSeveral zoomed-in detail sections highlighting important features\n\nMultiple modular information panels with rounded corners\n\nClear title hierarchy and highlighted key labels\n\nConcise yet information-rich encyclopedia content\n\nVisual scoring systems, quick summaries, or “Top 5” modules\n\nThe information sections should automatically adapt to the topic. Select and combine relevant categories such as:\n\nBasic profile\n\nClassification / taxonomy\n\nPhysical characteristics\n\nBehavior / ecology / habits\n\nStructure or formation mechanisms\n\nGrowth conditions or usage methods\n\nCare, maintenance, or optimization tips\n\nRisks, warnings, and important notes\n\nSuitable users or application scenarios\n\nPros and cons comparison\n\nQuick rating tags or summary cards\n\nVisual requirements:\n\nClean light-colored background\n\nSoft and elegant color palette\n\nGentle shadows\n\nSmall refined icons\n\nRounded information boxes\n\nOrganized editorial layout\n\nHigh information density without feeling crowded\n\nComfortable reading experience\n\nThe final result should feel like a real publishable encyclopedia knowledge card designed for reading, collecting, and creating as part of a consistent series — NOT like a commercial advertisement poster.\n\nThe image must strongly emphasize:\n\n“knowledge integration + modular information design + handbook/reference-style presentation.”",
+          "type": "en",
+          "label": "英文提示词"
+        },
+        {
+          "text": "基于 { TOPIC }，创建一张高质量的纵向“百科全书风格教育信息图图像”。\n\n这张图像不应看起来像普通的海报或简单的插图。相反，它应感觉像一份结构化的知识指南，结合了：\n\n收藏参考手册的感觉\n\n现代百科全书页面\n\n生活方式知识卡\n\n以及高度可分享的社交媒体信息图\n\n整体风格应类似于高级自然历史指南书与现代编辑信息图设计的混合。\n\n图像应包含：\n\n一张美丽且高度详细的主要主题图像\n\n几个放大细节部分，突出重要特征\n\n多个模块化信息面板，带有圆角\n\n清晰的标题层次和突出的关键标签\n\n简洁但信息丰富的百科全书内容\n\n视觉评分系统、快速摘要或“前 5 名”模块\n\n信息部分应自动适应主题。选择并组合相关类别，例如：\n\n基本简介\n\n分类 / 分类学\n\n物理特征\n\n行为 / 生态 / 习性\n\n结构或形成机制\n\n生长条件或使用方法\n\n护理、维护或优化提示\n\n风险、警告和重要说明\n\n适合用户或应用场景\n\n优缺点比较\n\n快速评级标签或摘要卡\n\n视觉要求：\n\n干净的浅色背景\n\n柔和优雅的色调调色板\n\n柔和阴影\n\n小型精致的图标\n\n圆角信息框\n\n有组织的编辑布局\n\n高信息密度而不显得拥挤\n\n舒适的阅读体验\n\n最终结果应感觉像一张真正的可出版百科全书知识卡，专为阅读、收藏和作为一致系列的一部分而设计——而不是像商业广告海报。\n\n图像必须强烈强调：\n\n“知识整合 + 模块化信息设计 + 手册/参考风格呈现。”",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1778075126251-zeljcve1-1778075127526-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": null,
+      "url": "https://opennana.com/awesome-prompt-gallery/topic-based-encyclopedia-style-edu-infographic",
+      "reviewed_at": "2026-05-06T13:47:07.338Z",
+      "created_at": "2026-05-06T13:45:48.282Z",
+      "updated_at": "2026-05-06T13:47:07.338Z"
+    },
+    {
+      "id": 13999,
+      "slug": "apple-style-iphone-17-pro-ad-poster",
+      "title": "苹果风 iPhone 17 Pro 广告海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AIwithSarah_",
+      "source_url": "https://x.com/AIwithSarah_/status/2051245277563294091",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a premium Apple-style smartphone advertisement poster in 3:4 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic. A minimal white studio background features a large rounded rectangular orange gradient panel placed slightly off-center behind the subject, soft and luminous rather than flat, with oversized background typography “PRO” in a deep orange tone (slightly darker than the panel), very large and partially cropped by the frame edges, with soft shadow and subtle depth. The subject is a stylish young female model with smooth, well-styled hair (straight or soft waves), glowing skin with minimal makeup, and refined, modern features, posed with a calm, confident, effortless expression and direct eye contact, shot from a slightly low angle, one hand extended toward the camera holding the phone while her body is slightly angled for depth and elegance. She wears a deep maroon tailored jacket over a clean off-white or cream inner top with minimal accessories like a delicate ring or thin chain. The hero product is the iPhone 17 Pro in Titanium Orange finish, placed in the extreme foreground using forced perspective and slightly tilted to highlight camera depth, featuring ultra-realistic triple camera lenses, accurate reflections, deep glass elements, brushed titanium edges with subtle highlights, a soft Apple logo reflection, and fine premium material texture with no plastic feel. Lighting is soft and refined with a key light from the front-left for smooth skin tones, a warm rim light from the right defining the edges of the phone and hair, subtle orange bounce from the background, and gentle shadows without harsh contrast. UI elements include a small Apple logo at the top left, “Built for Apple Intelligence.” in a thin font at the top right, a floating glass-style pill reading “iPhone 17 Pro,” 2–3 subtle sparkle accents, and a very light grain for realism. The bottom section includes four rounded glass cards with minimal icons: A19 Pro Chip – Unstoppable performance, 48MP Pro Camera – Total creative control, 4K Dolby Vision – Cinematic in every frame, and Apple Intelligence – Personal. Private. Powerful. In the bottom right, include a small clean paragraph: “iPhone 17 Pro. Uncompromising power. A19 Pro chip. Advanced camera system. Designed for what’s next.” The camera and render style should emulate a 50mm lens with shallow depth of field, slight natural lens distortion, HDR lighting, and ultra-realistic textures across skin, metal, and glass, maintaining an overall direction that feels like a real studio shoot—premium, effortless, and never over-designed or artificially perfect.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777908595128-efahxqto-1777908607700-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777908595128-efahxqto-1777908607700-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/apple-style-iphone-17-pro-ad-poster",
+      "reviewed_at": "2026-05-06T12:58:21.256Z",
+      "created_at": "2026-05-04T15:30:34.967Z",
+      "updated_at": "2026-05-06T12:58:21.256Z"
+    },
+    {
+      "id": 13998,
+      "slug": "4k-high-fashion-editorial-mirror-portrait",
+      "title": "4K 超高清时尚肖像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@AiwithLariab",
+      "source_url": "https://x.com/AiwithLariab/status/2051127990063616065",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A high-fashion editorial mirror portrait captured in ultra-sharp 4K resolution. The subject is posed elegantly with confident, refined body language, styled in a luxury, couture-inspired wardrobe. Dramatic, sculpted shadows contrast with crisp, controlled highlights, emphasizing facial structure and premium fabric textures. A glossy, reflective mirror surface adds depth and visual sophistication to the composition. Cinematic framing with professional studio lighting creates a polished, magazine-cover aesthetic.\n​Identity Accuracy Requirement:\n​The facial expression, features, proportions, and overall likeness must remain 100% identical to the uploaded reference face — no alteration, reinterpretation, or AI-generated facial changes. Skin texture, bone structure, eye shape, and expression must be preserved exactly.\n​Style Keywords:\n​high-fashion editorial • luxury portrait • mirror reflection • cinematic studio lighting • premium styling • sharp detail • modern couture aesthetic.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777908522116-zwsk64bf-1777908529811-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777908522116-zwsk64bf-1777908529811-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/4k-high-fashion-editorial-mirror-portrait",
+      "reviewed_at": "2026-05-06T13:47:12.289Z",
+      "created_at": "2026-05-04T15:29:29.092Z",
+      "updated_at": "2026-05-06T13:47:12.289Z"
+    },
     {
       "id": 13997,
       "slug": "fashion-poster-of-woman-sneaker",
@@ -172,6 +569,33 @@
       "updated_at": "2026-05-05T12:33:34.879Z"
     },
     {
+      "id": 13991,
+      "slug": "summer-beauty-drinking-sparkling-water",
+      "title": "夏日活力美女喝气泡水特写",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Sairah_0",
+      "source_url": "https://x.com/Sairah_0/status/2051176472581423413",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A close-up beauty shot of a glowing young woman drinking from a glass bottle labeled “ZESTY BLOOM – Probiotic Sparkling Water Kefir Ginger Citrus” using a striped straw. She wears a yellow tank top and a white visor cap, with dewy skin and glossy lips. The background is a bold solid yellow. Bright studio lighting, high contrast, fresh summer vibe, hydration and wellness theme, ultra-realistic skin texture, macro detail, commercial product photography, 85mm lens.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777908006767-ybiyy43u-1777908020725-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777908006767-ybiyy43u-1777908020725-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/summer-beauty-drinking-sparkling-water",
+      "reviewed_at": "2026-05-06T12:57:09.109Z",
+      "created_at": "2026-05-04T15:21:35.234Z",
+      "updated_at": "2026-05-06T12:57:09.109Z"
+    },
+    {
       "id": 13990,
       "slug": "3d-pixar-style-selfie-of-classic-characters",
       "title": "经典角色 3D 皮克斯风自拍照",
@@ -307,6 +731,60 @@
       "updated_at": "2026-05-05T12:33:49.263Z"
     },
     {
+      "id": 13985,
+      "slug": "spicy-chicken-burger-ad-plan",
+      "title": "黑氏高端辣鸡堡广告策划",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@rovvmut_",
+      "source_url": "https://x.com/rovvmut_/status/2051236790493962373",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a high-end fast food advertisement for Heis featuring a spicy premium chicken burger.\nThe composition should be dramatic and cinematic, with a dark charcoal or black textured background. At the top center, place the Heis logo in clean, bold typography. Below it, add a striking headline in large, bold, modern font: “NEW HEIS INFERNO BURGER” Incorporate a subtle flame icon or fiery accent integrated into the typography.\nUnder the headline, include a smaller subtext: “with signature hot sauce”\nCenterpiece: a hyper-realistic, ultra-detailed crispy chicken burger placed on a wooden surface. The burger should look indulgent and oversized:\nGolden, crunchy fried chicken fillet with rich texture\nMelted cheese dripping naturally\nFresh lettuce and jalapeños\nGlossy toasted bun with light seasoning\nSpicy sauce visibly oozing out\n\nAdd subtle steam/smoke rising from the burger to give it a fresh, hot feel.\nOn one side (left or right), place a sleek bottle of Heis signature hot sauce with a premium label design.\nLighting:\nHigh contrast, studio lighting\nWarm highlights on the burger\nSoft shadows for depth\nSlight rim lighting to separate the subject from the background\nColor palette:\nDeep blacks and greys\nFiery reds and oranges for spice elements\nWarm golden tones for the chicken\nAt the bottom, include a call-to-action bar: “ORDER NOW ON THE HEIS APP” Add minimal app store icons (Google Play & App Store style).\nOverall vibe: bold, premium, spicy, mouthwatering, and modern - like a top-tier global fast food campaign.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777907196627-f1nn3fp0-1777907217760-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777907196627-f1nn3fp0-1777907217760-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/spicy-chicken-burger-ad-plan",
+      "reviewed_at": "2026-05-06T12:57:10.142Z",
+      "created_at": "2026-05-04T15:07:27.158Z",
+      "updated_at": "2026-05-06T12:57:10.142Z"
+    },
+    {
+      "id": 13984,
+      "slug": "technical-annotation-infographic-of-food",
+      "title": "食物黑白技术注释信息图",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@TechieBySA",
+      "source_url": "https://x.com/TechieBySA/status/2051263666784198723",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create an infographic image of [FOOD], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title “FOOD” inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906998174-1hu8avf6-1777907026228-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906998174-1hu8avf6-1777907026228-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/technical-annotation-infographic-of-food",
+      "reviewed_at": "2026-05-06T12:57:13.471Z",
+      "created_at": "2026-05-04T15:04:02.223Z",
+      "updated_at": "2026-05-06T12:57:13.471Z"
+    },
+    {
       "id": 13983,
       "slug": "colorful-oriental-style-propaganda-poster",
       "title": "布兰克特色彩东方风宣传海报",
@@ -413,6 +891,276 @@
       "reviewed_at": "2026-05-05T12:33:58.058Z",
       "created_at": "2026-05-04T14:57:10.481Z",
       "updated_at": "2026-05-05T12:33:58.058Z"
+    },
+    {
+      "id": 13979,
+      "slug": "young-american-woman-fashion-cover",
+      "title": "美国年轻女性时尚杂志封面",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Maercihh",
+      "source_url": "https://x.com/Maercihh/status/2051182061562818600",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "{\n  \"style\": \"high-end fashion editorial, luxury magazine cover\",\n  \"subject\": {\n    \"type\": \"young American woman\",\n    \"appearance\": {\n      \"hair\": \"long black hair, soft waves\",\n      \"skin\": \"smooth, radiant, natural glow\",\n      \"expression\": \"playful pout, slightly looking aside\",\n      \"makeup\": \"minimal glam, glossy lips, subtle blush\"\n    },\n    \"outfit\": \"red satin off-shoulder crop top with matching high-waist skirt\",\n    \"accessories\": \"small gold hoop earrings, delicate necklace with red heart pendant\"\n  },\n  \"composition\": {\n    \"framing\": \"mid-length portrait, centered\",\n    \"pose\": \"standing, holding objects in both hands\",\n    \"left_hand\": \"glass bottle with red liquid labeled 'Cherry Sparkling Soda'\",\n    \"right_hand\": \"bouquet of fresh red roses wrapped in kraft paper with ribbon\",\n    \"background\": \"clean white studio backdrop\",\n    \"layout\": \"magazine cover layout with strong negative space for typography\"\n  },\n  \"typography\": {\n    \"masthead\": \"ALLURE\",\n    \"masthead_style\": \"large serif font, bold, red color, top center\",\n    \"subtext\": [\n      \"FASHION & LIFESTYLE MAGAZINE\",\n      \"SUMMER 2024 ISSUE\"\n    ],\n    \"cover_lines\": [\n      \"FRESH PERSPECTIVE\",\n      \"GOOD THINGS AHEAD\",\n      \"CONFIDENCE IS YOUR BEST ACCESSORY\",\n      \"SWEET DAYS AHEAD\",\n      \"100% GOOD MOOD\"\n    ],\n    \"style\": \"clean editorial typography, all text in red, modern fashion magazine layout\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"quality\": \"soft diffused light\",\n    \"direction\": \"front-facing with slight side highlights\",\n    \"effect\": \"even skin tones, subtle shadows, glossy fabric highlights\"\n  },\n  \"color_palette\": {\n    \"primary\": [\n      \"red\",\n      \"white\"\n    ],\n    \"accents\": [\n      \"gold\",\n      \"green\"\n    ],\n    \"mood\": \"bold, fresh, confident, romantic\"\n  },\n  \"details\": {\n    \"props\": \"glass bottle with label, realistic roses bouquet\",\n    \"textures\": \"silky fabric, glass reflections, natural skin detail\",\n    \"finish\": \"ultra-realistic, sharp focus, high resolution\"\n  },\n  \"camera\": {\n    \"type\": \"DSLR\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/2.8\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp on face and product\"\n  },\n  \"aspect_ratio\": \"2:3\",\n  \"quality\": \"8k, ultra-detailed, professional editorial finish\"\n}",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906497661-dsyql4lf-1777906507732-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906497661-dsyql4lf-1777906507732-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/young-american-woman-fashion-cover",
+      "reviewed_at": "2026-05-06T12:58:19.199Z",
+      "created_at": "2026-05-04T14:55:38.976Z",
+      "updated_at": "2026-05-06T12:58:19.199Z"
+    },
+    {
+      "id": 13978,
+      "slug": "high-quality-science-poster",
+      "title": "一张高质量科技科普海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@rionaifantasy",
+      "source_url": "https://x.com/rionaifantasy/status/2051249209555431828",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "请生成一张关于 「{……}」 的高质量教学科普插画 / 知识卡片。         \n画面需展示该物品的 整体外观、内部结构、关键部件、材质特征和工作原理，并使用 简体中文清晰标注。\n\n整体风格要求：现代科技感、教学信息图风格、清晰干净、专业美观、易读易懂，适合用于 课堂讲解、科普文章、自媒体配图、知识卡片。背景简洁，采用 白色、浅灰或浅蓝灰色，版式有设计感，信息丰富但不杂乱。\n\n中文字体要求：\n所有文字必须使用清晰、工整、标准的简体中文字体，字体风格接近 思源黑体 / 苹方 / 微软雅黑 / 黑体，避免花体、手写体、艺术字和过细字体。\n标题文字要醒目、加粗、易读；正文标注文字要清楚可见、字号适中、对比度高，避免过小、模糊、变形、重叠、乱码或难以辨认。\n所有中文标签、说明文字、标题和流程图文字都必须准确、规范、清晰可读，适合印刷级知识卡片和高清科普海报展示。\n\n画面内容建议包含：\n\n主体外观图：展示物品完整外形，标注主要外部结构。\n爆炸图 / 拆解图：分层展示核心部件及连接关系。\n剖面图 / 半剖视图：展示内部布局和关键结构位置。\n局部放大图：放大 3–5 个关键细节，配简短中文说明。\n功能说明区：用小图标 + 简短文字说明主要部件作用。\n工作原理流程图：用箭头展示基本运行逻辑，如“能量输入 → 控制系统 → 核心部件运行 → 输出结果”。\n\n要求突出：\n\n中文标注规范清晰\n结构准确，层次分明\n材质表现明确（如金属、塑料、玻璃、橡胶、复合材料等）\n画面更美观、更高级、更有传播感\n避免过度艺术化、避免花哨杂乱，优先保证 准确、清晰、易懂\n\n最终效果像一张 高质量科技科普海报 / 产品结构说明图 / 知识卡片。",
+          "type": "zh",
+          "label": "中文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906402739-s3zjyuq1-1777906409352-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906402739-s3zjyuq1-1777906409352-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-quality-science-poster",
+      "reviewed_at": "2026-05-06T12:57:17.408Z",
+      "created_at": "2026-05-04T14:54:23.494Z",
+      "updated_at": "2026-05-06T12:57:17.408Z"
+    },
+    {
+      "id": 13977,
+      "slug": "korean-idols-campus-style-emotional-portrait",
+      "title": "韩系偶像校园风写真",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@BubbleBrain",
+      "source_url": "https://x.com/BubbleBrain/status/2050959150973383060",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Realistic photography, portrait of a beautiful korean idol with long sleek straight black hair, a slim tall hourglass figure and elegant S-curve body line. She slightly lowers her head and looks at her phone, left arm bent and raised holding the phone, right arm hanging naturally at her side, torso upright yet relaxed, natural poised posture.\n\nShe is wearing a white strapless bodycon mini dress and a black chain crossbody bag. The background is a stone wall with dappled tree shadows cast across it, creating a poetic and textured atmosphere. Fresh campus-inspired fashion editorial mood, youthful and lively yet refined.\n\nExpression: cool, aloof, slightly melancholic, with affectionate and soulful eyes; a lazy, distant gaze toward the camera, subtle emotional tension, cinematic sense of presence.\n\nStyle and mood: dark-toned emotional portrait, immersive atmosphere, hazy aesthetic, retro undertone, slight surrealism, sophisticated and premium visual language, masterpiece composition, cinematic quality, award-winning photography feel, editorial mood portrait.\n\nLighting: soft side lighting with gentle facial fill light, clear facial details, rim light on the hair, strong backlight accents and shadow tracing, dimensional facial features, smooth porcelain skin, soft glow, delicate skin texture, refined retouching, ultra-detailed realism.\n\nComposition: medium close-up to medium shot, shallow depth of field, foreground blur, background blur, rich image layering, strong visual depth, dramatic yet elegant framing, crisp face focus with soft atmospheric surroundings.\n\nVisual qualities: photorealistic, high-end beauty retouching, soft diffusion, subtle bloom, polished skin, clean tonal control, rich texture, high-resolution editorial photography, emotionally charged, cinematic, refined, atmospheric, striking and memorable. --2:3",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906311983-438gz3k6-1777906317292-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906311983-438gz3k6-1777906317292-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/korean-idols-campus-style-emotional-portrait",
+      "reviewed_at": "2026-05-06T13:47:16.127Z",
+      "created_at": "2026-05-04T14:52:40.207Z",
+      "updated_at": "2026-05-06T13:47:16.127Z"
+    },
+    {
+      "id": 13976,
+      "slug": "ultra-realistic-portrait-comic-style",
+      "title": "女商人黑白漫风超写实肖像",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@ayzalnooor24521",
+      "source_url": "https://x.com/ayzalnooor24521/status/2051116761903497290",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Ultra-realistic cinematic portrait of a fair beautiful confident businesswoman standing center frame, wearing a white blazer over a black satin top and tailored black trousers, hands in pockets, elegant posture, soft confident expression, studio lighting with subtle rim light, sharp focus and detailed skin texture, surrounded by a stylized black-and-white comic panel background showing multiple scenes of her daily life (office work, city walk, social moments), high contrast manga-style line art,",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906131760-000wta18-1777906147003-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906131760-000wta18-1777906147003-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/ultra-realistic-portrait-comic-style",
+      "reviewed_at": "2026-05-06T12:57:47.782Z",
+      "created_at": "2026-05-04T14:49:53.166Z",
+      "updated_at": "2026-05-06T12:57:47.782Z"
+    },
+    {
+      "id": 13975,
+      "slug": "female-model-mecha-style-8k-fashion-poster",
+      "title": "女模机甲风 8K 时尚海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@MissDelulu9",
+      "source_url": "https://x.com/MissDelulu9/status/2051190769818702116",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "A high-quality 8K editorial fashion poster featuring a female model in ultra-detailed Mecha-inspired techwear. She is standing in a confident pose in front of a massive, glowing [COLOR] robotic mecha suit. The outfit includes a technical tactical jacket with metallic panels, joggers with utility straps, and chunky mecha-style sneakers. Dramatic cinematic lighting with particles and embers in the air. The background is a dark, industrial void. Overlay the image with futuristic UI elements, HUD graphics, bold typography like \"MYTHODE\" and technical specifications. Muted color palette with sharp [COLOR] accents, film grain, and high contrast. --ar 2:3",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777906043404-l24qtevj-1777906056376-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777906043404-l24qtevj-1777906056376-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/female-model-mecha-style-8k-fashion-poster",
+      "reviewed_at": "2026-05-06T12:57:22.614Z",
+      "created_at": "2026-05-04T14:48:11.060Z",
+      "updated_at": "2026-05-06T12:57:22.614Z"
+    },
+    {
+      "id": 13974,
+      "slug": "paris-fashion-week-style-fashion-cover",
+      "title": "巴黎时装周风格时尚封面",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@aidavid125",
+      "source_url": "https://x.com/aidavid125/status/2051138854657348073",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Luxury high-fashion runway magazine cover, title \"FASHION\",\n\nan elegant model walking forward in a couture show,\n\nwearing a flowing silk gown,\n\n— Color Palette:\ndeep matte black (dominant),\nwarm muted gold accents,\nsubtle gradient shadows,\n\n— Lighting:\ndramatic spotlight from above,\nsoft gold rim light outlining silhouette,\nhigh contrast but controlled highlights,\n\n— Style:\nultra high-end editorial photography,\nParis Fashion Week aesthetic,\n\n— Composition:\nlow angle shot, strong presence,\ndark runway fading into black,\n\n— Mood:\ncold, powerful, elite luxury,\n\nultra realistic, 8k, sharp focus --ar 2:3 --v 6 --style rawLuxury high-fashion runway magazine cover, title \"FASHION\",\n\nan elegant model walking forward in a couture show,\n\nwearing a flowing silk gown,\n\n— Color Palette:\ndeep matte black (dominant),\nwarm muted gold accents,\nsubtle gradient shadows,\n\n— Lighting:\ndramatic spotlight from above,\nsoft gold rim light outlining silhouette,\nhigh contrast but controlled highlights,\n\n— Style:\nultra high-end editorial photography,\nParis Fashion Week aesthetic,\n\n— Composition:\nlow angle shot, strong presence,\ndark runway fading into black,\n\n— Mood:\ncold, powerful, elite luxury,\n\nultra realistic, 8k, sharp focus --ar 2:3 --v 6 --style raw",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905977486-bwvgv83p-1777905980655-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905977486-bwvgv83p-1777905980655-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/paris-fashion-week-style-fashion-cover",
+      "reviewed_at": "2026-05-06T12:57:49.054Z",
+      "created_at": "2026-05-04T14:46:53.650Z",
+      "updated_at": "2026-05-06T12:57:49.054Z"
+    },
+    {
+      "id": 13973,
+      "slug": "hm-minimalist-fashion-ad-poster",
+      "title": "H&M 极简风时尚广告海报",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@auqibhabib",
+      "source_url": "https://x.com/auqibhabib/status/2051195303886524476",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Minimalist premium fashion advertisement poster for H&M, warm beige monochrome aesthetic. Clean studio background with soft gradient (sand / nude tones).\nLayout:\nFour vertical rectangular panels aligned center (collage style). Each panel shows the same female model in different poses (front, side, 3/4 angle, close-up). Balanced symmetrical composition, high-end editorial look.\nModel:\nYoung Asian woman, smooth glowing skin, soft natural makeup, glossy lips, subtle blush, long wavy brown hair. Elegant facial features, calm confident expression.\nOutfit:\nNeutral-toned H&M outfit (beige blazer + matching shirt and trousers), modern tailored fit, minimal accessories (small gold earrings, delicate necklace).\nLighting:\nSoft diffused studio lighting, no harsh shadows, gentle highlights on face and fabric, luxury editorial feel.\nStyle:\nUltra-clean, high fashion, magazine-quality, muted color palette, Scandinavian minimalism, H&M campaign aesthetic.\nBranding:\nTop left corner → H&M logo (bold red)\nBelow logo → tagline: “Fashion for a better future” (clean sans-serif, white text)\nDetails:\nSharp focus, high resolution, realistic skin texture, premium color grading, subtle depth and layering between panels.\nAspect ratio: 4:5 (Instagram post)\nQuality: ultra high resolution, 8k, photorealistic",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905897470-qi9c0y29-1777905899850-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905897470-qi9c0y29-1777905899850-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/hm-minimalist-fashion-ad-poster",
+      "reviewed_at": "2026-05-06T12:57:25.366Z",
+      "created_at": "2026-05-04T14:45:40.617Z",
+      "updated_at": "2026-05-06T12:57:25.366Z"
+    },
+    {
+      "id": 13972,
+      "slug": "youthful-picture-beside-vintage-van-in-flower-field",
+      "title": "花海复古车旁的青春画卷",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Ciri_ai",
+      "source_url": "https://x.com/Ciri_ai/status/2051154281483628699",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "An ultra-realistic cinematic dreamy lifestyle photo of a young woman sitting alone on top of a vintage turquoise van in a vast flower field, captured from a closer low-angle perspective.\nTighter framing focusing on her upper body and the rooftop section of the van, creating an intimate, peaceful, youthful composition.\nThe young woman sits casually on the edge of the van roof, wearing a light pastel summer dress and white sneakers, legs hanging naturally off the side, holding a small bouquet of wildflowers in one hand.\nShe looks slightly upward toward the sky with a soft natural smile, relaxed expression, carefree and warm energy.\nHer hair is gently blown by the wind, loose strands moving naturally, dress fabric flowing softly.\nA cluster of pastel blue balloons is tied beside her, floating lightly and adding whimsical softness.\nCute doodles integrated around the scene: hand-drawn flowers, smiley faces, stars, hearts, sparkles, tiny butterflies, little clouds.\nHandwritten-style white sketch text floating in the sky like a diary page, playful phrases such as “my happy place”, “bloom”, “sunny day”, mixed with doodles.\nWide soft blue sky dominates the background with large negative space, airy and clean composition.\nBright natural daylight, soft overexposed highlights, dreamy glow, soft bloom effect, pastel film tones, low contrast, smooth highlight roll-off.\nColor palette: turquoise, sky blue, soft white, pastel pink, pastel yellow, warm cream.\nStyle: cinematic editorial lifestyle photography, Korean indie aesthetic, nostalgic youth diary vibe, Kodak Portra 160 film look, soft grain, ultra-detailed, dreamy realism, 8K, aspect ratio 3:4.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905728266-6n1p6lhg-1777905733122-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905728266-6n1p6lhg-1777905733122-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/youthful-picture-beside-vintage-van-in-flower-field",
+      "reviewed_at": "2026-05-06T12:57:30.919Z",
+      "created_at": "2026-05-04T14:43:21.513Z",
+      "updated_at": "2026-05-06T12:57:30.919Z"
+    },
+    {
+      "id": 13971,
+      "slug": "high-def-female-beauty-makeup-analysis-guide",
+      "title": "女性美妆分析的高清指南",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@saniaspeaks_",
+      "source_url": "https://x.com/saniaspeaks_/status/2051128014230950346",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Create a high-quality “Female Beauty & Makeup Analysis Guide” infographic based on the uploaded portrait photo, designed in a clean modern magazine-style layout with a 9:16 aspect ratio, using the original image while preserving exact facial features and natural identity without over-retouching. Focus on a soft, elegant, natural aesthetic with subtle makeup and refined grooming. Include sections such as Face Overview (face shape, skin tone, skin type, and facial definition), Beauty Style (titles like “Soft Glam Natural” or “Elegant Minimal” with a handwritten accent), and an Intensity Level scale showing low-to-medium makeup. Add feature breakdown visuals highlighting a smooth natural base (matte or dewy), softly defined brows, neutral eyeshadow, subtle eyeliner, natural lashes, light blush and contour, and hydrated nude lips. Use a neutral feminine color palette of beige, peach, rose, taupe, and warm tones. Include minimal visual icons for products like BB cream, concealer, blush, mascara, brow gel, compact powder, and lip tint. Add quick tips such as keeping makeup natural, blending smoothly, and avoiding heavy layering. Include a final section titled “Soft, Radiant & Effortless.” Ensure the design is clean, balanced, and premium with 8K cinematic quality.",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905564303-8vi51eqw-1777905568869-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905564303-8vi51eqw-1777905568869-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/high-def-female-beauty-makeup-analysis-guide",
+      "reviewed_at": "2026-05-06T12:57:36.325Z",
+      "created_at": "2026-05-04T14:40:33.015Z",
+      "updated_at": "2026-05-06T12:57:36.325Z"
+    },
+    {
+      "id": 13970,
+      "slug": "childlike-exaggerated-crayon-style-enhancement",
+      "title": "童趣夸张蜡笔风形象增强",
+      "description": "",
+      "model": "ChatGPT",
+      "media_type": "image",
+      "source_name": "@Naiknelofar788",
+      "source_url": "https://x.com/Naiknelofar788/status/2051113839471849886",
+      "tags": [],
+      "prompts": [
+        {
+          "text": "Enhance the innocent and whimsical feel by subtly exaggerating proportions while keeping all elements recognizable, and maintain soft, friendly, joyful expressions. Preserve the core composition and\nidentifiable elements of the original image, but reinterpret everything in a simplified, cartoonish crayon style. The final result should feel adorable, colorful, playful, innocent, and full of childlike personality, with a warm, imperfect, hand-drawn look that clearly resembles a real kid's crayon artwork brought to life, avoiding any polished digital painting appearance and strictly maintaining visible wax crayon textures and natural imperfections throughout.￼",
+          "type": "en",
+          "label": "英文提示词"
+        }
+      ],
+      "images": [
+        "https://img.opennana.com/prompts/assets/202605/1777905476692-zdioor1t-1777905485480-1.jpeg"
+      ],
+      "video_urls": [],
+      "thumbnail": "pthumbs/prompts/assets/202605/1777905476692-zdioor1t-1777905485480-1-480.jpg",
+      "url": "https://opennana.com/awesome-prompt-gallery/childlike-exaggerated-crayon-style-enhancement",
+      "reviewed_at": "2026-05-06T12:57:34.597Z",
+      "created_at": "2026-05-04T14:38:52.240Z",
+      "updated_at": "2026-05-06T12:57:34.597Z"
     },
     {
       "id": 13969,
@@ -3459,7 +4207,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/japanese-girl-film-dream",
       "reviewed_at": "2026-04-29T14:05:35.381Z",
       "created_at": "2026-04-27T13:33:07.660Z",
-      "updated_at": "2026-04-29T14:05:35.381Z"
+      "updated_at": "2026-05-06T05:55:40.983Z"
     },
     {
       "id": 13885,
@@ -3694,7 +4442,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/3d-cartoon-girl-emoji-sticker",
       "reviewed_at": "2026-04-29T14:05:32.333Z",
       "created_at": "2026-04-27T13:12:09.967Z",
-      "updated_at": "2026-04-29T14:05:32.333Z"
+      "updated_at": "2026-05-06T14:11:00.335Z"
     },
     {
       "id": 13878,
@@ -4725,7 +5473,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/yuji-sword-dance-whirlwind",
       "reviewed_at": "2026-04-29T14:05:39.378Z",
       "created_at": "2026-04-26T15:05:53.868Z",
-      "updated_at": "2026-04-29T14:05:39.378Z"
+      "updated_at": "2026-05-06T09:25:19.049Z"
     },
     {
       "id": 13850,
@@ -5296,7 +6044,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/bmw-m4-navy-poster",
       "reviewed_at": "2026-04-29T14:05:48.931Z",
       "created_at": "2026-04-26T06:50:33.531Z",
-      "updated_at": "2026-04-29T14:05:48.931Z"
+      "updated_at": "2026-05-06T09:32:51.743Z"
     },
     {
       "id": 13832,
@@ -5334,7 +6082,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/neon-x-brand-office-booth",
       "reviewed_at": "2026-04-29T14:05:47.868Z",
       "created_at": "2026-04-26T06:50:30.626Z",
-      "updated_at": "2026-04-29T14:05:47.868Z"
+      "updated_at": "2026-05-06T06:36:45.274Z"
     },
     {
       "id": 13831,
@@ -5372,7 +6120,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/luxury-beauty-perfume-ad",
       "reviewed_at": "2026-04-29T14:06:50.897Z",
       "created_at": "2026-04-26T06:49:15.972Z",
-      "updated_at": "2026-04-29T14:06:50.897Z"
+      "updated_at": "2026-05-06T12:38:33.788Z"
     },
     {
       "id": 13830,
@@ -5410,7 +6158,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/spring-campus-graduation-memories",
       "reviewed_at": "2026-04-29T14:05:52.127Z",
       "created_at": "2026-04-26T06:19:50.895Z",
-      "updated_at": "2026-04-29T14:05:52.127Z"
+      "updated_at": "2026-05-06T09:11:46.410Z"
     },
     {
       "id": 13828,
@@ -5448,7 +6196,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/disruptive-loafer-campaign",
       "reviewed_at": "2026-04-29T14:05:57.345Z",
       "created_at": "2026-04-26T06:04:07.664Z",
-      "updated_at": "2026-04-29T14:05:57.345Z"
+      "updated_at": "2026-05-06T10:55:17.414Z"
     },
     {
       "id": 13827,
@@ -5525,7 +6273,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/blue-coast-bikini-beauty",
       "reviewed_at": "2026-04-29T14:05:56.272Z",
       "created_at": "2026-04-26T06:01:21.270Z",
-      "updated_at": "2026-04-29T14:05:56.272Z"
+      "updated_at": "2026-05-06T11:10:11.207Z"
     },
     {
       "id": 13825,
@@ -5982,7 +6730,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/fashion-model-on-lens",
       "reviewed_at": "2026-04-29T14:06:47.357Z",
       "created_at": "2026-04-26T05:13:24.700Z",
-      "updated_at": "2026-04-29T14:06:47.357Z"
+      "updated_at": "2026-05-06T06:53:49.499Z"
     },
     {
       "id": 13812,
@@ -6058,7 +6806,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/white-handwritten-profile",
       "reviewed_at": "2026-04-29T14:06:00.284Z",
       "created_at": "2026-04-26T05:10:11.147Z",
-      "updated_at": "2026-04-29T14:06:00.284Z"
+      "updated_at": "2026-05-06T06:23:09.215Z"
     },
     {
       "id": 13810,
@@ -6172,7 +6920,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ancient-beauty-milk-bath",
       "reviewed_at": "2026-04-29T14:06:04.976Z",
       "created_at": "2026-04-26T05:05:15.643Z",
-      "updated_at": "2026-04-29T14:06:04.976Z"
+      "updated_at": "2026-05-06T09:24:06.145Z"
     },
     {
       "id": 13807,
@@ -9183,7 +9931,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/modern-routine-infographic",
       "reviewed_at": "2026-04-29T14:06:38.066Z",
       "created_at": "2026-04-24T14:29:56.553Z",
-      "updated_at": "2026-04-29T14:06:38.066Z"
+      "updated_at": "2026-05-06T13:10:23.635Z"
     },
     {
       "id": 13727,
@@ -11335,7 +12083,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/shark-encyclopedia-secrets",
       "reviewed_at": "2026-04-24T01:17:51.422Z",
       "created_at": "2026-04-23T16:51:15.715Z",
-      "updated_at": "2026-04-29T07:49:29.414Z"
+      "updated_at": "2026-05-06T03:13:54.694Z"
     },
     {
       "id": 13665,
@@ -15097,7 +15845,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/polished-brand-kit",
       "reviewed_at": "2026-04-22T12:41:30.112Z",
       "created_at": "2026-04-22T08:50:08.301Z",
-      "updated_at": "2026-04-29T09:33:19.021Z"
+      "updated_at": "2026-05-06T08:15:45.501Z"
     },
     {
       "id": 13561,
@@ -15135,7 +15883,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/oriental-xianxia-myth-icon-concept",
       "reviewed_at": "2026-04-22T12:41:32.299Z",
       "created_at": "2026-04-22T08:46:12.609Z",
-      "updated_at": "2026-04-28T16:07:23.520Z"
+      "updated_at": "2026-05-06T05:56:17.647Z"
     },
     {
       "id": 13560,
@@ -15173,7 +15921,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/chinese-civilization-evolution-scroll",
       "reviewed_at": "2026-04-22T12:41:33.792Z",
       "created_at": "2026-04-22T08:44:45.313Z",
-      "updated_at": "2026-04-29T09:39:51.097Z"
+      "updated_at": "2026-05-06T10:51:49.199Z"
     },
     {
       "id": 13559,
@@ -15211,7 +15959,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/sf-brick-wall-ai-posters",
       "reviewed_at": "2026-04-22T12:41:36.087Z",
       "created_at": "2026-04-22T08:42:57.221Z",
-      "updated_at": "2026-04-29T06:17:58.883Z"
+      "updated_at": "2026-05-04T22:34:29.780Z"
     },
     {
       "id": 13558,
@@ -15249,7 +15997,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-water-palace-luoshen-dew",
       "reviewed_at": "2026-04-22T12:41:38.619Z",
       "created_at": "2026-04-22T08:36:29.261Z",
-      "updated_at": "2026-04-29T11:18:26.417Z"
+      "updated_at": "2026-05-06T06:59:45.212Z"
     },
     {
       "id": 13557,
@@ -15402,7 +16150,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hand-drawn-packaging-proposal-poster",
       "reviewed_at": "2026-04-22T12:41:47.541Z",
       "created_at": "2026-04-22T07:17:48.370Z",
-      "updated_at": "2026-04-29T10:10:28.441Z"
+      "updated_at": "2026-05-06T11:34:21.357Z"
     },
     {
       "id": 13553,
@@ -15440,7 +16188,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimal-text-personal-color-chart",
       "reviewed_at": "2026-04-22T12:41:48.641Z",
       "created_at": "2026-04-22T07:09:22.329Z",
-      "updated_at": "2026-04-29T06:43:49.007Z"
+      "updated_at": "2026-05-06T06:01:33.139Z"
     },
     {
       "id": 13552,
@@ -15478,7 +16226,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/jordan-legend-epic-poster",
       "reviewed_at": "2026-04-22T07:06:43.385Z",
       "created_at": "2026-04-22T07:05:46.511Z",
-      "updated_at": "2026-04-29T06:18:41.377Z"
+      "updated_at": "2026-05-06T05:16:44.095Z"
     },
     {
       "id": 13551,
@@ -15516,7 +16264,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hot-blood-bao-yu-sheet",
       "reviewed_at": "2026-04-22T07:07:00.516Z",
       "created_at": "2026-04-22T03:29:38.723Z",
-      "updated_at": "2026-04-29T05:22:56.690Z"
+      "updated_at": "2026-05-05T18:47:32.044Z"
     },
     {
       "id": 13550,
@@ -15554,7 +16302,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/lao-gan-ma-starbucks-co-brand",
       "reviewed_at": "2026-04-22T07:07:02.511Z",
       "created_at": "2026-04-22T03:28:26.203Z",
-      "updated_at": "2026-04-29T06:46:02.273Z"
+      "updated_at": "2026-05-04T08:08:59.010Z"
     },
     {
       "id": 13549,
@@ -15592,7 +16340,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/alipay-receipt-screenshot",
       "reviewed_at": "2026-04-22T07:06:46.286Z",
       "created_at": "2026-04-22T03:27:33.642Z",
-      "updated_at": "2026-04-28T08:24:29.558Z"
+      "updated_at": "2026-05-06T01:33:47.395Z"
     },
     {
       "id": 13548,
@@ -15668,7 +16416,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/polished-beauty-email-layout",
       "reviewed_at": "2026-04-22T07:06:50.977Z",
       "created_at": "2026-04-22T03:26:25.323Z",
-      "updated_at": "2026-04-29T06:18:46.330Z"
+      "updated_at": "2026-05-06T05:08:51.397Z"
     },
     {
       "id": 13546,
@@ -15706,7 +16454,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/minimalist-magnus-effect-infographic",
       "reviewed_at": "2026-04-22T07:06:52.858Z",
       "created_at": "2026-04-22T03:07:24.599Z",
-      "updated_at": "2026-04-28T14:52:49.471Z"
+      "updated_at": "2026-05-06T07:05:37.553Z"
     },
     {
       "id": 13545,
@@ -15744,7 +16492,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/3d-periodic-table-macro",
       "reviewed_at": "2026-04-22T07:06:55.024Z",
       "created_at": "2026-04-22T03:05:23.465Z",
-      "updated_at": "2026-04-27T16:28:40.921Z"
+      "updated_at": "2026-04-30T14:55:59.557Z"
     },
     {
       "id": 13544,
@@ -15782,7 +16530,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/trump-space-live-stream",
       "reviewed_at": "2026-04-22T00:55:09.173Z",
       "created_at": "2026-04-21T16:27:01.829Z",
-      "updated_at": "2026-04-28T06:11:05.650Z"
+      "updated_at": "2026-05-04T14:33:29.719Z"
     },
     {
       "id": 13543,
@@ -15820,7 +16568,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/twelve-gold-saints-cards",
       "reviewed_at": "2026-04-22T00:55:01.987Z",
       "created_at": "2026-04-21T16:25:38.773Z",
-      "updated_at": "2026-04-27T16:29:22.138Z"
+      "updated_at": "2026-05-03T18:11:10.873Z"
     },
     {
       "id": 13542,
@@ -15859,7 +16607,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/handwritten-prescription",
       "reviewed_at": "2026-04-22T00:54:47.805Z",
       "created_at": "2026-04-21T16:20:36.522Z",
-      "updated_at": "2026-04-28T09:08:09.052Z"
+      "updated_at": "2026-05-05T03:45:47.648Z"
     },
     {
       "id": 13541,
@@ -15897,7 +16645,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/hundred-a-initial-items-matrix",
       "reviewed_at": "2026-04-22T00:54:17.744Z",
       "created_at": "2026-04-21T16:19:57.003Z",
-      "updated_at": "2026-04-27T16:29:44.842Z"
+      "updated_at": "2026-04-30T11:05:57.081Z"
     },
     {
       "id": 13540,
@@ -15935,7 +16683,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tang-dynasty-xuanwu-gate",
       "reviewed_at": "2026-04-22T00:54:59.347Z",
       "created_at": "2026-04-21T16:19:34.071Z",
-      "updated_at": "2026-04-28T10:55:00.123Z"
+      "updated_at": "2026-05-05T20:42:00.496Z"
     },
     {
       "id": 13539,
@@ -15973,7 +16721,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cyberpunk-sci-fi-momotaro-key-visual",
       "reviewed_at": "2026-04-22T00:54:13.909Z",
       "created_at": "2026-04-21T16:18:39.277Z",
-      "updated_at": "2026-04-28T13:46:56.636Z"
+      "updated_at": "2026-05-05T17:54:28.725Z"
     },
     {
       "id": 13538,
@@ -16012,7 +16760,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/galaxy-starlight-ice-blue-ruqun",
       "reviewed_at": "2026-04-22T00:54:11.355Z",
       "created_at": "2026-04-21T16:18:33.507Z",
-      "updated_at": "2026-04-28T16:03:55.684Z"
+      "updated_at": "2026-05-04T22:40:33.843Z"
     },
     {
       "id": 13537,
@@ -16050,7 +16798,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/tang-lady-walking-xenomorph",
       "reviewed_at": "2026-04-22T00:54:08.554Z",
       "created_at": "2026-04-21T16:17:15.194Z",
-      "updated_at": "2026-04-29T00:37:13.647Z"
+      "updated_at": "2026-05-05T13:25:07.225Z"
     },
     {
       "id": 13536,
@@ -16088,7 +16836,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/guanyin-modern-worker",
       "reviewed_at": "2026-04-22T00:53:00.419Z",
       "created_at": "2026-04-21T16:17:11.905Z",
-      "updated_at": "2026-04-28T14:52:11.568Z"
+      "updated_at": "2026-05-05T13:26:05.344Z"
     },
     {
       "id": 13534,
@@ -16126,7 +16874,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/high-end-ai-presentation-cover",
       "reviewed_at": "2026-04-22T00:54:06.189Z",
       "created_at": "2026-04-21T16:15:19.722Z",
-      "updated_at": "2026-04-28T06:07:08.776Z"
+      "updated_at": "2026-05-05T05:32:40.560Z"
     },
     {
       "id": 13533,
@@ -16165,7 +16913,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/dark-minimal-avatar-vi",
       "reviewed_at": "2026-04-22T00:53:23.636Z",
       "created_at": "2026-04-21T16:13:17.349Z",
-      "updated_at": "2026-04-28T12:27:58.691Z"
+      "updated_at": "2026-05-02T15:00:34.738Z"
     },
     {
       "id": 13531,
@@ -16203,7 +16951,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/futuristic-ai-smart-glasses-detail",
       "reviewed_at": "2026-04-22T00:53:03.251Z",
       "created_at": "2026-04-21T16:01:18.844Z",
-      "updated_at": "2026-04-28T19:24:57.801Z"
+      "updated_at": "2026-05-06T01:02:38.668Z"
     },
     {
       "id": 13530,
@@ -16241,7 +16989,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/epic-sci-fi-movie-poster",
       "reviewed_at": "2026-04-22T00:53:05.935Z",
       "created_at": "2026-04-21T16:01:08.654Z",
-      "updated_at": "2026-04-28T23:25:21.565Z"
+      "updated_at": "2026-05-05T17:12:30.265Z"
     },
     {
       "id": 13529,
@@ -16279,7 +17027,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/fully-automatic-coffee-machine",
       "reviewed_at": "2026-04-22T00:53:20.523Z",
       "created_at": "2026-04-21T16:00:58.872Z",
-      "updated_at": "2026-04-29T00:37:57.881Z"
+      "updated_at": "2026-05-05T09:53:20.457Z"
     },
     {
       "id": 13528,
@@ -16317,7 +17065,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/summer-womens-dress-display",
       "reviewed_at": "2026-04-22T00:53:21.814Z",
       "created_at": "2026-04-21T16:00:56.573Z",
-      "updated_at": "2026-04-29T00:22:34.873Z"
+      "updated_at": "2026-05-05T15:40:55.745Z"
     },
     {
       "id": 13527,
@@ -16355,7 +17103,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/fitness-protein-powder-detail",
       "reviewed_at": "2026-04-22T00:52:48.977Z",
       "created_at": "2026-04-21T15:58:46.525Z",
-      "updated_at": "2026-04-29T08:02:25.179Z"
+      "updated_at": "2026-05-06T10:24:06.517Z"
     },
     {
       "id": 13526,
@@ -16393,7 +17141,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/realistic-ink-dream-fusion",
       "reviewed_at": "2026-04-22T00:52:46.714Z",
       "created_at": "2026-04-21T15:54:35.430Z",
-      "updated_at": "2026-04-28T15:47:14.049Z"
+      "updated_at": "2026-05-05T10:18:56.635Z"
     },
     {
       "id": 13524,
@@ -16431,7 +17179,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/doodle-dragon-on-exam",
       "reviewed_at": "2026-04-22T00:52:43.250Z",
       "created_at": "2026-04-21T15:53:51.180Z",
-      "updated_at": "2026-04-28T21:08:00.226Z"
+      "updated_at": "2026-05-04T12:17:09.957Z"
     },
     {
       "id": 13523,
@@ -16469,7 +17217,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/korean-minimalist-portrait",
       "reviewed_at": "2026-04-22T00:53:27.331Z",
       "created_at": "2026-04-21T15:50:38.360Z",
-      "updated_at": "2026-04-29T00:11:43.991Z"
+      "updated_at": "2026-05-05T09:05:57.456Z"
     },
     {
       "id": 13522,
@@ -16507,7 +17255,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/fantasy-rpg-pixel-items",
       "reviewed_at": "2026-04-22T00:53:28.649Z",
       "created_at": "2026-04-21T15:50:35.286Z",
-      "updated_at": "2026-04-28T13:20:52.989Z"
+      "updated_at": "2026-05-04T22:56:58.520Z"
     },
     {
       "id": 13521,
@@ -16545,7 +17293,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/wu-zetian-weibo-selfie",
       "reviewed_at": "2026-04-22T00:53:31.095Z",
       "created_at": "2026-04-21T15:47:31.906Z",
-      "updated_at": "2026-04-28T14:51:39.689Z"
+      "updated_at": "2026-05-05T17:11:51.066Z"
     },
     {
       "id": 13520,
@@ -16583,7 +17331,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/du-fu-wechat-moments-roof-blown",
       "reviewed_at": "2026-04-22T00:53:33.043Z",
       "created_at": "2026-04-21T15:47:29.360Z",
-      "updated_at": "2026-04-28T10:48:13.502Z"
+      "updated_at": "2026-05-05T09:05:25.066Z"
     },
     {
       "id": 13519,
@@ -16621,7 +17369,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/su-shi-exile-first-day",
       "reviewed_at": "2026-04-22T00:54:04.561Z",
       "created_at": "2026-04-21T15:47:25.209Z",
-      "updated_at": "2026-04-28T11:13:44.661Z"
+      "updated_at": "2026-05-05T11:31:25.179Z"
     },
     {
       "id": 13518,
@@ -16659,7 +17407,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/poet-li-bai-moon-dance",
       "reviewed_at": "2026-04-22T00:55:18.457Z",
       "created_at": "2026-04-21T15:47:25.199Z",
-      "updated_at": "2026-04-28T07:59:42.090Z"
+      "updated_at": "2026-05-05T07:34:39.841Z"
     },
     {
       "id": 13517,
@@ -16686,7 +17434,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/draw-chinese-fitness-infographic",
       "reviewed_at": "2026-04-22T00:53:36.726Z",
       "created_at": "2026-04-21T15:44:44.119Z",
-      "updated_at": "2026-04-29T00:38:57.917Z"
+      "updated_at": "2026-05-05T14:01:30.790Z"
     },
     {
       "id": 13516,
@@ -16762,7 +17510,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/geely-galaxy-dark-dashboard",
       "reviewed_at": "2026-04-22T00:54:00.631Z",
       "created_at": "2026-04-21T15:26:28.772Z",
-      "updated_at": "2026-04-28T11:01:56.144Z"
+      "updated_at": "2026-05-05T21:49:35.739Z"
     },
     {
       "id": 13514,
@@ -16800,7 +17548,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cool-game-interface-ui-kit",
       "reviewed_at": "2026-04-22T00:54:39.673Z",
       "created_at": "2026-04-21T15:26:25.875Z",
-      "updated_at": "2026-04-28T09:25:34.729Z"
+      "updated_at": "2026-05-04T15:24:18.312Z"
     },
     {
       "id": 13513,
@@ -16838,7 +17586,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/amazon-detail-images",
       "reviewed_at": "2026-04-22T00:53:57.297Z",
       "created_at": "2026-04-21T15:26:22.848Z",
-      "updated_at": "2026-04-28T09:50:25.666Z"
+      "updated_at": "2026-05-04T16:56:58.267Z"
     },
     {
       "id": 13512,
@@ -16876,7 +17624,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/brand-visual-design-showcase",
       "reviewed_at": "2026-04-22T00:54:37.662Z",
       "created_at": "2026-04-21T15:26:20.607Z",
-      "updated_at": "2026-04-28T11:01:47.304Z"
+      "updated_at": "2026-05-05T13:50:08.236Z"
     },
     {
       "id": 13511,
@@ -16915,7 +17663,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/steampunk-sagittarius-anatomy",
       "reviewed_at": "2026-04-22T00:53:54.683Z",
       "created_at": "2026-04-21T15:26:18.284Z",
-      "updated_at": "2026-04-28T20:08:38.680Z"
+      "updated_at": "2026-05-04T21:48:19.839Z"
     },
     {
       "id": 13510,
@@ -16953,7 +17701,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/absurd-surreal-crossdressing-poster",
       "reviewed_at": "2026-04-22T00:53:52.042Z",
       "created_at": "2026-04-21T15:19:23.545Z",
-      "updated_at": "2026-04-28T02:54:57.822Z"
+      "updated_at": "2026-05-02T13:01:01.001Z"
     },
     {
       "id": 13509,
@@ -16991,7 +17739,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/cool-beauty-bbq-zoro-pose",
       "reviewed_at": "2026-04-22T00:55:05.954Z",
       "created_at": "2026-04-21T15:19:00.992Z",
-      "updated_at": "2026-04-28T23:47:53.174Z"
+      "updated_at": "2026-05-05T14:46:13.594Z"
     },
     {
       "id": 13508,
@@ -17029,7 +17777,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/trendy-perspective-product-ad",
       "reviewed_at": "2026-04-22T00:53:48.334Z",
       "created_at": "2026-04-21T15:19:00.898Z",
-      "updated_at": "2026-04-28T17:29:07.396Z"
+      "updated_at": "2026-05-04T23:05:57.127Z"
     },
     {
       "id": 13507,
@@ -17854,7 +18602,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/exquisite-modular-science-infographic",
       "reviewed_at": "2026-04-21T00:50:20.214Z",
       "created_at": "2026-04-20T15:50:18.915Z",
-      "updated_at": "2026-04-28T10:22:13.309Z"
+      "updated_at": "2026-05-05T14:33:23.970Z"
     },
     {
       "id": 13484,
@@ -18792,7 +19540,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/sports-fitness-icon-font",
       "reviewed_at": "2026-04-20T02:16:10.478Z",
       "created_at": "2026-04-20T02:13:48.843Z",
-      "updated_at": "2026-04-29T01:09:00.428Z"
+      "updated_at": "2026-05-05T15:03:11.504Z"
     },
     {
       "id": 13457,
@@ -21398,7 +22146,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vibrant-neon-soda-splash-poster",
       "reviewed_at": "2026-03-02T15:19:37.487Z",
       "created_at": "2026-03-02T15:19:37.487Z",
-      "updated_at": "2026-04-29T10:04:28.550Z"
+      "updated_at": "2026-05-04T14:36:36.240Z"
     },
     {
       "id": 2825,
@@ -21702,7 +22450,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/ice-fire-warriors-epic-poster",
       "reviewed_at": "2026-02-24T09:20:21.140Z",
       "created_at": "2026-02-24T09:20:21.140Z",
-      "updated_at": "2026-04-29T08:48:32.131Z"
+      "updated_at": "2026-05-06T04:13:59.310Z"
     },
     {
       "id": 2385,
@@ -21740,7 +22488,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette",
       "reviewed_at": "2026-02-04T17:23:24.403Z",
       "created_at": "2026-02-04T17:23:24.403Z",
-      "updated_at": "2026-04-29T06:35:10.196Z"
+      "updated_at": "2026-05-05T01:36:09.328Z"
     },
     {
       "id": 2334,
@@ -21854,7 +22602,7 @@
       "url": "https://opennana.com/awesome-prompt-gallery/vintage-bus-red-trench-girl",
       "reviewed_at": "2026-01-25T11:27:54.623Z",
       "created_at": "2026-01-25T11:27:54.623Z",
-      "updated_at": "2026-04-29T16:08:30.099Z"
+      "updated_at": "2026-05-02T03:50:53.428Z"
     },
     {
       "id": 2113,
