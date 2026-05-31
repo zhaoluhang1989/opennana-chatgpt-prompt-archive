@@ -5,10 +5,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 - Source page: https://opennana.com/awesome-prompt-gallery?model=ChatGPT
 - Source API: `https://api.opennana.com/api/prompts`
 - Sync schedule: every day at **00:00 Asia/Shanghai** via GitHub Actions
-- Reported by source: **1747**
-- Archived in this snapshot: **1747**
+- Reported by source: **1750**
+- Archived in this snapshot: **1750**
 - Failed this run: **0**
-- Fetched at: **2026-05-30T17:04:46.127Z**
+- Fetched at: **2026-05-31T17:07:22.626Z**
 
 ## Files
 
@@ -22,7 +22,10 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 
 | Title | Tags | Source | Link |
 |---|---|---|---|
+| 雨夜电话亭微醺日系私房写真 |  | @Ankit_patel211 | [detail](https://opennana.com/awesome-prompt-gallery/rainy-night-phone-booth-japanese-style-portrait) |
+| 奢华沙漠电影感时尚大片构图 |  | @sha_zdiii | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-desert-fashion-editorial-composition) |
 | 伦敦大本钟与威斯敏斯特宫建筑蓝图 |  | @ZephyraLeigh | [detail](https://opennana.com/awesome-prompt-gallery/big-ben-palace-of-westminster-architectural-blueprint) |
+| 咖啡品牌超现实商业海报提示词 |  | @kingofdairyque | [detail](https://opennana.com/awesome-prompt-gallery/coffee-brand-surreal-commercial-poster-prompts) |
 | 哥特猫系狐系少女写实人像提示词 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/gothic-cat-fox-girl-realistic-portrait-prompt) |
 | 拉斯维加斯奢华赌场名媛人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/luxury-las-vegas-casino-asian-woman-portrait) |
 | 电影感双重曝光旅游海报 |  | @AiwithLariab | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-double-exposure-travel-poster) |
@@ -69,8 +72,5 @@ An open archive of all prompts currently exposed by OpenNana's ChatGPT gallery.
 | 豪华韩系拳击少女超写实人像 |  | @xRahultripathi | [detail](https://opennana.com/awesome-prompt-gallery/luxury-korean-fitness-boxing-girl-portrait) |
 | 复古夕阳室内露背裙东方女性电影感写真 |  | @you1873118 | [detail](https://opennana.com/awesome-prompt-gallery/cinematic-retro-sunset-backless-dress-portrait) |
 | 90年代复古日漫草稿风艺术人像 |  | @Fujimoto_hina | [detail](https://opennana.com/awesome-prompt-gallery/vintage-90s-manga-draft-style-portrait-illustration) |
-| 奢华酒店广告海报白色浴袍巨大拖鞋 |  | @Strength04_X | [detail](https://opennana.com/awesome-prompt-gallery/premium-hospitality-advertisement-poster-haven) |
-| 逆光高感情绪美背女性写真 |  | @MrLarus | [detail](https://opennana.com/awesome-prompt-gallery/backlit-emotional-female-back-portrait) |
-| 掌上写实微缩人像收藏级手办 |  | @Shinning1010 | [detail](https://opennana.com/awesome-prompt-gallery/realistic-miniature-collectible-figure-on-palm) |
 
 > README only shows the first 50 items. See `data/chatgpt-prompts.json` for the full archive.
